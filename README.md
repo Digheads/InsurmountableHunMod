@@ -1,6 +1,6 @@
 # Insurmountable Magyarítás
 
-Ebben a repo-ban az Insurmountable című videojáték nyelvi fájljait találod, amiből a magyarítás is készült. A fordítást az angol nyelvi fájlokban találod, az ***english*** mappában, az eredeti angol fájlokkal együtt (_original.txt).
+Ebben a repo-ban az Insurmountable című videojáték nyelvi fájljait találod, amiből a magyarítás is készült. A fordítás az angol nyelvi fájlokban van, az ***english*** mappában, az eredeti angol fájlokkal együtt (_original.txt).
 
 # Telepítési útmutató:
 
