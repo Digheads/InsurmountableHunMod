@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "テント"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "ムーンハーブ"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "松明"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "クライミンググローブ"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "酸素ボトル"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "炎のアミュレット"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "ヘビーブーツ"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "毛皮のグローブ"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "温かい茶"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "スノーブーツ"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "雷のアミュレット"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "トレッキングポール"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "缶詰"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "石のアミュレット"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "風のアミュレット"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "クライミングアックス"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "アイゼン"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">ウェザーロケット</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "現在の天候を「晴天」に変更する。"
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "アミュレット"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "グローブ"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "ブーツ"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "道具"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "毛皮のグローブ"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "移動時と探索時の体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "大地の試練"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "天候: 嵐"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "天候: 寒冷"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "風の試練"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "夜"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "スノーブーツ"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "天候: 晴天"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "過ごしやすい天候。影響なし。"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "クライミングアックス"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "アイゼン"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "トレッキングポール"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "クライミンググローブ"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "天候: 雪"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "ヘビーブーツ"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "雷の試練"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "足首の捻挫"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "パラノイア"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "山頂への執着"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "移動時のエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "落ち着いた呼吸"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "デスゾーンの影響が減少する"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "（エネルギーコストが短時間減少する）"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "（酸素消費量が長時間減少する）"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "崖っぷち"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "危機的状況を6時間防ぐ"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "鷹の目"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "次に動くまでカメラズームが拡大する"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "ジャンプ"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "隙間やタイルを飛び越える"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "そこはジャンプできない！"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "距離が近すぎる！"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "そこは高すぎる！"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "一意専心"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "天候と地形のマイナス効果を無効にする"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "ロックスマッシュ"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "1タイル以内にある障害物を破壊する"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "2タイル以内にある障害物を破壊する"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "壊せるものがない…"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "届かない！"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "万全の備え"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "缶詰と酸素ボトルの効果が上昇する"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "缶詰と酸素ボトルの効果が大きく上昇する"
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "登山者"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "険しい地形（高低差4以上）でのエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "決意"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "起床時に体力が回復する"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "起床時に体力が大きく回復する"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "早寝"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "起床時にエネルギーが回復する"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "起床時にエネルギーが大きく回復する"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "崖っぷち"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "パワープレイ"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "酸素50を失い、エネルギー20を得る"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "アイスマスタリー"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "氷の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "アイススピード"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "氷の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "氷の地形でのタイムコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "ナイトクライマー"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "夜間の体温低下量が減少する"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "夜間の体温低下量が大きく減少する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "星との一体化"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "夜間のすべての登り下りのエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "夜間のすべての登り下りのエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "合理的思考"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "正気度の最大値が大きく増加する"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "強靭な精神"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "イベント時の正気度喪失量が減少する"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "イベント時の正気度喪失量が大きく減少する"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "限界への挑戦"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "正気度10を失い、エネルギー20、体温20、酸素20を得る"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "熱意"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "イベントタイルに到達するとエネルギーが回復する"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "イベントタイルに到達するとエネルギーが大きく回復する"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "急ぎ足"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "移動時のタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "機敏"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "イベント時のタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "イベント時のタイムコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "開かれた心"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "イベント時に正気度が回復する"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "イベント時に正気度が大きく回復する"
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "放浪者"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "平坦な地形（高低差0～1）でのタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "平坦な地形（高低差0～1）でのタイムコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "酸素の最大値が大きく増加する"
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "エネルギッシュ"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "エネルギーの最大値が大きく増加する"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "モーニングルーティン"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "起床時に酸素が回復する"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "起床時に酸素が大きく回復する"
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "決心"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が減少する"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "イベント時のエネルギー消費量が大きく減少する"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "スノーマスタリー"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "雪の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "スノースピード"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "雪の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "雪の地形でのタイムコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "家の安らぎ"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "消費アイテムを使うと正気度が回復する"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "消費アイテムを使うと正気度が大きく回復する"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "薬草学"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "茶とハーブの効果が上昇する"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "茶とハーブの効果が大きく上昇する"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "瞑想"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "特殊な瞑想イベントを発生させる"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "寒気との一体化"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "天候が寒冷の場合、移動時に正気度が回復する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "天候が寒冷の場合、移動時に正気度が大きく回復する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "山との一体化"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "氷の地形で正気度、雪の地形で酸素、岩の地形で体温が上昇する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "氷の地形で正気度、雪の地形で酸素、岩の地形で体温が大きく上昇する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "嵐との一体化"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "天候が嵐の場合、移動時に酸素が回復する"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "天候が嵐の場合、移動時に酸素が大きく回復する"
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "内なる炎"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "移動時の1時間ごとの体温上昇量が増加する"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "移動時の1時間ごとの体温上昇量が大きく増加する"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "ストーンマスタリー"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "岩の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "ストーンスピード"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "岩の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "岩の地形でのタイムコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "頑丈な体"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "体力の最大値が大きく増加する"
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "分厚い皮膚"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "イベント時の体力消費量が減少する"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "イベント時の体力消費量が大きく減少する"
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "温かな心"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "体温の最大値が大きく増加する"
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "冒険家"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "氷の冷たさ"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "探検家"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "雪の心"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "スピリチュアル"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "岩の力"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "万全の備え"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "缶詰と酸素ボトルの効果が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "万全の備え"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "缶詰と酸素ボトルの効果が大きく上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "登山者"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "登山者"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "決意"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "起床時に体力が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "決意"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "起床時に体力が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "早寝"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "起床時にエネルギーが回復する"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "早寝"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "起床時にエネルギーが回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "崖っぷち"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "崖っぷち"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "アイスマスター"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "氷の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "アイススピード"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "氷の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "アイススピード"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "氷の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "月の魔力"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "夜間の体温低下量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "月の魔力"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "夜間の体温低下量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "星との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "夜間のすべての登り下りのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "星との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "夜間のすべての登り下りのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "合理的思考"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "合理的思考"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "強靭な精神"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "イベント時の正気度喪失量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "強靭な精神"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "イベント時の正気度喪失量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "崖っぷち"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "危機的状況を無効にする"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "鷹の目"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "カメラズームが拡大する"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "熱意"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "イベントタイルに到達するとエネルギーが回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "熱意"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "イベントタイルに到達するとエネルギーが回復する"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "急ぎ足"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "移動時のタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "機敏"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "イベント時のタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "機敏"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "イベント時のタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "開かれた心"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "イベント時に正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "開かれた心"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "イベント時に正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "放浪者"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "平坦な地形（高低差0～1）でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "放浪者"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "平坦な地形（高低差0～1）でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "家の安らぎ"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "消費アイテムを使うと正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "家の安らぎ"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "消費アイテムを使うと正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "薬草学"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "茶とハーブの効果が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "薬草学"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "茶とハーブの効果が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "寒気との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "天候が寒冷の場合、移動時に追加で正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "寒気との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "天候が寒冷の場合、移動時に追加で正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "山との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "氷の地形で正気度、雪の地形で酸素、岩の地形で体温が追加で上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "山との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "氷の地形で正気度、雪の地形で酸素、岩の地形で体温が追加で上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "嵐との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "天候が嵐の場合、移動時に追加で酸素が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "嵐との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "天候が嵐の場合、移動時に追加で酸素が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "一意専心"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "環境と地形のマイナス効果を無効にする"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "エネルギッシュ"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "エネルギッシュ"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "モーニングルーティン"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "起床時に酸素が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "モーニングルーティン"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "起床時に酸素が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "決心"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "決心"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "スノーマスター"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "雪の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "スノースピード"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "雪の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "スノースピード"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "雪の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "内なる炎"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "移動時に追加で体温が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "内なる炎"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "移動時に追加で体温が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "ストーンマスター"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "岩の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "ストーンスピード"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "岩の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "ストーンスピード"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "岩の地形でのタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "頑丈な体"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "頑丈な体"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "分厚い皮膚"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "イベント時の体力消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "分厚い皮膚"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "イベント時の体力消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "温かな心"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "温かな心"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "睡眠（洞窟）"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "洞窟で眠る。<br>体温低下量が減少し、エネルギー回復量が増加する。"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "睡眠（野外）"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "テントを使わずに野外で眠る。<br>体温低下量が増加し、エネルギー回復量が減少する。"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "睡眠（テント）"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "テントで眠る。<br>体温低下量が減少し、エネルギー回復量が増加する。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "吹雪"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "このルートには過酷な天候が待ち受けている。<br>天候「寒冷」の影響が増加する。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "凍える夜"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "このルートでは夜間の気温が通常より低くなる。<br>夜間の体温低下量が増加する。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "不気味な影"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "このルートでは影と幻聴があなたに付きまとう。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "荒れた地形"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "このルートには非常に険しい地形が待ち受けている。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "激しい嵐"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "このルートには激しい嵐が待ち受けている。<br>嵐の影響が増加する。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "希薄な大気"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "このルートでは通常より呼吸が難しくなる。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "固い雪"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "このルートでは雪の地形が通常よりも歩きやすい。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "堅固な氷"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "このルートでは氷の地形が通常よりも歩きやすい。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "頑丈な岩"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "このルートでは岩の地形が通常よりも歩きやすい。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "濃密な大気"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "このルートの大気は新鮮で澄みわたっている"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "奇妙な現象"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "このルートには多くの秘密が隠されている。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "暖かな夜"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "このルートでは夜間の気温が通常より高くなる。"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "凍った足先"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "足の指が凍っている"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "足首の負傷"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "足首に怪我を負っている"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "高山病"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "高山病に苦しんでいる"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "悪夢"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "悪夢に苦しんでいる"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "疲弊"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "激しく疲労している"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "凍傷"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "刺すような山の寒さに蝕まれている"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "温かな睡眠"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "寒さから守られた状態で眠っている"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "環境"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "時間帯や場所によって生じる一時的効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "装備"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "装備したアイテムから得られる効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "傷痕"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "ここまでの登山の疲労により生じている持続的効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "一時的強化"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "一時的なプラス効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "一時的弱体化"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "一時的なマイナス効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "特性"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "レベルアップにより取得した効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "深雪"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "移動時のエネルギーコストが増加する"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "氷河"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "危険だ―何が起こるのか予測できない…"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "氷の迷宮"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "移動時のタイムコストと体温低下量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "瓦礫"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "危険だ―何が起こるのか予測できない…"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "雪の吹き溜まり"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "危険だ―何が起こるのか予測できない…"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "火山岩"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "移動時の酸素消費量と体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "手の怪我"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが増加する"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "頭の怪我"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "経験値獲得量が減少する"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "ダッシュ"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "移動時のタイムコストが減少し、エネルギーコストと体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "ダッシュ"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "移動時のタイムコストが減少し、エネルギーコストと体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "胴体の怪我"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "呼吸が痛みを伴う"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "脚の怪我"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが増加する"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "雪盲"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "すべての地形でタイムコストが増加する"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "激しい吹雪"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "このルートには過酷な天候が待ち受けている。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "ひどく凍える夜"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "このルートでは夜間の気温が通常より低くなる。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "ひどく不気味な影"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "このルートでは影と幻聴があなたに付きまとう。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "ひどく荒れた地形"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "このルートは踏破しがたい。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "ひどく激しい嵐"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "このルートには激しい嵐が待ち受けている。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "ひどく希薄な大気"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "このルートでは通常より呼吸が難しくなる。"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "平坦な地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "登り下り時（高さ1）のエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "登り下り時（高さ2）のエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "登り下り時（高さ3）のエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "登り下り時（高さ4）のエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "登り下り時（高さ5）のエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "登り下り時（高さ6）のエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "すべての地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "すべての地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "岩の地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "雪の地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "氷の地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "平坦な地形でのエネルギーコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "登り下り時（高さ1）のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "登り下り時（高さ2）のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "登り下り時（高さ3）のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "登り下り時（高さ4）のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "登り下り時（高さ5）のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "登り下り時（高さ6）のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "すべての地形のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "すべての地形のタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "岩の地形でのタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "雪の地形でのタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "氷の地形でのタイムコスト{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "休息時、1時間ごとにエネルギー{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "休息時、1時間ごとにエネルギー{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "移動時、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "移動時、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "岩の地形を移動中、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "岩の地形を移動中、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "雪の地形を移動中、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "雪の地形を移動中、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "氷の地形を移動中、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "氷の地形を移動中、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "休息時またはイベント時、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "休息時またはイベント時、1時間ごとに正気度{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "移動時、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "移動時、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "岩の地形を移動中、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "岩の地形を移動中、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "雪の地形を移動中、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "雪の地形を移動中、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "氷の地形を移動中、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "氷の地形を移動中、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "休息時またはイベント時、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "休息時またはイベント時、1時間ごとに体温{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "移動時、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "移動時、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "岩の地形を移動中、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "岩の地形を移動中、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "雪の地形を移動中、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "雪の地形を移動中、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "氷の地形を移動中、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "氷の地形を移動中、1時間ごとに酸素{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "休息時またはイベント時、1時間ごとに酸素変化{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "休息時またはイベント時、1時間ごとに酸素変化{0}"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "最大カメラ距離{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "イベント時のエネルギー回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "イベント時のエネルギー消費量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "イベント時のエネルギー回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "イベント時のエネルギー消費量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "イベント時の体温上昇量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "イベント時の体温低下量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "イベント時の体温上昇量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "イベント時の体温低下量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "イベント時の酸素回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "イベント時の酸素消費量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "イベント時の酸素回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "イベント時の酸素消費量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "イベント時の正気度回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "イベント時の正気度喪失量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "イベント時の正気度回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "イベント時の正気度喪失量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "イベント時の体力回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "イベント時の体力消費量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "イベント時の体力回復量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "イベント時の体力消費量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "イベント時の経験値獲得量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "イベント時の経験値獲得量{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "イベント時の経過時間{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "イベント時の経過時間{0}"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "茶とハーブの効果{0}"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "缶詰と酸素ボトルの効果{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "体力の最大値{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "エネルギーの最大値{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "正気度の最大値{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "体温の最大値{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "酸素の最大値{0}"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "すべての割り込みイベントのクールタイム{0}"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "危機的状況のクールタイム{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "地形の割り込みイベントのクールタイム{0}"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "ラペリング"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "低い位置のタイルに懸垂下降する"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "そこには降下できない！"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "現在より低いタイルにしか移動できない！"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "グラップル"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "高い位置のタイルに素早く登る"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "そこには登れない！"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "現在より高いタイルにしか移動できない！"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "（上質）"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "（上質）"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "（上質）"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "上質の"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "上質の"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "上質の"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "断熱ブーツ"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "ウォームキャップ"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "防護ヘルメット"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "酸素マスク"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "ヘッドランプ"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "明るさ範囲増加{0}"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "アイスアックス"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "懐中電灯"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "{0}の間のみ発動"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "起床すると{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "イベントタイルに到達すると{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "消費アイテムを使うと{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "エネルギーが{0}回復"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "エネルギーを{0}消費"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "体温が{0}上昇"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "体温が{0}低下"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "酸素が{0}回復"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "酸素を{0}消費"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "正気度が{0}回復"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "正気度を{0}喪失"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "体力が{0}回復"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "体力を{0}消費"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "経験値{0}を獲得"
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "アドレナリン"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "危険な地形のイベントが発生すると、エネルギーが回復する"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "危険な地形のイベントが発生すると、エネルギーが大きく回復する"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "濃密な血液"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "デスゾーンの影響を軽減する"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "デスゾーンの影響を大きく軽減する"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "適応"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "天候「寒冷」の影響を軽減する"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "天候「寒冷」の影響を大きく軽減する"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "不屈"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "天候「嵐」の影響を軽減する"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "天候「嵐」の影響を大きく軽減する"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "燃え上がる野望"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "1時間ごとの体温上昇量が増加する"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "1時間ごとの体温上昇量が大きく増加する"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "強靭な肺"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "1時間ごとの酸素回復量が増加する"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "1時間ごとの酸素回復量が大きく増加する"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "軽やかな足取り"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "平坦な地形でのエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "応急処置"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "時間を消費して傷を手当てする"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "再集中"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "時間を消費して正気度を回復させる"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "分析"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "時間を消費して経験値を獲得する"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "ウォームアップ"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "エネルギーを消費して体温を上昇させる"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "呼吸法"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "体温を消費して酸素を回復させる"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "ダッシュ"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "移動時のタイムコストが減少し、体温上昇量が増加する"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "登山の達人"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが減少する"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "すべての地形でエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "氷との一体化"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "氷の地形を移動中、正気度が回復する"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "氷の地形を移動中、正気度が大きく回復する"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "雪との一体化"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "雪の地形を移動中、酸素が回復する"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "雪の地形を移動中、酸素が大きく回復する"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "岩との一体化"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "岩の地形を移動中、体温が上昇する"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "岩の地形を移動中、体温が大きく上昇する"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "アルパインスタイル"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "すべての地形でタイムコストが減少する"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "すべての地形でタイムコストが大きく減少する"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "効率性"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が減少する"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "イベント時のエネルギー消費量が大きく減少する"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "破竹の勢い"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "危機的状況が発生すると、エネルギー、体温、酸素、正気度が少し上昇する"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "危機的状況が発生すると、エネルギー、体温、酸素、正気度がある程度上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "ダッシュ"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "移動時のタイムコストが減少し、エネルギーコストと体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "凍った手"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "手が凍っている"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "筋肉疲労"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "動くと全身が痛む"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "止まらない咳"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "咳が止まりそうにない"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "山頂への執着"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "いかなる代償も顧みず、山頂に到達することに執着している"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "疑念"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "すべてが誤りだったのではないかと疑い始めている"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "不遜"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "過剰な自信を感じ始めている"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "アドレナリン"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "危険な地形のイベントが発生すると、エネルギーが回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "アドレナリン"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "危険な地形のイベントが発生すると、エネルギーが大きく回復する"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "濃密な血液"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "デスゾーンの影響を軽減する"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "濃密な血液"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "デスゾーンの影響を大きく軽減する"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "適応"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "天候「寒冷」の影響を軽減する"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "適応"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "天候「寒冷」の影響を大きく軽減する"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "不屈"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "天候「嵐」の影響を軽減する"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "不屈"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "天候「嵐」の影響を大きく軽減する"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "燃え上がる野望"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "1時間ごとの体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "燃え上がる野望"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "1時間ごとの体温上昇量が大きく増加する"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "強靭な肺"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "1時間ごとの酸素回復量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "強靭な肺"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "1時間ごとの酸素回復量が大きく増加する"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "軽やかな足取り"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "軽やかな足取り"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "ダッシュ"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "移動時のタイムコストが減少し、体温上昇量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "登山の達人"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "登山の達人"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "すべての地形でエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "氷との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "氷の地形を移動中、正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "氷との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "氷の地形を移動中、正気度が大きく回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "雪との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "雪の地形を移動中、酸素が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "雪との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "雪の地形を移動中、酸素が大きく回復する"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "岩との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "岩の地形を移動中、体温が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "岩との一体化"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "岩の地形を移動中、体温が大きく上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "アルパインスタイル"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "すべての地形でタイムコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "アルパインスタイル"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "すべての地形でタイムコストが大きく減少する"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "効率性"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "効率性"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が大きく減少する"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "破竹の勢い"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "危機的状況が発生すると、エネルギー、体温、酸素、正気度が少し上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "破竹の勢い"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "危機的状況が発生すると、エネルギー、体温、酸素、正気度がある程度上昇する"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "頭"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "断熱ブーツ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "防護ヘルメット（上質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "酸素マスク（上質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "ヘッドランプ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "ウォームキャップ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "クライミングアックス（上質）"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "クライミンググローブ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "毛皮のグローブ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "トレッキングポール（上質）"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "アイゼン（上質）"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "スノーブーツ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "ヘビーブーツ（上質）"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "アイスアックス（上質）"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "炎の試練"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "勇敢"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "危険な地形のイベントが発生すると、経験値を獲得する"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "勇敢"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "危険な地形のイベントが発生すると、経験値を獲得する"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "慎重な足取り"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "移動の時間が増加するが、危険な地形を無効にする"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "慎重な足取り"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "移動の時間が増加するが、危険な地形を無効にする"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "夜型人間"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "夜間のイベント時の経験値獲得量が増加する"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "夜間のイベント時の経験値獲得量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "夜型人間"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "夜間のイベント時の経験値獲得量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "夜型人間"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "夜間のイベント時の経験値獲得量が増加する"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "スティープクライマー"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "険しい地形の移動に特化する"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "イベント専門家"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "イベントでの効率性が向上する"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "平地専門家"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "平坦な地形の移動に特化する"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "特殊地形専門家"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "危険な地形に特化する"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "ナイトクライマー"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "夜間の登山に特化する"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "アイテム専門家"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "アイテムの使用に特化する"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "一般スキル"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "さまざまな状況で有効"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "危険な地形のイベントが発生すると、{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "危機的状況が発生すると、{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "松明"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "明るさ範囲が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "ランプ"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "明るさ範囲が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "ランプ"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "明るさ範囲が大きく増加する"
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "明るさ範囲{0}"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "包帯"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "通常スキル"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "選んだクラスとは関係なく選択できる"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "デスゾーン"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "ここはデスゾーンだ。移動時、休息時、イベント時に酸素が消費される。"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "良心の高まり"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "自分の行いに満足している"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "ヒロイズム"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "英雄になったような気がする"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "レベルアップすると、{0}"
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "再生力"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "消費アイテムを使うと体力が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "再生力"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "スリルの追求"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "デスゾーン内にいる時、正気度が回復する"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": "スリルの追求"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "モノ作り職人"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "創意工夫により自分自身の装備を作り出す。"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "狂気の天才"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "正気度を消費して、一時的に任意の強化を得る。"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "狂気の天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "狂気の天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "狂気の天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "狂気の天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "調査報道"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "イベントタイルに到達すると経験値を獲得する"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "調査報道"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "知識欲"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "レベルアップすると、エネルギー、体温、酸素、正気度、体力が上昇する"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "知識欲"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "フレアピストル（緑）"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "交換を望む者を呼び寄せる。"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "フレアピストル（赤）"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "助けを呼ぶ。"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "命綱"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "危険な地形を一時的に無効にする。"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "クライミングロープ"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "登り下り時のエネルギーコストが一時的に減少する。"
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "クライミングフック"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "登り下り時のエネルギーコストが一時的に減少する。"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "インスピレーション"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "エネルギーが回復し、クールダウン中のすべてのスキルのクールタイムが減少する"
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "すべてのクールタイムが{0}{1}減少する。"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "地形知識"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "特定の地形の移動に役立つ"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "地形知識: 氷"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "氷の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "地形知識: 雪"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "雪の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "地形知識: 岩"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "岩の地形でのエネルギーコストが減少する"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "地形知識: 危険"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "危険な地形によって起こるイベントへの耐性が増加する"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "地形知識: 氷"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "氷の地形でのエネルギーコストが{0}減少する"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "地形知識: 雪"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "雪の地形でのエネルギーコストが{0}減少する"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "地形知識: 岩"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "岩の地形でのエネルギーコストが{0}減少する"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "地形知識: 危険"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "地形の割り込みイベントに対する耐性が{0}増加する"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "環境知識"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "山の危険に対処するのに役立つ"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "寒冷耐性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "天候「寒冷」時の体温低下量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "デスゾーン耐性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "デスゾーン内で酸素消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "夜間耐性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "夜間の体温低下量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "嵐耐性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "天候「嵐」が及ぼすエネルギーコストへの影響が減少する"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "寒冷耐性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "天候「寒冷」時の体温低下量が{0}減少する"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "デスゾーン耐性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "デスゾーン内で酸素消費量が{0}減少する"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "夜間耐性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "夜間の体温低下量が{0}減少する"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "嵐耐性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "天候「嵐」が及ぼすエネルギーコストへの影響が{0}減少する"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "携帯上限"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "ベースから持ち出せるアイテムの個数"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "始まり"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "険しい峰々が空に向かってそびえ立っている。<br>長きに渡り、この島は外界から遮断されてきた。<br>しかし今、この島の山々を探索し、地図に空いた空白を埋める時がやって来た。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "山頂に到達し歴史に名を残す。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "放射線"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "不明"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "この山を登った先にある山頂には、電磁放射線を増幅するアンテナがあるらしい。放射線がどのような効果をアミュレットに与えるかを知る必要がある。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "次なる山があなたの冒険を待ち受けている。しかし、冒険を開始するにはサイドミッションを一定数クリアする必要がる。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "アミュレットを持って山頂に到達し、目標を達成する。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "不明"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "爆発力"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "不明"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "放射線が蓄えられたアミュレットを最も高い山頂へと持っていかなければならない。<br>そうすればタイムループを打破できるのだ。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "最も高く手強い山といえども、登頂を果たさないわけにはいかない。この冒険を開始するにはすべての必要条件を満たす必要がある。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "山頂に到達しタイムループを抜け出す。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "不明"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "プロローグ"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "チャプター1"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "チャプター2"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "チャプター3"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "あなたは目をパチリと開ける。ここはどこだ？何が起きたんだ？あなたは記憶を呼び起こそうとする。たしか、あのゲートを通り抜けて…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "「混乱してるみたいね。でも心配しないで。完全に意識がある状態でタイムループを通過すると普通そうなるの。放射線が関係してるのは間違いないわ」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "タイムループ？放射線？いったい何の話をしているんだ？それに、彼女はは誰なんだ？幻覚を見ているのだろうか？あなたは目の前のテーブルの上に、光を放つ緑色のアミュレットがあることに気づいた。この石はたしかにどこかで見たことがある。突然、すべてが鮮やかに蘇ってきた。目の前の人物は、裂け目に落ちかけたところを救ってくれた、あの寡黙な若い女だ。あなたは、どうしてその時にすべてを説明してくれなかったのかと尋ねた。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "「説明したとして信じられたと思う？絶対に無理でしょう？私と同じものを見てもらう必要があった。あなた自身の目で見てもらうこと、そして、実際に体験してもらうことが重要だったの。この状況がどれだけ常軌を逸しているのかは分かってる。だから、まず重要なことを伝えるわね。私たちはタイムループの中にいて、この島に閉じ込められているの。でも、私にはここから脱出するための考えがある。そのために、ある計算を解かなければならない」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "あなたに何ができるか、すでに考えてある。回復したと感じられたら、すぐに外に出て、私のために情報を探すんだ。外に出ることで、技術は向上し、経験値も上がる。お守りを受け取ってほしい。タイムループを元に戻す唯一の希望であるし、時間がリセットされたときにあなたをステーションに運んでくれるから。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "まずは周辺を探索して、石のパワーに慣れて。 <br>簡単なことじゃないだろうけど、他に方法はない。どうか私を信じて。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "頭がガンガンする。何か言いたくても、言葉が出ない。あなたはただ横たわり、黙り、動かない。謎めいた女が、そんなあなたを心配そうに見つめている。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "一体どうしたのか？ああ...そうだ。あなたは、脳では処理ができないほどのものを発見した。そしていま、タイムループに気づきながらも死んでいく...それが代償なのだ。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "「こんなことに巻き込んでしまってごめんなさい。この状況の全貌を理解するまでに何年もかかったの。特に、あの石の重要性を理解するまでには、本当に、本当に長い時間がかかったわ。あの石の力こそ、この牢獄の謎を解く鍵なの」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "「その牢獄のことだけど、あなたにはもっと長く生き延びて、所定の場所まで到達してもらわないといけない。そうすれば十分な量の放射線を石に吸収させられる。次はきっと上手くいくはずよ」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "動くことも喋ることもままならない状態で、あなたは横たわっていた。頭がズキズキと痛む。謎の女の様子さえ、いつもと違うように感じられる。彼女の声が奇妙にゆがんで聞こえてくる…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "「何かが上手くいかなかったのね？そういうこともあるわ。でも、諦めちゃダメ！アミュレットに放射線を吸収させる必要がある。山頂にあるアンテナを利用して、十分な量の電磁放射線を確保するの。このタイムループから抜け出すには、それしかないわ」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "目を覚ましたあなたは、すぐに謎の女の方を振り返った。タイムループから脱出する試みが成功したのかどうか、彼女の表情からは読み取れない。あなたは興奮混じりに、山で見たあらゆることについて話し始め、アンテナの柱にイニシャルについても、それがどんな意味を持っているのか彼女に聞いてみた。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "「分からない？少なくとも一度、あなたはそこに行ったことがあるの。多分、複数回ね。私たちも、もう何度も会ってるのよ。山の中で、そしてこの研究基地で。以前は信じてくれなかったけどね。タイムループごとに記憶が失われなくなったのは、全部アミュレットのおかげ。アミュレットを持っているから意識を維持して、すべてを思い出すことができるの」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "あなたの心に疑念が芽生え始める。記憶を失ってしまった方がまだ良いのではないだろうか？この場所に永遠に閉じ込められるという苦しみ、そして恐怖…彼女はどうして最初からすべてを教えてくれなかったのだろう？まだ何か隠していることがあるのではないか？"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "「これがとても厳しい事態だということは分かってる。あなたには、この状況に慣れるための時間を与えたかったの。私自身、この状況の全貌を理解するまでに何年もかかったの。特に、あの石の重要性を理解するまでには、本当に、本当に長い時間がかかったわ。あの石の力こそ、この牢獄の謎を解く鍵なの」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "牢獄？あなたはゴクリと唾を飲む。ということは、アンテナのある山頂までたどりついたのは無駄な努力で、タイムループにはまだ閉じ込められたままだということか？"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "「石は想定通りに過熱されたけど、タイムループを打ち破るには至らなかったみたい。考える時間をちょうだい。その間、あなたには訓練を続けていてほしい。まだ、これで終わりじゃないんだから…」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "起き上がったあなたは、すぐに謎の女の方を振り返る。その顔には失望の色が浮かんでいた。失敗したということか？あなたは平静を保とうとしながら、石の様子が変わり赤く輝き始めたことを彼女に伝えた。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "「石は想定通りに過熱されたけど、タイムループを打ち破るには至らなかったみたい。考える時間をちょうだい。その間、あなたには訓練を続けていてほしい。まだ、これで終わりじゃないんだから…」"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "「あとほんの少しでタイムループを打ち破れるの。あなたの体に一滴でも血が流れているうちは、諦めないで！お願い！」"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "「もう一つ言っておくわ。石を持っているときに山で死ぬと、あなたはこの研究基地に戻ってくる。ただ…すべて同じ状態で、とはいかないの。体は無傷のままだけど、意識は霧がかかったようになる。一種の昏睡状態と言えるわね。私はこの症状を『タイムループ酔い』と呼んでいるの」"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "「治療する手段はあるけれど、私の蓄えにも限りがある。全部使い切ってしまったら、もう私にできることはないわ。死なないようにするのが最善というところね」"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "「もう一つ言っておくわ。石を持っているときに山で死ぬと、あなたはこの研究基地に戻ってくる。ただ…すべて同じ状態で、とはいかないの。体は無傷のままだけど、意識は霧がかかったようになる。一種の昏睡状態と言えるわね。私はこの症状を『タイムループ酔い』と呼んでいるの」"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "「治療する手段はあるけれど、私の蓄えもそろそろ底をつくわ。この状態から復活させてあげられるのはあと1回だけ。最後の1回よ、分かった？」"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "「もう一つ言っておくわ。石を持っているときに山で死ぬと、あなたはこの研究基地に戻ってくる。ただ…すべて同じ状態で、とはいかないの。体は無傷のままだけど、意識は霧がかかったようになる。一種の昏睡状態と言えるわね。私はこの症状を『タイムループ酔い』と呼んでいるの」"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "「治療する手段はあるけれど、私の蓄えはもう完全に底をついたわ。慰めにはならないかもしれないけど、これで終わったわけじゃない。あなたたちのうちの1人でも残っていれば、まだチャンスはあるわ…」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "「山は本当に無慈悲よね。でも、諦めないで。あなたのような能力を持った人が現れるのを、私はずっと待っていたんだから…」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "「私たちがここから抜け出すために、とてつもない犠牲を負ってもらっていることは分かってる。でも、あなたの頑張りはきっと報われるわ。あと本当にもう少しで、この牢獄から抜け出せるの。どうか諦めないで…」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "「絶対に諦めないで。聞こえてる？絶対よ！研究基地での長い孤独な生活から、私は学んだの…前に進み続けるしかないと」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "「おかえりなさい！どうやら山で死んだみたいね。でも、大丈夫。いつでもやり直せるんだから」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "「ねえ、ひどい顔色だわ。何があったの？でも、話したくないなら話さなくてもいい。少し休んだら、きっと気分も良くなるでしょう」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "「何があったの？事故？凍死？それとも窒息死？気分は相当悪かったでしょうね。今度は別の戦略で挑んでみるといいかもしれないわね」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "「この山は<i>登頂不可能</i>と言われてるの。でも、あなたにとっても本当にそうなの？」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "「すごい、ミッション完了ね。厳しかったと思うけど、大丈夫？」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "「やるじゃない。登山家としての実力は本物ね。この調子で続けられれば、確実にタイムループから抜け出せるわ」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "「見事な実力ね。それに、ミッションを達成するたびに腕が上がってるんじゃない？正直、あなたがここに来てくれたおかげで、いつかここを脱出できるという自信を取り戻せたわ…」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "「すごい！山登りにかけては超一流ね。私だったら1日も持たないわ」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "「過酷な自然に果敢に挑んで、何ものにも動じることがない。脱帽だわ。あなたはすごい。思っていたよりもずっとすごい」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "「この地で何が重要なのか、もう分かったと思う。学ぶ意欲、そして予想外の状況に適応する力よ」"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "「ああ、無事に戻ってこられたのね！あなたにとっては<i>登頂不可能</i>という言葉は、もう意味を成さないわね」"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "「聞こえてる？そもそも意識があるのかしら？タイムループ酔いの影響は深刻ね」"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "「でも、まだ一縷の望みが残ってる。あなたたちのうちの1人でも生き残っていれば、タイムループから抜け出せるかもしれない…」"
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "「分かった。計画を練り直したいのね？賢明な判断よ！」"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "「もう戻ってきたの？何かが起こったということ？ああ、なるほど。まだ準備不足だったのね。気にしなくて大丈夫」"
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "「何か忘れ物でもした？どうして戻ってきたの？」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "どういうことだろう？数秒前まで、たしかに山にいたのに、突然この奇妙な基地に戻ってきてしまった。あの謎の女もここにいる。まるであなたのことを待ち受けていたかのようだ。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "「あのサイレンが鳴ってすぐに時間がリセットされて、あの石があなたをここに連れ戻したの。始まりの場所に戻ってきたということね」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "「私たちが今いるこの場所が、ガンマ線の研究が行われていた元研究所だということは、もう知っているわね。どうやら、巨大な電磁フィールドを生み出すための研究をしていたらしいの。実質的に、この島全体が立入禁止区域になっていたそうよ。島の存在を知る人はほとんどいなかった」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "「そして、何らかの事故が起きたみたい。何かの機能停止といったところかしら。その事故のせいで放たれた電磁放射線が、この山一帯に数え切れないほどの異常現象を引き起こした。そうして、最終的にタイムループが引き起こされたに違いないわ。時間が普通に進むのはこの研究基地の中だけ。異常現象の発生源だからかもしれないけど、はっきりした理由は分からない。とにかく、その実験に関連して残っていたのはこの光る石だけ。隣りにある部屋から見つけたの」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "「残念だけど、これが私にできる精一杯の説明よ。あなたと同じように、私にとっても理解できないことだらけなの。でも、1つ分かったことがある。この石は放射線に反応するの。これなしで事態の進展は望めないわ。最終的にこの場所から脱出するために、あなたには準備を続けてほしい」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "まだ耳鳴りが続いているが、だんだんとタイムループの副作用に慣れ始めてきた。謎の女は今回もあなたを待ち受けていたようだ。あなたは、研究基地にいた人たちはどうなったのかについて尋ねた。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "「それもまた未解決の謎よ。長い時間をかけて調べたけれど、ただ姿を消したとしか言えないわ。すべてをそのまま残してね。まるで、虚空の中に忽然と消え去ってしまったみたいに…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "彼女はそこで目をそらした。何かを隠しているのだ。しかし、状況が切迫しているのは彼女にとっても同じことだ。いや、精神的重圧は彼女の方が大きいのかもしれない。あなたは、これ以上問い詰めないことにした。いずれ明らかになるだろう。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "「今は目の前の問題に集中しましょう。私がここでシミュレーションを続ける間、あなたは外の様子を見てきて。私の方はすぐに終わるはずだから…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "「やっと戻ってきた！待っていたわ。いろいろと学んできたみたいね。じゃあ、そろそろ次の段階に進みましょう…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "「この石は電磁放射線に反応するの。ここで行われた研究中に、石が過熱されて…そして、爆発したらしいの。それが原因で異常現象が引き起こされて、タイムループが発動したに違いない。簡潔に言うと、この実験をもう一度行えばいいのよ。もちろん、言葉で言うほど簡単じゃないわ。必要な実験機器はすべて使えなくなってしまっている。部分的に使用するのも無理ね。でも、ほかに方法があるの…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "「次の山頂にあるアンテナには気がついた？あの付近は放射線が強いのだけれど、さらにアンテナによって増幅されているの。もし石に十分な量の放射線を浴びせられれば、もう一度石が過熱されて、タイムループを破れるかもしれない。ただし…そう、今言ったことはただの仮説に過ぎないわ。でも、私たちが今持てる希望はそれだけなの」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "あなたの心は揺れた。断るべきだろうか？山頂への到達は、軽い散歩気分でできるものではない。一方で、あの謎めいたアンテナらしきものについて、より深く解き明かしたいという気持ちもある。アンテナが作られた理由は？何の目的があったのだろうか？まるであなたの思考を読んだかのように、女はこちらに笑いかけてきた。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "「休息でも準備でも、自由にしてほしい。大変な挑戦だということは分かってるわ。でも、あなたならできる。私は信じてる！」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "あなたは研究基地で目を覚ました。頭には1つの疑問がこびりついている。この島でタイムループにはまり込んでしまってから、どれくらいの時間が経ったのだろう？"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "「どうかしら。月単位？それとも年単位？おかしな話よね。時間のことばかり考えているのに、時間の感覚をすっかり失くしてしまっただなんて」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "あなたの疑問は尽きない。彼女はどういう経緯でこの基地に行き着いたのだろう？そして、どうしてここで行われた実験のことを知っているのだろう？"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "「偶然ここに来たわけじゃないことは想像がつくわよね。私の父が研究チームのリーダーなの。いや…だった、と言うべきね。例の事故が起こった時、私は意識を失って、目を覚ました時には、周りには誰もいなかった。私はただの子どもで、不安で震えていたわ。怖くてドアの外には踏み出せなかった」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "「父はもう帰ってこないと気づいてから、私は脱出の方法を探し始めた。基地の外では人間に会うこともできた。でも、次に会う時には私のことを覚えていないの。外の世界ではすべてが繰り返しで、基地の中だけは時間が普通に流れている。ピースが噛み合うことのないパズルみたいだと感じたわ…<br>それからかなりの時間が流れたけど、本当のところ何が起きているのかはほとんど理解できていない気がする」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "「あなたは私に裏切られたと感じてるかもしれない。でも、それは決して私の意図じゃなかったの。私はただ、ここから脱出したいだけ…あなたと同じように」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "あなたは目をパチリと開け、こめかみをこする。また基地に戻ってきた！そして前と同じように、あの女があなたを待ち受けていた。なぜ彼女は私を選んだのだろう？この山には、ほかにも人間がいるというのに…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "「この土地の人間にも接触はしてみたの。でも、彼らは私を信用していないだけじゃなく、敵対的だった。まあ、無理もないわね。結局のところ、この島では私たちは招かれざる客で、そのくせ勝手に我が物顔をし始めたんだから」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "「でも、そんな敵対感情も乗り越えて、上手くいきそうになったことがあったわ。私はあるシャーマンに事情を説明したの。全身にタトゥーを入れていた彼は私の話を信じてくれたけど、精神が永遠に混濁状態になってしまうことを恐れていた…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "「こういう仕組みになってるの。あなたが外の世界で死ぬと、時間がリセットされる。すべてを経験し直すことになるけれど、あなたに記憶は残っていない。ただし、その時に石を持っていれば、記憶は失われない――死んだ瞬間の記憶も含めてね。石によって呼び戻されても、体は障害を受けない。でも、精神の方は…<br>そのシャーマンにとっては、魂が消えた抜け殻になってしまうことの方が、タイムループに永遠に囚われることよりもよほど恐ろしかったのね」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "誰も魂のない抜け殻になんてなりたくはない。そんなことは分かっている！彼女は自分で登頂に挑戦したことがあるのか？それとも、いつもほかの誰かに代わりをやらせているのか？あなたは彼女に尋ねてみた。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "「私は登山家じゃないし、デスゾーンで1時間も生存できないでしょうね。どれだけ訓練を重ねても、あなた並の登山の腕は身につかないわ。それでも、私にはほかにできることがあるから、お互い得意なことに集中しましょう？ここから抜け出すには、そうするしかないわ…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "あなたがゆっくりと目を覚ますと、謎の女が上からのぞき込んでいた。彼女の目は輝き、口元には笑みが浮かんでいる。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "「朗報よ！計算した通りの放射線を確保したにもかかわらず、石がタイムループを打ち破れなかった理由が分かったの」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "「タイムループを傘みたいなものだと想像してみて。それは透明な殻みたいにこの山全体を覆っているのだけれど、殻はどこでも一様というわけではないの。タイムループの発生源から離れれば離れるほど、殻は薄くなって、放射線が貫通するのも簡単になる。もう何が言いたいのか分かるでしょう？私たちはこの山脈の最も高い地点に到達する必要があるの…」"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "「そこがこのタイムループのアキレス腱というわけ。過熱された石を弱点の部分に持っていけば、殻に亀裂を入れて、タイムループ全体を無効化できるはずよ。これまで大変なお願いをしてきたことは分かってる。でも、あなたには最後の頂点を極めてもらわなければならない。これが最後の一歩になる。間違いないわ！」"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "「それと、新たな仲間が加わったのは心強いわね。話をしてみれば、お互い学ぶところがあるはずよ！タイムループから抜け出せるかどうかは、チームとして協力できるかどうかにかかっているのだから」"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "「ところで、新しい協力者が加わったのは心強いわね！しかも、その道の専門家なのでしょう？協力すれば、きっとお互いから多くを学べるはずよ。チームとして連携しなければね」"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "リセットポイント"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "アップグレードのリセットに使用する"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "アップグレードポイント（冒険家）"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "冒険家の能力アップに使用する"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "アップグレードポイント（科学者）"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "科学者の能力アップに使用する"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "アップグレードポイント（ジャーナリスト）"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "ジャーナリストの能力アップに使用する"
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "開始経験値"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "ミッション開始時の経験値量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "基礎ステータスのアップグレード"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "ベースで行うキャラクターのアップグレードによる能力強化"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "使命を追った科学者"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "あなたと同じくタイムループにはまり込んだ科学者がいるらしい。<br>彼の専門知識は目標の達成に大いに役立つかもしれない。<br>もちろん、まずは協力してくれるよう説得し、研究基地まで同行してもらう必要がある。"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "科学者を探し出し、研究基地まで連れてくる。"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "通常"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "通常の天候"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "晴天になる確率が嵐や寒冷になる確率より少しだけ高い"
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "嵐"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "嵐が起きる天候"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "天候が嵐になる確率が高い"
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "寒冷"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "寒冷な天候"
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "天候が寒冷になる確率が高い"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "調査報道"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "この山にひとりのジャーナリストがやって来ているという噂を耳にした。その男を探し出し、彼の調査能力を借りてタイムループから脱出する方法を見つけよう。"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "ジャーナリストを見つけるための手がかりを探す。"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "1つ目の手がかり"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "2つ目の手がかり"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "出口"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "キャラクター熟練度"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "アイテム熟練度"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "環境熟練度"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "地形熟練度"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "イベント熟練度"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "使用したアイテム"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "装備"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "未使用のアイテム"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "通過した危険な地形"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "遭遇したイベント"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "歩行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "夜間の歩行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "デスゾーンの歩行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "悪天候の歩行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "登り下り時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "夜間の登り下り時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "デスゾーンの登り下り時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "悪天候の登り下り時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "獲得経験値"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "レベルアップ回数"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "経験値を獲得:"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "アップグレード"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "レベルアップにより発動したアップグレード"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "サンウォーク"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "晴天時の体温上昇量が増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "晴天時の体温上昇量が大きく増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "サンウォーク"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "晴天時の体温上昇量が増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "サンウォーク"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "晴天時の体温上昇量が増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "大振りな動き"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "移動時の1時間ごとの体温上昇量が大きく増加するが、エネルギーコストも増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "移動時の1時間ごとの体温上昇量が大きく増加するが、エネルギーコストも増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "大振りな動き"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "移動時の1時間ごとの体温上昇量が大きく増加するが、エネルギーコストも増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "大振りな動き"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "移動時の1時間ごとの体温上昇量が大きく増加するが、エネルギーコストも増加する。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "保温"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "移動時の1時間ごとの体温上昇量が増加する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "移動時の1時間ごとの体温上昇量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "保温"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "移動時の1時間ごとの体温上昇量が増加する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "保温"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "移動時の1時間ごとの体温上昇量が増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "熟睡"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "睡眠時のエネルギー回復量が増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "睡眠時のエネルギー回復量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "熟睡"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "睡眠時のエネルギー回復量が増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "熟睡"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "睡眠時のエネルギー回復量が増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "高揚感"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "デスゾーン内でのエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "デスゾーン内でのエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "高揚感"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "デスゾーン内でのエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "高揚感"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "デスゾーン内でのエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "力の節約"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "移動時のエネルギーコストが減少するが、タイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "移動時のエネルギーコストが減少するが、タイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "力の節約"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "移動時のエネルギーコストが減少するが、タイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "力の節約"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "移動時のエネルギーコストが減少するが、タイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "酸素回復量が増加するが、体温上昇量が減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "酸素回復量が増加するが、体温上昇量が減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "酸素回復量が増加するが、体温上昇量が減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "酸素回復量が増加するが、体温上昇量が減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "あと一歩"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "酸素回復量が一時的に大きく増加するが、ミッション終了まで正気度喪失量が増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "あと一歩"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "酸素回復量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "あと一歩"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "ミッション終了まで正気度喪失量が増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "呼吸制御"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "1時間ごとの酸素回復量が増加する。酸素の最大値が増加する。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "1時間ごとの酸素回復量が大きく増加する。酸素の最大値が増加する。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "呼吸制御"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "1時間ごとの酸素回復量が増加する。酸素の最大値が増加する。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "呼吸制御"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "1時間ごとの酸素回復量が大きく増加する。酸素の最大値が増加する。"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "硬化"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "危険な地形を無効にする"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "危険な地形を無効にする"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "硬化"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "危険な地形を無効にする"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "硬化"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "危険な地形を無効にする"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "狂気への一歩"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少するが、正気度喪失量が増加する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少するが、正気度喪失量が増加する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "狂気への一歩"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少するが、正気度喪失量が増加する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "狂気への一歩"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "険しい地形（高低差2以上）でのエネルギーコストが減少するが、正気度喪失量が増加する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "俊敏な動き"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "移動時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "移動時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "俊敏な動き"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "移動時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "俊敏な動き"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "移動時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "猪突猛進"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "移動時の正気度喪失量が大きく減少するが、<br>休息時またはイベント時に追加で正気度が喪失する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "移動時の正気度喪失量が大きく減少するが、<br>休息時またはイベント時に追加で正気度が喪失する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "猪突猛進"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "移動時の正気度喪失量が大きく減少するが、<br>休息時またはイベント時に追加で正気度が喪失する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "猪突猛進"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "移動時の正気度喪失量が大きく減少するが、<br>休息時またはイベント時に追加で正気度が喪失する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "マインドフルネス"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "マインドフルネス"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "マインドフルネス"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "イベントタイルに到達すると正気度が回復する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "おまじない"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "おまじない"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "おまじない"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "星空を見上げて"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "テントなしの睡眠によるペナルティが減少する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "テントなしの睡眠によるペナルティが減少する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "星空を見上げて"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "テントなしの睡眠によるペナルティが減少する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "星空を見上げて"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "テントなしの睡眠によるペナルティが減少する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "長期的思考"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "起床時にエネルギーが回復するが、<br>移動時のタイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "起床時にエネルギーが回復するが、<br>移動時のタイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "長期的思考"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "起床時にエネルギーが回復するが、<br>移動時のタイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "長期的思考"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "起床時にエネルギーが回復するが、<br>移動時のタイムコストが増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "山の探検家"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "経験値獲得量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "経験値獲得量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "山の探検家"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "経験値獲得量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "山の探検家"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "経験値獲得量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "保温"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "体温の維持に特化する。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "力の節約"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "エネルギーの回復量増加と消費量減少に特化する。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "山の探検家"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "長距離の移動と多数のイベントタイルへの到達に特化する。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "適応力"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "酸素レベルの維持に特化する。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "覚悟"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "目標に直進することに特化する。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "精神集中"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "正気度の長時間の維持に特化する。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "イベント知識"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "イベントの効果を最大限に活かせるようになる"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "イベント知識: 正気度"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "イベント時の正気度回復量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "イベント知識: 経験値"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "イベント時の経験値獲得量が増加する"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "イベント知識: エネルギー"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が減少する"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "イベント知識: 時間"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "イベント時のタイムコストが減少する"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "イベント知識: 正気度"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "イベント時の正気度回復量が{0}増加する"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "イベント知識: 経験値"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "イベント時の経験値獲得量が{0}増加する"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "イベント知識: エネルギー"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "イベント時のエネルギー消費量が{0}減少する"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "イベント知識: 時間"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "イベント時のタイムコストが{0}減少する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "暖かな考え"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "消費アイテムを使うと体温が上昇する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "消費アイテムを使うと体温が大きく上昇する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "暖かな考え"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "消費アイテムを使うと体温が上昇する"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "暖かな考え"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "消費アイテムを使うと体温が上昇する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "エネルギー保存"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "エネルギー保存"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "移動時と登り下り時のエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "エネルギー保存"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "冴えわたる精神"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "正気度が高い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "正気度が高い場合、移動時と登り下り時のエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "冴えわたる精神"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "正気度が高い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "冴えわたる精神"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "正気度が高い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "新鮮な空気"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "酸素値が高い場合、移動時と登り下り時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "酸素値が高い場合、移動時と登り下り時のタイムコストが大きく減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "新鮮な空気"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "酸素値が高い場合、移動時と登り下り時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "新鮮な空気"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "酸素値が高い場合、移動時と登り下り時のタイムコストが減少する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "マイペース"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "起床時にエネルギー、体温、酸素が回復する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "起床時にエネルギー、体温、酸素が大きく回復する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "マイペース"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "起床時にエネルギー、体温、酸素が回復する"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "マイペース"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "起床時にエネルギー、体温、酸素が回復する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "体温増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "体温増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "体温増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "体温増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "体温の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "エネルギー増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "エネルギー増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "エネルギー増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "エネルギー増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "エネルギーの最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "体力増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "体力増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "体力増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "体力増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "酸素増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "酸素増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "酸素増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "酸素増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "酸素の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "正気度増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "正気度増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "正気度増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "正気度増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "正気度の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "基礎ステータス増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "エネルギー、体温、酸素、正気度、体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "基礎ステータス増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "基礎ステータス増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "エネルギー、体温、酸素、正気度、体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "基礎ステータス増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "エネルギー、体温、酸素、正気度、体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "基礎ステータス増加"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "エネルギー、体温、酸素、正気度、体力の最大値が増加する"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "基礎ステータス増加"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "異常現象"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "移動時のタイムコストが増加する"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "強力な異常現象"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "移動時のタイムコストが大きく増加する"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "晴天"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "過ごしやすい天候"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "天候が晴天になる確率が高い"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "激しい嵐"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "ひどく荒れた天候"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "天候が嵐になる確率が非常に高い"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "極冷"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "ひどく寒冷な天候"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "天候が寒冷になる確率が非常に高い"
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "荒れた天候"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "危険なほどに荒れた天候"
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "天候が寒冷か嵐になる確率が高い"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "ひどく荒れた天候"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "極度に荒れた天候"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "天候が寒冷か嵐になる確率が非常に高い"
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "広大な山。"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "時空のひずみを3つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "目標"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "見渡す限りに広がる山。"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "時空のひずみを2つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "目標"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "中程度の標高の小柄な山。"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "中程度の標高の普通の山。"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "比較的緩やかな傾斜の山。"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "広大な山。"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "時空のひずみを3つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "広大な山。この山には危険な地形が数多く存在する。"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "時空のひずみを3つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "広大な山。このエリアには通常よりも数多くの経路が存在するが、<br>非常に多くの登り下りが必要とされる。"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "時空のひずみを3つ発見する。ひずみは広い範囲に離れて存在している。<br>その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "広大な山。デスゾーンに当たる部分は小規模だが、<br>地形は極めて険しい。"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "時空のひずみを3つ発見する。ひずみは広い範囲に離れて存在している。<br>その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "中程度の標高の大きな山。"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "中程度の標高の大きな山。<br>このエリアには通常よりも数多くの経路が存在するが、非常に多くの登り下りが必要とされる。"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "中程度の標高の大きな山。<br>この山には危険な地形が数多く存在する。"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "円錐形の急峻な坂に囲まれた巨大な噴火口。"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "極めて傾斜が強い小柄な山。<br>デスゾーンの範囲は広い。"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "片側が開いた、中程度の傾斜の噴火口。"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "時空のひずみを3つ発見する。ひずみは広い範囲に離れて存在している。<br>その後、目標に到達する。"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "目標"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "多数の勾配がある、大釜のような形の山。"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "時空のひずみを3つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "目標"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "中程度の標高の大きな山。<br>この山には危険な地形が数多く存在する。"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "中程度の標高の大きな山。"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "傾斜がきつい大きな山。<br>デスゾーンの範囲は広いが、地形はあまり厳しくない。"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "広大な山。"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "時空のひずみを4つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "異常現象5"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "見渡す限りに広がる山。"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "時空のひずみを4つ発見する。ひずみは広い範囲に離れて存在している。<br>その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "異常現象5"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "円錐形の急峻な坂に囲まれた巨大な噴火口。<br>この山には危険な地形が数多く存在する。"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "時空のひずみを4つ発見する。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "異常現象5"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "円錐形の急峻な坂に囲まれた広大な噴火口。"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "時空のひずみを4つ発見する。ひずみは広い範囲に離れて存在している。<br>その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "異常現象5"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "広大な地形を持つ山。"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "広大な地形を持つ山。<br>デスゾーンの範囲は広い。"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "傾斜がきつい大きな山。<br>デスゾーンの範囲は広い。"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "中程度の標高の大きな山。"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "傾斜がきつい大きな山。<br>この山には危険な地形が数多く存在する。"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "初登頂"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "初めての登頂だ！集中力が高まり、やる気がみなぎってくる！"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "「ところで、タイムループ酔いが心配ね。今も症状が出ているわ。治療する手段はあるけど、私の蓄えが底をつきそうなの」"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "「この状態から復活させてあげられるのはあと1回だけ。最後の1回よ、分かった？その後は、残りの人生を植物状態のようになって過ごすことになるわ」"
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "見渡す限りに広がる、人を寄せ付けない山。"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "時空のひずみを5つ発見する。ひずみは広い範囲に離れて存在している。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "異常現象5"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "目標"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "尖った岩の頂が何本もそびえる、堂々とした風格の山。"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "時空のひずみを5つ発見する。ひずみは広い範囲に離れて存在している。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常現象1"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常現象2"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常現象3"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "異常現象4"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "異常現象5"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "目標"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "切り立った岩の崖のある巨大な噴火口。"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "何が待ち受けているか分からない巨大な山。地形は極めて険しい。"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "山頂にたどり着く。その後、目標に到達する。"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "山頂"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "熟練度とスキル"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "ベースでのアップグレードにより発動した効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "環境と装備"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "現在の山、環境、使用中の装備により発生した効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "一時的効果"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "一定時間後に消失する一時的効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "ミッション効果"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "ミッション終了時に消失する効果。<br>各効果はクリックで確認できる。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "温かな肺"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "体温が高い場合、酸素回復量が増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "体温が高い場合、酸素回復量が大きく増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "温かな肺"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "体温が高い場合、酸素回復量が増加する"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "温かな肺"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "体温が高い場合、酸素回復量が増加する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "燃える精神"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "体温が高い場合、移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "体温が高い場合、移動時の正気度喪失量が大きく減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "燃える精神"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "体温が高い場合、移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "燃える精神"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "体温が高い場合、移動時の正気度喪失量が減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "しっかりした足取り"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "体力が高い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "体力が高い場合、移動時と登り下り時のエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "しっかりした足取り"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "体力が高い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "しっかりした足取り"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "体力が高い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "セカンドウインド"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "体力が低い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "体力が低い場合、移動時と登り下り時のエネルギーコストが大きく減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "セカンドウインド"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "体力が低い場合、移動時と登り下り時のエネルギーコストが減少する"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "セカンドウインド"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "体力が低い場合、移動時と登り下り時のエネルギーコストが減少する"
+    }
+  ]
+}

@@ -1,0 +1,2864 @@
+{
+  "LOCA": [
+    {
+      "key": "STAT_ENERGY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_energy\">エネルギー</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"energy\">エネルギー</style>は登り下り時に消費される。<br>高低差が大きいほどエネルギーも多く消費される。</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_sanity\">正気度</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"sanity\">正気度</style>は登山に伴う精神的ストレスによってじわじわと低下する。</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_oxygen\">酸素</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"oxygen\">酸素</style>は高い標高に位置するデスゾーン内で消費される。</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">体温</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}{1} / {2}</font></style><br><style=\"description\"><style=\"bodytemp\">体温</style>は通常、夜間や寒冷な天候下で低下する。</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_health\">体力</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"health\">体力</style>が0になると、そこで冒険が終わってしまう！</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_exp\">経験値</style></style><br><style=\"numbers_stat\">Lv.<font=\"numbers\">{0}<br>次のレベルまで{1}/{2}</font></style><br><style=\"description\"><style=\"exp\">経験値</style>を貯めて新たなスキルを発動することで、ミッションを有利に進めることができる。</style>"
+    },
+    {
+      "key": "HUD_HEIGHT",
+      "value": "<style=\"header\"><style=\"i_height\">標高</style></style><br><br><font=\"numbers_m\">{0}</font>m<br><br><style=\"warning\">デスゾーン: <font=\"numbers_m\">{1}</font>m</style><br><style=\"description\">標高{1}mでデスゾーンに到達する。<br>デスゾーン内では<style=\"oxygen\">酸素</style>が消費される。</style>"
+    },
+    {
+      "key": "STAT_ENERGY",
+      "value": "エネルギー"
+    },
+    {
+      "key": "STAT_BODYTEMP",
+      "value": "体温"
+    },
+    {
+      "key": "STAT_OXYGEN",
+      "value": "酸素"
+    },
+    {
+      "key": "STAT_SANITY",
+      "value": "正気度"
+    },
+    {
+      "key": "STAT_HEALTH",
+      "value": "体力"
+    },
+    {
+      "key": "STAT_EXP",
+      "value": "経験値"
+    },
+    {
+      "key": "STAT_TIME",
+      "value": "時間"
+    },
+    {
+      "key": "STAT_PERCENT",
+      "value": "<style=\"description\">（ステータス最大値の{0}%）</style>"
+    },
+    {
+      "key": "ITEM_TENT",
+      "value": "テントの中で休むことができる。"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_INVENTORY",
+      "value": "<style=\"description\">左クリック: 移動。</style>"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_LOADOUT",
+      "value": "<style=\"description\">左クリック: 移動。</style>"
+    },
+    {
+      "key": "ITEM_EQUIPMENT",
+      "value": "<style=\"description\">装備 - 左クリック+ドラッグで装備スロットに移動できる。<br>同じタイプの装備アイテムは同時に1つしか装備できない。</style>"
+    },
+    {
+      "key": "ITEM_PASSIVE",
+      "value": "<style=\"description\">洞窟のイベントで使用できる。<br>左クリック: 移動。</style>"
+    },
+    {
+      "key": "ITEM_GENERIC",
+      "value": "<style=\"description\">どこかで使えるかもしれない。<br>左クリック: 移動。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_STATS_ALREADY_FILLED",
+      "value": "<style=\"description_forbidden\">このアイテムは今使用しても効果がない。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_ALREADY_ACTIVE",
+      "value": "<style=\"description_forbidden\">このアイテムは現在発動している。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">このアイテムはイベント中には使用できない。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_LEFTOVER",
+      "value": "<style=\"description_forbidden\">「余剰アイテム」内のアイテムが移動できる場合は、使用できません。</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">このスキルはイベントテキスト中には使用できない。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">今はこのアイテムを使用できない。</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">今はこのスキルを使用できない。</style>"
+    },
+    {
+      "key": "HOVER_ITEM_TEMPEFFECTS",
+      "value": ""
+    },
+    {
+      "key": "STAT_CURRENT_TIME",
+      "value": "<style=\"header\"><style=\"i_time\">時間</style></style><br><style=\"numbers_stat\"><font=\"numbers_m\">{0}<br>{1}</font></style><br><style=\"description\"><size=70%>昼は<font=\"numbers_m_i\">{2}</font>に日の出とともに始まる。<br>夜は<font=\"numbers_m_i\">{3}</font>に日の入りとともに始まる。</size></style>"
+    },
+    {
+      "key": "TIME_DAY",
+      "value": "昼"
+    },
+    {
+      "key": "TIME_NIGHT",
+      "value": "夜"
+    },
+    {
+      "key": "TIME_NIGHT_CHANGE",
+      "value": "日没"
+    },
+    {
+      "key": "TIME_DAY_CHANGE",
+      "value": "夜明け"
+    },
+    {
+      "key": "HUD_WEATHER",
+      "value": "<style=\"header\">天候</style><br><br>{0}<br>{1}<br><br><size=90%>{2}</size><br><br><style=\"description\">天候は毎日変化する。<br>天候はプレイに影響を与える。</style>"
+    },
+    {
+      "key": "TOGGLE_HUD_SIZE_OPTION",
+      "value": "HUD拡大"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_KEYBOARD",
+      "value": "ステータスプレビューパネル（キーボード/マウス入力）"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_GAMEPAD",
+      "value": "ステータスプレビューパネル（コントローラー入力）"
+    },
+    {
+      "key": "BTN_CHANGE_CHARACTER",
+      "value": "キャラクター変更"
+    },
+    {
+      "key": "BTN_CHANGE_LOADOUT",
+      "value": "インベントリを開く"
+    },
+    {
+      "key": "BTN_START_MISSION",
+      "value": "ミッション開始"
+    },
+    {
+      "key": "WORLDMAP_TITLE",
+      "value": "マップ"
+    },
+    {
+      "key": "WORLDMAP_DESCRIPTION",
+      "value": "ここでミッションを計画する。"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_TITLE",
+      "value": "天候固定"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_DESCRIPTION",
+      "value": "何らかの異常現象により、この山の天候は終りのないタイムループに閉じ込められてしまったようだ…"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_HOVER",
+      "value": "この山の天候は{0}に固定される。<br>（{1}）"
+    },
+    {
+      "key": "CHARACTER_SCREEN_TITLE",
+      "value": "キャラクター"
+    },
+    {
+      "key": "CHARACTER_SKILL_ALREADY_UNLOCKED_HOVER",
+      "value": "このスキルはすでに{0}でアンロックされています"
+    },
+    {
+      "key": "CHAR_DEAD_PANEL_OVERLAY",
+      "value": "行動不能"
+    },
+    {
+      "key": "WEATHER_CLEAR",
+      "value": "晴天"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_CLEAR",
+      "value": "通常の天候"
+    },
+    {
+      "key": "WEATHER_COLD",
+      "value": "寒冷"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_COLD",
+      "value": "体温低下量が増加する"
+    },
+    {
+      "key": "WEATHER_STORM",
+      "value": "嵐"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_STORM",
+      "value": "登り下り時のエネルギーコストが増加する"
+    },
+    {
+      "key": "HOVER_TEMP_EFFECT",
+      "value": "<style=\"header\">{0}</style><br><br>終了まで: <font=\"numbers_m\">{1}</font>時間<br><br><style=\"description\">{2}</style><br><style=\"numbers_stat\">{3}</style>"
+    },
+    {
+      "key": "HOVER_TRAIT",
+      "value": "<style=\"header\">{0}</style><br><br><style=\"description\">{1}</style><br><style=\"numbers_stat\">{2}</style>"
+    },
+    {
+      "key": "BTN_WALK",
+      "value": "歩く"
+    },
+    {
+      "key": "BTN_PAUSE_WALK",
+      "value": "止まる"
+    },
+    {
+      "key": "BTN_INVENTORY",
+      "value": "インベントリ"
+    },
+    {
+      "key": "TITLE_INVENTORY",
+      "value": "インベントリ"
+    },
+    {
+      "key": "TITLE_ITEMS",
+      "value": "バックパック"
+    },
+    {
+      "key": "BTN_YES",
+      "value": "はい"
+    },
+    {
+      "key": "BTN_NO",
+      "value": "いいえ"
+    },
+    {
+      "key": "BTN_LEVELUP",
+      "value": "レベルアップ"
+    },
+    {
+      "key": "TITLE_LEVELUP",
+      "value": "レベルアップ"
+    },
+    {
+      "key": "DESCRIPTION_LEVELUP",
+      "value": "山から得られた経験があなたを成長させた。<br>特性を選ぼう！"
+    },
+    {
+      "key": "REMAINING_USES",
+      "value": "残り使用回数:"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM",
+      "value": "アイテムを捨てますか？"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM_DESCRIPTION",
+      "value": "<sprite=\"{0}\" name=\"{1}\"><style=\"subtract\">{2} x1</style>を捨てようとしています。本当に捨てますか？"
+    },
+    {
+      "key": "MAIN_MENU_NEW_GAME",
+      "value": "ニューゲーム"
+    },
+    {
+      "key": "MAIN_MENU_OPTIONS",
+      "value": "オプション"
+    },
+    {
+      "key": "MAIN_MENU_QUIT",
+      "value": "ゲーム終了"
+    },
+    {
+      "key": "MAIN_MENU_CREDITS",
+      "value": "クレジット"
+    },
+    {
+      "key": "MAIN_MENU_LANGUAGE",
+      "value": "言語"
+    },
+    {
+      "key": "MAIN_MENU_BACK",
+      "value": "戻る"
+    },
+    {
+      "key": "MAIN_MENU_LOADING",
+      "value": "ロード中…"
+    },
+    {
+      "key": "DAEDELIC_LEGAL_LINES",
+      "value": "© 2022 Daedalic Entertainment GmbH.<br> The Daedalic Logo is trademark of Daedalic Entertainment GmbH, Germany. All rights reserved."
+    },
+    {
+      "key": "ENGLISH",
+      "value": "Magyar"
+    },
+    {
+      "key": "GERMAN",
+      "value": "Deutsch"
+    },
+    {
+      "key": "PAUSE_MENU_CONTINUE",
+      "value": "コンティニュー"
+    },
+    {
+      "key": "PAUSE_MENU_RETRY",
+      "value": "リトライ"
+    },
+    {
+      "key": "PAUSE_MENU_MAIN_MENU",
+      "value": "メインメニューに戻る"
+    },
+    {
+      "key": "PAUSE_MENU",
+      "value": "ポーズ中"
+    },
+    {
+      "key": "PAUSE_MENU_HELP",
+      "value": "ヘルプ"
+    },
+    {
+      "key": "EVENT_UNKNOWN_OUTCOME",
+      "value": "（何が起こるかは分からない…）"
+    },
+    {
+      "key": "EVENT_END",
+      "value": "（このイベントを終える）"
+    },
+    {
+      "key": "EVENT_MISSING_ITEM",
+      "value": "必要"
+    },
+    {
+      "key": "EVENT_STATICHOVER_ITEMS",
+      "value": "アイテム"
+    },
+    {
+      "key": "EVENT_STATICHOVER_STATUS",
+      "value": "ステータス"
+    },
+    {
+      "key": "EVENT_STATICHOVER_TIME",
+      "value": "時間"
+    },
+    {
+      "key": "WEATHER_FORECAST_TOMORROW",
+      "value": "明日の天候"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_ENTERED",
+      "value": "デスゾーンに入った"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_LEFT",
+      "value": "デスゾーンから出た"
+    },
+    {
+      "key": "SKILLTARGETED_ERROR_RANGE",
+      "value": "遠すぎる！"
+    },
+    {
+      "key": "MAIN_MENU_CONTINUE",
+      "value": "コンティニュー"
+    },
+    {
+      "key": "BTN_OK",
+      "value": "OK"
+    },
+    {
+      "key": "BTN_SKILLS",
+      "value": "スキル"
+    },
+    {
+      "key": "BTN_CANCEL",
+      "value": "キャンセル"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL",
+      "value": "スキル選択"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL_DESCRIPTION",
+      "value": "{0}<br>を選びますか？"
+    },
+    {
+      "key": "BTN_SKILLACTIVE",
+      "value": "あと{0}で使用可能"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_TITLE",
+      "value": "アイテムを置いていく"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_DESCRIPTION",
+      "value": "「余剰アイテム」に置かれているアイテムは完全に失われます。続けますか？"
+    },
+    {
+      "key": "TITLE_LEFTOVERS",
+      "value": "余剰アイテム"
+    },
+    {
+      "key": "CONFIRM",
+      "value": "確定"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT",
+      "value": "VSync反復数*"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT_HOVER",
+      "value": "<style=header>VSYNC</style><br><style=description>スクリーンのリフレッシュレート（Hz）に応じて、フレームレート（FPS）を制限します。<br>この数値が高いほどフレームレートが下がり、パフォーマンスとグラフィックカードの負荷が安定します。</style>"
+    },
+    {
+      "key": "CHOOSE",
+      "value": "選択"
+    },
+    {
+      "key": "UI_CHOICE_CONSTRAINT_TITLE",
+      "value": "チャレンジを選択！"
+    },
+    {
+      "key": "UI_MISSIONS_TITLE",
+      "value": "ミッション"
+    },
+    {
+      "key": "UI_MISSION_SCREEN_TITLE",
+      "value": "ミッション選択"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_TITLE",
+      "value": "永遠の夜"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_DESCRIPTION",
+      "value": "この山の時間は止まってしまい、永遠の夜に囚われている。"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_HOVER",
+      "value": "夜間の影響が常に発生する。"
+    },
+    {
+      "key": "CONSTRAINTS",
+      "value": "制限"
+    },
+    {
+      "key": "REWARDS",
+      "value": "報酬"
+    },
+    {
+      "key": "FAIL_REWARDS",
+      "value": "失敗時"
+    },
+    {
+      "key": "MISSION_HOVER_ALREADY_COMPLETED",
+      "value": "すでにこのミッションを達成しています。"
+    },
+    {
+      "key": "MISSION_HOVER_LOCKED",
+      "value": "このサイドミッションはまだアンロックされていません。アンロックするには{0}でメインチャプターのクリアが必要です。"
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED",
+      "value": "このエリアはまだアンロックされていません。<br>エリア「{1}」で{0}個のサイドミッションをクリアすることで、このチャプターをプレイできます。"
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED_PROGRESS",
+      "value": "クリア済み:"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED_NEW",
+      "value": "このミッションはアンロックされています。まだプレイしていません。"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED",
+      "value": "このミッションはアンロックされています。まだクリアしていません。"
+    },
+    {
+      "key": "MISSION_GOAL_REACH",
+      "value": "到達目標:"
+    },
+    {
+      "key": "MISSION_GOAL_COLLECT",
+      "value": "入手目標:"
+    },
+    {
+      "key": "MISSION_GOAL_SUMMARY",
+      "value": "アイテム発見"
+    },
+    {
+      "key": "SHOWCURRENTMISSION",
+      "value": "現在のミッションを表示"
+    },
+    {
+      "key": "MISSION_CLICK_HINT",
+      "value": "クリックして現在のミッションを表示。"
+    },
+    {
+      "key": "TARGET_TILE_START",
+      "value": "開始位置"
+    },
+    {
+      "key": "TARGET_TILE_PEAK",
+      "value": "山頂"
+    },
+    {
+      "key": "TARGET_TILE_CAMP",
+      "value": "キャンプ"
+    },
+    {
+      "key": "TARGET_TILE_WEATHER STATION",
+      "value": "放棄された気象観測所"
+    },
+    {
+      "key": "MISSION_CHARACTER_REWARD_TITLE",
+      "value": "このキャラクターでクリア時:"
+    },
+    {
+      "key": "ALREADY_UNLOCKED",
+      "value": "アンロック済み"
+    },
+    {
+      "key": "EQUIPMENT",
+      "value": "装備"
+    },
+    {
+      "key": "LEFTOVER_WARNING",
+      "value": "警告！<br>「余剰アイテム」にアイテムが残っています。これらは失われます。"
+    },
+    {
+      "key": "DO_NOT_SHOW_AGAIN",
+      "value": "もう表示しない"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_TITLE",
+      "value": "アイテムを使いますか？"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_DESCRIPTION",
+      "value": "<sprite=\"{0}\" name=\"{1}\">{2}を使いますか？"
+    },
+    {
+      "key": "SKILLS_TITLE",
+      "value": "スキル"
+    },
+    {
+      "key": "LEVELUP_TITLE",
+      "value": "レベルアップ"
+    },
+    {
+      "key": "LEVELUP_DESCRIPTION",
+      "value": "次のスキルを選択"
+    },
+    {
+      "key": "MOUNTAIN1_NAME",
+      "value": "山 - 1"
+    },
+    {
+      "key": "MOUNTAIN1_DESCRIPTION",
+      "value": "長く厳しい戦いとなるあなたの登山は、この山から始まる。<br>準備の周到さ、そして自らの忍耐力が試されることになる。"
+    },
+    {
+      "key": "MOUNTAIN2_NAME",
+      "value": "山 - 2"
+    },
+    {
+      "key": "MOUNTAIN2_DESCRIPTION",
+      "value": "山はより険しくなり、過酷さも増していく。<br>1つ目の山を越えた後、より充実した装備、体力、活力で臨みたい。"
+    },
+    {
+      "key": "MOUNTAIN3_NAME",
+      "value": "山 - 3"
+    },
+    {
+      "key": "MOUNTAIN3_DESCRIPTION",
+      "value": "高くそびえる最後の山頂は、雲さえも突き破っている。その荘重な姿を見ると、踏破は無理ではないのかとさえ思わせる。<br>これまでの山は耐久力テストといったところだったが、この山では不可能の領域に挑むことになりそうだ…<br>だが、後戻りはできない。<br>山頂にたどり着くのだ、何としても！"
+    },
+    {
+      "key": "SCAR_DEFAULT_EXPLANATION",
+      "value": "登山の疲れを感じる…"
+    },
+    {
+      "key": "CLIMB_FINISH_TITLE",
+      "value": "キャンプ"
+    },
+    {
+      "key": "CLIMB_FINISH_DAYS",
+      "value": "登山にかかった日数:"
+    },
+    {
+      "key": "BTN_CLIMB_CONTINUE",
+      "value": "コンティニュー"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_TITLE",
+      "value": "タイムループの監獄"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_DESCRIPTION",
+      "value": "すべてのキャラクターが不吉なタイムループ酔いに陥り、もうその植物状態からは戻らない。もはや彼らを助ける手立てはない。<br>この物語は終わってしまったのだ。"
+    },
+    {
+      "key": "RUN_DEATH_TITLE",
+      "value": "死亡"
+    },
+    {
+      "key": "RUN_FINISH_TITLE",
+      "value": "成功"
+    },
+    {
+      "key": "BTN_RUN_CONTINUE",
+      "value": "メインメニュー"
+    },
+    {
+      "key": "BTN_DEATH_CONTINUE",
+      "value": "メインメニュー"
+    },
+    {
+      "key": "RUN_FINISH_DAYS",
+      "value": "日数"
+    },
+    {
+      "key": "RUN_FINISH_LEVEL",
+      "value": "レベル:"
+    },
+    {
+      "key": "RUN_FINISH_CLIMBS",
+      "value": "登頂した山:"
+    },
+    {
+      "key": "RUN_FINISH_HEIGHT",
+      "value": "最大標高:"
+    },
+    {
+      "key": "ROUTE1_NAME",
+      "value": "ルート1"
+    },
+    {
+      "key": "ROUTE2_NAME",
+      "value": "ルート2"
+    },
+    {
+      "key": "ROUTE3_NAME",
+      "value": "ルート3"
+    },
+    {
+      "key": "TENT_DURABILITY",
+      "value": "テント耐久値"
+    },
+    {
+      "key": "NO_TENT_AVAILABLE",
+      "value": "インベントリにテントがない"
+    },
+    {
+      "key": "SLEEP_LOCATION_TENT",
+      "value": "休息"
+    },
+    {
+      "key": "SLEEP_LOCATION_REST",
+      "value": "休息"
+    },
+    {
+      "key": "SLEEP_LOCATION_CAVE",
+      "value": "静かな洞窟"
+    },
+    {
+      "key": "BTN_START",
+      "value": "開始"
+    },
+    {
+      "key": "BTN_SELECTROUTE",
+      "value": "選択"
+    },
+    {
+      "key": "STATUS_SLEEPING",
+      "value": "睡眠中"
+    },
+    {
+      "key": "STATUS_AWAKE",
+      "value": "覚醒"
+    },
+    {
+      "key": "BTN_SLEEP",
+      "value": "睡眠"
+    },
+    {
+      "key": "SLEEP_DURATION",
+      "value": "睡眠時間"
+    },
+    {
+      "key": "DURABILITY_CAVE",
+      "value": "洞窟<size=66%>（テント不要）</size>"
+    },
+    {
+      "key": "SLEEP_WINDOW_TITLE",
+      "value": "眠る"
+    },
+    {
+      "key": "SLEEP_EXECUTION_TITLE",
+      "value": "睡眠中…"
+    },
+    {
+      "key": "USE_TENT",
+      "value": "テントを使う"
+    },
+    {
+      "key": "SHORT_SLEEP",
+      "value": "睡眠（短時間）"
+    },
+    {
+      "key": "LONG_SLEEP",
+      "value": "睡眠（長時間）"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_NAME",
+      "value": "凍った足先"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "足の指が凍っている"
+    },
+    {
+      "key": "CRITENERGYSCAR_NAME",
+      "value": "足首の負傷"
+    },
+    {
+      "key": "CRITENERGYSCAR_DESCRIPTION",
+      "value": "足首に怪我を負っている"
+    },
+    {
+      "key": "CRITOXYGENSCAR_NAME",
+      "value": "高山病"
+    },
+    {
+      "key": "CRITOXYGENSCAR_DESCRIPTION",
+      "value": "高山病に苦しんでいる"
+    },
+    {
+      "key": "CRITSANITYSCAR_NAME",
+      "value": "悪夢"
+    },
+    {
+      "key": "CRITSANITYSCAR_DESCRIPTION",
+      "value": "悪夢に苦しんでいる"
+    },
+    {
+      "key": "EXHAUSTED_NAME",
+      "value": "疲弊"
+    },
+    {
+      "key": "EXHAUSTED_DESCRIPTION",
+      "value": "激しく疲労している"
+    },
+    {
+      "key": "FROSTBITTEN_NAME",
+      "value": "凍傷"
+    },
+    {
+      "key": "FROSTBITTEN_DESCRIPTION",
+      "value": "刺すような山の寒さに蝕まれている"
+    },
+    {
+      "key": "ADVENTURER_NAME",
+      "value": "冒険家"
+    },
+    {
+      "key": "ADVENTURER_INTRO",
+      "value": "失われた財宝を求めて塩辛い海の底へと潜り、遠い昔に廃れた文明を調査すべく熱帯雨林の奥深くへと分け入り、地下に眠る古代の遺跡を求めて無限に続く砂漠を踏破する。これまでさまざまな冒険に繰り出してきたが、そのいずれもあなたを満足させることはなく、また制覇できないものもなかった。そして今、新たな挑戦があなたの前に現れる。<br>厚い霧の向こうに隠されていた、大海にぽっかりと浮かぶ島。島の山脈に関する記録は一切なく、天空に向かってそびえる山々は踏破されることを待ち望んでいる。<br>これこそが冒険家たちが追い求める夢―そして、あなたの名前を歴史に刻むチャンスなのだ。"
+    },
+    {
+      "key": "SCIENTIST_NAME",
+      "value": "科学者"
+    },
+    {
+      "key": "SCIENTIST_INTRO",
+      "value": "あなたは革命的な理論を提唱している。それは、この世界には未発見の電磁気力の発生源があり、それを活用すれば全世界のエネルギーをまかなうことができる、というものである。専門家たちはあなたの理論をあざ笑い軽くあしらってきたが、彼らのそんな偏狭さは、あなたにとっては研究を続ける燃料にしかならなかった。<br>そんな折、まるで真空から生まれ出たかのように突如出現した謎の島の存在を知り、あなたはチャンスがやってきたことを悟る。自ら行った計算によれば、島の広大な山脈は電磁気力のホットスポットとして理想的だ。放射線は山頂で最も強力になるに違いない。<br>山頂を極め、自らの理論が正しいことをきっぱりと示してやるのだ―そうすれば、あなたの名誉は取り戻される。"
+    },
+    {
+      "key": "JOURNALIST_NAME",
+      "value": "ジャーナリスト"
+    },
+    {
+      "key": "JOURNALIST_INTRO",
+      "value": "真実を求める終わりなき旅を続ける中で、あなたは世界中の危機に見舞われた地域を飛び回っていた。どんなに危険な紛争地域にも、どんな物議を醸し得る事実にも、あなたが怯むことはない。エリートたちの邪悪な陰謀は、市井の人間に知られないままであってはならない。そして、あなた以上にこの役目に適した人間はいないのである。<br>丸々1つの島が長年にわたって公の目から隠されてきたという噂を聞きつけ、あなたは調査を開始した。魔法のように姿を消した占領者、山奥で行われた秘密実験…<br>これらの山の頂上を目指し、自らの目で確かめなければならない。もし噂が本当なら、自分のキャリア史上最大のスクープとなるかもしれない―ピューリッツァー賞も間違いなしだ。"
+    },
+    {
+      "key": "BTN_SELECTCHARACTER",
+      "value": "選択"
+    },
+    {
+      "key": "SCAR_CRITENERGY_EXPLANATION",
+      "value": "一歩一歩が重く感じる…"
+    },
+    {
+      "key": "SCAR_CRITBODYTEMP_EXPLANATION",
+      "value": "寒さが耐えがたく襲いかかる…"
+    },
+    {
+      "key": "SCAR_CRITOXYGEN_EXPLANATION",
+      "value": "酸素不足でめまいを感じる…"
+    },
+    {
+      "key": "SCAR_CRITSANITY_EXPLANATION",
+      "value": "幻覚が見え始めた…"
+    },
+    {
+      "key": "SKILL_LEVEL_0",
+      "value": "I"
+    },
+    {
+      "key": "SKILL_LEVEL_1",
+      "value": "II"
+    },
+    {
+      "key": "SKILL_LEVEL_2",
+      "value": "III"
+    },
+    {
+      "key": "STAT_ENERGY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_energy\">エネルギー</style></style><br><style=\"description\"><style=\"energy\">エネルギー</style>は登り下り時に消費される。<br>高低差が大きいほどエネルギーも多く消費される。</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_sanity\">正気度</style></style><br><style=\"description\"><style=\"sanity\">正気度</style>は、登山に伴う精神的ストレスによって<br>じわじわと低下する。</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_oxygen\">酸素</style></style><br><style=\"description\"><style=\"oxygen\">酸素</style>は、特に高い標高に位置するデスゾーン内で急速に消費される。</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">体温</style></style><br><style=\"description\"><style=\"bodytemp\">体温</style>は、夜間、および寒冷・雪・嵐の天候下で低下する。</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_health\">体力</style></style><br><style=\"description\"><style=\"health\">体力</style>が0になると、そこで冒険が終わってしまう！</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_exp\">経験値</style></style><br><style=\"description\"><style=\"exp\">経験値</style>はイベントや出会いを通して獲得できる。</style>"
+    },
+    {
+      "key": "STAT_TIME_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_time\">時間</style></style><br><style=\"description\">イベントや登り下りに時間をかけると、<br>かかった時間に応じてステータスが更新される。</style>"
+    },
+    {
+      "key": "UNLOCKS_SKILLTREE",
+      "value": "クラスをアンロック"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_FULL",
+      "value": "このステータスはすでに最大になっています"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_EMPTY",
+      "value": "このステータスはすでに0になっています"
+    },
+    {
+      "key": "CHARACTER_STAR_HOVER",
+      "value": "以下の難易度で登頂済み:"
+    },
+    {
+      "key": "LOCKED_DIFFICULTY_EXPLANATION",
+      "value": "難易度<b>{0}</b>かつ<br>このキャラクターで登頂することで、<br>この難易度がアンロック！"
+    },
+    {
+      "key": "SKILL_COSTS_CANNOT_AFFORD",
+      "value": "このスキルを使うには{0}が足りません"
+    },
+    {
+      "key": "ITEM_YOU_FULFILL",
+      "value": "アイテムがある:"
+    },
+    {
+      "key": "ITEM_YOU_ARE_MISSING",
+      "value": "アイテムがない:"
+    },
+    {
+      "key": "STAT_YOU_FULFILL",
+      "value": "ステータスが足りている:"
+    },
+    {
+      "key": "STAT_YOU_ARE_MISSING",
+      "value": "ステータスが足りない:"
+    },
+    {
+      "key": "TE_YOU_FULFILL",
+      "value": "効果が発動している:"
+    },
+    {
+      "key": "TE_YOU_ARE_MISSING",
+      "value": "効果が発動していない:"
+    },
+    {
+      "key": "EVENT_STATICHOVER_EFFECTS",
+      "value": "効果"
+    },
+    {
+      "key": "SKILL_TREE_LIST_EXPLANATION",
+      "value": "スキルとクラスは経験値を貯めてアンロックできる"
+    },
+    {
+      "key": "MAX_LEVEL_DESCRIPTION",
+      "value": "最大レベル到達"
+    },
+    {
+      "key": "CHARACTERSELECTION_ADVENTURER",
+      "value": "筋金入りの冒険家であるあなたは、常に次なる大きな挑戦を探している。"
+    },
+    {
+      "key": "CHARACTERSELECTION_SCIENTIST",
+      "value": "野心に燃える科学者であるあなたは、天才と狂気の狭間に位置している。"
+    },
+    {
+      "key": "CHARACTERSELECTION_JOURNALIST",
+      "value": "調査報道を行うジャーナリストであるあなたは、特大のスキャンダルを暴露すべく世界を飛び回る。"
+    },
+    {
+      "key": "MOUNTAIN1_ADVENTURER_DESCRIPTION",
+      "value": "1つ目の山を踏破しよう。しかし、忘れてはいけない。ベースキャンプまで無事に戻ってこなければ、山を制覇したことにはならない。それまでは、あなたの運命は山の手中にある。"
+    },
+    {
+      "key": "MOUNTAIN2_ADVENTURER_DESCRIPTION",
+      "value": "2つ目の山があなたを待っている。征服を目指すのは山だけではない―内なる自分とも戦うのだ。"
+    },
+    {
+      "key": "MOUNTAIN3_ADVENTURER_DESCRIPTION",
+      "value": "歴史に自分の名を刻むには、3つ目の山に登頂しなければならない。あなたは登山の歴史に残る不朽の名声を勝ち取れるだろうか？"
+    },
+    {
+      "key": "MOUNTAIN1_SCIENTIST_DESCRIPTION",
+      "value": "1つ目の山に登頂し、電磁気力の発生源があるという証拠を見つけ出そう。"
+    },
+    {
+      "key": "MOUNTAIN2_SCIENTIST_DESCRIPTION",
+      "value": "ここまでの計測では、望んでいた画期的な結果は得られていない。2つ目の山に登り、さらに計測を続ける必要がある。"
+    },
+    {
+      "key": "MOUNTAIN3_SCIENTIST_DESCRIPTION",
+      "value": "放射線はその強度を増し続けている。最後の山に登り、あなたが優れた研究者であることを世界に証明しよう。"
+    },
+    {
+      "key": "MOUNTAIN1_JOURNALIST_DESCRIPTION",
+      "value": "1つ目の山に登り、秘密実験の噂が本当であるかどうか確かめよう。"
+    },
+    {
+      "key": "MOUNTAIN2_JOURNALIST_DESCRIPTION",
+      "value": "もう少しで秘密の真相に迫れそうな気配を感じる。2つ目の山に登り調査を続けよう。"
+    },
+    {
+      "key": "MOUNTAIN3_JOURNALIST_DESCRIPTION",
+      "value": "残る山はあと1つ。調査報道部門でのピューリッツァー賞受賞に、手の届くところまで迫っている。"
+    },
+    {
+      "key": "LOCKED",
+      "value": "アンロックされていません"
+    },
+    {
+      "key": "CLIMB_OTHER_MOUNTAINS_FIRST",
+      "value": "先に別の山に登頂する必要があります。"
+    },
+    {
+      "key": "CHOSE_MOUNTAINEER_TITLE",
+      "value": "キャラクターを選択"
+    },
+    {
+      "key": "CHOSE_ROUTE_TITLE",
+      "value": "ルートを選択"
+    },
+    {
+      "key": "HINT_1",
+      "value": "装備とスキルを使って登山ルートを最適化しましょう。"
+    },
+    {
+      "key": "HINT_2",
+      "value": "通常の段差と比較して、高低差が大きい登り下りを行うとエネルギーが大量に消費されます。"
+    },
+    {
+      "key": "HINT_3",
+      "value": "体力以外のステータスが0になっても即座にゲームオーバーにはなりませんが、危険な状況が発生します！"
+    },
+    {
+      "key": "HINT_4",
+      "value": "厄介な状況ではアクティブスキルが役に立つ場合があります！"
+    },
+    {
+      "key": "HINT_5",
+      "value": "天候はステータスの変化だけでなく、視界にも影響を与えます。左下の天候表示を常にチェックしましょう！"
+    },
+    {
+      "key": "SCARS",
+      "value": "傷痕"
+    },
+    {
+      "key": "BTN_SORT_BY_TREE",
+      "value": "種類で並び替える"
+    },
+    {
+      "key": "BTN_SORT_BY_DATE",
+      "value": "順番で並び替える"
+    },
+    {
+      "key": "NO_SKILL_UNLOCKED_YET",
+      "value": "まだアンロックしたスキルがありません。<br>経験値を獲得し、レベルアップして新しいスキルを選択しましょう！"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_LOCKED",
+      "value": "難易度はゲームオーバーになるまで変更できません！"
+    },
+    {
+      "key": "QUALITY_VERY LOW",
+      "value": "超低"
+    },
+    {
+      "key": "QUALITY_LOW",
+      "value": "低"
+    },
+    {
+      "key": "QUALITY_MEDIUM",
+      "value": "中"
+    },
+    {
+      "key": "QUALITY_HIGH",
+      "value": "高"
+    },
+    {
+      "key": "QUALITY_VERY HIGH",
+      "value": "超高"
+    },
+    {
+      "key": "QUALITY_ULTRA",
+      "value": "極高"
+    },
+    {
+      "key": "OPTIONS_FPS",
+      "value": "最大FPS"
+    },
+    {
+      "key": "OPTIONS_BRIGHTNESS",
+      "value": "明るさ"
+    },
+    {
+      "key": "FPS_UNCAPPED",
+      "value": "無制限"
+    },
+    {
+      "key": "FPS_30",
+      "value": "30"
+    },
+    {
+      "key": "FPS_60",
+      "value": "60"
+    },
+    {
+      "key": "OPTIONS_DIFFICULTY",
+      "value": "難易度"
+    },
+    {
+      "key": "OPTIONS_MASTERVOLUME",
+      "value": "マスターボリューム"
+    },
+    {
+      "key": "OPTIONS_BGM",
+      "value": "BGM"
+    },
+    {
+      "key": "OPTIONS_SFX",
+      "value": "効果音"
+    },
+    {
+      "key": "OPTIONS_FULLSCREEN",
+      "value": "フルスクリーン"
+    },
+    {
+      "key": "OPTIONS_RESOLUTION",
+      "value": "解像度"
+    },
+    {
+      "key": "OPTIONS_QUALITY",
+      "value": "クオリティ"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_TITLE",
+      "value": "難易度がアンロック"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_DESCRIPTION",
+      "value": "おめでとう！<br>{0}の難易度「<b>{1}</b>」がアンロックされました！"
+    },
+    {
+      "key": "VIP_DISCORD_TEXT",
+      "value": "VIPステータスにより全難易度がアンロック！"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_DIFFICULTYHASNOREVIVES",
+      "value": "<style=description_forbidden>この難易度には蘇生ポイントがありません！</style>"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_SPENTALLREVIVES",
+      "value": "<style=description_forbidden>蘇生ポイントが残っていません！</style>"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL",
+      "value": "ノーマル"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_FLAVOR",
+      "value": "山頂までたどり着けるか？"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_DESCRIPTION",
+      "value": "低めの難易度。<br>簡単ではないが、十分に攻略可能。<br><br><i>初心者向け。</i>"
+    },
+    {
+      "key": "DIFFICULTY_HARD",
+      "value": "ハード"
+    },
+    {
+      "key": "DIFFICULTY_HARD_FLAVOR",
+      "value": "大いなる挑戦"
+    },
+    {
+      "key": "DIFFICULTY_HARD_DESCRIPTION",
+      "value": "高めの難易度。<br>ステータスの消耗が早くなり<br>山の環境と天候が厳しくなる。<br><br><i>経験を積んだ登山家向け。</i>"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE",
+      "value": "Insurmountable"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_FLAVOR",
+      "value": "死は常に歩みをともに"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_DESCRIPTION",
+      "value": "極めて高い難易度。<br>移動と登り下りのコストがさらに高まり<br>地形、天候、デスゾーンの影響が容赦なく襲いかかる。<br><br><i>強靭な精神力を備えた<br>恐れを知らない究極の登山家向け。</i>"
+    },
+    {
+      "key": "DIFFICULTY_LOCKED_HOVER",
+      "value": ""
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_TITLE",
+      "value": "難易度を選択！"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_TITLE",
+      "value": "難易度を確定"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_DESCRIPTION",
+      "value": "警告！<br>この選択はゲームオーバーになるまで変更できません。<br>よろしいですか？"
+    },
+    {
+      "key": "CHANGEABLE_KEYBINDINGS",
+      "value": "（キー設定はオプション画面で変更可能）"
+    },
+    {
+      "key": "PAGE",
+      "value": "ページ"
+    },
+    {
+      "key": "TUTORIAL_1_TITLE",
+      "value": "カメラ操作"
+    },
+    {
+      "key": "TUTORIAL_1_DESCRIPTION",
+      "value": "<b>V*</b>キーを長押ししてマウスを動かすことで周囲を見渡します。<br><br><b>マウスの中ボタン*</b>を長押ししながらマウスを動かすとカメラが回転します。<br>マウスホイールを回転するとズームイン/アウトできます。"
+    },
+    {
+      "key": "TUTORIAL_2_TITLE",
+      "value": "移動"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION",
+      "value": "登頂を成功させるには、タイルの上でキャラクターを導き、マークの付いた目標に到達する必要があります。キャラクターを動かさない限り、時間は進まず、ステータスも変動しません。"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION1",
+      "value": "有効なタイルを<b>左クリック*</b>すると、キャラクターを移動させたい場所にチェックポイントを設定できます。別の有効なタイルをクリックすれば、さらにチェックポイントを追加できます。<br>最後のチェックポイントをもう一度クリックすると、キャラクターが移動し始めます。"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION2",
+      "value": "<b>右クリック*</b>によって、キャラクターを停止させたり、最後に追加したチェックポイントを解除したりできます。"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION3",
+      "value": "また、「移動」ボタンを押すことでもキャラクターを移動/停止させられます。<br>「スピード」ボタンを使えばキャラクターの移動を速くできます。この速度変更はゲーム内のステータス変化に影響を与えません。"
+    },
+    {
+      "key": "TUTORIAL_3_TITLE",
+      "value": "地形のタイプ"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION",
+      "value": "地形には「岩」、「雪」、「氷」の3つのタイプが存在します。それぞれのタイプには、基本となる通常の地形が1つと、派生的な地形が2つあります。それぞれの地形で消費される移動コストは、キャラクターの装備とスキルによって変わります。派生地形では追加のコストが必要になったり、危険なイベントが起こったりする場合があります。"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_STONE",
+      "value": "<b>岩</b> - 通常地形 - 特殊効果なし<br><br><b>瓦礫</b> - 派生地形 - 危険なイベントが起こる場合がある<br><br><b>草</b> - 派生地形 - 特殊効果なし"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_SNOW",
+      "value": "<b>雪</b> - 通常地形 - 特殊効果なし<br><br><b>吹き溜まり</b> - 派生地形 - 危険なイベントが起こる場合がある<br><br><b>深雪</b> - 派生地形 - エネルギーコストが増加する"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_ICE",
+      "value": "<b>氷</b> - 通常地形 - 特殊効果なし<br><br><b>氷河</b> - 派生地形 - 危険なイベントが起こる場合がある<br><br><b>アイススパイク</b> - 派生地形 - タイムコストと体温低下量が増加する"
+    },
+    {
+      "key": "TUTORIAL_4_TITLE",
+      "value": "イベント"
+    },
+    {
+      "key": "TUTORIAL_4_DESCRIPTION",
+      "value": "山にはさまざまな種類のイベントが存在します。<br>イベントマークの付いたタイルを踏むと、イベントが発生します。"
+    },
+    {
+      "key": "TUTORIAL_5_TITLE",
+      "value": "ステータス"
+    },
+    {
+      "key": "TUTORIAL_6_TITLE",
+      "value": "致命状態"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION1",
+      "value": "いずれかのステータス（体力を除く）が0になると、致命状態になります。"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION2",
+      "value": "ステータスが1つでも致命状態に達すると、経路のプレビューが赤色になります。"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION3",
+      "value": "この状態で移動し続けると、リスクを伴う危機的状況が発生します。体力が0になると登山が終了してしまうことをお忘れなく！"
+    },
+    {
+      "key": "TUTORIAL_7_TITLE",
+      "value": "レベルアップ"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION1",
+      "value": "経験値が一定の値に達すると、キャラクターをレベルアップさせることができます。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION2",
+      "value": "レベルアップするたびに、さまざまな種類のスキルからいずれかを選択できます。時間制限が付いているスキルや、発動に特定の条件が必要なスキルも存在します。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION3",
+      "value": "右上にあるスキルウィンドウから、選択したスキルの一覧を確認できます。現在発動しているスキルの効果は、画面上部の中央にある「効果」バーに表示されます。"
+    },
+    {
+      "key": "TUTORIAL_8_TITLE",
+      "value": "天候"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION",
+      "value": "天候は毎朝変化します。画面下部の左側から、現在の天候と明日の天候の予測を確認できます。天候は3種類存在します。"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_CLEAR",
+      "value": "<b>晴天の天候</b> - 過ごしやすい晴天で、キャラクターへのマイナス効果はない。心配せずに登山を楽しもう。"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_COLD",
+      "value": "<b>寒冷な天候</b> - 特に夜の間、体温へのマイナス効果がある。暖かい服を着ることが有効。"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_STORM",
+      "value": "<b>嵐の天候</b> - エネルギーコストとタイムコストにマイナス効果があり、視界にも悪影響を及ぼす。"
+    },
+    {
+      "key": "TUTORIAL_9_TITLE",
+      "value": "イベント"
+    },
+    {
+      "key": "TUTORIAL_9_DESCRIPTION",
+      "value": "イベントでは難しい選択を迫られ、選択の先にはさまざまな結果が待ち受けています。<br>イベント内で時間が経過すると、山の状況に応じて体温などのステータスが上下する可能性があることをお忘れなく！"
+    },
+    {
+      "key": "TUTORIAL_10_TITLE",
+      "value": "睡眠"
+    },
+    {
+      "key": "TUTORIAL_10_DESCRIPTION",
+      "value": "睡眠はエネルギーを回復するのに有効な手段です。<br>睡眠には3つの方法があります。1. マップ上にある洞窟のシンボルを探し、そこでキャンプを行う。2. インベントリからテントを使用する（テントは1つにつき3回まで使用できる）。3. テントなしで眠る。ただし、この場合はステータスにマイナス効果が付与されるので、最後の手段とするのが望ましい。"
+    },
+    {
+      "key": "SCORE_XP",
+      "value": "経験値獲得に対するポイント"
+    },
+    {
+      "key": "SCORE_MOUNTAINS",
+      "value": "登頂した山に対するポイント"
+    },
+    {
+      "key": "SCORE_NOCRIT",
+      "value": "危機的状況を回避したことに対するボーナス"
+    },
+    {
+      "key": "SCORE_CONSUMABLES",
+      "value": "回収したアイテムに対するポイント"
+    },
+    {
+      "key": "SCORE_EQUIPMENT",
+      "value": "回収した装備に対するポイント"
+    },
+    {
+      "key": "SCORE_TIME",
+      "value": "タイムボーナス"
+    },
+    {
+      "key": "GENERIC_KEYBINDING_HINT",
+      "value": "（キー設定: <b>{0}</b>）"
+    },
+    {
+      "key": "TAKEEVERYTHINGFROMLEFTOVERS",
+      "value": "すべて持っていく"
+    },
+    {
+      "key": "LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "リセット"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM",
+      "value": "このアイテムはアンロックされています。<br>{0}用に装備するか、インベントリに入れることができます。"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM_UNAFFORDEABLE",
+      "value": "<color=red>このアイテムを装備するかインベントリに入れるには<br>最低でも{0}が必要です。</color>"
+    },
+    {
+      "key": "HOVER_LOADOUT_WITHDRAWN_ITEM",
+      "value": "このアイテムは{0}のインベントリに入ります。"
+    },
+    {
+      "key": "BTN_LEAVE_EVERYTHING_TITLE",
+      "value": "リセット"
+    },
+    {
+      "key": "HOVER_BTN_LEAVE_EVERYTHING",
+      "value": "アイテムや装備をインベントリから取り除き、インベントリの容量を空けます。"
+    },
+    {
+      "key": "BTN_SHOW_MISSION_TITLE",
+      "value": "ミッション表示"
+    },
+    {
+      "key": "HOVER_BTN_SHOW_MISSION",
+      "value": "自分が選択した<br>現在のミッションの概要を表示します。"
+    },
+    {
+      "key": "BTN_TAKE_EVERYTHING_TITLE",
+      "value": "すべて持っていく"
+    },
+    {
+      "key": "HOVER_BTN_TAKE_EVERYTHING",
+      "value": "可能な限り多くのアイテムを余剰アイテムからインベントリへ移動させます。"
+    },
+    {
+      "key": "MISSION_GOAL_UNKNOWN",
+      "value": "不明な目標"
+    },
+    {
+      "key": "MISSION_TARGET_HUD_GOALS_TITLE",
+      "value": "ミッション目標:"
+    },
+    {
+      "key": "HOVER_BTN_ACTIVE_SKILL",
+      "value": "{0}<br>クリックでスキル使用、または{1}を押す"
+    },
+    {
+      "key": "HOVER_BTN_SLEEP",
+      "value": "睡眠画面を開く。"
+    },
+    {
+      "key": "HOVER_BTN_INVENTORY",
+      "value": "インベントリを開く。"
+    },
+    {
+      "key": "HOVER_BTN_WALK",
+      "value": "プレイヤーの移動を開始する。<br>選択した経路を進む。"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_WALK",
+      "value": "プレイヤーの動きを<b>次のタイル</b>で止める。"
+    },
+    {
+      "key": "HOVER_BTN_SPEED",
+      "value": "ゲームスピード"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_TOGGLE",
+      "value": "プレイヤーが移動するスピードを変更する。<br>速度変化は見た目のみで、タイムコストやエネルギーコストは変化しない。"
+    },
+    {
+      "key": "HOVER_BTN_SKILLTREE",
+      "value": "選択したスキルを表示する。"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU_TITLE",
+      "value": "ポーズ"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU",
+      "value": "ゲームを一時停止してオプションを表示する。"
+    },
+    {
+      "key": "TUTORIAL_CLOSE_HINT",
+      "value": "チュートリアルはポーズメニューからいつでも確認できる。"
+    },
+    {
+      "key": "HINT",
+      "value": "ヒント"
+    },
+    {
+      "key": "HINT_SELECT_CONFIRM",
+      "value": "{0}または{1}で選択と確定を行う。"
+    },
+    {
+      "key": "HINT_DECLINE_CANCEL",
+      "value": "{0}または{1}で選択をキャンセルする。"
+    },
+    {
+      "key": "HINT_CAMERA",
+      "value": "{0}または{1}を押し、マウスを動かしてカメラを回転させる。"
+    },
+    {
+      "key": "Alpha0",
+      "value": "0"
+    },
+    {
+      "key": "Alpha1",
+      "value": "1"
+    },
+    {
+      "key": "Alpha2",
+      "value": "2"
+    },
+    {
+      "key": "Alpha3",
+      "value": "3"
+    },
+    {
+      "key": "Alpha4",
+      "value": "4"
+    },
+    {
+      "key": "Alpha5",
+      "value": "5"
+    },
+    {
+      "key": "Alpha6",
+      "value": "6"
+    },
+    {
+      "key": "Alpha7",
+      "value": "7"
+    },
+    {
+      "key": "Alpha8",
+      "value": "8"
+    },
+    {
+      "key": "Alpha9",
+      "value": "9"
+    },
+    {
+      "key": "Mouse0",
+      "value": "マウス左ボタン"
+    },
+    {
+      "key": "Mouse1",
+      "value": "マウス右ボタン"
+    },
+    {
+      "key": "Mouse2",
+      "value": "マウス中ボタン"
+    },
+    {
+      "key": "Space",
+      "value": "スペース"
+    },
+    {
+      "key": "Up Arrow",
+      "value": "↑"
+    },
+    {
+      "key": "Down Arrow",
+      "value": "↓"
+    },
+    {
+      "key": "Left Arrow",
+      "value": "←"
+    },
+    {
+      "key": "Right Arrow",
+      "value": "→"
+    },
+    {
+      "key": "KEYBINDING_PROMPT",
+      "value": "<ボタンを押してください>"
+    },
+    {
+      "key": "KEYBINDINGS_TITLE",
+      "value": "キー設定"
+    },
+    {
+      "key": "KEYBINDING_DUPLICATE_ERROR",
+      "value": "このキーはすでに使われています！"
+    },
+    {
+      "key": "ABILITY_ACTIVE",
+      "value": "アクティブスキル"
+    },
+    {
+      "key": "ABILITY_PASSIVE",
+      "value": "パッシブスキル"
+    },
+    {
+      "key": "ABILITY_TRIGGERED",
+      "value": "誘発スキル"
+    },
+    {
+      "key": "ABILITY_CONDITIONAL",
+      "value": "条件スキル"
+    },
+    {
+      "key": "ABILITY_HOURS",
+      "value": "時間"
+    },
+    {
+      "key": "ABILITY_COOLDOWN",
+      "value": "クールタイム"
+    },
+    {
+      "key": "ABILITY_DURATION",
+      "value": "効果時間"
+    },
+    {
+      "key": "ABILITY_DURATION_ACTIVE",
+      "value": "残り発動時間:"
+    },
+    {
+      "key": "ABILITY_DURATION_FORXHOURS",
+      "value": "{0}時間"
+    },
+    {
+      "key": "SPECIALIZATION_TITLE",
+      "value": "戦略を選択！"
+    },
+    {
+      "key": "SELECT1",
+      "value": "確定/選択（1）"
+    },
+    {
+      "key": "SELECT2",
+      "value": "確定/選択（2）"
+    },
+    {
+      "key": "CANCELPATH1",
+      "value": "経路をキャンセル（1）"
+    },
+    {
+      "key": "CANCELPATH2",
+      "value": "経路をキャンセル（2）"
+    },
+    {
+      "key": "ROTATECAM1",
+      "value": "カメラ回転（1）"
+    },
+    {
+      "key": "ROTATECAM2",
+      "value": "カメラ回転（2）"
+    },
+    {
+      "key": "MOVE",
+      "value": "移動"
+    },
+    {
+      "key": "STOPMOVE",
+      "value": "移動をやめる"
+    },
+    {
+      "key": "TOGGLEINVENTORY",
+      "value": "インベントリを開く/閉じる"
+    },
+    {
+      "key": "TOGGLEHELPSCREEN",
+      "value": "ヘルプを開く/閉じる"
+    },
+    {
+      "key": "TOGGLESKILLSCREEN",
+      "value": "スキル概要を開く/閉じる"
+    },
+    {
+      "key": "TOGGLEPAUSEMENU",
+      "value": "ポーズメニューを開く/閉じる"
+    },
+    {
+      "key": "CANCEL",
+      "value": "キャンセル"
+    },
+    {
+      "key": "LEVELUP",
+      "value": "レベルアップを確定"
+    },
+    {
+      "key": "TOGGLETIMELAPSE",
+      "value": "ゲームスピードを変更"
+    },
+    {
+      "key": "TOGGLESLEEPSCREEN",
+      "value": "睡眠画面を開く/閉じる"
+    },
+    {
+      "key": "RESTORE_DEFAULTS",
+      "value": "デフォルトに戻す"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_PROS",
+      "value": "最短のルートを通って素早く山頂を目指すのに適している"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_CONS",
+      "value": "最短のルートをたどると、イベントや経験を見逃す可能性がある"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_PROS",
+      "value": "イベントの効果を最大限に活かすことができる"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_CONS",
+      "value": "イベント以外でボーナスは得られない"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_PROS",
+      "value": "平坦な地形でのエネルギー効率が良くなり、山を隅々まで探索できる"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_CONS",
+      "value": "山の探索が長引きすぎると正気度の維持が難しくなる"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_PROS",
+      "value": "特定の地形からメリットを得られる"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_CONS",
+      "value": "得られるボーナスは完全に地形に依存する"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_PROS",
+      "value": "夜間の登頂に特別ボーナスが付加される"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_CONS",
+      "value": "日中はボーナスが得られず、夜間の危険度は変わらない"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_PROS",
+      "value": "消費アイテムの効果を最大限に活かすことができる"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_CONS",
+      "value": "得られるボーナスは消費アイテムを見つけられるかどうかに依存する"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_TITLE",
+      "value": "勝利！"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_DESCRIPTION",
+      "value": "おめでとう！<br>{0}として最高難易度で登頂を果たしました！"
+    },
+    {
+      "key": "AFFECTEDBY",
+      "value": "影響"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION4",
+      "value": "{0}種類の中から最高で3つのクラスを選択できます。新しいクラスはレベル{1}、{2}、{3}でアンロックされます。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION5",
+      "value": "選択したクラスにより、どのスキルを選べるかが決まります。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION6",
+      "value": "一部のスキルはどのクラスにも属さず、クラスとは関係なく選択できます。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_TITLE",
+      "value": "インベントリとアイテム"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION1",
+      "value": "画面上のボタンを押すか、対応するホットキーを使うことでインベントリにアクセスできます。インベントリを開くにはキャラクターが静止していなければなりません。<br><br>使用すると消費されるアイテムのほか、キャラクターに装備させられるアイテムも存在します。装備している間はその効果が発動し続けます。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION2",
+      "value": "アイテムを右クリックすると、そのアイテムを使用できます。<br><br>左クリックを長押しすることで、別のスロットにドラッグ&ドロップできます。<br><br>アイテムを見つけた場合、インベントリに入れなかったアイテムはインベントリを閉じた時に失われます。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION3",
+      "value": "一部のアイテムは複数回使用できます。使用回数はアイテムに表示されたバーで確認できます。<br>現在使用できないアイテムは暗い色で表示されます。<br><br>アイテムの詳細な情報を確認したい場合、そのアイテムにマウスオーバーするとアイテムの効果が表示されます。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION4",
+      "value": "装備を使用する場合、そのアイテムを装備エリアにある対応するスロットにドラッグします。装備スロットからインベントリに戻すこともできます。装備している限り、そのアイテムのパッシブ効果とボーナスを得ることができます。"
+    },
+    {
+      "key": "PICKNEWSPECIALIZATION",
+      "value": "レベル{1}、{2}、{3}で新しいクラスを選択できます。"
+    },
+    {
+      "key": "GENERICSKILLINFO",
+      "value": "このスキルはどのクラスにも属していません。"
+    },
+    {
+      "key": "BASICVALUES_NAME",
+      "value": "基本値"
+    },
+    {
+      "key": "CLICK_TO_PICK_A_MODIFIER",
+      "value": "クリックしてルートを選択"
+    },
+    {
+      "key": "PICK_A_MODIFIER",
+      "value": "ルート選択"
+    },
+    {
+      "key": "MISSION_DEFAULT_MODIFIERS_TITLE",
+      "value": "環境"
+    },
+    {
+      "key": "REWARD_DISPLAY_NOT_RECEIVED_HOVER",
+      "value": "まだこの報酬を受け取っていません。"
+    },
+    {
+      "key": "MISSION_FINISH_UI_ADDITIONAL_REWARDS",
+      "value": "追加報酬"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OBJECTIVES",
+      "value": "目的"
+    },
+    {
+      "key": "MISSION_FINISH_UI_DETAILS",
+      "value": "詳細"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OVERVIEW",
+      "value": "概要"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED",
+      "value": "アンロックされていません。<br>以下の山に{1}で登頂すると<br>このスキルがアンロックされます。<br>{0}"
+    },
+    {
+      "key": "EXPLANATION_EVENT_GAIN_NEGATED_BY_TES",
+      "value": "現在のスキルと効果により、影響はありません"
+    },
+    {
+      "key": "SKILL_COSTS",
+      "value": "コスト:"
+    },
+    {
+      "key": "SKILL_EFFECTS",
+      "value": "効果:"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION",
+      "value": "おめでとう！<br>{0}の新しいスキルがアンロックされました！<br>{1}"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION_TITLE",
+      "value": "スキルアンロック！"
+    },
+    {
+      "key": "WINDOW_BLOCKED_DURING_WALKING",
+      "value": "このウィンドウは移動中はロックされます。"
+    },
+    {
+      "key": "OPTION_BLOCKED_DURING_WALKING",
+      "value": "このオプションは移動中はロックされます。"
+    },
+    {
+      "key": "TOGGLEHUDVISIBLE",
+      "value": "HUD切り替え"
+    },
+    {
+      "key": "PAUSEWALK_ACTIVATED_HOVER_HINT",
+      "value": "有効 - キャラクターは次のタイルで停止します。"
+    },
+    {
+      "key": "LESS_THAN_ONE_MINUTE",
+      "value": "1分未満"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_TITLE",
+      "value": "カメラ切り替え"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_DESCRIPTION",
+      "value": "ターゲットにカメラをロックオン/オフする。"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION",
+      "value": "基本値は選択した難易度により変動します"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_NORMAL",
+      "value": "基本値は選択した難易度により変動します（ノーマル）"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_HARD",
+      "value": "基本値は選択した難易度により変動します（ハード）"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_INSURMOUNTABLE",
+      "value": "基本値は選択した難易度により変動します（Insurmountable）"
+    },
+    {
+      "key": "EMPTY",
+      "value": ""
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TITLE",
+      "value": "アップデート"
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TEXT",
+      "value": "現在の登頂はバージョン{0}で作成されたものであり、バージョン{1}のInsurmountableとの互換性がありません。<br>このバージョンで新たに登頂を開始した場合、古いセーブデータは上書きされます。<br>これまでにアンロックした難易度は失われません。"
+    },
+    {
+      "key": "FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "OPTIONS_AMBIENT",
+      "value": "環境音"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TITLE",
+      "value": "New Game"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TEXT",
+      "value": "進行中のセーブファイルが上書きされます。このまま続けますか？"
+    },
+    {
+      "key": "INVALID_SAVEGAME_TEXT",
+      "value": "エラー - 進行中のセーブデータをロードできません。<br>このバージョンで新たに登頂を開始した場合、無効なセーブデータは上書きされます。<br>これまでにアンロックした難易度は失われません。"
+    },
+    {
+      "key": "HINT_6",
+      "value": "キーボードショートカットを使ってUIを隠すことができます（デフォルトホットキー: H）"
+    },
+    {
+      "key": "HINT_7",
+      "value": "テントを使わなくてもいつでも睡眠できます。ただし、テントや洞窟はあなたを寒さから守ってくれます。"
+    },
+    {
+      "key": "HINT_8",
+      "value": "キャラクター選択時に、1～3個のスキルを選択できます。山の頂上に到達することで追加のスキルをアンロックできます。"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M1SUMMIT",
+      "value": "アンロックされていません。<br>このスキルを選択するには、1つ目の山を{0}で登頂する必要があります。"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M2SUMMIT",
+      "value": "アンロックされていません。<br>このスキルを選択するには、2つ目の山を{0}で登頂する必要があります。"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_GAINED",
+      "value": "発動"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_LOST",
+      "value": "効果終了"
+    },
+    {
+      "key": "PRODFICIENCY_CURRENT_LEVEL_TITLE",
+      "value": "現在のレベル:"
+    },
+    {
+      "key": "PROFICIENCY_MAX_LEVEL_TITLE",
+      "value": "（すでに最大レベルに達しています）"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_APPENDIX",
+      "value": "（次のレベルまで）"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_GAINEDSOFAR",
+      "value": "（合計獲得経験値: {0}）"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_SUMMARY",
+      "value": "経験値を獲得:"
+    },
+    {
+      "key": "PROFICIENCY_MISSION_REWARD_TITLE",
+      "value": "ミッション報酬"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER_REWARD_TITLE",
+      "value": "キャラクター報酬"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_REWARDS_APPENDIX",
+      "value": "（ミッション報酬）"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_CHARACTERREWARDS_APPENDIX",
+      "value": "（キャラクター報酬）"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FOR_TRACKABLES",
+      "value": ":"
+    },
+    {
+      "key": "SUMMARIZE_ITEMS_HOVER_TITLE",
+      "value": "アンロックされたアイテム:"
+    },
+    {
+      "key": "DEACTIVATE_TUTORIALS",
+      "value": "チュートリアルを無効化"
+    },
+    {
+      "key": "FREELOOK",
+      "value": "見渡す"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TITLE",
+      "value": "警告"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TEXT",
+      "value": "進行中のセーブファイルがロードできず、ファイル名が変更されました。新たにセッションを開始する必要があります。私たちのDiscordサーバーで開発者に連絡を取り、破損したファイルとログを送信してください。"
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_TEXT",
+      "value": "ゲームの進行とバックアップをロードできませんでした。このエラーは、セーブまたはロードの処理が中断させられたか、プレイヤーがセーブファイルを編集した場合に発生します。ファイル名は変更され、ゲームの進行は現在リセットされています。私たちのDiscordサーバーで開発者に連絡を取り、破損したファイルとログを送信してください。"
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_OK_BACKUP_TEXT",
+      "value": "進行ファイルがロードできず、ファイル名が変更されました。一時的にバックアップがロードされています。"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_OK_BACKUP_TEXT",
+      "value": "進行中のセーブファイルをロードできませんでした。ファイル名が変更され、バックアップが復元されました。"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "リセット"
+    },
+    {
+      "key": "UI_MISSION",
+      "value": "ミッション"
+    },
+    {
+      "key": "UI_UPGRADES",
+      "value": "アップグレード"
+    },
+    {
+      "key": "UI_UPGRADES_UNASSIGNED",
+      "value": "アップグレード適用可能！"
+    },
+    {
+      "key": "MIND_BODY_PREPARATION",
+      "value": "心と体の準備"
+    },
+    {
+      "key": "MOUNTAIN_KNOWLEDGE",
+      "value": "山の知識"
+    },
+    {
+      "key": "UI_UNLOCKED_SMALL",
+      "value": "アンロック済み"
+    },
+    {
+      "key": "UI_NEW_SMALL",
+      "value": "NEW"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_TITLE",
+      "value": "このまま開始する"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_DESCRIPTION",
+      "value": "アイテムの容量が空いています。<br>インベントリに空きがあるままミッションを開始しますか？"
+    },
+    {
+      "key": "UI_INVENTORYLOADOUT_TITLE",
+      "value": "アイテムを取る"
+    },
+    {
+      "key": "UI_UPGRADE_COST",
+      "value": "コスト:"
+    },
+    {
+      "key": "UI_CHAPTER_LOCKED",
+      "value": "このチャプターはロックされています。"
+    },
+    {
+      "key": "UI_CHAPTER_NEW",
+      "value": "NEW!"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED_BUT_NEVER_ATTEMPTED",
+      "value": "このチャプターはアンロック済みですが、まだ挑戦していません。"
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_BUT_NEVER_SUCCESSFULLY",
+      "value": "まだクリアしていません。"
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_SUCCESSFULLY",
+      "value": "チャプタークリア！"
+    },
+    {
+      "key": "UI_CHAPTER_BEATENBY",
+      "value": "達成者:"
+    },
+    {
+      "key": "UI_CHAPTERSELECTION_LABEL",
+      "value": "チャプター"
+    },
+    {
+      "key": "METAGAME_PROLOGUE_TEXT",
+      "value": "RemoveThis"
+    },
+    {
+      "key": "NPC_GENERAL_DAUGHTER_NAME",
+      "value": "謎の女"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_PROFICIENCY_TITLE",
+      "value": "熟練度"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_PROFICIENCY",
+      "value": "進行度"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_REWARDS",
+      "value": "次の報酬"
+    },
+    {
+      "key": "UI_DIALOGUE_NEXT",
+      "value": "コンティニュー"
+    },
+    {
+      "key": "UI_DIALOGUE_DONE",
+      "value": "終了"
+    },
+    {
+      "key": "UI_MISSION_UNLOCKED",
+      "value": "ミッションがアンロック"
+    },
+    {
+      "key": "UI_REGION_MISSIONS_UNLOCKED",
+      "value": "サイドミッションがアンロック:"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED",
+      "value": "エリアがアンロック"
+    },
+    {
+      "key": "UI_ITEM_UNLOCKED",
+      "value": "アイテムがアンロック"
+    },
+    {
+      "key": "OPTIONS_VSYNC",
+      "value": "VSyncカウント"
+    },
+    {
+      "key": "HOVER_CHARLOCKED",
+      "value": "このキャラクターはまだアンロックされていません。<br>サイドミッションからアンロックできます。"
+    },
+    {
+      "key": "HOVER_CHARDEAD",
+      "value": "このキャラクターは登山に失敗したことでタイムループ酔いに陥っています。<br>キャラクターメニューから復活させることができます。"
+    },
+    {
+      "key": "HOVER_CHARAVAILABLE",
+      "value": "このキャラクターはアンロックされており、選択が可能です。"
+    },
+    {
+      "key": "UNKNOWN_CHAR",
+      "value": "不明なキャラクター"
+    },
+    {
+      "key": "HOVER_CHARACTIVE",
+      "value": "現在選択中"
+    },
+    {
+      "key": "DEAD_TITLE",
+      "value": "タイムループ酔い"
+    },
+    {
+      "key": "DEAD_TEXT",
+      "value": "{0}は登山に失敗したことでタイムループ酔いに陥っています。このキャラクターを使ってミッションを行うには、キャラクターメニューから復活させる必要があります。"
+    },
+    {
+      "key": "DEAD_TEXT_DIFFICULTYHASNOREVIVES",
+      "value": "{0}はタイムループ酔いにより回復不能なまでにダメージを受けています。<br>もう二度と登山は行えません…<br>すべての希望は残された仲間に託されました。"
+    },
+    {
+      "key": "REVIVE_TITLE",
+      "value": "復活"
+    },
+    {
+      "key": "REVIVE_TEXT",
+      "value": "{0}/{1}の蘇生ポイントを{2}に使用しますか？"
+    },
+    {
+      "key": "OPTIONS_VSYNC_OFF",
+      "value": "オフ"
+    },
+    {
+      "key": "GAMEOVER_TITLE",
+      "value": "ゲームオーバー"
+    },
+    {
+      "key": "GAMEOVER_TEXT",
+      "value": "キャラクターが全員死んでしまった！"
+    },
+    {
+      "key": "GAMEOVER_STARTOVER",
+      "value": "やり直す"
+    },
+    {
+      "key": "PAUSE_MENU_GIVEUP",
+      "value": "諦める"
+    },
+    {
+      "key": "GIVEUP_TITLE",
+      "value": "諦める"
+    },
+    {
+      "key": "GIVEUP_TEXT",
+      "value": "本当に諦めますか？諦めるとキャラクターは死亡します。"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_TITLE",
+      "value": "蘇生ポイント"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_DESCRIPTION",
+      "value": "タイムループ酔いによりミッションを行えなくなっているキャラクターを復活させる。"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES",
+      "value": "チームアップグレード"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_ACTIONREQUIRED",
+      "value": "チームアップグレードポイントを適用できる"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_NEW",
+      "value": "新たなアップグレードを使用可能"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS",
+      "value": "キャラクター"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_ACTIONREQUIRED",
+      "value": "キャラクターをアップグレードできる"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_NEW",
+      "value": "新たなキャラクターを使用可能"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS",
+      "value": "ミッション"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_ACTIONREQUIRED",
+      "value": "ミッションの選択が必要"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_NEW",
+      "value": "新たなミッションを選択可能"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY",
+      "value": "インベントリ"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_ACTIONREQUIRED",
+      "value": "アイテムを追加できる"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_NEW",
+      "value": "新たなアイテムを使用可能"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY",
+      "value": "熟練度"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_ACTIONREQUIRED",
+      "value": "//NOT USED YET?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_NEW",
+      "value": "//NOT USED YET?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS",
+      "value": "ステータス"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_ACTIONREQUIRED",
+      "value": "アクションが必要"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_NEW",
+      "value": "新たなステータスを使用可能"
+    },
+    {
+      "key": "MISSION_GOAL_TRACK",
+      "value": "次の目標を見つけ到達:"
+    },
+    {
+      "key": "TRACK_TILE_DEFAULT",
+      "value": "アーティファクト"
+    },
+    {
+      "key": "MISSION_WEATHER",
+      "value": "天候:"
+    },
+    {
+      "key": "SKILL_TRACKING",
+      "value": "追跡装置を使用する"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_NAME",
+      "value": "追跡装置を使用中"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_DESCRIPTION",
+      "value": "カメラを調節し、ピンを使用して目標を発見しよう"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_BUTTON",
+      "value": "プレイヤーが移動するスピードを変更する。<br>タイムコストとエネルギーコストは変化しない。"
+    },
+    {
+      "key": "CONDITION_IS_UNDER",
+      "value": "は次の上にある:"
+    },
+    {
+      "key": "CONDITION_IS_OVER",
+      "value": "は次の下にある:"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_TITLE",
+      "value": "チームアップグレード"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_DESCRIPTION",
+      "value": "キャラクター全員に効果があるアップグレード"
+    },
+    {
+      "key": "HOURS_SHORT",
+      "value": "時間"
+    },
+    {
+      "key": "SKILLDURATION_UNTIL_END_OF_MISSION",
+      "value": "ミッション終了まで効果が継続する"
+    },
+    {
+      "key": "SKILLDURATION_TEMPORARY",
+      "value": "一時的効果 - {0}時間継続"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_UNDER",
+      "value": "{0}が{1}未満の時のみ発動"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_OVER",
+      "value": "{0}が{1}より高い時のみ発動"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_TITLE",
+      "value": "追跡装置"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_DESCRIPTION",
+      "value": "一部のミッションでは、追跡装置を使用して次の目標を見つける必要があります。追跡装置は画面右下にあるスキルバーから起動/停止できます。<br><br>目標は装置起動後にカメラを動かして探すことができます。目標の位置が画面中央に近いほどシグナルは大きくなります。<br>カメラを上下に動かすことで、より精確な位置を特定することができます。"
+    },
+    {
+      "key": "MISSION_DIFFICULTY_EXPLANATION",
+      "value": "<style=\"header\">ミッション難易度</style><br><br>ミッションの総合的な難易度は星の数で表されます。<br>"
+    },
+    {
+      "key": "HINT_9",
+      "value": "カメラ自体の軸を中心にして視点を回転させれば、狭いスペースでの視界が向上します。（デフォルトキー: R）"
+    },
+    {
+      "key": "HINT_10",
+      "value": "ステータスが致命状態になると、経路が赤色になります。赤色の部分を歩くなら命懸けの覚悟しましょう！"
+    },
+    {
+      "key": "HINT_11",
+      "value": "体力が0になるとキャラクターが倒れて、登山が終わってしまいます。"
+    },
+    {
+      "key": "HINT_12",
+      "value": "天候は毎朝変化します。天候表示を常にチェックしましょう！"
+    },
+    {
+      "key": "HINT_13",
+      "value": "天候が嵐の場合、通常より多くのエネルギーが消費され、行動にも多くの時間がかかります。"
+    },
+    {
+      "key": "HINT_14",
+      "value": "寒冷な天候は、特に夜間に体温へのマイナス効果があります。"
+    },
+    {
+      "key": "HINT_15",
+      "value": "派生地形の「瓦礫」、「氷河」、「吹き溜まり」は、危険なイベントを引き起こす可能性があります。"
+    },
+    {
+      "key": "HINT_16",
+      "value": "派生地形の「深雪」と「氷の迷宮」は、一部ステータスの低下量を増加させます。"
+    },
+    {
+      "key": "HINT_17",
+      "value": "すべてのタイルは、3つの地形タイプ「岩」、「雪」、「氷」のいずれかに分類されます。各地形タイプには、危険な特性を持つ派生地形が存在します。"
+    },
+    {
+      "key": "HINT_18",
+      "value": "インベントリにあるアイテムにマウスオーバーすると、そのアイテムの効果が表示されます。"
+    },
+    {
+      "key": "HINT_19",
+      "value": "異常現象を探す時は追跡装置を使用しましょう（デフォルトキー: T）。"
+    },
+    {
+      "key": "HINT_20",
+      "value": ""
+    },
+    {
+      "key": "SKIP_CUTSCENE",
+      "value": "スキップ"
+    },
+    {
+      "key": "SCORE_MAINMISSIONS",
+      "value": "メインミッション"
+    },
+    {
+      "key": "SCORE_SIDEMISSIONS",
+      "value": "サイドミッション"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ADVENTURER",
+      "value": "冒険家熟練度"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_SCIENTIST",
+      "value": "科学者熟練度"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_JOURNALIST",
+      "value": "ジャーナリスト熟練度"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ITEM",
+      "value": "アイテム熟練度"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ENVIRONMENT",
+      "value": "環境熟練度"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_TERRAIN",
+      "value": "地形熟練度"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_EVENT",
+      "value": "イベント熟練度"
+    },
+    {
+      "key": "SCORE_DEATHS",
+      "value": "死亡ペナルティ"
+    },
+    {
+      "key": "RUN_WIN_TITLE",
+      "value": "ゲームクリア！"
+    },
+    {
+      "key": "RUN_WIN_CONTINUE",
+      "value": "メインメニュー"
+    },
+    {
+      "key": "RUN_WIN_SCORE",
+      "value": "スコア:"
+    },
+    {
+      "key": "STATVALUETYPE_CANUSETRACKING",
+      "value": "異常現象を追跡するための据え置き型装置。次の移動まで有効。"
+    },
+    {
+      "key": "TRACKING_WRONG_DIRECTION",
+      "value": "この方向からの信号はない"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_CHARACTER",
+      "value": "キャラクター熟練度"
+    },
+    {
+      "key": "INPUT_SELECT",
+      "value": "確定/選択"
+    },
+    {
+      "key": "INPUT_CANCELPATH",
+      "value": "経路をキャンセル"
+    },
+    {
+      "key": "INPUT_TOGGLEFREELOOK",
+      "value": "見渡す"
+    },
+    {
+      "key": "INPUT_ROTATECAM",
+      "value": "カメラ回転"
+    },
+    {
+      "key": "INPUT_FREELOOKCAM",
+      "value": "見渡す"
+    },
+    {
+      "key": "INPUT_STARTMOVE",
+      "value": "移動"
+    },
+    {
+      "key": "INPUT_STOPMOVE",
+      "value": "移動をやめる"
+    },
+    {
+      "key": "INPUT_TOGGLEINVENTORY",
+      "value": "インベントリを開く/閉じる"
+    },
+    {
+      "key": "INPUT_TOGGLESKILLSCREEN",
+      "value": "スキル概要を開く/閉じる"
+    },
+    {
+      "key": "INPUT_TOGGLEPAUSEMENU",
+      "value": "ポーズメニューを開く/閉じる"
+    },
+    {
+      "key": "INPUT_CANCEL",
+      "value": "キャンセル"
+    },
+    {
+      "key": "INPUT_LEVELUP",
+      "value": "レベルアップを確定"
+    },
+    {
+      "key": "INPUT_CHANGETIMELAPSE",
+      "value": "ゲームスピードを変更"
+    },
+    {
+      "key": "INPUT_TOGGLESLEEPSCREEN",
+      "value": "睡眠画面を開く/閉じる"
+    },
+    {
+      "key": "INPUT_TOGGLEHUDVISIBLE",
+      "value": "HUD切り替え"
+    },
+    {
+      "key": "INPUT_TAKEEVERYTHINGFROMLEFTOVER",
+      "value": "すべて持っていく"
+    },
+    {
+      "key": "INPUT_SHOWCURRENTMISSION",
+      "value": "現在のミッションを表示"
+    },
+    {
+      "key": "INPUT_LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "リセット"
+    },
+    {
+      "key": "INPUT_ZOOM",
+      "value": "ズームイン/アウト"
+    },
+    {
+      "key": "MISSIONSKILL",
+      "value": "追跡装置を使用する"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL1",
+      "value": "アクティブスキル（スロット1）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL2",
+      "value": "アクティブスキル（スロット2）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL3",
+      "value": "アクティブスキル（スロット3）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL4",
+      "value": "アクティブスキル（スロット4）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL5",
+      "value": "アクティブスキル（スロット5）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL6",
+      "value": "アクティブスキル（スロット6）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL7",
+      "value": "アクティブスキル（スロット7）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL8",
+      "value": "アクティブスキル（スロット8）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL9",
+      "value": "アクティブスキル（スロット9）"
+    },
+    {
+      "key": "INPUT_MISSIONSKILL",
+      "value": "追跡装置を使用する"
+    },
+    {
+      "key": "INPUT_ACTIONMENU",
+      "value": "オープンアクションメニュー"
+    },
+    {
+      "key": "CONTROLSCHEME_KEYPAD",
+      "value": "キーボードとマウス"
+    },
+    {
+      "key": "CONTROLSCHEME_GAMEPAD",
+      "value": "コントローラー"
+    },
+    {
+      "key": "INPUT_ZOOM_IN",
+      "value": "ズームイン"
+    },
+    {
+      "key": "INPUT_ZOOM_OUT",
+      "value": "ズームアウト"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE0",
+      "value": "UIナビゲーションモード（上）へ"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE1",
+      "value": "UIナビゲーションモード（左）へ"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE2",
+      "value": "UIナビゲーションモード（右）へ"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE3",
+      "value": "UIナビゲーションモード（下）へ"
+    },
+    {
+      "key": "INPUT_NAVIGATE",
+      "value": "移動"
+    },
+    {
+      "key": "INPUT_UP",
+      "value": "上に移動"
+    },
+    {
+      "key": "INPUT_DOWN",
+      "value": "下に移動"
+    },
+    {
+      "key": "INPUT_LEFT",
+      "value": "左に移動"
+    },
+    {
+      "key": "INPUT_RIGHT",
+      "value": "右に移動"
+    },
+    {
+      "key": "INPUT_MOVECURSOR",
+      "value": "タイルカーソルを移動"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL",
+      "value": "スクロール"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_UP",
+      "value": "上にスクロール"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_DOWN",
+      "value": "下にスクロール"
+    },
+    {
+      "key": "INPUT_RIGHT_STICK_PRESS",
+      "value": "右スティックを入力"
+    },
+    {
+      "key": "INPUT_LEFT_STICK_PRESS",
+      "value": "左スティックを入力"
+    },
+    {
+      "key": "INPUT_RIGHTCLICK",
+      "value": "使う/装備/アイテムを移動/チェックボックス切り替え"
+    },
+    {
+      "key": "INPUT_SUBMIT",
+      "value": "確定"
+    },
+    {
+      "key": "INPUT_CLICK",
+      "value": "選択"
+    },
+    {
+      "key": "INPUT_PROMPT_ADDCHECKPOINT",
+      "value": "チェックポイントを追加します"
+    },
+    {
+      "key": "INPUT_PROMPT_SKIPEVENTTEXTANIMATION",
+      "value": "アニメーションをスキップします"
+    },
+    {
+      "key": "INPUT_PROMPT_CLOSE",
+      "value": "選ぶ"
+    },
+    {
+      "key": "INPUT_PROMPT_USEITEM",
+      "value": "アイテムを使う"
+    },
+    {
+      "key": "INPUT_PROMPT_TAKEITEM",
+      "value": "アイテムを取ります"
+    },
+    {
+      "key": "INPUT_PROMPT_DROPITEM",
+      "value": "アイテムを落とす"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPITEM",
+      "value": "スワップアイテム"
+    },
+    {
+      "key": "INPUT_PROMPT_EQUIPITEM",
+      "value": "商品を装備する"
+    },
+    {
+      "key": "INPUT_PROMPT_UNEQUIPITEM",
+      "value": "Unequip項目"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPEQUIPMENT",
+      "value": "スワップ機器"
+    },
+    {
+      "key": "INPUT_PROMPT_ENTERHUDMODE",
+      "value": "ステータスの詳細を表示します"
+    },
+    {
+      "key": "INPUT_PROMPT_EXITHUDMODE",
+      "value": "ステータスの詳細を隠す"
+    },
+    {
+      "key": "INPUT_PROMPT_NAVIGATEHUDMODE",
+      "value": "ステータスの詳細をナビゲートします"
+    },
+    {
+      "key": "INPUT_PROMPT_CREATEPATH",
+      "value": "スタートパス"
+    },
+    {
+      "key": "CONFIRM_UNLOCK",
+      "value": "アンロック"
+    },
+    {
+      "key": "CONFIRM_UNLOCK_DESCRIPTION",
+      "value": "{0}をアンロックしますか？"
+    },
+    {
+      "key": "CONFIRM_UPGRADE",
+      "value": "アップグレード"
+    },
+    {
+      "key": "CONFIRM_UPGRADE_DESCRIPTION",
+      "value": "{0}をアップグレードしますか？"
+    },
+    {
+      "key": "CONFIRM_RESET",
+      "value": "リセット"
+    },
+    {
+      "key": "CONFIRM_RESET_DESCRIPTION",
+      "value": "{0}のアップグレードをリセットしますか？"
+    },
+    {
+      "key": "STINGER_1_1",
+      "value": "あなたは研究基地にいる。目の前にはテティベアを腕に抱えたひとりの少女が立っている。少女は驚いた様子で口を大きく開け、あなたを指差している。いや、違う。彼女が指差しているのは、割れ目の向こう側にある、岩の上で赤く輝くアミュレットだ。"
+    },
+    {
+      "key": "STINGER_1_2",
+      "value": "あなたは割れ目の中に自分の上体を入れる。徐々に狭くなっていく隙間の先にあるアミュレットをつかもうとしたその瞬間、あなたは研究基地に無理やり押し戻されてしまった。<br>頭がクラクラとし、割れ目が永久に閉じてしまうのを眺めることしかできない。そして、あなたの視界は真っ暗になった…"
+    },
+    {
+      "key": "STINGER_2_1",
+      "value": "あなたは研究基地にいる。目の前にはテティベアを腕に抱えたひとりの少女が立っている。少女は驚いた様子で口を大きく開け、あなたを指差している。いや、違う。彼女が指差しているのは、割れ目の向こう側にある、岩の上で赤く輝くアミュレットだ。"
+    },
+    {
+      "key": "STINGER_2_2",
+      "value": "あなたは割れ目の中に自分の上体を入れる。徐々に狭くなっていく隙間の先にあるアミュレットをつかもうとしたその瞬間、あなたは研究基地に無理やり押し戻されてしまった。<br>頭がクラクラとし、割れ目が永久に閉じてしまうのを眺めることしかできない。そして、あなたの視界は真っ暗になった…"
+    },
+    {
+      "key": "STINGER_3_1",
+      "value": "あなたは研究基地にいる。目の前にはテティベアを腕に抱えたひとりの少女が立っている。少女は驚いた様子で口を大きく開け、あなたを指差している。いや、違う。彼女が指差しているのは、割れ目の向こう側にある、岩の上で赤く輝くアミュレットだ。"
+    },
+    {
+      "key": "STINGER_3_2",
+      "value": "あなたは割れ目の中に自分の上体を入れる。徐々に狭くなっていく隙間の先にあるアミュレットに手をかけたその直後、あなたは研究基地に無理やり押し戻されてしまった。<br>めまいが押し寄せてくるが、目当てのものは手に入った。アミュレットは、放心状態のあなたの指から垂れ下がっている。アミュレットの輝きは失われていた。"
+    },
+    {
+      "key": "STINGER_3_3",
+      "value": "少女が慎重にあなたに近づき、まじまじとアミュレットを見つめる。すると突然、少女はあなたの手からアミュレットをかすめ取り、重厚な鉄の扉の向こうへと消えてしまった。彼女に警告するために言葉を発しようとしたが、そこで視界が真っ暗になってしまった…"
+    },
+    {
+      "key": "IGNORE_NIGHT",
+      "value": "風雨を避けて睡眠しているため、この効果は無効になる。"
+    },
+    {
+      "key": "PRIVACYPOLICY",
+      "value": "プライバシーポリシー"
+    },
+    {
+      "key": "SKILL_DRONE_NAME",
+      "value": "<style=\"supportpack\">コマンドドローン</style>"
+    },
+    {
+      "key": "SKILL_DRONE_DESCRIPTION",
+      "value": "ドローンを飛ばして近くの洞窟を探す。発見できなければ、赤く点滅する。"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_TITLE",
+      "value": "<style=\"supportpack\">サポーターパック発動</style>"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_DESCRIPTION",
+      "value": "サポーターパックが起動しました！<br>『Insurmountable』の開発をご支援いただき、誠にありがとうございます。<br>New Gameを始めるか、既存のゲームを続行すると、報酬にアクセスできます！"
+    },
+    {
+      "key": "SUPPORTERPACK_NOTIFICATION_DRONE_NOPOIFOUND",
+      "value": "洞窟が見つかりませんでした！"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED",
+      "value": "イベント時のテキストスピード"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_SLOW",
+      "value": "スロウ"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_NORMAL",
+      "value": "ノーマル"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_FAST",
+      "value": "ファスト"
+    },
+    {
+      "key": "UNIT_METERS",
+      "value": "m"
+    },
+    {
+      "key": "UNIT_MINUTES",
+      "value": "分"
+    },
+    {
+      "key": "UNIT_HOURS",
+      "value": "時間"
+    },
+    {
+      "key": "UNIT_DAYS",
+      "value": "日"
+    },
+    {
+      "key": "JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "RUSSIAN",
+      "value": "Русский"
+    },
+    {
+      "key": "CHINESESIMPLIFIED",
+      "value": "简体中文"
+    },
+    {
+      "key": "CHINESETRADITIONAL",
+      "value": "繁體中文"
+    },
+    {
+      "key": "DISCORD_JOINUS",
+      "value": "今すぐ参加しよう！"
+    },
+    {
+      "key": "LOGGING_IN_GENERIC",
+      "value": "ログイン中..."
+    },
+    {
+      "key": "LOGGING_IN_EPIC",
+      "value": "ログインして認証を行ってください"
+    }
+  ]
+}

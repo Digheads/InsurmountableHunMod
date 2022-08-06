@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "Sátor"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "Holdfű"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "Fáklya"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Mászókesztyű"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "oxigénpalack"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Tűz varázslat"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "Bőrcsizma"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "Szőrmekesztyű"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "Forró tea"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "Hótalp"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Vihar varázslat"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "Túrabot"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "Konzerv"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Kő varázslat"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Szél varázslat"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "Mászófejsze"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "Csúszásgátló"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">időjárás rakéta</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "Az aktuális időjárást tisztára változtatja."
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "Varázslat"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "Kesztyű"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "Csizma"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "Eszköz"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "Szőrmekesztyű"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "Fokozott Testhőmérséklet-emelkedés mozgás és keresés közben"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "A Föld próbája"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "Időjárás: Viharos"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "Időjárás: Hideg"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "A szél próbája"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "Éjszaka"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "Hótalp"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "Időjárás: Tiszta"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "Barátságos időjárás. Nincs hatás."
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "Mászófejsze"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "Csúszásgátló"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "Túrabot"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Mászókesztyű"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "Időjárás: Havazás"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "Bőrcsizma"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "A vihar próbája"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "Kificamodott boka"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "Paranoia"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "Csúcsláz"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "Csökkentett Energiaköltségek mozgás közben"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "Lélegzetmegőrzés"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "Csökken a Halálzóna hatása"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "(csökkentett Energiaköltség rövid ideig)"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "(csökkentett Oxigénköltség hosszabb ideig)"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "A peremén"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "Kritikus Események megelőzése 6 órán keresztül"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "Sasszem"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "Megnövelt kameranagyítás a következő mozgásig"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "Ugrás"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "Egy rés vagy egy csempe átugrása"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "Ott nem lehet átugrani!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "Túl közel van!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "Túl magasan van!"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "Céltudatos"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "Az időjárás és a terep negatív hatásainak figyelmen kívül hagyása"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "Sziklazúzás"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "Elpusztít egy akadályt 1 csempén belül"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "Elpusztít egy akadályt 2 csempén belül"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "Nincs mit elpusztítani..."
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "Túl messze van!"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "Mindig felkészült"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "A konzervek és az oxigénpalackok hatékonyabbak"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "A konzervek és az oxigénpalackok még hatékonyabbak"
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "Mászó"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség meredek terepen (2+ szintemelkedés)"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "Csökkentett Energiaköltség meredek terepen (2+ szintemelkedés)"
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "Eltökéltség"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "Egészség regenerálódása ébredéskor"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "Nagyobb mértékű Egészségregenerálódás ébredéskor"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "Korai alvó"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "Energiaregenerálódása ébredéskor"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "Nagyobb mértékű Energiaregenerálódás ébredéskor"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "A peremén"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "Erőnek erejével"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "20 Energiát kapsz 50 Oxigénért cserébe"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "Jégmester"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség jégen"
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "Jégsebesség"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "Lassabban telik az idő jégen"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "Jelentősen lassabban telik az idő jégen"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "Éjszakai mászó"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "Csökkentett Testhőmérséklet-veszteség éjszaka"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Testhőmérséklet-veszteség éjszaka"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "Egy a csillagokkal"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mászásnál éjszaka"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Energiaköltség mászásnál éjszaka"
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "Racionalitás"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "Jelentősen megnövelt maximális Józanság"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "Robusztus elme"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "Csökkentett Józanságveszteség az Események során"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Józanságveszteség az Események során"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "A végsőkig kihajtva"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "10 Józanságért cserébe 20 Energiát, 20 Testhőmérsékletet és 20 Oxigént kapsz"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "Lelkesedés"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "Energiát kapsz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "Még több Energiát kapsz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "Gyors tempó"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "Lassabban telik az idő mozgáskor"
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "Gyorsaság"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "Lassabban telik az idő az Események alatt"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "Jelentősen lassabban telik az idő az Események alatt"
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "Nyitott gondolkodású"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "Józanságot kapsz az Események után"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "Még több Józanságot kapsz az Események után"
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "Vándor"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "Lassabban telik az idő sík terepen (0-1 szintemelkedés)"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "Jelentősen lassabban telik az idő sík terepen (0-1 szintemelkedés)"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "Mély lélegzetvételek"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "Jelentősen megnövekedett maximális Oxigénszint"
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "Energikusság"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "Jelentősen megnövelt maximális Energia"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "Reggeli rutin"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "Még több Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "Cél"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "Csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "Hómester"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "Csökkentett Energiaköltségek havon"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "Hósebesség"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "Lassabban telik az idő havon"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "Jelentősen lassabban telik az idő havon"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "Az otthon kényelme"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor elfogyasztasz valamit"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "Még több Józanságot kapsz, amikor elfogyasztasz valamit"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "Gyógynövénytan"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "A tea és a gyógynövények hatékonyabbak"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "A tea és a gyógynövények még hatékonyabbak"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "Meditáció"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "Szerezz egy különleges meditációs Eseményt"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "Egy a hideggel"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor hideg időben mozogsz"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "Még több Józanságot kapsz, amikor hideg időben mozogsz"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "Egy a heggyel"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "Józanságot kapsz jégen, Oxigént havon és Testhőmérsékletet kövön"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "Még több Józanságot kapsz jégen, több Oxigént havon és további Testhőmérsékletet kövön"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "Egy a viharral"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "Oxigénszint-növekedés viharos időben történő mozgáskor"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "Jelentős Oxigénszint-növekedés viharos időben történő mozgáskor"
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "Belső tűz"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "Testhőmérsékletet nyersz óránként, mozgáskor"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "Még több Testhőmérsékletet nyersz óránként, mozgáskor"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "Kőmester"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség kövön"
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "Kősebesség"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "Lassabban telik az idő kövön"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "Jelentősen lassabban telik az idő kövön"
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "Erős test"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "Megnövekedett maximális Egészség"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "Jelentősen megnövekedett maximális Egészség"
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "Vastag bőr"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "Csökkentett Egészségveszteség az Események során"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Egészségveszteség az Események során"
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "Meleg szív"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "Jelentősen megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "Kalandor"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "Hideg, mint a jég"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "Felfedező"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "A hó szíve"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "Spirituális"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "A kő ereje"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "Mindig felkészült"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "A konzervek és az oxigénpalackok hatékonyabbak"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "Mindig felkészült"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "A konzervek és az oxigénpalackok még hatékonyabbak"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "Mászó"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "Alacsonyabb Energiaköltség meredek terepen (2+ szintemelkedés)"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "Mászó"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "Alacsonyabb Energiaköltség meredek terepen (2+ szintemelkedés)"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "Eltökéltség"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "Ébredéskor Egészséget nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "Eltökéltség"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "Ébredéskor Egészséget nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "Korai alvó"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "Energiát nyersz ébredéskor"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "Korai alvó"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "Energiát nyersz ébredéskor"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "A peremén"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "Józanságot nyersz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "A peremén"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "Józanságot nyersz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "Jégmester"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség jégen"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "Jégsebesség"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "Lassabban telik az idő jégen"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "Jégsebesség"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "Lassabban telik az idő jégen"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "Holdkóros"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "Csökkentett Testhőmérséklet-veszteség éjszaka"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "Holdkóros"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "Csökkentett Testhőmérséklet-veszteség éjszaka"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "Egy a csillagokkal"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség minden mászásnál éjszaka"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "Egy a csillagokkal"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség minden mászásnál éjszaka"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "Racionalitás"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "Racionalitás"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "Robusztus elme"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "Csökkentett Józanságveszteség Eseményekkor"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "Robusztus elme"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "Csökkentett Józanságveszteség Eseményekkor"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "A peremén"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "Kritikus Események figyelmen kívül hagyása"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "Sasszem"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "Megnövelt kameranagyítás"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "Lelkesedés"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "Energiát nyersz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "Lelkesedés"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "Energiát nyersz, amikor elérsz egy érdekes pontot"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "Gyors tempó"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "Lassabban telik az idő mozgásnál"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "Gyorsaság"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "Lassabban telik az idő az Eseményeknél"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "Gyorsaság"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "Lassabban telik az idő az Eseményeknél"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "Nyitott szemléletű"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "Józanságot kapsz az Események után"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "Nyitott szemléletű"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "Józanságot kapsz az Események után"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "Vándor"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "Lassabban telik az idő sík terepen (0-1 szintemelkedés)"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "Vándor"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "Lassabban telik az idő sík terepen (0-1 szintemelkedés)"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "Az otthon kényelme"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor elfogyasztasz valamit"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "Az otthon kényelme"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor elfogyasztasz valamit"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "Gyógynövénytan"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "A tea és a gyógynövények hatékonyabbak"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "Gyógynövénytan"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "A tea és a gyógynövények hatékonyabbak"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "Egy a hideggel"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor hideg időben mozogsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "Egy a hideggel"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "Józanságot kapsz, amikor hideg időben mozogsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "Egy a heggyel"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "Jégen Józanságot, havon Oxigént, kövön pedig Testhőmérsékletet kapsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "Egy a heggyel"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "Jégen Józanságot, havon Oxigént, kövön pedig Testhőmérsékletet kapsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "Egy a viharral"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "Viharos időben történő mozgás közben Oxigénhez jutsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "Egy a viharral"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "Viharos időben történő mozgás közben további Oxigénhez jutsz"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "Single-Minded"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "A negatív környezeti és terephatások figyelmen kívül hagyása"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "Mély lélegzetvételek"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "Mély lélegzetvételek"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "Energikusság"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "Energikusság"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "Reggeli rutin"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "Reggeli rutin"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "Cél"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "Csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "Cél"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "Csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "Hómester"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "Csökkentett Energiaköltségek havon"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "Hósebesség"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "Lassabban telik az idő havon"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "Hósebesség"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "Lassabban telik az idő havon"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "Belső tűz"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "Testhőmérsékletnövekedés mozgás közben"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "Belső tűz"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "További Testhőmérsékletnövekedés mozgás közben"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "Kőmester"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség kövön"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "Kősebesség"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség kövön"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "Kősebesség"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "Lassabban telik az idő kövön"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "Erős test"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "Megnövelt maximális Életerő"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "Erős test"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "Megnövelt maximális Életerő"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "Vastag bőr"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "Csökkentett Egészségveszteség az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "Vastag bőr"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "Csökkentett Egészségveszteség az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "Meleg szív"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "Meleg szív"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "Alvás (barlang)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "Egy barlangban alszol.<br>Csökkentett Testhőmérséklet-veszteség, megnövekedett Energiagyarapodás."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "Alvás (kint)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "Sátor nélkül alszol a szabadban.<br>Megnövekedett Testhőmérséklet-csökkenés, csökkentett Energiagyarapodás."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "Alvás (sátor)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "Sátorban alszol.<br>Csökkentett Testhőmérséklet-veszteség, megnövekedett Energiagyarapodás."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "Hóvihar"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "Az időjárás ezen az útvonalon kegyetlen.<br>A hideg időjárásnak fokozott hatásai vannak."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "Hideg éjszakák"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "Az éjszakák ezen az útvonalon hidegebbek a szokásosnál.<br>Megnövekedett éjszakai Testhőmérséklet-veszteség."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "Hátborzongató környezet"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "Árnyékok és zajok követnek ezen az útvonalon."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "Durva terep"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "A terep ezen az útvonalon nagy kihívást jelent."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "Súlyos viharok"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "Ezen az útvonalon heves viharok vannak.<br>A viharok hatásai fokozódnak."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "Légszomj"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "Ezen az útvonalon nehezebb a légzés."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "Szilárd hó"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "A havas terep jobb tapadást biztosít ezen az útvonalon."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "Stabil jég"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "A jeges terep jobb tapadást biztosít ezen az útvonalon."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "Szilárd szikla"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "A köves terep jobb tapadást biztosít ezen az útvonalon."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "Sűrű levegő"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "Ezen az útvonalon a levegő friss és tiszta."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "Szokatlan jelenségek"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "Ez az útvonal számos felfedezést tartogat."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "Meleg éjszakák"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "Ezen az útvonalon az éjszakák melegebbek a szokásosnál."
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "Fagyott lábujjak"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "A lábujjaid megfagytak"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "Sérült boka"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "A bokád megsérült"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "Magassági betegség"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "Magassági betegségben szenvedsz"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "Rémálmok"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "Rémálmoktól szenvedsz"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "Kimerültség"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "Kimerültségben szenvedsz"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "Megfagyva"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "A csípős hideg megvisel"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "Meleg pihenés"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "A hideg elől védve alszol"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "Környezetvédelem"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "Ideiglenes hatások, amelyeket az idő és a hegyen való elhelyezkedés okoz.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "Felszerelések"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "A felszerelések hatásai.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "Sebhelyek"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "A hegyek terheinek maradandó hatásai.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "Ideiglenes plusszok"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "Átmeneti pozitív hatások.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "Ideiglenes bénítások"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "Ideiglenes negatív hatások.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "Vonások"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "Szintlépés során szerzett hatások.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "Mélyhó"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "Megnövekedett Energiaköltség mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "Gleccser"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "Veszély - Kiszámíthatatlan dolgok történhetnek..."
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "Jéglabirintus"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "Gyorsabban telik az idő és további Testhőmérséklet-veszteség mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "Törmelék"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "Veszély - Kiszámíthatatlan dolgok történhetnek..."
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "Hófúvás"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "Veszély - Kiszámíthatatlan dolgok történhetnek..."
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "Vulkanikus kőzet"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "Fokozott Oxigénveszteség és Testhőmérséklet-emelkedés mozgás közben"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "Sérült kéz"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "Megnövekedett Energiaköltség meredek terepen (2+ szintemelkedés)"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "Sérült fej"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "Csökkentett Tapasztalatszerzés"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "Lassabban telik az idő, megnövekedett Energiaköltség és további Testhőmérséklet-emelkedés mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "Lassabban telik az idő, megnövekedett Energiaköltség és további Testhőmérséklet-emelkedés mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "Sérült felsőtest"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "Fáj a lélegzetvétel"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "Sérült láb"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "Megnövekedett Energiaköltség minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "Hóvakság"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "Gyorsabban telik az idő minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "Sűrű hóvihar"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "Az időjárás ezen az útvonalon könyörtelen."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "Nagyon hideg éjszakák"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "Ezen az útvonalon az éjszakák hidegebbek a szokásosnál."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "Nagyon hátborzongató környezet"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "Árnyékok és zajok követnek ezen az útvonalon."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "Nagyon durva terep"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "Ezt az utat nehéz leküzdeni."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "Nagyon heves viharok"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "Ezen az útvonalon heves viharok vannak."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "Nagy légszomj"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "Ezen az útvonalon nehezebb a légzés."
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "{0} Energiaköltség sík terepen"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "{0} Energiaköltség mászáskor (1 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "{0} Energiaköltség mászáskor (2 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "{0} Energiaköltség mászáskor (3 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "{0} Energiaköltség mászáskor (4 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "{0} Energiaköltség mászáskor (5 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "{0} Energiaköltség mászáskor (6 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "{0} Energiaköltség minden terepen"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "{0} Energiaköltség minden terepen"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "{0} Energiaköltség kövön"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "{0} Energiaköltség havon"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "{0} Energiaköltség jégen"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "{0} Energiaköltség sík terepen"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "{0} időköltség mászáskor (1 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "{0} időköltség mászáskor (2 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "{0} időköltség mászáskor (3 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "{0} időköltség mászáskor (4 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "{0} időköltség mászáskor (5 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "{0} időköltség mászáskor (6 magasságkülönbség)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "{0} időköltség minden terepen"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "{0} időköltség minden terepen"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "{0} időköltség kövön"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "{0} időköltség havon"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "{0} időköltség jegen"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "{0} Energia óránként, pihenéskor"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "{0} Energia óránként, pihenéskor"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "{0} Józanság óránként, mozgáskor"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "{0} Józanság óránként, mozgáskor"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "{0} Józanság óránként, kövön haladva"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "{0} Józanság óránként, kövön haladva"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "{0} Józanság óránként, havon haladva"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "{0} Józanság óránként, havon haladva"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "{0} Józanság óránként, jégen haladva"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "{0} Józanság óránként, jégen haladva"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "{0} Józanság óránként, pihenés/Események során"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "{0} Józanság óránként, pihenés/Események során"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "{0} Testhőmérséklet óránként, mozgáskor"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "{0} Testhőmérséklet óránként, mozgáskor"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "{0} Testhőmérséklet óránként, kövön haladva"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "{0} Testhőmérséklet óránként, kövön haladva"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "{0} Testhőmérséklet óránként, havon haladva"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "{0} Testhőmérséklet óránként, havon haladva"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "{0} Testhőmérséklet óránként, jégen haladva"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "{0} Testhőmérséklet óránként, jégen haladva"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "{0} Testhőmérséklet óránként, pihenés/Események során"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "{0} Testhőmérséklet óránként, pihenés/Események során"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "{0} Oxigén óránként, mozgáskor"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "{0} Oxigén óránként, mozgáskor"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "{0} Oxigén óránként, kövön haladva"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "{0} Oxigén óránként, kövön haladva"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "{0} Oxigén óránként, havon haladva"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "{0} Oxigén óránként, havon haladva"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "{0} Oxigén óránként, jégen haladva"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "{0} Oxigén óránként, jégen haladva"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "{0} Oxigén óránként, pihenés/Események során"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "{0} Oxigén óránként, pihenés/Események során"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "{0} maximum kameratávolság"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "{0} Energianyereség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "{0} Energiaveszteség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "{0} Energianyereség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "{0} Energiaveszteség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "{0} Testhőmérséklet-emelkedés Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "{0} Testhőmérséklet-csökkenés Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "{0} Testhőmérséklet-emelkedés Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "{0} Testhőmérséklet-csökkenés Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "{0} Oxigéngyarapodás Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "{0} Oxigénveszteség az Események során"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "{0} Oxigéngyarapodás Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "{0} Oxigénveszteség az Események során"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "{0} Józanságnyereség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "{0} Józanságveszteség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "{0} Józanságnyereség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "{0} Józanságveszteség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "{0} Egészségnyereség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "{0} Egészségveszteség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "{0} Egészségnyereség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "{0} Egészségveszteség Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "{0} Tapasztalatszerzés Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "{0} Tapasztalatszerzés Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "{0} időmúlás Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "{0} időmúlás Eseményekkor"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "{0} hatásosság teánál és gyógynövényeknél"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "{0} hatásosság konzerveknél és oxigénpalackoknál"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "{0} maximális Egészség"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "{0} maximális Energia"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "{0} maximális Józanság"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "{0} maximális Testhőmérséklet"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "{0} maximális Oxigénszint"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "{0} csillapodás minden megszakítási Eseménynél"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "{0} csillapodás kritikus Eseményeknél"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "{0} csillapodás a terepmegszakítási Eseményeknél"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "Kötél"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "Mássz le egy alacsonyabb csempére"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "Ott nem lehet kötélen lecsúszni!"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "A célcsempének az aktuális csempe alatt kell lennie!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "Kampó"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "Gyorsan mássz fel egy magasabb csempére"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "Ott nem lehet megkapaszkodni!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "A célcsempének az aktuális csempe fölött kell lennie!"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "(Magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "(Magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "(Magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "Magas minőség"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "Magas minőség"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "Magas minőség"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "Szőrmecsizma"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "Meleg sapka"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "Védősisak"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "Oxigénmaszk"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "Fejlámpa"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "{0} javított fénysugár"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "Jégcsákány"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "Zseblámpa"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "Csak ekkor aktív: {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "Amikor felébredsz, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "Amikor elérsz egy érdekes pontot, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "Amikor elfogyasztasz valamit, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "{0} Energiát nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "{0} Energiát vesztesz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "{0} Testhőmérsékletet nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "{0} Testhőmérsékletet vesztesz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "{0} Oxigént nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "{0} Oxigént vesztesz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "{0} Józanságot nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "{0} Józanságot vesztesz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "{0} Egészséget nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "{0} Egészséget vesztesz"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "{0} Tapasztalatot szerzel"
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "Adrenalin"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, némi Energiát kapsz"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, Energiát kapsz"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "Sűrű vér"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "Gyengíti a Halálzóna hatását"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "Tovább gyengíti a Halálzóna hatását"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "Akklimatizált"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "Gyengíti a hideg időjárás hatását"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "Tovább gyengíti a hideg időjárás hatását"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "Kitartás"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "Gyengíti a viharos időjárás hatását"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "Tovább gyengíti a viharos időjárás hatását"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "Égő ambíció"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "Testhőmérséklet-emelkedés óránként"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "Fokozott Testhőmérséklet-emelkedés óránként"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "Erős tüdő"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "Oxigénszint-emelkedés óránként"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "Jelentősen megnövekedett Oxigénszint-emelkedés óránként"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "Könnyű lépcsőfokok"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség sík terepen"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Energiaköltség sík terepen"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "Elsősegély"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "Tölts el egy kis időt a sebeid begyógyításával"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "Refocus"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "Tölts el egy kis időt a Józanságod visszanyerésével"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "Elemzés"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "Tölts el egy kis időt, hogy Tapasztalatot szerezz"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "Bemelegítés"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "Testhőmérséklet-növekedés némi Energiáért cserébe"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "Légzőgyakorlat"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "Oxigénszint-növekedés némi Testhőmérsékletért cserébe"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "Lassabban telik az idő és további Testhőmérséklet-emelkedés mozgáskor"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "Mestermászó"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség minden terepen"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "Jelentősen csökkentett Energiaköltség minden terepen"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "Egy a jéggel"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "Józanságot nyersz vissza, miközben jégen haladsz"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "Még több Józanságot nyersz vissza, miközben jégen haladsz"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "Egy a hóval"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "Oxigént szerzel vissza, miközben havon haladsz"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "Még több Oxigént szerzel vissza, miközben havon haladsz"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "Egy a kővel"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "Testhőmérsékletet kapsz, miközben kövön haladsz"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "Még több Testhőmérsékletet kapsz, miközben kövön haladsz"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "Alpesi stílus"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "Lassabban telik az idő minden terepen"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "Jelentősen lassabban telik az idő minden terepen"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "Hatékonyság"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "Csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "Jelentősen lecsökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "Megállíthatatlan"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "Amikor kritikus Eseményt szenvedsz el, visszanyersz egy kis Energiát, Testhőmérsékletet, Oxigént és Józanságot"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "Amikor kritikus Eseményt szenvedsz el, Energiát, Testhőmérsékletet, Oxigént és Józanságot nyersz vissza"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "Lassabban telik az idő, megnövekedett Energiaköltség és további Testhőmérséklet-emelkedés mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "Fagyott kezek"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "A kezed megfagyott"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "Izomfáradtság"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "Az egész tested fáj mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "Tartós köhögés"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "Úgy tűnik, nem tudod abbahagyni a köhögést"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "Csúcsláz"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "Megszállottja vagy, hogy bármi áron elérd a csúcsot"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "Kétely"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "Kezdesz azon tűnődni, hogy ez az egész egy tévedés vajon..."
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "Önhittség"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "Kezdesz túl magabiztos lenni"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "Adrenalin"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, nyersz némi Energiát"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "Adrenalin"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, Energiát nyersz"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "Sűrű vér"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "Gyengíti a Halálzóna hatását"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "Sűrű vér"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "Tovább gyengíti a Halálzóna hatását"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "Akklimatizált"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "Gyengíti a hideg időjárás hatását"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "Akklimatizált"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "Tovább gyengíti a hideg időjárás hatását"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "Kitartás"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "Gyengíti a viharos időjárás hatását"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "Kitartás"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "Tovább gyengíti a viharos időjárás hatását"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "Égő ambíció"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "Fokozott Testhőmérséklet-emelkedés óránként"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "Égő ambíció"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "Jelentősen megnövekedett Testhőmérséklet-emelkedés óránként"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "Erős tüdő"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "Fokozott Oxigéngyarapodás óránként"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "Erős tüdő"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "Jelentősen megnövekedett Oxigénszerzés óránként"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "Könnyű lépcsőfokok"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "Könnyű lépcsőfokok"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "Jelentősen csökkentett Energiaköltség minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "Lassabban telik az idő és további Testhőmérséklet-emelkedés mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "Mestermászó"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "Mestermászó"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "Jelentősen csökkentett Energiaköltség minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "Egy a jéggel"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "Józanságot nyersz vissza, miközben jégen mozogsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "Egy a jéggel"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "Több Józanságot nyersz vissza, miközben jégen mozogsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "Egy a hóval"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "Oxigént szerzel vissza, miközben havon mozogsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "Egy a hóval"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "Több Oxigén szerzel vissza, miközben havon mozogsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "Egy a kővel"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "Testhőmérsékletet kapsz, miközben kövön haladsz"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "Egy a kővel"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "Több Testhőmérsékletet kapsz, miközben kövön haladsz"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "Alpesi stílus"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "Lassabban telik az idő minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "Alpesi stílus"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "Jelentősen lassabban telik az idő minden terepen"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "Hatékonyság"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "Csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "Hatékonyság"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "Jelentősen csökkentett Energiaveszteség az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "Megállíthatatlan"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "Amikor kritikus Eseményt szenvedsz el, visszanyersz egy kis Energiát, Testhőmérsékletet, Oxigént és Józanságot"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "Megállíthatatlan"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "Amikor kritikus Eseményt szenvedsz el, Energiát, Testhőmérsékletet, Oxigént és Józanságot nyersz vissza"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "Fej"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "Szőrmecsizma (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "Védősisak (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "Oxigénmaszk (magas minőségű)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "Fejlámpa (magas minőségű)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "Meleg sapka (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "Hegymászó fejsze (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "Mászókesztyű (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "Szőrmekesztyű (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "Túrabot (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "Csúszásgátló (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "Hócipő (magas minőségű)"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "Bőrcsizma (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "Jégcsákány (magas minőség)"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "A tűz próbája"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "Bátorság"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, némi Tapasztalatot kapsz"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "Bátorság"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, némi Tapasztalatot kapsz"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "Óvatos lépések"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "Tölts el több időt mozogással, de kerüld el a veszélyes terepet"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "Óvatos lépések"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "Tölts el több időt mozogással, de kerüld el a veszélyes terepet"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "Éjszakai bagoly"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "Több Tapasztalat az éjszakai Eseményeken"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "Több Tapasztalat az éjszakai Eseményeken"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "Éjszakai bagoly"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "Több Tapasztalat az éjszakai Eseményeken"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "Éjszakai bagoly"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "Több Tapasztalat az éjszakai Eseményeken"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "Meredek mászó"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "A meredek terepen történő mozgás könnyebb"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "Eseményszakértő"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "Megnövelt hatékonyság az Eseményeken"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "Síkterepszakértő"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "A sík terepen történő mozgás könnyebb"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "Speciálisterep-szakértő"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "A veszélyes terepen történő mozgás könnyebb"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "Éjszakai mászó"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "Az éjszakai hegymászásra egyszerűbb"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "Fogyasztási cikkek szakértője"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "Fogyasztási cikkek felhasználása hatásosabb"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "Általános Képességek"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "Segít különböző helyzetekben"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "Amikor veszélyes terepeseményt szenvedsz el, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "Amikor kritikus Eseményt szenvedsz el, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "Fáklya"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "Megnövekedett fénysugár"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "Lámpa"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "Megnövekedett fénysugár"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "Lámpa"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "Nagyban megnövekedett fénysugár"
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "{0} fénysugár"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "Kötszer"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "Semleges Képességek"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "Specializációtól függetlenül választható"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "Halálzóna"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "Oxigénveszteség mozgás és pihenés közben, továbbá az Események során."
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "Jó Lelkiismeret"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "Jól érzed magad a bőrödben"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "Hősiesség"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "Hősnek érzed magad"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "Amikor szintet lépsz, {0}"
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "Regeneráció"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "Egészségnövekedés élelem elfogyasztásakor"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "Regeneráció"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "Izgalomkereső"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "Józanságot kapsz, amíg Halálzónában vagy"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": "Izgalomkereső"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "Barkácsoló"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "Használd a találékonyságodat, hogy saját felszerelést hozzhass létre"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "Őrült tudós"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "Józanságot cserélhetsz egy választott ideiglenes Képességre"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "Őrült tudós"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "Őrült tudós"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "Őrült tudós"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "Őrült tudós"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "Oknyomozó újságírás"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "Amikor elérsz egy érdekes pontot, némi Tapasztalatot kapsz"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "Oknyomozó újságírás"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Tudásszomj"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "Nyerj egy kis Energiát, Testhőmérsékletet, Oxigént, Józanságot és Egészséget, mikor szintet lépsz"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Tudásszomj"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "Zöld jelzőfényű pisztoly"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "Kereskedőt hív."
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "Vörös jelzőfényű pisztoly"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "Segítséget hív."
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "Biztonsági kötél"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "Korlátozott ideig figyelmen kívül hagyja a veszélyes terepet."
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "Mászókötél"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "Korlátozott ideig csökkenti a mászás Energiaköltségét."
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "Mászóhorgok"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "Korlátozott ideig csökkenti a mászás Energiaköltségét."
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "Inspiráció"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "Visszaállítja az Energiát és csökkenti az összes aktuálisan kimerülőben lévő Képesség kimerülési idejét"
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "Csökkenti az összes aktív kimerülési időt {0} {1}-vel."
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "Terepismeret"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "Segít enavigálni a tereptípusokban"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Terepismeret: Jég"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség jégen"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Terepismeret: Hó"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség havon"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Terepismeret: Szikla"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség sziklán"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Terepismeret: Veszélyek"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "Javítja a védelmet a veszélyes terep által okozott Eseményekkel szemben"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Terepismeret: Jég"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "{0} csökkentett Energiaköltség jégen"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Terepismeret: Hó"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "{0} csökkentett Energiaköltség havon"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Terepismeret: Szikla"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "{0} csökkentett Energiaköltség sziklán"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Terepismeret: Veszélyek"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "{0} javított védelem a terepmegszakítási Eseményekkel szemben"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "Természetismeret"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "Segít szembenézni a hegyek veszélyeivel"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "Hidegidőjárás-ellenállás"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "Csökkentett Testhőmérséklet-veszteség hideg időben"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Halálzóna-ellenállás"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "Csökkentett Oxigénveszteség a Halálzónában"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "Éjszakaellenállás"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "Csökkentett Testhőmérséklet-veszteség éjszaka"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "Viharellenállás"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség-hatások viharos időjárás esetén"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "Hidegidőjárás-ellenállás"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "{0} csökkentett Testhőmérséklet-veszteség hideg időben"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Halálzóna-ellenállás"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "{0} csökkent Oxigénveszteség a Halálzónában"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "Éjszakaellenállás"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "{0} csökkentett Testhőmérséklet-veszteség éjszaka"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "Viharellenállás"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "{0} csökkentett Energiaköltségű hatások viharos időben"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "Kapacitás"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "Meghatározza, hogy hány tárgyat vihetsz magaddal a bázisról"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "A kezdet"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "Vad hegycsúcsok tornyosulnak az égbe.<br>A sziget sok éven át el volt vágva a külvilágtól.<br>De most eljött az idő, hogy felfedezd a hegyvonulatot és kitöltsd a térképen lévő üres helyeket."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "Érd el a csúcsot és írj történelmet."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "Sugárzás"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "Ismeretlen"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "Állítólag van egy antenna magasan a csúcson, amely felerősíti az elektromágneses sugárzást. Ki kell derítenie, milyen hatással van ez az amulettre."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "Egy újabb hegy vár rád, hogy meghódítsd. Előbb azonban elegendő mellékküldetést kell teljesítened ahhoz, hogy feloldhasd."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "Vidd az amulettet a csúcsra, majd érd el a célt."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "Ismeretlen"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "Robbanóerő"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "Ismeretlen"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "A feltöltött amulettet a hegyek legmagasabb csúcsára kell vinned, hogy elpusztítsd az időhurkot."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "Még a legmagasabb és leghatalmasabb hegyet is meg kell másznod. Teljesítsd az összes követelményt a feloldásához."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "Érd el a csúcsot, és menekülj ki az időhurokból."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "Ismeretlen"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "Prológus"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "1. fejezet"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "2. fejezet"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "3. fejezet"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "A szemeid kipattannak. Hol vagy? Mi történt? Próbálsz emlékezni. Ott volt az a kapu, amin átmentem..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "Összezavarodtál? Ne aggódj; ez normális, persze, ha magánál vagy, amikor áthaladsz az időhurokon. Biztos a sugárzás miatt van."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "Időhurok? Sugárzás? Miről beszél ez az ember? És ki ő? Lehet, hogy hallucinálsz? Megpillantod az előtted lévő asztalon heverő, izzó zöld amulettet. Biztos vagy benne, hogy láttad már ezt a követ. Hirtelen minden beugrik. A csendes fiatal nő, aki megmentett, mikor majdnem beleestél egy hasadékba. Miért nem mondtad el mindezt korábban?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "Hittél volna nekem? Egyáltalán nem, igaz? Szükségem volt rá, hogy velem jöjj. Fontos volt, hogy a saját szemeddel lásd... és, hogy valóban a saját bőrödön tapasztald meg. Tudom, hogy ez az egész őrültségnek tűnik, szóval mindent a maga idejében: Egy időhurokban vagyunk, és ezen a szigeten ragadtunk. De van egy ötletem, hogy hogyan tudnánk megszökni. Csak előbb el kell végeznem néhány számítást."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "Már kitaláltam hogyan segíthetnél. Amint úgy érzed, hogy felépültél, ki kell menned és meg kell próbálnod valahogyan információt szerezned nekem. Ha kimozdulsz, azzal fejleszted a Képességeidet is és egyben tapasztaltabbá válsz. Fogd az amulettemet. Ez amellett, hogy az egyetlen reményünk arra, hogy visszafordíthassuk az időhurkot, mindemellett ki is visz minket innen, vissza az állomásra."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "Először is fedezd fel a területet, és ismerkedj meg a kő erejével.<br>Tudom, hogy most túl sokat kérek, de nincs más megoldás. Bíznod kell bennem."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "A fejed lüktet. Mondani akarsz valamit, de a beszédkészséged cserbenhagy. Csak fekszel ott, némán és mozdulatlanul. A titokzatos idegen aggódó arckifejezéssel vizsgál téged."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "Mi baj van? Ó... rendben, értem. Olyasmit talált, amit az agyad nem tud feldolgozni. Aztán meg... meghalni az időhurok teljes tudatában... ez megviseli az embert."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "Sajnálom, hogy ilyen helyzetbe hoztalak. Tudod... évekbe telt, mire megértettem mindezt. Különösen a kő jelentősége maradt rejtély számomra hosszú-hosszú ideig. Ez a kulcs ehhez a börtönhöz."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "S, ha már a börtönnél tartunk: Életben kell maradnod és el kell jutnod a kikalkulált célhoz, hogy a kő elég sugárzást tudjon elnyelni. Kérlek, tarts ki! Biztos vagyok benne, hogy legközelebb sikerülni fog."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "Ott fekszel, a fejed lüktet, alig vagy képes mozogni vagy beszélni. Még a titokzatos idegen is valahogy másnak tűnik, a hangja furcsán torz..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "Valami nem úgy sült el, mi? Hát, megesik az ilyesmi. Azonban kérlek, próbáld meg újra! Az amulettnek el kell nyelnie a sugárzást! A csúcson lévő antenna segít abban, hogy elegendő elektromágneses sugárzást kapjon. Ez az egyetlen kiút ebből az időhurokból."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "Amikor felébredsz, azonnal a titokzatos idegen felé nézel. Az arckifejezése nem árulja el, hogy az időhurok visszafordítására tett kísérleted sikeres volt-e. Izgatottan mesélsz neki mindenről, amit láttál, beleértve az antennán lévő monogramot is. Tudni akaod, hogy mit jelentenek."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "Nem látod? Már legalább egyszer voltál odafent. Valószínűleg többször is. Mi is sokszor találkoztunk már egymással. Ott kint és itt az állomáson. De nem hittél nekem. Csak amióta nálad van az amulett, azóta tartanak az emlékeid egy időhurokon is túl. Ez tette lehetővé, hogy visszanyerd az eszméletedet, most már mindenre emlékszel."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "Kételyek mardosnak. A fájdalom és a félelem, hogy örökre itt ragadtál... miért nem mondott el mindent az idegen már az elején? És mit titkolhat még mindig?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "Tudom, hogy a helyzet, amelyben vagyunk, nem könnyű. Időt akartam adni neked, hogy megszokd ezt az egészet. Tudod... nekem évekbe telt, mire mindezt megértettem. Különösen a kő jelentősége maradt rejtély számomra hosszú-hosszú ideig. Ez a börtön kulcsa."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "Börtön? Nagyot nyelsz. Ez azt jelenti, hogy hiába másztam meg a csúcsot az antennával, még mindig az időhurokban vagyunk?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "A kő túlmelegedett, ahogy annak lennie kell. De az időhurok nem szakadt meg. Kérlek, adj időt, hogy átgondoljam a dolgot. Még nincs vége..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "Amikor felébredsz, azonnal a titokzatos idegen felé nézel. Csalódott arckifejezést visel. Nem sikerült? Megpróbálsz nyugodt maradni; elmeséled neki hogyan változott meg a kő, s hogyan kezdett el vörösesen izzani."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "A kő túlmelegedett, ahogy annak lennie kell. De az időhurok nem szakadt meg. Kérlek, adj időt, hogy átgondoljam a dolgot. Még nincs vége..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "Olyan közel vagyunk ahhoz, hogy destabilizáljuk az időhurkot. Amíg még vér folyik az ereidben, addig tovább kell próbálkoznod! Kérlek!"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "Még egy dolog: Ha magaddal viszed a követ és véletlenül meghalsz odakint, akkor visszatérsz az állomásra, de... megváltozva. A tested sértetlen marad, de az elméd ködös lesz, mintha egyfajta éber kómában lennél. Ezt a betegséget időhurok-betegségnek hívom."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "Van gyógymód, de a készleteim végesek. Ha egyszer kifogynak, nem sokat tehetek. A legjobb, ha megpróbálsz életben maradni."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "Még egy dolog: Ha magaddal viszed a követ és véletlenül meghalsz odakint, akkor visszatérsz az állomásra, de... megváltozva. A tested sértetlen marad, de az elméd ködös lesz, mintha egyfajta éber kómában lennél. Ezt a betegséget időhurok-betegségnek hívom."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "Van rá gyógymód, de a készleteim lassan kifogynak. Már csak egyszer tudlak visszahozni ebből az állapotból. Csak egyetlen egyszer, megértetted?"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "Még egy dolog: Ha magaddal viszed a követ és véletlenül meghalsz odakint, akkor visszatérsz az állomásra, de... megváltozva. A tested sértetlen marad, de az elméd ködös lesz, mintha egyfajta éber kómában lennél. Ezt a betegséget időhurok-betegségnek hívom."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "Van gyógymód, de a készleteim teljesen elfogytak. Ez aligha jelent vigaszt, de még nincs vége. Amíg egyikőtök életben van, addig még van esélyünk..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "A hegy könyörtelen, nem igaz? De kérlek, próbálkozz tovább. Olyan régóta várok már arra, hogy végre felbukkanjon valaki a Képességeiddel..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "Tudom, mit áldozol fel azért, hogy mindkettőnket kijuttass innen. Azonban a kemény munka kifizetődik. Olyan közel vagyunk ahhoz, hogy megtaláljuk a kiutat ebből a börtönből. Nem adhatod fel..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "Soha ne add fel. Hallod, amit mondok? Soha! Ha van egy lecke, amit megtanulhattam az állomáson töltött magányos évek alatt, az az, hogy folytatni kell."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "Üdvözöllek újra itthon! Úgy tűnik, mintha meghaltál volna odakint. Áh, nos, nem számít. Bármikor megpróbálhatod újra."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "Jaj, ne, szörnyen nézel ki. Mi történt? Nem kell beszélned róla, ha nem akarsz. Biztos vagyok benne, hogy egy kis pihenés után sokkal jobban fogod érezni magad."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "Mi történt? Baleset? Megfagytál, vagy esetleg megfulladtál? Elég kényelmetlen lehetett, nemigaz? Talán hasznos lenne, ha megpróbálnál más stratégiát kitalálni."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "Nos, azt mondják, hogy a hegy <i>leküzdhetetlen</i>. De még neked is?"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "Kiváló, sikeresen teljesítetted a feladatot. Tényleg nagyon kemény volt odakint?"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "Szép munka. Egy fantasztikus hegymászó vagy. Ha továbbra is ilyen jól haladsz, biztosan ki fogunk törni az időhurokból."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "Lenyűgöző Képességeid vannak. S minden egyes küldetés teljesítésével egyre jobb és jobb leszel. Őszintén szólva, az ideérkezése visszaadta a bizalmamat, hogy egy nap végre megmenekülünk..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "Bravó! Az alpesi Képességeid lenyűgözőek. Én egy napot sem bírnék ki odakint."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "Az, ahogyan dacolsz az elemekkel és nem hagyod, hogy bármi is megzavarjon, egyszerűen figyelemre méltó. Nagyon jó vagy! Jobb, mint vártam."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "Azt hiszem, megértetted, hogy mi az, ami itt fent igazán számít: a tanulási hajlandóság és az új, és váratlan helyzetekhez való alkalmazkodás."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "Ó, egydarabban értél vissza! Úgy tűnik, újra kell definiálnunk a <i>leküzdhetetlen</i> szót, ha rólad van szó."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "Hallasz engem? Ott vagy egyáltalán? Pusztító, amit az időhurok-betegség művel az emberrel."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "De még mindig van egy halvány reménysugár. Amíg egyikőtök még életben van, addig talán kijuthatunk az időhurokból..."
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "Tehát, több időre van szükséged a felkészülésre? Ez nagyon bölcs dolog!"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "Ilyen hamar vissza is értél? Történt valami? Á, értem, még nem állsz készen. Aggodalomra semmi ok."
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "Elfelejtettél valamit? Miért jöttél vissza?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "Hogyan lehetséges ez? Pár másodperccel ezelőtt még a hegyen voltál, most pedig hirtelen újra itt vagy ezen a furcsa állomáson. A titokzatos idegen is itt van, mintha csak rád várt volna."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "A kő visszavisz ide, amint meghallod a szirénát, amikor az idő visszaáll. Vélhetően amiatt, mert a kő visszakerül a kezdeti helyére, ott ahol találtuk."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "Tudnod kell, hogy egy elhagyatott kutatóállomáson vagyunk, ahol gammasugárzással kapcsolatos kísérleteket végeztek. Nyilvánvalóan egy gigantikus elektromágneses erőteret akartak létrehozni. Az egész sziget lényegében egy lezárt terület volt. Szinte senki sem tudott a létezéséről."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "De valami rosszul sült el. Valamiféle üzemzavar. A felszabadult elektromágneses sugárzás számtalan anomáliát okozott az egész hegységben; végső soron ezeknek kellett kiváltaniuk az időhurkot. Az idő csak az állomáson telik normálisan. Talán azért, mert ott keletkeztek az anomáliák? Nem tudom. Mindenesetre a szomszédos szobában megtaláltam az izzó követ. Ez minden, ami a kísérletekből megmaradt."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "Attól tartok, nem tudok jobb magyarázatot adni. Sok minden ugyanolyan érthetetlen számomra, mint neked. Azonban van egy dolog, amire rájöttem: A kő reagál a sugárzásra. Enélkül nem leszünk sikeresek. Kérlek, folytasd az előkészületeket, hogy végül kijuthassunk innen."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "A füleid még mindig csengenek, de lassan kezded megszokni a rendellenesség mellékhatásait. Úgy tűnik, a titokzatos idegen ismét rád vár. Tudni akarod, mi történt a kutatóállomás korábbi lakóival."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "Ez egy megoldatlan rejtély. Hidd el, nagyon sokáig kerestem a választ. Egyszerűen eltűntek. Mindent hátrahagytak. Mintha a semmibe tűntek volna..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "A titokzatos nő kerüli a tekintetedet. Látszik rajta, hogy rejteget valamit. Úgy tűnik, hogy a helyzet ugyanolyan stresszes számára, mint neked - talán még stresszesebb is. Úgy döntesz, hogy nem feszegeted tovább a témát. Előbb-utóbb úgyis rájössz."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "Kérlek, a feladatra kell koncentrálnunk! Nézz körül odakint, amíg én lefuttatok még néhány szimulációt. Hamarosan végzek..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "Végre visszatértél! Már vártalak. Sokat tanulhattál odakint. Azt hiszem, eljött az idő, hogy megtedd a következő lépést..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "A kő reagál az elektromágneses sugárzásra. Az itt végzett kísérletek során túlmelegedhetett... és felrobbant. Ez okozhatta az anomáliákat és indította el az időhurkot. Lényegében csak annyit kell tennünk, hogy megismételjük a kísérletet. Nyilvánvalóan van egy bökkenő: Minden technikai eszköz, amire szükségünk van, már működésképtelen. Teljesen használhatatlanok. De van egy másik lehetőség..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "Észrevetted az antennát a szomszédos csúcson? Ott nem csakhogy a sugárzás erősebb, de az antenna fel is erősíti azt. Ha elég sugárzásnak tesszük ki a követ, akkor újra túlmelegedhet és megfordulhat az időhurok. Úgy értem... Elismerem, ez csak egy elmélet, de jelenleg ez az egyetlen reményünk."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "Tétovázol. Mi történik, ha visszautasítod? Végül is, egy hegy megmászása nem éppen sétagalopp. Másrészt viszont nagyon szeretnél többet megtudni a titokzatos, antennaszerű szerkezetről. Miért épült? Mi volt a célja? Az idegen rád mosolyog, mintha olvasna a gondolataidban."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "Nyugodtan pihenj, vagy folytasd a felkészülést - tudom, hogy ez a feladat ijesztőnek tűnik. De meg tudod csinálni, ebben biztos vagyok!"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "Felébredsz az állomáson és egyetlen gondolat gyötör. Mióta vagy már a szigeten, akaratlanul is csapdába esve ebbe az időhurokban?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "Nehéz megmondani. Hónapok? Évek? Lehet, hogy furcsán hangzik, hiszen az idő az egyetlen dolog, amire gondolok, de elvesztettem minden érzékemet iránta."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "Több kérdésed is van, amire választ szeretnél kapni. Hogyan jutott be az idegen az állomásra? És honnan tud az itt végzett kísérletekről?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "Tudnod kell, hogy nem véletlenül vagyok itt. Az apám a vezető kutató. Vagyis... ő volt, úgy értem. Amikor a baleset történt, elvesztettem az eszméletemet. Amikor végül felébredtem, egyedül voltam. Csak egy lány voltam, és féltem. Féltem kitenni a lábam az ajtón kívülre."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "Amikor végül rájöttem, hogy apám nem jön vissza, elkezdtem menekülési útvonal után nézni. Kimerészkedtem az állomásról, és találkoztam néhány emberrel, de amikor újra találkoztunk, nem emlékeztek rám. Odakint minden ismétlődött, de itt nem. Olyan volt, mint egy kirakós, ahol a darabok nem igazán illeszkedtek egymáshoz...<br>Még ennyi év után is úgy érzem, hogy csak a töredékét értem annak, ami történik."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "Valószínűleg úgy érzed, hogy becsaptalak, de kérlek, higgy nekem, amikor azt mondom, hogy soha nem ez volt a szándékom. Én is csak ki akarok jutni innen, ahogy te is."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "Szemeid kipattannak és megdörzsölöd a halántékodat. Újra az állomáson! És megint ott az idegen, aki már rád vár. Tudni akarod, miért téged választott. Elvégre nem te vagy az egyetlen ember ezeken a hegyeken..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "Megpróbáltam felvenni a kapcsolatot a helyiekkel. De nem csak, hogy nem bíztak bennem, hanem egyenesen ellenségesek voltak. Nos, ki hibáztathatná őket? Elvégre hívatlanul jelentünk meg a szigetükön és kezdtük el magunkat otthon érezni."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "De még a mögöttes ellenségeskedést figyelembe véve is majdnem sikerült egyszer. Beszéltem egy sámánnal. Az egész testét tetoválások borították. Hitt nekem, de ő is aggódott, hogy az elméje örökre elkábult marad..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "Ez így működik: Ha meghalsz odakint, csak annyi történik, hogy az idő visszaáll. Mindent újra átélsz, de nem emlékszel rá. Ha azonban nálad van a kő, az emlékezeted érintetlen marad - beleértve a saját halálodra vonatkozó emlékét is. Amikor visszatérsz, a tested talán rendben lesz, de az elméd, nos...<br>A sámán számára a gondolat, hogy lelketlen páncélként végzi, sokkal ijesztőbb volt, mint örökre az időhurokban ragadni."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "Senki sem akarja lelketlen páncélként végezni. Tudni akarod, hogy az idegen megpróbálta-e már valaha maga megmászni valamelyik csúcsot, vagy mindig csak másokat kér meg, hogy végezzék el helyette a munkát."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "Nem vagyok hegymászó és egy órát sem élnék túl a Halálzónában. Nem számít, milyen keményen edzek, sosem leszek olyan jó, mint te. Ellenben vannak más tulajdonságaim. Mindenki tegye azt, amiben jó, nem igaz? Ez az egyetlen módja, hogy kijussunk innen..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "A titokzatos idegen föléd hajol, miközben lassan felébredsz. Szemei csillognak, és mosoly látszik az ajkán."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "Jó hír! Rájöttem, miért nem hatott a kő az időhurokra, pedig a sugárzással minden a számításaim szerint ment."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "Az időhurkot úgy kell elképzelni, mint egy esernyőt. Az egész hegyvonulatot átfogja, mint egy láthatatlan burok. De a héj nem mindenhol egyforma. Minél messzebb megyünk a bomlás eredeti helyétől, annál vékonyabb lesz a héj, és annál könnyebben hatol át rajta a sugárzás. Gondolom el tudod képzelni, hogy ez mit jelent, igaz? El kell jutnunk a hegység legmagasabb pontjára..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "Itt találjuk meg az időhurok Achilles-sarkát. Ha a túlhevített követ elvisszük ehhez a gyenge ponthoz, repedéseknek kell keletkezniük a héjon, amelyek destabilizálják az egész időhurkot. Tudom, hogy eddig is sokat kértem tőled, de meg kell másznod ezt a végső csúcsot. Ez lesz az utolsó lépés, ebben biztos vagyok!"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "És csodálatos, hogy most már van egy másik szövetségesünk is. Kérlek, beszélgessetek egymással és tanuljatok egymástól! Csak akkor van remény, hogy kijussunk az időhurokból, ha mindannyian egy igazi csapatként fogunk össze."
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "Egyébként, szerintem csodálatos, hogy hoztál erősítést! Méghozzá egy igazi szakértőt. Biztos vagyok benne, hogy sokat fogunk tanulni egymástól a közös munka során. Egy igazi csapattá kell válnunk."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "Pontok visszaállítása"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "A fejlesztések visszaállítására szolgál"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "Fejlesztési pont (Kalandor)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "A kalandor Képességeinek fejlesztésére szolgálnak"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "Fejlesztési pont (Tudós)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "A tudós Képességeinek fejlesztésére szolgálnak"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "Fejlesztési pont (Újságíró)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "Az újságíró Képességeinek fejlesztésére szolgálnak"
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "Kezdeti tapasztalat"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "Megnöveli a kezdeti tapasztalati pontok számát a küldetés megkezdésekor"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "Alapállapot-fejlesztések"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "Bázison szerzett fejlesztések"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "Egy tudós küldetésen"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "Egyes jelentések szerint egy tudós is fennakadt az időhurokban.<br>Szakértelme nagyon értékes lehet.<br>Természetesen előbb még meg kell győznöd, hogy csatlakozzon, majd ezután el kell vinned az állomásra."
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "Keresd meg a tudóst és vidd az állomásra."
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "Normál"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "Normál időjárás"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "A barátságos időjárás valamivel valószínűbb, mint a viharos vagy hideg időjárás."
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "Viharos"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "Viharos időjárás"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "A viharos időjárás valószínűsége magas."
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "Hideg"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "Hideg időjárás"
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "A hideg időjárás valószínűsége magas."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "Oknyomozó újságírás"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "A pletykák szerint egy újságíró bolyong a hegyen. Találd meg őt, hogy igénybe vehesd nyomozói képességeit az időhurokból történő kijutás során."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "Keress nyomokat, amelyek elvezetnek az újságíróhoz."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "Első nyom"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "Második nyom"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "Kilépés"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "Karakterjártasság"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "Tárgyjártasság"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "Környezetvédelmi jártasság"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "Terepjártasság"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "Eseményjártasság"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "Felhasznált tárgyak"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "Felszerelések"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "Fel nem használt fogyasztási cikkek"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "Veszélyes terepek"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "Események"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "Megtett órák"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "Megtett órák éjszaka"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "Halálzónában megtett órák"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "Rossz időben megtett órák"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "Mászott órák"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "Mászott órák éjszaka"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "Halálzónában mászott órák"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "Rossz időben mászott órák"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "Szerzett Tapasztalatok"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "Elért szintek"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "Szerzett Tapasztalatok a következőkért:"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "Fejlesztések"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "Fejlesztések, amelyek szintlépések következtében aktiválódtak"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "Séta a Napon"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "Testhőmérsékletet kapsz szép időben."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "Szép időben még több Testhőmérsékletet kapsz."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "Séta a Napon"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "Testhőmérsékletet kapsz szép időben."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "Séta a Napon"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "Testhőmérsékletet kapsz szép időben."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "Intenzív mozgás"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "Lényegesen több Testhőmérsékletet kapsz óránként, mozgáskor, de megnövekedett Energiaköltséggel."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "Lényegesen több Testhőmérsékletet kapsz óránként, mozgáskor, de megnövekedett Energiaköltséggel."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "Intenzív mozgás"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "Lényegesen több Testhőmérsékletet kapsz óránként, mozgáskor, de megnövekedett Energiaköltséggel."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "Intenzív mozgás"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "Lényegesen több Testhőmérsékletet kapsz óránként, mozgáskor, de megnövekedett Energiaköltséggel."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "Maradj melegen"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Testhőmérsékletet kapsz óránként, mozgáskor"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Még több Testhőmérsékletet kapsz óránként, mozgáskor"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "Maradj melegen"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Testhőmérsékletet kapsz óránként, mozgáskor"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "Maradj melegen"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Testhőmérsékletet kapsz óránként, mozgáskor"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "Mélypihenés"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Energiát nyersz alvás közben"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Több Energiát nyersz alvás közben"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "Mélypihenés"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "Energiát nyersz alvás közben"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "Mélypihenés"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "Energiát nyersz alvás közben"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "Eufória"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Energiaköltségek a Halálzónában"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen csökkentett Energiaköltség a Halálzónában"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "Eufória"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség a Halálzónában"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "Eufória"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség a Halálzónában"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "Erő megőrzése"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Energiaköltség mozgáskor, de gyorsabban telik az idő"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Csökkentett Energiaköltség mozgáskor, de gyorsabban telik az idő"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "Erő megőrzése"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgáskor, de gyorsabban telik az idő"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "Erő megőrzése"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgáskor, de gyorsabban telik az idő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "Mély lélegzetvételek"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Fokozott Oxigéngyarapodás, de csökkentett Testhőmérséklet-emelkedés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Fokozott Oxigéngyarapodás, de csökkentett Testhőmérséklet-emelkedés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "Mély lélegzetvételek"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Megnövekedett Oxigéngyarapodás, de csökkentett Testhőmérséklet-emelkedés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "Mély lélegzetvételek"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Megnövekedett Oxigéngyarapodás, de csökkentett Testhőmérséklet-emelkedés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "Még egy lökés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Jelentősen megnövekedett Oxigéngyarapodás egy időre, de a küldetés végéig megnőtt Józanságveszteséggel"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "Még egy lökés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "Jelentősen megnövekedett Oxigéngyarapodás"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "Még egy lökés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "Fokozott Józanságveszteség a küldetés végéig"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "Kontrollált légzés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Fokozott Oxigéngyarapodás óránként. Megnövelt maximális Oxigénszint."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen megnövekedett Oxigéngyarapodás óránként. Megnövelt maximális Oxigénszint."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "Irányított légzés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Fokozott Oxigéngyarapodás óránként. Megnövelt maximális Oxigénszint."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "Irányított légzés"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Jelentősen megnövekedett Oxigéngyarapodás óránként. Megnövelt maximális Oxigénszint."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "Megerősítés"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "Figyelmen kívül marad a veszélyes terep"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "Figyelmen kívül marad a veszélyes terep"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "Megerősítés"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "Figyelmen kívül marad a veszélyes terep"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "Megerősítés"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "Figyelmen kívül marad a veszélyes terep"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "A peremen túl"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Alacsonyabb Energiaköltség meredek terepen (2+ szintemelkedés), de megnő a Józanságveszteség"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Alacsonyabb Energiaköltség meredek terepen (2+ szintemelkedés), de megnő a Józanságveszteség"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "A peremen túl"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "Alacsonyabb Energiaköltség meredek terepen (2+ szintemelkedés), de megnő a Józanságveszteség"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "A peremen túl"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "Alacsonyabb Energiaköltség meredek terepen (2+ szintemelkedés), de megnő a Józanságveszteség"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "Gyors mozgás"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Lassabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Lassabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "Gyors mozgás"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Lassabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "Gyors mozgás"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Lassabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "Nem lehet megállni"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Jelentősen csökken a Józanságveszteség mozgás közben,<br>de további Józanságveszteség pihenéskor/Eseményeken"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen csökken a Józanságveszteség mozgás közben,<br>de további Józanságveszteség pihenéskor/Eseményeken"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "Nem lehet megállni"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "Jelentősen csökken az Józanságveszteség mozgás közben,<br>de további Józanságveszteség pihenéskor/Eseményeken"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "Nem lehet megállni"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "Jelentősen csökken az Józanságveszteség mozgás közben,<br>de további Józanságveszteség pihenéskor/Eseményeken"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "Tudatosság"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "Amikor elérsz egy érdekes pontot, Józanságot kapsz"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "Amikor elérsz egy érdekes pontot, Józanságot kapsz"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "Tudatosság"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "Amikor elérsz egy érdekes pontot, Józanságot kapsz"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "Tudatosság"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "Amikor elérsz egy érdekes pontot, Józanságot kapsz"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "Kántálás"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Józanságveszteség mozgás közben"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Csökkentett Józanságveszteség mozgás közben"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "Kántálás"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "Csökkentett Józanságveszteség mozgás közben"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "Kántálás"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "Csökkentett Józanságveszteség mozgás közben"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "A csillagok alatt"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett büntetés a sátor nélküli alvásért"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "Csökkentett büntetés a sátor nélküli alvásért"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "A csillagok alatt"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "Csökkentett büntetés a sátor nélküli alvásért"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "A csillagok alatt"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "Csökkentett büntetés a sátor nélküli alvásért"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "Hosszú távú gondolkodás"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Energianyereség ébredéskor,<br>de gyorsabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Energianyereség ébredéskor,<br>de gyorsabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "Hosszú távú gondolkodás"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Energianyereség ébredéskor,<br>de gyorsabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "Hosszú távú gondolkodás"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Energianyereség ébredéskor,<br>de gyorsabban telik az idő mozgáskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "Fedezd fel a hegyet"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "Jelentősen megnövekedett Tapasztalatszerzés"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen megnövekedett Tapasztalatszerzés"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "Fedezd fel a hegyet"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "Jelentősen megnövekedett Tapasztalatszerzés"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "Fedezd fel a hegyet"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "Jelentősen megnövekedett Tapasztalatszerzés"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "Maradj melegen"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "Koncentrálj a Testhőmérséklet szinten tartására."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "Erő megőrzése"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "Koncentrálj arra, hogy több Energiát nyerj vissza és kevesebbet költs."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "Fedezd fel a hegyet"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "Koncentrálj a nagy távolságok megtételére és számos érdeklődési pont meglátogatására."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "Akklimatizálódás"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "Koncentrálj az Oxigén szinten tartására."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "Határozott"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "Koncentrálj arra, hogy a célodhoz vezető úton haladj."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "Mentális fókusz"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "Koncentrálj arra, hogy tovább tartsd fent a Józanságod."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "Eseményismeret"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "Segít a legtöbbet kihozni az Eseményekből"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Eseményismeret: Józanság"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "Növeli a Józansággyarapodást az Eseményeken"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Eseményismeret: Tapasztalat"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "Növeli a Tapasztalatgyarapodást az Eseményeken"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Eseményismeret: Energia"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "Csökkenti az Energiaveszteséget az Események során"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Eseményismeret: Idő"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "Csökkenti az Események időköltségeit"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Eseményismeret: Józanság"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "{0} megnövelt Józansággyarapodás az Eseményeken"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Eseményismeret: Tapasztalat"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "{0} megnövekedett Tapasztalatgyarapodás az Eseményeken"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Eseményismeret: Energia"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "{0} csökkentett Energiaveszteség az Eseményeken"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Eseményismeret: idő"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "{0} csökkentett időmúlás az Eseményeken"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "Meleg gondolatok"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "Amikor elfogyasztasz valamit, Testhőmérsékletet kapsz"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "Amikor elfogyasztasz valamit, több Testhőmérsékletet kapsz"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "Meleg gondolatok"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "Amikor elfogyasztasz valamit, Testhőmérsékletet kapsz"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "Meleg gondolatok"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "Amikor elfogyasztasz valamit, Testhőmérsékletet kapsz"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "Energiamegőrzés"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Energiaköltségek mozgás és mászás közben"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "Csökkentett Energiaköltségek mozgás és mászás közben"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "Energiamegőrzés"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "Jelentősen csökkentett Energiaköltség mozgás és mászás során"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "Energiamegőrzés"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltségek mozgás és mászás közben"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "Tiszta elme"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor a Józansági szint magas"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen csökkentett Energiaköltség mozgás és mászás közben, amikor a Józanság magas"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "Tiszta elme"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor a Józansági szint magas"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "Tiszta elme"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor a Józansági szint magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "Friss levegő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Lassabban telik az idő mozgás és mászás közben, amikor az Oxigénszint magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen lassabban telik az idő mozgás és mászás közben, amikor az Oxigénszint magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "Friss levegő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "Lassabban telik az idő mozgás és mászás közben, amikor az Oxigénszint magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "Friss levegő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "Lassabban telik az idő mozgás és mászás közben, amikor az Oxigénszint magas"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "Lassan a testtel"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Energiát, Testhőmérsékletet és Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Több Energiát, Testhőmérsékletet és Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "Lassan a testtel"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Energiát, Testhőmérsékletet és Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "Lassan a testtel"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Energiát, Testhőmérsékletet és Oxigént kapsz ébredéskor"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "Megemelkedett Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "Megemelkedett Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "Megemelkedett Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "Megemelkedett Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "Megnövekedett maximális Testhőmérséklet"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "Fokozott Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "Fokozott Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "Fokozott Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "Fokozott Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "Megnövelt maximális Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "Fokozott Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "Megnövelt maximális Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "Megnövelt maximális Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "Megnövelt maximális Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "Fokozott Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "Megnövelt maximális Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "Fokozott Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "Megnövelt maximális Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "Fokozott Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "Megnövelt maximális Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "Megemelkedett Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "Megemelkedett Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "Megemelkedett Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "Megemelkedett Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "Megnövelt maximális Oxigénszint"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "Fokozott Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "Fokozott Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "Fokozott Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "Fokozott Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "Megnövelt maximális Józanság"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "Megnövelt alapállapotok"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "Megnövelt maximális Energia, Testhőmérséklet, Oxigén, Józanság és Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "Megnövelt alapállapotok"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "Megnövelt alapállapotok"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "Megnövelt maximális Energia, Testhőmérséklet, Oxigén, Józanság és Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "Megnövelt alapállapotok"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "Megnövelt maximális Energia, Testhőmérséklet, Oxigén, Józanság és Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "Megnövelt alapállapotok"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "Megnövelt maximális Energia, Testhőmérséklet, Oxigén, Józanság és Egészség"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "Megnövelt alapállapotok"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "Anomália"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "Gyorsabban telik az idő mozgáskor"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "Erős anomália"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "Jelentősen gyorsabban telik az idő mozgáskor"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "Tiszta"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "Barátságos időjárás"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "A tiszta időjárás valószínűsége magas"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "Nagyon viharos"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "Nagyon viharos időjárás"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "A viharos időjárás valószínűsége jelentősen magas"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "Nagyon hideg"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "Nagyon hideg időjárás"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "A hideg időjárás valószínűsége jelentősen magas"
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "Rossz időjárás"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "Veszélyesen rossz időjárás"
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "A hideg és viharos időjárás valószínűsége magas"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "Nagyon rossz időjárás"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "Extrémen rossz időjárás"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "A hideg és viharos időjárás valószínűsége jelentősen magas"
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "Egy hatalmas hegy."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "Egy hatalmas hegyvidéki táj."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "Keress 2 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "Mérsékelt emelkedésű, kompakt hegy."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "Egy átlagos hegy, mérsékelt emelkedéssel."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "Viszonylag enyhe lejtésű hegyi képződmény."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "Egy hatalmas hegy."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "Egy hatalmas hegy. Ezen a hegyen rengeteg veszélyes terep található."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "Egy hatalmas hegy. A régió szokatlanul sok lehetséges útvonalat kínál,<br>de ehhez nagyon sokat kell mászni."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Az anomáliák széles területen helyezkednek el.<br>Majd érd el a célt."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "Egy hatalmas hegy. A hegynek csak egy kis része található a Halálzónában,<br>de a terep rendkívül nagy kihívást jelent."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Az anomáliák széles területen helyezkednek el.<br>Majd érd el a célt."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "Egy nagy hegy, mérsékelt emelkedéssel."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "Egy nagy, közepes magasságú hegy.<br>A régió szokatlanul sok lehetséges ösvényt kínál, de sok mászást igényel."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "Egy nagy hegy, közepes emelkedéssel.<br>Ez a hegy nagyon veszélyes terep."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "Egy gigantikus kráter, meredek, kúpos emelkedéssel."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "Egy kompakt hegy, rendkívül meredek emelkedéssel.<br>A hegy nagy része a Halálzónában található."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "Egy kráter, egyik oldalán nyitott, mérsékelten emelkedő."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Az anomáliák széles területen helyezkednek el.<br>Majd érd el a célt."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "Üstszerű hegyvidéki táj, számos emelkedővel."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "Keress 3 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "Egy nagy hegy, közepes emelkedéssel.<br>Ez a hegy nagyon veszélyes terep."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "Egy nagy hegy, mérsékelt emelkedéssel."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "Egy nagy hegy, meredek emelkedővel.<br>A hegy nagy része a Halálzónában található, de a terep kevésbé kihívásokkal teli."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "Egy hatalmas hegy."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "Keress 4 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "5. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "Egy hatalmas hegyi képződmény."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "Keress 4 időbeli anomáliát. Az anomáliák széles területen helyezkednek el.<br>Majd érd el a célt."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "5. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "Óriási kráter, meredek, kúp alakú emelkedővel.<br>Ez a hegy nagyon veszélyes terep."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "Keress 4 időbeli anomáliát. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "5. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "Hatalmas kráter, meredek, kúpos emelkedéssel."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "Keress 4 időbeli anomáliát. Az anomáliák széles területen helyezkednek el.<br>Majd érd el a célt."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "5. rendellenesség"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "Egy nagy kiterjedésű hegy."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "Egy kiterjedt tereppel rendelkező hegy.<br>A hegy nagy része a Halálzónában található."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "Egy nagy hegy meredek emelkedéssel.<br>A hegy nagy része a Halálzónában található."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "Egy nagy hegy, mérsékelt magassággal."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "Egy nagy hegy meredek emelkedéssel.<br>Ez a hegy nagyon veszélyes terep."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "Első emelkedő"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "Az első emelkedő! Ön koncentrált és céltudatos!"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "Egyébként aggódom a időhurok-betegség miatt. Tüneteket produkálsz. Segíthetek, de a gyógyszerkészleteim majdnem elfogytak."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "Ebből az állapotból már csak egyszer tudlak visszahozni. Csak még egyszer utoljára, megértetted? Utána egyfajta állandó éber kómában fogod eltölteni az életed hátralévő részét."
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "Hatalmas és áthatolhatatlan hegyi képződmény."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "Keress 5 időbeli anomáliát. Az anomáliák széles területen helyezkednek el. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "5. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "Impozáns hegyi képződmény meredek, sziklás tornyokkal."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "Keress 5 időbeli anomáliát. Az anomáliák széles területen helyezkednek el. Ezután érd el a célt."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "1. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "2. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "3. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "4. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "5. rendellenesség"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "Egy kolosszális kráter, meredek, sziklás szírttel."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "Mellékküldetés"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "Hatalmas, kiszámíthatatlan hegy, rendkívül nagy kihívást jelentő terepviszonyokkal."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "Mászd meg a csúcsot, aztán érd el a célt."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Hegycsúcs"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Cél"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "Jártasság és Képességek"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "Az bázison található fejlesztések által gyakorolt hatások.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "Környezet és Felszerelés"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "A hegy, a környezet és az aktív felszerelés által gyakorolt hatások.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "Ideiglenes"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "Ideiglenes hatások azok, amelyek egy idő után lejárnak.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "A küldetés végéig"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "A küldetés végén lejáró hatások.<br>Kattints az egyes hatások megtekintéséhez."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Bemelegített tüdő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Fokozott Oxigéngyarapodás, miközben a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen megnövekedett Oxigéngyarapodás, miközben a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Bemelegített tüdő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Fokozott Oxigéngyarapodás, miközben a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Bemelegített tüdő"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Fokozott Oxigénfelvétel, miközben a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Lelkes lélek"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Józanságvesztés mozgás közben, amikor a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen csökken az Józanságvesztés mozgás közben, amikor a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Lelkes lélek"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Csökkentett Józanságvesztés mozgás közben, amikor a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Lelkes lélek"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Csökkentett Józanságvesztés mozgás közben, amikor a Testhőmérséklet magas"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "Erőteljes lépések"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség magas"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Jelentősen csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség magas"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "Erőteljes lépések"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség magas"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "Erőteljes lépések"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség magas"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "Erőre kapni"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség alacsony"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség alacsony"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "Erőre kapni"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség alacsony"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "Erőre kapni"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "Csökkentett Energiaköltség mozgás és mászás közben, amikor az Egészség alacsony"
+    }
+  ]
+}

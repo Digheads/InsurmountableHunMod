@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "帳篷"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "月亮草"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "火把"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "攀登手套"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "氧氣瓶"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "火焰護符"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "重靴"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "毛皮手套"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "熱茶"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "雪地靴"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "閃電護符"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "登山手杖"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "罐裝食品"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "石護符"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "風護符"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "攀登斧"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "冰爪"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">氣象火箭</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "讓當前天氣轉變為“晴朗”。"
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "護符"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "手套"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "靴子"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "工具"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "毛皮手套"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "增加移動和搜尋過程中的身體溫度"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "地之試煉"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "天氣：暴風雪"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "天氣：寒冷"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "風之試煉"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "夜晚"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "雪地靴"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "天氣：晴朗"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "友好的天氣。無任何影響。"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "攀登斧"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "冰爪"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "登山手杖"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "攀登手套"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "天氣：雪"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "重靴"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "雷之試煉"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "踝關節扭傷"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "妄想症"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "登峰熱"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "降低移動時的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "保持呼吸"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "減輕死亡區域的效果"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "（短時間內降低體能消耗）"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "（較長時間內降低氧氣損耗）"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "邊緣之人"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "6小時內防止危急事件產生"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "鷹眼"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "在下次行動前增加相機縮放"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "跳躍"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "跳過一條縫隙或格子"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "跳不過去！"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "太近了！"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "沒辦法跳那麼高！"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "專心致志"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "4小時內無視惡劣天氣和地形影響"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "碎石者"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "摧毀1格內的1處障礙"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "摧毀2格內的1處障礙"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "無可摧毀道具…"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "夠不著！"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "時刻準備"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "增加罐頭食品和氧氣瓶的效用"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "大幅增加罐頭食品和氧氣瓶的效用"
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "攀岩者"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "減少陡峭地形的體能消耗（+2海拔）"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "減少陡峭地形的體能消耗（+4海拔）"
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "堅定不移"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "醒來時獲得生命值"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "醒來時獲得更多生命值"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "早睡早起"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "醒來時獲得體能"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "醒來時獲得更多體能"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "邊緣之人"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "抵達重要地標時獲得神志"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "能量激勵"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "失去50點氧氣，獲得20點體能"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "駕馭寒冰"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "減少冰面上的體能消耗"
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "寒冰時速"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "減少冰面上的時間流逝"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "大幅減少冰面上的時間流逝"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "夜間登山人"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "減少夜間的體溫流失"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "大幅減少夜間的體溫流失"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "繁星之友"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "減少所有夜間攀登活動的體能消耗"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "大幅減少所有夜間攀登活動的體能消耗"
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "理性至上"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "增加神志上限"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "大幅增加神志上限"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "安神定魄"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "減少事件中的神志損耗"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "大幅減少事件中的神志損耗"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "趨向極限"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "失去10點神志，獲得20點體能、20度體溫以及20點氧氣"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "滿腔熱忱"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "抵達重要地標時獲得體能"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "抵達重要地標時獲得更多體能"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "快節奏"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "減少動作的時間消耗"
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "身手敏捷"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "減少事件中的時間消耗"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "大幅減少事件中的時間消耗"
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "心胸開闊"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "在事件中獲得神志"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "在事件中獲得更多神志"
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "漫遊者"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "減少平坦地形的時間消耗（0-1海拔）"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "大幅減少平坦地形的時間消耗（0-1海拔）"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "增加氧氣上限"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "大幅增加氧氣上限"
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "精力充沛"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "增加體能上限"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "大幅增加體能上限"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "晨間慣例"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "醒來時獲得氧氣"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "醒來時獲得更多氧氣"
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "目的明確"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "減少事件中的體能消耗"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "大幅減少事件中的體能消耗"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "駕馭冰雪"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "減少雪面上的體能消耗"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "冰雪時速"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "減少雪面上的時間消耗"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "大幅減少雪面上的時間消耗"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "舒適如家"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "使用消耗品時獲得神志"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "使用消耗品時獲得更多神志"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "草藥學"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "增加茶和藥草的效用"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "大幅增加茶和藥草的效用"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "冥想"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "獲得一次特殊的冥想事件"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "嚴寒之子"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "在寒冷天氣行動時獲得神志"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "在寒冷天氣行動時獲得更多神志"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "大山之子"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "在冰面獲得神志，雪地獲得氧氣，岩石上獲得體溫"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "在冰面獲得更多神志，雪地獲得更多氧氣，石頭上獲得更多體溫"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "風暴之子"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "在暴風雪天氣行動時獲得氧氣"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "在暴風雪天氣行動時獲得更多氧氣"
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "內在之火"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "行動時每小時獲得更多體溫"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "行動時每小時獲得大量體溫"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "駕駛岩石"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "減少岩石上的體能消耗"
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "岩石時速"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "減少岩石上的時間消耗"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "大幅減少岩石上的時間消耗"
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "強健體魄"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "增加生命值上限"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "大幅增加生命值上限"
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "皮糙肉厚"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "減少事件中的生命值損耗"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "大幅減少事件中的生命值損耗"
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "溫暖的心"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "增加體溫上限"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "大幅增加體溫上限"
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "冒險者"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "冷若冰霜"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "開拓者"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "冰雪之心"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "精神世界"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "岩石之力"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "時刻準備"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "增加罐頭食品和氧氣瓶的效用"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "時刻準備"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "大幅增加罐頭食品和氧氣瓶的效用"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "攀登者"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "降低陡峭地形的體能消耗（2+海拔）"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "攀登者"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "降低陡峭地形的體能消耗（2+海拔）"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "堅定不移"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "醒來時獲得生命值"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "堅定不移"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "醒來時獲得生命值"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "早睡早起"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "醒來時獲得體能"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "早睡早起"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "醒來時獲得體能"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "邊緣之人"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "抵達重要地標時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "邊緣之人"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "抵達重要地標時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "駕馭寒冰"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "減少冰面上的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "寒冰時速"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "減少冰面上的時間流逝"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "寒冰時速"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "減少冰面上的時間流逝"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "月色撩人"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "減少夜晚的體溫流失"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "月色撩人"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "減少夜晚的體溫流失"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "繁星之友"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "減少所有夜間攀登活動的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "繁星之友"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "減少所有夜間攀登活動的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "理性至上"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "增加神志上限"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "理性至上"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "增加神志上限"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "安神定魄"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "減少事件中的神志損耗"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "安神定魄"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "減少事件中的神志損耗"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "邊緣之人"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "無視危急事件"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "鷹眼"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "增加相機縮放"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "滿腔熱忱"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "抵達重要地標時獲得體能"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "滿腔熱忱"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "抵達重要地標時獲得體能"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "快節奏"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "減少動作的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "身手敏捷"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "減少事件中的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "身手敏捷"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "減少事件中的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "心胸開闊"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "在事件中獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "心胸開闊"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "在事件中獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "漫遊者"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "減少平坦地形的時間消耗（0-1海拔）"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "漫遊者"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "減少平坦地形的時間消耗（0-1海拔）"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "舒適如家"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "使用消耗品時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "舒適如家"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "使用消耗品時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "草藥學"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "增加茶和藥草的效用"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "草藥學"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "增加茶和藥草的效用"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "嚴寒之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "在寒冷天氣行動時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "嚴寒之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "在寒冷天氣行動時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "大山之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "在冰面獲得神志，雪地獲得氧氣，岩石上獲得體溫"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "大山之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "在冰面獲得神志，雪地獲得氧氣，岩石上獲得體溫"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "風暴之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "在暴風雪天氣行動時獲得氧氣"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "風暴之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "在暴風雪天氣行動時獲得氧氣"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "專心致志"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "無視惡劣環境和地形影響"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "增加氧氣上限"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "增加氧氣上限"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "精力充沛"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "增加體能上限"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "精力充沛"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "增加體能上限"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "晨間慣例"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "醒來時獲得氧氣"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "晨間慣例"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "醒來時獲得氧氣"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "目的明確"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "減少事件中的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "目的明確"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "減少事件中的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "駕馭冰雪"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "減少雪面上的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "冰雪時速"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "減少雪面上的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "冰雪時速"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "減少雪面上的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "內在之火"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "行動時每小時獲得更多體溫"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "內在之火"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "行動時每小時獲得更多體溫"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "駕駛岩石"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "減少岩石上的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "岩石時速"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "減少岩石上的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "岩石時速"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "減少岩石上的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "強健體魄"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "增加生命值上限"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "強健體魄"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "增加生命值上限"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "皮糙肉厚"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "減少事件中的生命值損耗"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "皮糙肉厚"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "減少事件中的生命值損耗"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "溫暖的心"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "增加體溫上限"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "溫暖的心"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "增加體溫上限"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "睡覺（洞穴）"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "你睡在一個洞穴裡。<br>減少體溫流失，增加體能恢復。"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "睡覺（戶外）"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "你睡在沒有帳篷的戶外。<br>增加體溫流失，減少體能恢復。"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "睡覺（帳篷）"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "你睡在一個帳篷裡。<br>減少體溫流失，增加體能恢復。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "暴風雪"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "這條路線的天氣狀況十分惡劣。<br>增加寒冷天氣的效果。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "寒夜"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "這條路線的夜晚比平常的溫度更低。<br>增加夜間的體溫流失。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "怪異環境"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "陰影和噪音會一路伴你左右。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "惡劣地形"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "這條路線的地形很有挑戰性。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "強風暴"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "這條路線會遭遇強力風暴。<br>風暴效果增加。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "空氣不足"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "這條路線會遭遇呼吸困難。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "厚雪"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "這條路線的雪域地形會提供更好的抓力。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "堅冰"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "這條路線的寒冰地形會提供更好的抓力。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "磐石"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "這條路線的岩石地形會提供更好的抓力。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "空氣濃密"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "這條路線的空氣十分清新。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "不尋常現象"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "這條路線有極大的探索空間。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "暖夜"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "這條路線的夜晚比平常的更溫暖。"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "腳趾凍僵"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "你的腳趾頭被凍僵了"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "腳踝扭傷"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "你的腳踝受傷了"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "高原反應"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "你產生了高原反應"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "噩夢"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "你被噩夢所困擾"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "精疲力竭"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "你已經精疲力竭"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "凍傷"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "山上刺骨的寒冷讓你難以忍受"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "溫暖的休息"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "你在不被嚴寒侵襲的情況下睡著了"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "環境"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "環境效果由山上的時間和地點引起。<br>點擊即可查看每種效果的描述。"
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "裝備"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "已裝備道具的效果。<br>點擊查看每種效果描述。"
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "傷疤"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "之前登山時受傷造成的影響。<br>點擊查看每種效果描述。"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "臨時增益"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "臨時增益效果。<br>點擊查看每種效果描述。"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "臨時減益"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "臨時減益效果。<br>點擊查看每種效果描述。"
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "特質"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "等級提升後獲得的效果。<br>點擊查看每種效果描述。"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "積雪"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "增加行動的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "冰川"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "危險 - 可能會發生無法預測的事情…"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "冰雪迷宮"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "增加時間消耗以及行動時的體溫流失"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "碎石"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "危險 - 可能會發生無法預測的事情…"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "雪堆"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "危險 - 可能會發生無法預測的事情…"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "火山石"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "增加氧氣消耗，減少行動時的體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "手部受傷"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "增加陡峭地形的體能消耗（2+海拔）"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "手部受傷"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "減少獲得的經驗值"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "衝刺"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "減少時間消耗，增加體能消耗，增加行動時體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "衝刺"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "減少時間消耗，增加體能消耗，增加行動時體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "軀幹受傷"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "呼吸時會痛"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "腿部受傷"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "增加全地形的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "雪盲"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "增加全地形的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "大暴風雪"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "這條路線的天氣狀況十分惡劣。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "極寒之夜"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "這條路線的夜晚比平常的溫度更低。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "詭異環境"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "陰影和噪音會一路伴你左右。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "極惡劣地形"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "這條路線難以征服。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "強力颶風"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "這條路線會遭遇強力颶風。"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "空氣稀薄"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "在這條路線上呼吸會十分艱難。"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "平坦地形{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "攀登時{0}體能消耗（1高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "攀登時{0}體能消耗（2高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "攀登時{0}體能消耗（3高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "攀登時{0}體能消耗（4高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "攀登時{0}體能消耗（5高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "攀登時{0}體能消耗（6高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "全地形{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "全地形{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "岩石{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "雪地{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "冰面{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "平坦地形{0}體能消耗"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "攀登時{0}時間消耗（1高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "攀登時{0}時間消耗（2高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "攀登時{0}時間消耗（3高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "攀登時{0}時間消耗（4高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "攀登時{0}時間消耗（5高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "攀登時{0}時間消耗（6高度差）"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "全地形{0}時間消耗"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "全地形{0}時間消耗"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "岩石{0}時間消耗"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "雪地{0}時間消耗"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "冰面{0}時間消耗"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "休息時體能每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "休息時體能每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "在岩石上行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "在岩石上行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "在雪地上行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "在雪地上行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "在冰面上行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "在冰面上行動時神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "休息/事件中神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "休息/事件中神志每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "在岩石上行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "在岩石上行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "在雪地上行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "在雪地上行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "在冰面上行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "在冰面上行動時體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "休息/事件中體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "休息/事件中體溫每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "在岩石上行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "在岩石上行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "在雪地上行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "在雪地上行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "在冰面上行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "在冰面上行動時氧氣每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "休息/事件中氧氣變化每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "休息/事件中氧氣變化每小時{0}"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "{0} 最大相機距離"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "事件中體能恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "事件中體能消耗{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "事件中體能恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "事件中體能消耗{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "事件中體溫恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "事件中體溫流失{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "事件中體溫恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "事件中體溫流失{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "事件中氧氣恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "事件中氧氣消耗{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "事件中氧氣恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "事件中氧氣消耗{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "事件中神志恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "事件中神志損耗{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "事件中神志恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "事件中神志損耗{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "事件中生命值恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "事件中生命值損失{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "事件中生命值恢復{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "事件中生命值損失{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "事件中經驗獲得{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "事件中經驗獲得{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "事件中時間變化{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "事件中時間變化{0}"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "茶和藥草效果{0}"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "罐頭食品和氧氣瓶效果{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "最大生命值{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "最大體能{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "最大神志{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "最高體溫{0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "最大氧氣值{0}"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "所有干擾事件冷卻{0}"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "危急事件冷卻{0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "地形干擾事件冷卻{0}"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "繩降"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "繩降到較低的格子"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "無法繩降到那裡！"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "目標格必須處於當前格的下方！"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "抓鉤"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "快速攀爬上更高的格子"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "無法使用抓鉤上去！"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "目標格必須處於當前格的上方！"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "高品質"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "高品質"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "高品質"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "保暖靴"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "暖帽"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "保護頭盔"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "氧氣面罩"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "照明燈"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "{0}強化光照半徑"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "冰鎬"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "手電筒"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "只能在{0}時啟動"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "醒來時，{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "抵達重要地標時，{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "使用消耗品時，{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "體能 + {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "體能 - {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "體溫 + {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "體溫 - {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "氧氣 + {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "氧氣 - {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "神志 + {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "神志 - {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "生命值 + {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "生命值 - {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "經驗值 + {0}"
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "腎上腺素"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "遭遇危險地形事件時獲得體能"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "遭遇危險地形事件時獲得更多體能"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "血厚"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "削弱死亡地帶的效果"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "大幅削弱死亡地帶的效果"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "適應環境"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "削弱寒冷天氣的效果"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "大幅削弱寒冷天氣的效果"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "不屈不撓"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "削弱暴風雪天氣的效果"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "大幅削弱暴風雪天氣的效果"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "雄心壯志"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "增加每小時的體溫恢復"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "大幅增加每小時的體溫恢復"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "鐵肺"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "增加每小時的氧氣恢復"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "大幅增加每小時的氧氣恢復"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "身輕如燕"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "減少平坦地形的體能消耗"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "大幅減少平坦地形的體能消耗"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "急救"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "消耗一定時間治療傷口"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "聚焦"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "消耗一定時間恢復神志"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "心理分析"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "消耗一定時間獲得經驗值"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "熱身"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "消耗部分體能，增加體溫"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "呼吸練習"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "消耗部分體溫，增加氧氣值"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "衝刺"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "減少時間消耗，增加行動時的體溫恢復"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "攀岩大師"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "減少全地形的體能消耗"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "大幅減少全地形的體能消耗"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "寒冰之子"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "在冰面上行動時恢復一定的神志"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "在冰面上行動時恢復更多神志"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "白雪之子"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "在雪地上行動時獲得一定的氧氣"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "在雪地上行動時獲得更多氧氣"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "岩石之子"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "在岩石上行動時恢復一定的體溫"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "在岩石上行動時恢復更多體溫"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "阿爾卑斯式"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "減少全地形的時間消耗"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "大幅減少全地形的時間消耗"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "效率第一"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "減少事件中的體能消耗"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "大幅減少事件中的體能消耗"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "無人能擋"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "遭遇危急事件時恢復一點體能、體溫、氧氣和神志"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "遭遇危急事件時恢復更多體能、體溫、氧氣和神志"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "衝刺"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "減少時間消耗，增加體能消耗，增加行動時的體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "雙手凍僵"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "你的手凍僵了"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "肌肉疲勞"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "你一動整個身體就喊疼"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "持續咳嗽"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "你好像咳得停不下來了"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "登峰熱"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "你癡迷於不惜一切大家登上頂峰的想法"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "猜疑"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "你開始懷疑這一切是否都是一個錯誤"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "狂妄自大"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "你開始感到過於自信"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "腎上腺素"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "遭遇危險地形事件時獲得一定的體能"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "腎上腺素"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "遭遇危險地形事件時獲得更多體能"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "血厚"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "削弱死亡地帶的效果"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "血厚"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "大幅削弱死亡地帶的效果"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "適應環境"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "削弱寒冷天氣的效果"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "適應環境"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "大幅削弱寒冷天氣的效果"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "不屈不撓"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "削弱暴風雪天氣的效果"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "不屈不撓"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "大幅削弱暴風雪天氣的效果"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "雄心壯志"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "增加每小時的體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "雄心壯志"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "大幅增加每小時的體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "鐵肺"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "增加每小時的氧氣恢復"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "鐵肺"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "大幅增加每小時的氧氣恢復"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "身輕如燕"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "減少平坦地形的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "身輕如燕"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "大幅減少平坦地形的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "衝刺"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "減少時間消耗，增加行動時的體溫恢復"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "攀岩大師"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "減少全地形的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "攀岩大師"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "大幅減少全地形的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "寒冰之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "在冰面上行動時恢復一定的神志"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "寒冰之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "在冰面上行動時恢復更多神志"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "白雪之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "在雪地上行動時獲得一定的氧氣"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "白雪之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "在雪地上行動時獲得更多氧氣"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "岩石之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "在岩石上行動時恢復一定的體溫"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "岩石之子"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "在岩石上行動時恢復更多體溫"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "阿爾卑斯式"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "阿爾卑斯式"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "大幅減少全地形的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "大幅減少全地形的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "效率第一"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "減少事件中的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "效率第一"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "大幅減少事件中的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "無人能擋"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "遭遇危急事件時恢復一點體能、體溫、氧氣和神志"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "無人能擋"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "遭遇危急事件時恢復更多體能、體溫、氧氣和神志"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "頭部"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "保暖靴（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "保護頭盔（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "氧氣面罩（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "照明燈（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "暖帽（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "登山斧（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "攀登手套（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "毛皮手套（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "登山手杖（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "冰爪（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "雪地靴（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "重靴（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "冰鎬（高品質）"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "火之試煉"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "勇氣可嘉"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "遭遇危險地形事件時獲得一定的經驗值"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "勇氣可嘉"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "遭遇危險地形事件時獲得一定的經驗值"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "步步留心"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "行動時消耗更多時間，但能無視危險地形"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "步步留心"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "行動時消耗更多時間，但能無視危險地形"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "夜鷹"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "夜間事件獲得更多經驗值"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "夜間事件獲得更多經驗值"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "夜鷹"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "夜間事件獲得更多經驗值"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "夜鷹"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "夜間事件獲得更多經驗值"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "陡坡攀登者"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "擅長在陡峭地形行動"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "事件專家"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "處理事件更高效"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "平坦地形專家"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "擅長在平坦地形行動"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "特殊地形專家"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "擅長處理危險地形"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "夜間攀登者"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "擅長夜間攀登"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "耗材專家"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "擅長使用消耗品"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "通用技能"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "在不同情況下提供説明"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "遭遇危險地形事件時，{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "遭遇危急事件時，{0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "火把"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "增加光照半徑"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "電燈"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "增加光照半徑"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "電燈"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "大幅增加光照半徑"
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "{0}光照半徑"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "繃帶"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "中性技能"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "可以從專精中獨立選擇"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "死亡地帶"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "你進入了死亡地帶。你在行動、休息和遭遇事件時會損失氧氣。"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "問心無愧"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "你的自我感覺良好"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "英雄主義"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "你感覺自己是個英雄"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "等級提升時，{0}"
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "重獲新生"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "使用消耗品時恢復一定的生命值"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "重獲新生"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "刺激追尋者"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "處於死亡地帶時獲得神志"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "多面手"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "使用自己的聰明才智來打造裝備。"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "瘋狂的天才"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "消耗神志為你的選擇增加臨時增益。"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "瘋狂的天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "瘋狂的天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "瘋狂的天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "瘋狂的天才"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "調查性報導"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "抵達重要地標時獲得一定的經驗值"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "調查性報導"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "渴望知識"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "等級提升時獲得一定的體能、溫度、氧氣、神志以及生命值"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "渴望知識"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "綠色信號槍"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "呼叫商人。"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "紅色信號槍"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "呼叫救援。"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "安全繩"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "在限定時間內無視危險地形。"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "攀岩繩"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "在限定時間內減少攀登的體能消耗。"
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "登山扣"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "在限定時間內減少攀登的體能消耗。"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "靈感迸發"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "恢復體能，減少當前所有技能的冷卻時間"
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "所有主動技能的冷卻時間減少{0} {1}。"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "地形知識"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "幫你指引地形類別"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "地形知識：寒冰"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "減少冰面上的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "地形知識：雪地"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "減少雪地上的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "地形知識：岩石"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "減少岩石上的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "地形知識：危險地帶"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "提高危險地形引發事件的保護"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "地形知識：寒冰"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "冰面上的體能消耗減少{0}"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "地形知識：雪地"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "雪地上的體能消耗減少{0}"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "地形知識：岩石"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "岩石上的體能消耗減少{0}"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "地形知識：危險地帶"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "對地形干擾事件的保護增加{0}"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "環境知識"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "幫你面對大山中的各種危機"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "寒冷天氣抗性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "減少寒冷天氣的體溫流失"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "死亡地帶抗性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "減少死亡地帶的氧氣消耗"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "夜晚抗性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "減少夜間的體溫流失"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "暴風雪抗性"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "減少暴風雪天氣的體能消耗"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "寒冷天氣抗性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "寒冷天氣中的體溫流失減少{0}"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "死亡地帶抗性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "死亡地帶的氧氣消耗減少{0}"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "夜晚抗性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "夜間的體溫流失減少{0}"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "暴風雪抗性"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "暴風雪天氣的體能消耗減少{0}"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "容量"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "決定能從基地帶走多少件物品"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "開端"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "荒涼的山脈高聳入雲。<br>多年以來，小島與外部世界徹底隔絕。<br>但是現在，探索山脈、填補地圖上這塊空白的時刻到了。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "抵達頂峰，書寫歷史。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "輻射"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "未知"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "據說頂峰上有一個天線可以強化電磁輻射。你必須查清它會對護符產生什麼效果。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "又一座大山在等待你的征服。不過你必須先完成足夠多的支線任務才能解鎖。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "帶著護符登上頂峰就可以達成你的目標了。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "未知"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "爆發力"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "未知"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "你必須把充能過的護符帶到山脈頂峰<br>才能摧毀時間迴圈。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "哪怕是最高最險的大山也要攀上頂峰。達成所有成就即可解鎖。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "抵達頂峰，逃離時間迴圈。"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "未知"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "序幕"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "第1章"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "第2章"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "第3章"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "你猛地睜開雙眼。你在哪？出什麼事了？你努力回憶著。你走過了一扇門…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "感到困惑？別擔心：如果你在完全清醒的情況下走進時間迴圈，會困惑也是很正常的。現在的情況一定跟輻射有關。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "時間迴圈？輻射？這人在說什麼呢？還有，她是誰？你產生幻覺了嗎？你發現面前的桌子上躺著一枚綠色的護符。你肯定自己之前見過這塊石頭。突然間，一切如潮水般湧了回來。你差點墜入一條裂縫的時候，這個沉默的年輕女子把你救了回來。她為什麼不早點把一切告訴你呢？"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "“你會相信我嗎？完全不會，對吧？我需要你跟我來。親眼所見對你來說十分重要…還有，親身體驗。我知道這一切看起來都很瘋狂，所以先說最重要的：我們陷入時間迴圈了，而且都被困在了這座小島上。但是我不知道該怎麼逃出去。我需要先做一些計算。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "我知道你能怎麼幫忙了。等恢復好之後你就出外探索，盡量幫我尋找信息。而且外出能幫你不斷精進技巧、積累經驗。帶上我的護符吧。它不僅是我們逆轉時間循環的唯一希望，還能在時間重置的時候把你傳送回工作站。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "首先要做的就是探索這片區域，熟悉石頭的力量。 <br>我知道自己要求太多，但是真的沒有其他辦法了。你一定要相信我。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "你的腦袋嗡嗡直響。你想說點什麼，但卻失去了組織語言的力量。你就這麼躺在那裡，沉默不語，一動不動。神秘的陌生人仔細觀察著你，臉上流露出擔憂的表情。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "你這是出什麼事了？哦…好吧，我明白了。你發現了一些大腦無法理解的東西，然後死去，現在已經完全意識到時間循環…是要付出代價的。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "很抱歉，是我把你拉入了這種境地。你知道嗎…我花了好多年才弄清楚這一切。特別是這塊重要的石頭，它讓我想起了很久很久以前的一個謎題。它就是這座監獄的鑰匙。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "說到監獄：你必須活得久一點，達到計算的目標，這樣石頭才能吸收足夠的輻射。拜託了，你一定要堅持住。我肯定下次會起作用的。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "你就躺在那裡，頭上鮮血直流，幾乎動彈不得，連話也說不出來。不知怎麼的，就連那個神秘的陌生人似乎也不太一樣了，她的聲音古怪的失真了…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "出問題了，是嗎？嗨，這種事時有發生。不過請務必再試一次！這枚護符必須吸收輻射。頂峰的天線能幫它吸收足夠的電磁輻射。這是我們逃離時間迴圈的唯一辦法。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "你剛醒來就望向了那個神秘的陌生人。她的表情沒有表明你嘗試逆轉時間迴圈的行動是否成功。你興奮地把自己看到的一切全都告訴了她，包括天線上的字母。你想知道它的含義。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "你看不出來嗎？你至少已經上去過一次了，也許是好幾次。我們也見過彼此很多次。在外面，還有這個工作站，但你並不相信我。只有拿到護符，你的記憶才能持續一整個時間迴圈。它能讓你恢復意識，而且現在你也記起了一切。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "疑慮侵蝕著你。就這麼忘記是不是會更好？痛苦，還有永遠被困在這裡的恐懼…這個陌生人為什麼沒有從一開始就把所有事情都告訴你？她可能還對你隱瞞了什麼？"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "我知道，我們現在的處境並不容易。我想要給你時間來習慣一切。你知道嗎…我花了很多年才弄明白這一切。特別是這塊重要的石頭，它讓我想起了很久很久以前的一個謎。它就是這座監獄的鑰匙。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "監獄？你艱難地咽了口唾沫。這是不是意味著你徒勞無功的攀上了頂峰，結果卻依然被困在時間的迴圈裡？"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "這塊石頭過熱了，它也理應如此。但它沒能打破時間迴圈。請給我一點時間思考。與此同時，也許你應該多訓練一下。一切還沒有結束…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "你剛醒來就立即望向了那個神秘的陌生人。她露出了一個失望的表情。沒成功嗎？你努力保持冷靜；跟她講了石頭是怎麼變化的，又是怎麼開始變紅的。"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "這塊石頭過熱了，它也理應如此。但它沒能打破時間迴圈。請給我一點時間思考。與此同時，也許你應該多訓練一下。一切還沒有結束…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "我們就快打破時間迴圈了。只要血管裡還剩下一滴血液在流動，你就要不停嘗試！拜託了！"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "還有一件事：如果你帶著石頭死在了外面，那麼就會回到這個工作站。不過你會發生…改變 —— 身體完好無損，但大腦會一片模糊，就像處於一種清醒的昏迷狀態。我把這種折磨叫做時間迴圈症。"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "治癒辦法是有的，不過我的補給也並非取之不盡。一旦耗盡，我就幫不上你什麼忙了。你最好的辦法就是活下去。"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "還有一件事：如果你帶著石頭死在了外面，那麼就會回到這個工作站。不過你會發生…改變 —— 身體完好無損，但大腦會一片模糊，就像處於一種清醒的昏迷狀態。我把這種折磨叫做時間迴圈症。"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "治癒辦法是有的，不過我的補給就快用光了。我只能再幫你恢復一次。只有最後一次，你明白了嗎？"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "還有一件事：如果你帶著石頭死在了外面，那麼就會回到這個工作站。不過你會發生…改變 —— 身體完好無損，但大腦會一片模糊，就像處於一種清醒的昏迷狀態。我把這種折磨叫做時間迴圈症。"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "治癒辦法是有的，不過我的補給已經用完了。這算不上是什麼安慰，但一切還沒有結束。只要還有一個人活著，我們就還有機會…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "這座山很殘忍，不是嗎？不過請繼續嘗試吧。我已經在這裡等了很久，才終於等來一個擁有你這身本領的人…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "我知道你為了帶我們離開到底犧牲了多少。但你的努力會得到好結果的。我們很快就能找到離開這座監獄的方法。你不能放棄…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "永遠不要放棄。聽見了嗎？絕不可以！如果說我孤獨地在這個工作站待了這麼多年隻學會了一個道理，那就是必須堅持下去。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "歡迎回來！看來你死在外面了。好吧，其實無所謂。你總是可以繼續嘗試的。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "哦不，你看起來很糟糕。出什麼事了？當然，如果你不想說，那就不要說。我肯定你稍事休息之後會感覺好些的。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "出什麼事了？一場事故？凍死，還是窒息？一定感覺很不舒服吧？如果你能想出不同的策略，也許會更有幫助些。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "唉，他們都說這叫<i>孤山難越</i>。難道對你來說也是如此嗎？"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "太好了，你成功完成任務了。外面的情況真的很艱難嗎？"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "幹得漂亮。你真是位出色的登山家。如果你能繼續取得這樣的進步，我們一定能打破時間迴圈的。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "你的身手真是讓人眼前一亮。而且每完成一個任務，你的技術也越發精湛。說實在的，你的到來讓我恢復了自信，我相信終有一天我們能夠逃出去…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "太棒了！你的登山技巧實在讓人印象深刻。我到了外面怕是活不過一天。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "你勇敢面對環境的態度，還有不被任何事情動搖的意志實在是遠超常人。你很厲害，甚至比我期望的還要厲害。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "我想你應該明白最重要的是什麼：有意願去學習和適應難以預料的新情況。"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "哦，你毫髮無損地回來了！看來我們要為你重新定義<i>孤山難越</i>這個詞了。"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "能聽見我的聲音嗎？你還在嗎？時間迴圈症對一個人的傷害是毀滅性的。"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "但是依然有一線希望存在。只要你還活著，我們就有可能逃離時間迴圈…"
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "好吧，你需要更多計畫時間？這一點真是太明智了！"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "這麼快就回來了？出什麼事了嗎？啊，我明白了，你還沒準備好。別擔心。"
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "你忘記什麼了嗎？為什麼就回來了？"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "怎麼會這樣？就在幾秒鐘前你還在山上，現在突然就回到了這個奇怪的工作站。還有這裡的神秘陌生人，就好像她一直在等你。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "你一聽到警報聲，石頭就把你帶回來了，時間也重置了。我想它又回到了最初的地點。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "你應該知道我們所處的地方之前是個研究站，這裡進行過伽馬射線相關的試驗。顯然他們是想創造一個巨大的電磁力場。整座小島本質上就是一個禁區。幾乎沒有人知道它的存在。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "但是事情出了差錯。發生了某種故障。釋放出的電磁輻射讓這座山脈產生了數之不盡的異常現象；並且最終，它們一定是觸發了時間迴圈。只有這個工作站的時間是正常的。也許是因為這裡是異常的起源地？我不知道。不管怎麼說，我在隔壁的房間裡找到了這塊發光的石頭。它是試驗僅存下來的東西。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "恐怕我也不能為你提供更好的解釋了。很多事情對我來說也很不可思議，這點跟你一樣。不過有一件事我很清楚：這塊石頭會對輻射起反應。沒有它我們是無法成功的。請繼續準備吧，這樣我們最後才能離開這個地方。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "你的耳朵還在嗡鳴，不過你已經慢慢習慣異常的副作用了。那個神秘的陌生人似乎還在等你。你想知道這個曾經的研究站到底發生了什麼。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "這是個未解之謎。相信我，我花了很長時間嘗試尋找答案。他們就這麼消失了，把一切都留在身後，好像雲霧一樣憑空消散…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "神秘女子回避了你的目光。你能看出她有所隱瞞，不過現在的情況似乎對你們來說都很有壓力 —— 對她或許更甚。你決定不再繼續追問。反正最終你會查清的。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "拜託了，我們必須專注眼前的任務！你繼續去外面探查，我留在這裡多運行一些模擬，應該很快就能完成了…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "你總算是回來了！我一直在等你。看來你在外面收穫了不少資訊。我覺得是時候採取下一步行動了…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "這塊石頭會對電磁輻射產生反應。在這裡的試驗期間，它一定是過熱了…而且產生了內向爆炸。那肯定就是異常現象的起因，同時還觸發了時間迴圈。從根本上講，我們唯一要做的就是重複試驗。不過這裡顯然有一個問題：我們現在需要的所有技術設備都處於無法工作的狀態。完全用不了。不過還有一個辦法…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "你有沒有注意到下一座山頂的天線？那裡不僅輻射更強，而且天線還有強化效果。如果我們能讓石頭吸收足夠的輻射，它也許就能再次過熱，逆轉時間迴圈。我的意思是…我承認這只是一個理論，不過現在也是我們唯一的希望。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "你猶豫了。如果你拒絕會怎麼樣？畢竟登山並不像是在公園散步。另一方面，你也的確想多瞭解一些神秘的天線。它為什麼會被建出來？它有什麼目的？陌生人沖你露出微笑，仿佛在閱讀你的思想。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "請隨便休息，或者繼續準備 —— 我知道這個任務看起來很讓人畏懼。不過你能做到的，我完全相信這一點！"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "你從工作站醒來，腦子裡只有一個想法在打轉。你到底在這座島上待了多久，又不知不覺地被時間迴圈困了多久？"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "很難說。幾個月？幾年？聽起來也許有些奇怪，畢竟時間是我唯一思考的東西，不過我卻完全失去了對它的感覺。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "你還有很多亟需解答的問題。這個陌生人是怎麼來到工作站的？她怎麼會知道這裡進行的試驗？"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "你應該知道我出現在這裡並非偶然。我的父親是這裡的首席研究員。或者…應該說，他曾經是。事故發生的時候，我一定是失去意識了。等我最終醒來的時候，已經是孤身一人。我只是一個擔驚受怕的女孩，害怕到沒有踏出大門的勇氣。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "當我最終意識到父親再也回不來的時候，就開始尋找逃離方法。我冒險走出工作站，碰見了一些人，但是再次相遇的時候，他們卻不記得我了。外面的一切都在不斷重複，但這裡面沒有。它就像一個謎題，但裡面的碎片並不匹配…<br>即便過去了這麼多年，我依然覺得自己只理解了整件事很微不足道的一個片段。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "你可能覺得我在騙你，但是請相信我，我這麼說並非出於本意。我只想從這裡離開，就像你一樣。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "你猛地睜開雙眼，揉了揉太陽穴。又回到這個工作站了！那個陌生人還在等你。你想知道她為什麼會選中你。畢竟你不是這座山裡唯一的人…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "我試過與本地人聯繫。但他們不僅不信我，還對我充滿敵意。唉，誰又能責怪他們呢？畢竟我們是這座小島的不速之客，還有些把這裡當成自己的家了。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "但即便是考慮到潛在的敵意，有一次還差點成功了。我跟一個薩滿聊過。他全身上下都是紋身。他相信我，不過也擔心自己的大腦會永遠混亂下去…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "事情是這樣的：如果你在外面死去，時間就會重置。你會重新經歷一切，但卻記不起來。但是如果帶著石頭，記憶就能保持完整 —— 包括死亡的記憶。當你回來的時候，身體會毫髮無損，但是大腦...<br>在薩滿看來，最終變成一具沒有靈魂的軀殼要比永遠困在時間迴圈裡更加可怕。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "沒人想最終淪為一具沒有靈魂的軀殼。反正你知道自己不想！你想知道這個陌生人有沒有嘗試過登上頂峰，或是她有沒有找過其他人做幫手。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "我不是登山家，在死亡地帶連一小時都活不過去。不論接受多麼艱苦的訓練，我永遠也比不上你。不過我也有其它本事。不如就讓我們堅持自己擅長的工作吧？這也是我們離開這裡的唯一方法…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "你慢慢蘇醒，神秘的陌生人也俯下身來。她的眼睛閃閃發光，嘴唇上掛著一抹淺笑。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "好消息！我發現石頭為什麼沒有影響時間迴圈了，不過有關輻射的一切都是按照我的計算運行的。"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "你可以把時間迴圈想像成一把傘。它就像一個隱形外殼罩住了整座山脈。不過這個殼在每個地方是不一樣的。我們離干擾的原點越遠，這個殼就越薄，而輻射也就越容易穿透它。你明白這意味著什麼，對吧？我們需要抵達山脈的最高點…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "在那裡我們能找到時間迴圈的阿喀琉斯之踵 —— 它的致命弱點。如果我們能把過熱的石頭帶到最脆弱的那一點，殼中就會形成一道道裂紋，最終動搖整個時間迴圈。我知道自己對你已經苛求太多，不過我還需要你攀上最後的高峰。我很肯定，那會是我們的最後一步！"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "更棒的是我們現在又多了一個盟友。去說說話吧，大家認識一下！我們唯一逃離時間迴圈的希望，就是作為一個真正的團隊齊心協力。"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "話說回來，你能搬來救兵實在是太好了！而且還是位貨真價實的專家。我肯定大家一定能在協作當中收穫良多。我們必須成為一個真正的團隊。"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "重置點"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "用於重置升級點數"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "升級點（冒險家）"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "用於提升冒險家的技能"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "升級點（科學家）"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "用於提升科學家的技能"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "升級點（記者）"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "用於提升記者的技能"
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "初始經驗"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "增加任務開始時的經驗值"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "基礎數值提升"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "升級角色時獲得的基礎提升"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "出勤科學家"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "有報告稱還有一位科學家被困入了時間迴圈。<br>他的專業技能可能對你的工作很有價值。<br>當然了，你必須先說服他加入你，然後再把他帶到工作站。"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "找到科學家，把他帶到工作站。"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "正常"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "正常天氣"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "相比暴風雪或寒冷天氣，更有可能出現友好的天氣"
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "暴風雪"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "暴風雪天氣"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "暴風雪天氣出現的可能性增加。"
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "寒冷"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "寒冷天氣"
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "寒冷天氣出現的可能性增加。"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "調查性新聞"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "據傳有一位元記者在山中徘徊。找到他，用他的調查技能找到時間迴圈的出路。"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "搜尋線索能指引你找到記者。"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "第一條線索"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "第二條線索"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "退出"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "角色精通"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "道具精通"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "環境精通"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "地形精通"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "事件精通"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "使用道具"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "裝備"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "未使用消耗品"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "越過危險地形"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "經歷事件"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "行走時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "夜間行走時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "死亡地帶行走時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "惡劣天氣行走時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "爬行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "夜間爬行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "死亡地帶爬行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "惡劣天氣爬行時間"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "獲得經驗"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "等級提升"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "獲得經驗"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "升級"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "等級提升後啟動升級"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "陽光漫步"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "好天氣下獲得一定的體溫。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "好天氣下獲得更多體溫。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "陽光漫步"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "好天氣下獲得一定的體溫。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "陽光漫步"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "好天氣下獲得一定的體溫。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "劇烈運動"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "行動時每小時獲得更多體溫，但體能消耗會增加。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "行動時每小時獲得更多體溫，但體能消耗會增加。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "劇烈運動"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "行動時每小時獲得更多體溫，但體能消耗會增加。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "劇烈運動"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "行動時每小時獲得更多體溫，但體能消耗會增加。"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "保暖"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "行動時每小時獲得一定的體溫"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "行動時每小時獲得更多體溫"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "保暖"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "行動時每小時獲得一定的體溫"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "保暖"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "行動時每小時獲得一定的體溫"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "深度休息"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "睡覺時獲得一定的體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "睡覺時獲得更多體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "深度休息"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "睡覺時獲得一定的體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "深度休息"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "睡覺時獲得一定的體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "興高采烈"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "減少死亡地帶的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "大幅減少死亡地帶的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "興高采烈"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "減少死亡地帶的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "興高采烈"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "減少死亡地帶的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "養精蓄銳"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "減少行動時的體能消耗，但增加時間消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "減少行動時的體能消耗，但增加時間消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "養精蓄銳"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "減少行動時的體能消耗，但增加時間消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "養精蓄銳"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "減少行動時的體能消耗，但增加時間消耗"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "增加氧氣恢復，但是減少體溫恢復"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "增加氧氣恢復，但是減少體溫恢復"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "增加氧氣恢復，但是減少體溫恢復"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "深呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "增加氧氣恢復，但是減少體溫恢復"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "再推一把"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "大幅增加一段時間內的氧氣恢復量，但神志消耗持續增加到任務結束"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "再推一把"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "大幅增加氧氣恢復量"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "再推一把"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "神志消耗持續增加到任務結束"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "控制呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "增加每小時的氧氣恢復量。增加最大氧氣值。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "大幅增加每小時的氧氣恢復量。增加最大氧氣值。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "控制呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "增加每小時的氧氣恢復量。增加最大氧氣值。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "控制呼吸"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "大幅增加每小時的氧氣恢復量。增加最大氧氣值。"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "強硬做派"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "無視危險地形"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "無視危險地形"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "強硬做派"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "無視危險地形"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "強硬做派"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "無視危險地形"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "超越邊界"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "減少陡峭地形（2+海拔）的體能消耗，但是增加神志損耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "減少陡峭地形（2+海拔）的體能消耗，但是增加神志損耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "超越邊界"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "減少陡峭地形（2+海拔）的體能消耗，但是增加神志損耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "超越邊界"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "減少陡峭地形（2+海拔）的體能消耗，但是增加神志損耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "快速行動"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "減少行動時的時間消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "減少行動時的時間消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "快速行動"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "減少行動時的時間消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "快速行動"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "減少行動時的時間消耗"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "無法停止"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "大幅減少行動時的神志損耗，<br>但在休息/事件中產生額外的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "大幅減少行動時的神志損耗，<br>但在休息/事件中產生額外的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "無法停止"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "大幅減少行動時的神志損耗，<br>但在休息/事件中產生額外的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "無法停止"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "大幅減少行動時的神志損耗，<br>但在休息/事件中產生額外的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "專注當下"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "抵達重要地標時獲得神志。"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "抵達重要地標時獲得神志。"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "專注當下"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "抵達重要地標時獲得神志。"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "專注當下"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "抵達重要地標時獲得神志。"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "頌歌"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "頌歌"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "頌歌"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "星空之下"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "減少帳篷外睡覺的懲罰"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "減少帳篷外睡覺的懲罰"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "星空之下"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "減少帳篷外睡覺的懲罰"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "星空之下"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "減少帳篷外睡覺的懲罰"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "長期思考"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "醒來時獲得體能，<br>但行動時增加時間消耗"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "醒來時獲得體能，<br>但行動時增加時間消耗"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "長期思考"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "醒來時獲得體能，<br>但行動時增加時間消耗"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "長期思考"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "醒來時獲得體能，<br>但行動時增加時間消耗"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "探索山脈"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "大幅增加獲得的經驗值"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "大幅增加獲得的經驗值"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "探索山脈"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "大幅增加獲得的經驗值"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "探索山脈"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "大幅增加獲得的經驗值"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "保暖"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "集中精神保持體溫升高。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "留有餘地"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "集中精神恢復更多體能，減少消耗"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "探索山脈"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "專注於長途旅行，探訪多個重要地標"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "適應環境"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "集中精神保持氧氣水準。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "決意"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "專注於通向目標的直線路徑。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "精神集中"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "集中精神更長久地維持神志。"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "事件知識"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "幫助你從事件中獲得最大的利益"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "事件知識：神志"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "增加事件中獲得的神志"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "事件知識：經驗"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "增加事件中獲得的經驗"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "事件知識：體能"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "減少事件中的體能消耗"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "事件知識：時間"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "減少事件中的時間消耗"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "事件知識：神志"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "事件中獲得的神志增加{0}"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "事件知識：經驗"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "事件中獲得的經驗增加{0}"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "事件知識：體能"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "事件中的體能消耗減少{0}"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "事件知識：時間"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "事件中的時間消耗減少{0}"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "溫暖思緒"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "使用消耗品時獲得一定的體溫"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "使用消耗品時獲得更多體溫"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "溫暖思緒"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "使用消耗品時獲得一定的體溫"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "溫暖思緒"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "使用消耗品時獲得一定的體溫"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "保存體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "保存體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "大幅減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "保存體能"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "清醒頭腦"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "神志較高時，減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "神志較高時，減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "清醒頭腦"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "神志較高時，減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "清醒頭腦"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "神志較高時，減少行動和攀爬時的體能消耗"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "清新空氣"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "氧氣處於高水準時，減少行動和攀爬時的時間消耗"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "氧氣處於高水準時，大幅減少行動和攀爬時的時間消耗"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "清新空氣"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "氧氣處於高水準時，減少行動和攀爬時的時間消耗"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "清新空氣"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "氧氣處於高水準時，減少行動和攀爬時的時間消耗"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "慢慢來"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "醒來時獲得一定的體能、體溫和氧氣"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "醒來時獲得更多體能、體溫和氧氣"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "慢慢來"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "醒來時獲得一定的體能、體溫和氧氣"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "慢慢來"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "醒來時獲得一定的體能、體溫和氧氣"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "增加體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "增加最高體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "增加最高體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "增加最高體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "增加體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "增加最高體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "增加體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "增加最高體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "增加體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "增加最高體溫"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "增加體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "增加最大體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "增加最大體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "增加最大體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "增加體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "增加最大體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "增加體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "增加最大體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "增加體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "增加最大體能"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "增加生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "增加最大生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "增加最大生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "增加最大生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "增加生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "增加最大生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "增加生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "增加最大生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "增加生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "增加最大生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "增加氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "增加最大氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "增加最大氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "增加最大氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "增加氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "增加最大氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "增加氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "增加最大氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "增加氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "增加最大氧氣值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "增加神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "增加最大神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "增加最大神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "增加最大神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "增加神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "增加最大神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "增加神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "增加最大神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "增加神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "增加最大神志"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "增加基礎數值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "增加最大體能、體溫、氧氣值、神志以及生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "增加基礎數值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "增加基礎數值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "增加最大體能、體溫、氧氣值、神志以及生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "增加基礎數值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "增加最大體能、體溫、氧氣值、神志以及生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "增加基礎數值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "增加最大體能、體溫、氧氣值、神志以及生命值"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "增加基礎數值"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "異常"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "增加行動時的時間消耗"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "強力異常"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "大幅增加行動時的時間消耗"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "晴朗"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "友好天氣"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "增加晴朗天氣的出現概率"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "強暴風雪"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "強暴風雪天氣"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "大幅增加暴風雪天氣出現的概率"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "酷寒"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "酷寒天氣"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "大幅增加寒冷天氣出現的概率"
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "壞天氣"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "危險的壞天氣"
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "增加寒冷和暴風雪天氣出現的概率"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "惡劣天氣"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "極惡劣天氣"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "大幅增加寒冷和暴風雪天氣出現的概率"
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "廣闊的山脈。"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "找到3處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "廣袤的山地景觀。"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "找出2處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "中等海拔的小山。"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "一座中等海拔的普通山脈。"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "坡度相對較緩的山脈。"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "廣闊的山脈。"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "找到3處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "一座廣袤的大山。山裡有大量危險地形。"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "找到3處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "一座廣袤的大山。區域內潛在的路徑多的超乎尋常，<br>不過需要大量攀爬。"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "找到3處時間異常。異常現象分散廣闊的區域內。<br>然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "一座廣袤的大山。這座山上只有一小塊區域位於死亡地帶，<br>不過地形極具挑戰性。"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "找到3處時間異常。異常現象分散廣闊的區域內。<br>然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "一座中等海拔的大山。"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "一座中等海拔的大山。<br>區域內潛在的路徑多的超乎尋常，不過需要大量攀爬。"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "一座中等海拔的大山。<br>這座山裡有很多危險地形。"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "一個巨大的火山口，擁有陡峭的圓錐形斜坡。"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "一座擁有極其陡峭斜坡的小型山脈。<br>山中有很大一部分區域處於危險地帶。"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "一個火山口，一側有開口，斜坡較緩。"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "找到3處時間異常。異常現象分散廣闊的區域內。<br>然後抵達目標地。"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "一座形似大鍋的山脈，擁有不少斜坡。"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "找到3處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "一座中等海拔的大山。<br>這座山裡有很多危險地形。"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "一座中等海拔的大山。"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "一座擁有陡峭斜坡的大山。<br>山中有一大片區域位於死亡地帶，但地形的挑戰性不高。"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "一座廣袤的大山。"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "找到4處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "異常5"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "一個巨大的山脈。"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "找到4處時間異常。異常現象分散廣闊的區域內。<br>然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "異常5"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "一個巨大的火山口，擁有陡峭的圓錐形斜坡。<br>山裡擁有很多危險地形。"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "找到4處時間異常。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "異常5"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "一個巨大的火山口，擁有陡峭的圓錐形斜坡。"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "找到4處時間異常。異常現象分散廣闊的區域內。<br>然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "異常5"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "一座地形開闊的大山。"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "一座地形開闊的大山。<br>山中有很大一部分區域處於危險地帶。"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "一座擁有陡峭斜坡的大山。<br>山中有一大片區域位於死亡地帶。"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "一座中等海拔的大山。"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "一座擁有陡峭斜坡的大山。<br>山中有很多危險地形。"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "首次攀登"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "這是你的首次攀登！你感覺異常專注，很有動力！"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "對了，我有些擔心時間迴圈症。你已經出現症狀了。我可以幫你，不過我手上的藥物補給就快用完了。"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "我只能再幫你恢復一次。只有最後一次，你明白了嗎？在那之後，你的餘生都要在某種清醒的昏迷中度過了。"
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "一座難以逾越的巨大山脈。"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "找到5處時間異常。異常現象分散廣闊的區域內。然後抵達目標地。"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "異常5"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "一座壯觀的山脈，擁有陡峭的岩石尖頂。  "
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "找到5處時間異常。異常現象分散廣闊的區域內。然後抵達目標地。"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "異常1"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "異常2"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "異常3"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "異常4"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "異常5"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "目的地"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "一個巨大的火山口，擁有一處陡峭的岩石懸崖。"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "支線任務"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "一座無法預測的無邊大山，擁有極具挑戰性的地形。"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "登上頂峰。然後抵達目標地。"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "頂峰"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "目標地"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "精通與技能"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "在基地通過升級啟動的效果。<br>點擊即可查看各自的效果。"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "環境與裝備"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "受當前山脈、外在環境與當前裝備影響的效果。<br>點擊即可查看各自的效果。"
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "臨時"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "臨時效果會在一段時間後失效。<br>點擊即可查看各自的效果。"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "持續到任務結束"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "會在任務結束時失效的效果。<br>點擊即可查看各自的效果。"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "溫暖的肺"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "體溫較高時，增加氧氣恢復量"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "體溫較高時，大幅增加氧氣恢復量"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "溫暖的肺"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "體溫較高時，增加氧氣恢復量"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "溫暖的肺"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "體溫較高時，增加氧氣恢復量"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "精神亢奮"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "體溫較高時，減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "體溫較高時，大幅減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "精神亢奮"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "體溫較高時，減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "精神亢奮"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "體溫較高時，減少行動時的神志損耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "步伐穩健"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "生命值較高時，減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "生命值較高時，大幅減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "步伐穩健"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "生命值較高時，減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "步伐穩健"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "生命值較高時，減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "恢復元氣"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "生命值較低時，減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "生命值較低時，大幅減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "恢復元氣"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "生命值較低時，減少行動時的體能消耗"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "恢復元氣"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "生命值較低時，減少行動時的體能消耗"
+    }
+  ]
+}

@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "Tenda"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "Erva-da-lua"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "Tocha"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Luvas de escalada"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "Tanque de oxigênio"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Talismã do fogo"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "Botas reforçadas"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "Luvas de peles"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "Chá quente"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "Botas de neve"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Talismã do relâmpago"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "Bastão de trilha"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "Comida enlatada"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Talismã da pedra"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Talismã do vento"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "Piqueta"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "Crampons"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">Foguete climático</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "Altera o clima atual para \"céu aberto\"."
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "Talismã"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "Luvas"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "Botas"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "Ferramentas"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "Luvas de peles"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "Aumenta o ganho de Temperatura Corporal ao se mover e vasculhar."
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Desafio da Terra"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "Clima: tempestade"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "Clima: frio"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Desafio do Vento"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "Noite"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "Botas de neve"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "Clima: céu aberto"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "Clima normal, sem demais efeitos."
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "Piqueta"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "Crampons"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "Bastão de trilha"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Luvas de escalada"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "Clima: neve"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "Botas reforçadas"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Desafio do Relâmpago"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "Tornozelo torcido"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "Paranoia"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "Febre do cume"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se mover."
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "Poupe sua respiração"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "Reduz o efeito da zona da morte."
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "Reduz o custo de Energia por um breve período."
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "Reduz a perda de Oxigênio por um longo período."
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "No limite"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "Impede eventos críticos por 6 horas."
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "Olhos de águia"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "Aumenta o zoom da câmera até o próximo movimento."
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "Salto"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "Salta sobre um buraco ou bloco."
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "Não dá para saltar ali!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "Perto demais!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "Não dá para saltar tão alto!"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "Mente impassível"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "Ignora efeitos negativos de clima e terreno"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "Esmagar pedra"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "Destrói um obstáculo a até 1 bloco de distância."
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "Destrói um obstáculo a até 2 blocos de distância."
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "Nada para destruir..."
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "Muito longe!"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "Preparativos"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "Aumenta a eficácia de comida enlatada e tanques de oxigênio."
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "Aumenta ainda mais a eficácia de comida enlatada e tanques de oxigênio."
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "Montanhista"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+)."
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+)."
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "Determinação"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "Ganha Vida ao acordar."
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "Ganha mais Vida ao acordar."
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "Quem cedo madruga..."
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "Ganha Energia ao acordar."
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "Ganha mais Energia ao acordar."
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "No limite"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "Obstinação"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "Perde 50 de Oxigênio e ganha 20 de Energia."
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "Maestria no gelo"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "Reduz o custo de Energia no gelo."
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "Veloz no gelo"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "Reduz o custo de tempo no gelo."
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de tempo no gelo."
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "Montanhista noturno"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "Reduz a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "Reduz consideravelmente a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "Estrela-guia"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao escalar à noite."
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de Energia ao escalar à noite."
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "Racionalidade"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o máximo de Sanidade."
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "Mente firme"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade em eventos."
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "Reduz consideravelmente a perda de Sanidade em eventos."
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "Extrapolar limites"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "Perde 10 de Sanidade e ganha 20 de Energia, de Temperatura Corporal e de Oxigênio."
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "Entusiasmo"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "Ganha Energia sempre que alcança um ponto de interesse."
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "Ganha mais Energia sempre que alcança um ponto de interesse."
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "Passo rápido"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "Reduz o custo de tempo para se movimentar."
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "Pressa"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "Reduz o custo de tempo em eventos."
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de tempo em eventos."
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "Mente aberta"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "Ganha Sanidade em eventos."
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "Ganha mais Sanidade em eventos."
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "Errante"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "Reduz o custo de tempo em terreno plano (elevação 0 ou 1)."
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de tempo em terreno plano (elevação 0 ou 1)."
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "Fôlego longo"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o máximo de Oxigênio."
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "Energia de sobra"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o máximo de Energia."
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "Treino matinal"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "Ganha Oxigênio ao acordar."
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "Ganha mais Oxigênio ao acordar."
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "Propósito"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "Reduz a perda de Energia em eventos."
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "Reduz consideravelmente a perda de Energia em eventos."
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "Maestria na neve"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "Reduz o custo de Energia na neve."
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "Veloz na neve"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "Reduz o custo de tempo na neve."
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de tempo na neve."
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "Conforto do lar"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "Ganha Sanidade ao usar um item consumível."
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "Ganha mais Sanidade ao usar um item consumível."
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "Herbalismo"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "Aumenta a eficácia de chás e ervas."
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "Aumenta ainda mais a eficácia de chás e ervas."
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "Meditação"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "Ganha um evento especial de meditação."
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "Natural do frio"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "Ganha Sanidade ao se movimentar em clima frio."
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "Ganha mais Sanidade ao se movimentar em clima frio."
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "Natural da montanha"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "Ganha Sanidade no gelo, Oxigênio na neve, e Temperatura Corporal na rocha."
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "Ganha mais Sanidade no gelo, mais Oxigênio na neve, e mais Temperatura Corporal na rocha."
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "Natural da tempestade"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "Ganha Oxigênio ao se movimentar em clima de tempestade."
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "Ganha mais Oxigênio ao se movimentar em clima de tempestade."
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "Calor interior"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal por hora ao se movimentar."
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "Ganha ainda mais Temperatura Corporal por hora ao se movimentar."
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "Maestria na rocha"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "Reduz o custo de Energia na rocha."
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "Veloz na rocha"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "Reduz o custo de tempo na rocha."
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de tempo na rocha."
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "Robustez"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o máximo de Vida."
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "Casca-grossa"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "Reduz a perda de Vida em eventos."
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "Reduz consideravelmente a perda de Vida em eventos."
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "Coração aquecido"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "Aventura"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "Frieza do gelo"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "Exploração"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "Coração da neve"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "Espiritualidade"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "Pujança da rocha"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "Preparativos"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "Aumenta a eficácia de comida enlatada e tanques de oxigênio."
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "Preparativos"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "Aumenta ainda mais a eficácia de comida enlatada e tanques de oxigênio."
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "Montanhista"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+)."
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "Montanhista"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+)."
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "Determinação"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "Ganha Vida ao acordar."
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "Determinação"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "Ganha Vida ao acordar."
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "Quem cedo madruga..."
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "Ganha Energia ao acordar."
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "Quem cedo madruga..."
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "Ganha Energia ao acordar."
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "No limite"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "No limite"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "Maestria no gelo"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "Reduz o custo de Energia no gelo."
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "Veloz no gelo"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "Reduz o custo de tempo no gelo."
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "Veloz no gelo"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "Reduz o custo de tempo no gelo."
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "Bênção da lua"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "Reduz a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "Bênção da lua"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "Reduz a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "Estrela-guia"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao escalar à noite."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "Estrela-guia"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao escalar à noite."
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "Racionalidade"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "Racionalidade"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "Mente firme"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "Mente firme"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "No limite"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "Ignora eventos críticos."
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "Olhos de águia"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "Aumenta o zoom da câmera."
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "Entusiasmo"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "Ganha Energia sempre que alcança um ponto de interesse."
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "Entusiasmo"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "Ganha Energia sempre que alcança um ponto de interesse."
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "Passo rápido"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "Reduz o custo de tempo para se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "Pressa"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "Reduz o custo de tempo em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "Pressa"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "Reduz o custo de tempo em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "Mente aberta"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "Ganha Sanidade em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "Mente aberta"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "Ganha Sanidade em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "Errante"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "Reduz o custo de tempo em terreno plano (elevação 0 ou 1)."
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "Errante"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "Reduz o custo de tempo em terreno plano (elevação 0 ou 1)."
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "Conforto do lar"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "Ganha Sanidade ao usar um item consumível."
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "Conforto do lar"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "Ganha Sanidade ao usar um item consumível."
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "Herbalismo"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "Aumenta a eficácia de chás e ervas."
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "Herbalismo"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "Aumenta a eficácia de chás e ervas."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "Natural do frio"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "Ganha mais Sanidade ao se movimentar em clima frio."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "Natural do frio"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "Ganha mais Sanidade ao se movimentar em clima frio."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "Natural da montanha"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "Ganha mais Sanidade no gelo, Oxigênio na neve, e Temperatura Corporal na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "Natural da montanha"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "Ganha mais Sanidade no gelo, Oxigênio na neve, e Temperatura Corporal na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "Natural da tempestade"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "Ganha mais Oxigênio ao se movimentar em clima de tempestade."
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "Natural da tempestade"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "Ganha mais Oxigênio ao se movimentar em clima de tempestade."
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "Mente impassível"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "Ignora efeitos negativos de ambiente e terreno."
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "Fôlego longo"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "Fôlego longo"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "Energia de sobra"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "Energia de sobra"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "Treino matinal"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "Ganha Oxigênio ao acordar."
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "Treino matinal"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "Ganha Oxigênio ao acordar."
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "Propósito"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "Reduz a perda de Energia em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "Propósito"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "Reduz a perda de Energia em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "Maestria na neve"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "Reduz o custo de Energia na neve."
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "Veloz na neve"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "Reduz o custo de tempo na neve."
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "Veloz na neve"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "Reduz o custo de tempo na neve."
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "Calor interior"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "Calor interior"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "Maestria na rocha"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "Reduz o custo de Energia na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "Veloz na rocha"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "Reduz o custo de tempo na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "Veloz na rocha"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "Reduz o custo de tempo na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "Robustez"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "Robustez"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "Casca-grossa"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "Reduz a perda de Vida em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "Casca-grossa"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "Reduz a perda de Vida em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "Coração aquecido"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "Coração aquecido"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "Dormir (caverna)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "Você dorme em uma caverna.<br>Reduz a perda de Temperatura Corporal, recupera mais Energia."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "Dormir (ao relento)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "Você dorme ao relento e sem uma tenda.<br>Aumenta a perda de Temperatura Corporal, recupera menos Energia."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "Dormir (tenda)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "Você dorme em uma tenda.<br>Reduz a perda de Temperatura Corporal, recupera mais Energia."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "Nevasca"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "O clima nesta rota é inclemente.<br>Intensifica os efeitos do clima frio."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "Noites frias"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "As noites são mais frias do que o habitual nesta rota.<br>Aumenta a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "Arredores tenebrosos"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "Barulhos e vultos estranhos seguem você nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "Terreno acidentado"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "O terreno desta rota é bastante desafiador."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "Tempestades severas"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "Há tempestades fortíssimas nesta rota.<br>Intensifica os efeitos das tempestades."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "Ar rarefeito"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "É mais difícil respirar nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "Neve firme"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "O terreno nevado proporciona mais aderência nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "Gelo estável"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "O terreno congelado proporciona mais aderência nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "Rocha fixa"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "O terreno rochoso proporciona mais aderência nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "Ar fresco"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "O ar desta rota é limpo e fresco."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "Fenômenos incomuns"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "Esta rota esconde muitas descobertas."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "Noites quentes"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "As noites são mais quentes do que o habitual nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "Dedões congelados"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "Seus dedos do pé congelaram."
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "Tornozelo machucado"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "Você machucou os tornozelos."
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "Mal da montanha"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "Você está sofrendo do mal da montanha."
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "Pesadelos"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "Você está tendo pesadelos."
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "Exaustão"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "Você está sofrendo de exaustão."
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "Geladura"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "O frio cortante das montanhas está te causando ferimentos."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "Descanso acalentador"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "Você dorme se protegendo do frio."
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "Ambiente"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "Efeitos temporários causados pelo horário e local na montanha.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "Equipamento"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "Efeitos dos itens equipados.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "Cicatrizes"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "Efeitos persistentes por conta do esforço feito em montanhas anteriores.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "Benefícios temporários"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "Efeitos positivos temporários.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "Penalidades temporárias"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "Efeitos negativos temporários.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "Talentos"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "Efeitos que você ganha ao subir de nível.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "Neve profunda"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "Aumenta o custo de Energia ao se mover."
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "Geleira"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "Perigo: coisas imprevisíveis podem acontecer..."
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "Labirinto de gelo"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "Aumenta o custo de tempo e perde mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "Pedregulhos"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "Perigo: coisas imprevisíveis podem acontecer..."
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "Banco de neve"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "Perigo: coisas imprevisíveis podem acontecer..."
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "Rocha vulcânica"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "Aumenta a perda de Oxigênio e o ganho de Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "Mão ferida"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "Aumenta o custo de Energia em terreno íngreme (elevação 2+)."
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "Cabeça ferida"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "Reduz o ganho de experiência."
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "Celeridade"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "Reduz o custo de tempo, aumenta o custo de Energia e ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "Celeridade"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "Reduz o custo de tempo, aumenta o custo de Energia e ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "Tórax ferido"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "Dói ao respirar."
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "Perna ferida"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "Aumenta o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "Cegueira da neve"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "Aumenta o custo de tempo em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "Nevasca forte"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "O clima nesta rota é implacável."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "Noites muito frias"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "As noites são mais frias do que o habitual nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "Arredores muito tenebrosos"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "Barulhos e vultos estranhos seguem você nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "Terreno muito acidentado"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "Esta rota é dificílima de atravessar."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "Tempestades muito severas"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "Há tempestades fortíssimas nesta rota."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "Ar muito rarefeito"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "É mais difícil respirar nesta rota."
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "{0} custo de Energia em terreno plano"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "{0} custo de Energia ao escalar (1 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "{0} custo de Energia ao escalar (2 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "{0} custo de Energia ao escalar (3 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "{0} custo de Energia ao escalar (4 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "{0} custo de Energia ao escalar (5 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "{0} custo de Energia ao escalar (6 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "{0} custo de Energia em todos os terrenos"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "{0} custo de Energia em todos os terrenos"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "{0} custo de Energia na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "{0} custo de Energia na neve"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "{0} custo de Energia no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "{0} custo de Energia em terreno plano"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "{0} custo de tempo ao escalar (1 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "{0} custo de tempo ao escalar (2 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "{0} custo de tempo ao escalar (3 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "{0} custo de tempo ao escalar (4 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "{0} custo de tempo ao escalar (5 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "{0} custo de tempo ao escalar (6 de diferença de altura)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "{0} custo de tempo em todos os terrenos"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "{0} custo de tempo em todos os terrenos"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "{0} custo de tempo na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "{0} custo de tempo na neve"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "{0} custo de tempo no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "{0} Energia por hora ao descansar"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "{0} Energia por hora ao descansar"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "{0} Sanidade por hora ao se movimentar"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "{0} Sanidade por hora ao se movimentar"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "{0} Sanidade por hora ao se movimentar na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "{0} Sanidade por hora ao se movimentar na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "{0} Sanidade por hora ao se movimentar na neve"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "{0} Sanidade por hora ao se movimentar na neve"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "{0} Sanidade por hora ao se movimentar no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "{0} Sanidade por hora ao se movimentar no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "{0} Sanidade por hora ao descansar ou em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "{0} Sanidade por hora ao descansar ou em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar na neve"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar na neve"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "{0} Temperatura Corporal por hora ao se movimentar no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "{0} Temperatura Corporal por hora ao descansar ou em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "{0} Temperatura Corporal por hora ao descansar ou em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "{0} Oxigênio por hora ao se movimentar"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "{0} Oxigênio por hora ao se movimentar"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "{0} Oxigênio por hora ao se movimentar na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "{0} Oxigênio por hora ao se movimentar na rocha"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "{0} Oxigênio por hora ao se movimentar na neve"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "{0} Oxigênio por hora ao se movimentar na neve"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "{0} Oxigênio por hora ao se movimentar no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "{0} Oxigênio por hora ao se movimentar no gelo"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "{0} Oxigênio por hora ao descansar ou em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "{0} Oxigênio por hora ao descansar ou em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "{0} distância máxima da câmera"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "{0} Energia ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "{0} Energia perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "{0} Energia ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "{0} Energia perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "{0} Temperatura Corporal ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "{0} Temperatura Corporal perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "{0} Temperatura Corporal ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "{0} Temperatura Corporal perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "{0} Oxigênio ganho em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "{0} Oxigênio perdido em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "{0} Oxigênio ganho em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "{0} Oxigênio perdido em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "{0} Sanidade ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "{0} Sanidade perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "{0} Sanidade ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "{0} Sanidade perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "{0} Vida ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "{0} Vida perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "{0} Vida ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "{0} Vida perdida em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "{0} experiência ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "{0} experiência ganha em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "{0} mudança de tempo em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "{0} mudança de tempo em eventos"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "{0} eficácia de chás e ervas"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "{0} eficácia de comida enlatada e tanques de oxigênio"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "{0} Vida máxima"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "{0} Energia máxima"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "{0} Sanidade máxima"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "{0} Temperatura Corporal máxima"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "{0} Oxigênio máximo"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "{0} reativação para todos os eventos de interrupção"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "{0} reativação para todos os eventos críticos"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "{0} reativação para todos os eventos de interrupção de terreno"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "Rapel"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "Desce de rapel até um bloco inferior."
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "Não dá para descer de rapel ali!"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "Escolha um bloco abaixo do atual!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "Gancho"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "Escala rapidamente para um bloco mais alto."
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "Não dá para enganchar aqui!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "Escolha um bloco acima do atual!"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "(Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "(Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "(Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "Alta qualidade"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "Alta qualidade"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "Alta qualidade"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "Botas com isolamento"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "Gorro térmico"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "Capacete de proteção"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "Máscara de oxigênio"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "Lanterna de cabeça"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "{0} maior raio de luz"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "Piolet"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "Lanterna"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "Ativo apenas durante {0}."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "Sempre que você acordar, {0}."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "Sempre que você alcançar um ponto de interesse, {0}."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "Sempre que você usar um item consumível, {0}."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "ganha {0} de Energia"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "perde {0} de Energia."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "ganha {0} de Temperatura Corporal"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "perde {0} de Temperatura Corporal."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "ganha {0} de Oxigênio"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "perde {0} de Oxigênio."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "ganha {0} de Sanidade"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "perde {0} de Sanidade."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "ganha {0} de Vida"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "perde {0} de Vida."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "ganha {0} experiência."
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "Adrenalina"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "Ganha Energia ao encontrar um evento perigoso de terreno."
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "Ganha mais Energia ao encontrar um evento perigoso de terreno."
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "Sangue espesso"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "Reduz o efeito da zona da morte."
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "Reduz ainda mais o efeito da zona da morte."
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "Aclimatação"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "Reduz o efeito do clima frio."
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "Reduz ainda mais o efeito do clima frio."
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "Perseverança"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "Reduz o efeito do clima de tempestade."
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "Reduz ainda mais o efeito do clima de tempestade."
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "Ambição ardente"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "Aumenta o ganho de Temperatura Corporal por hora."
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o ganho de Temperatura Corporal por hora."
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "Pulmões fortes"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio por hora."
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio por hora."
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "Passos leves"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "Reduz o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "Primeiros socorros"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "Gasta tempo para curar seus ferimentos."
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "Concentração"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "Gasta tempo para recuperar Sanidade."
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "Análise"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "Gasta tempo para ganhar Experiência."
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "Aquecimento"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "Gasta Energia para ganhar Temperatura Corporal."
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "Exercício de respiração"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "Gasta Temperatura Corporal para ganhar Oxigênio."
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "Celeridade"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "Reduz o custo de tempo e ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "Maestria em montanha"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "Reduz o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "Natural do gelo"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "Recupera Sanidade ao se movimentar pelo gelo."
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "Recupera mais Sanidade ao se movimentar pelo gelo."
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "Natural da neve"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "Recupera Oxigênio ao se movimentar pela neve."
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "Recupera mais Oxigênio ao se movimentar pela neve."
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "Forte feito rocha"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "Ganha Temperatura Corporal ao se movimentar na rocha."
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "Ganha mais Temperatura Corporal ao se movimentar na rocha."
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "Ao estilo dos alpes"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "Reduz o custo de tempo em todos os terrenos."
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "Reduz consideravelmente o custo de tempo em todos os terrenos."
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "Eficiência"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "Reduz a perda de Energia em eventos."
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "Reduz consideravelmente a perda de Energia em eventos."
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "Irrefreável"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "Recupera um pouco de Energia, Temperatura Corporal, Oxigênio e Sanidade ao encontrar um evento crítico."
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "Recupera um pouco mais de Energia, Temperatura Corporal, Oxigênio e Sanidade ao encontrar um evento crítico."
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "Celeridade"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "Reduz o custo de tempo, aumenta o custo de Energia e ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "Mãos congeladas"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "Suas mãos congelaram."
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "Fadiga muscular"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "Seu corpo dói quando você se movimenta."
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "Tosse constante"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "Você não para de tossir."
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "Febre do cume"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "Você sente uma obsessão por alcançar o cume, a qualquer custo."
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "Dúvida"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "Você está começando a achar que tudo isso foi um erro."
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "Audácia"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "Você está ficando excessivamente confiante."
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "Adrenalina"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "Ganha Energia ao encontrar um evento perigoso de terreno."
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "Adrenalina"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "Ganha mais Energia ao encontrar um evento perigoso de terreno."
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "Sangue espesso"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "Reduz o efeito da zona da morte."
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "Sangue espesso"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "Reduz ainda mais o efeito da zona da morte."
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "Aclimatação"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "Reduz o efeito do clima frio."
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "Aclimatação"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "Reduz ainda mais o efeito do clima frio."
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "Perseverança"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "Reduz o efeito do clima de tempestade."
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "Perseverança"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "Reduz ainda mais o efeito do clima de tempestade."
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "Ambição ardente"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "Aumenta o ganho de Temperatura Corporal por hora."
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "Ambição ardente"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "Aumenta consideravelmente o ganho de Temperatura Corporal por hora."
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "Pulmões fortes"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio por hora."
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "Pulmões fortes"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio por hora."
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "Passos leves"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "Reduz o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "Passos leves"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "Reduz consideravelmente o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "Celeridade"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "Reduz o custo de tempo e ganha mais Temperatura Corporal ao se movimentar."
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "Maestria em montanha"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "Reduz o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "Maestria em montanha"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "Reduz consideravelmente o custo de Energia em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "Natural do gelo"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "Recupera Sanidade ao se movimentar pelo gelo."
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "Natural do gelo"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "Recupera mais Sanidade ao se movimentar pelo gelo."
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "Natural da neve"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "Recupera Oxigênio ao se movimentar pela neve."
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "Natural da neve"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "Recupera mais Oxigênio ao se movimentar pela neve."
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "Natural da pedra"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "Ganha Temperatura Corporal ao se movimentar na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "Natural da pedra"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal ao se movimentar na rocha."
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "Ao estilo dos alpes"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "Reduz o custo de tempo em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "Ao estilo dos alpes"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "Reduz consideravelmente o custo de tempo em todos os terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "Eficiência"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "Reduz a perda de Energia em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "Eficiência"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "Reduz consideravelmente a perda de Energia em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "Irrefreável"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "Recupera um pouco de Energia, Temperatura Corporal, Oxigênio e Sanidade ao encontrar um evento crítico."
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "Irrefreável"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "Recupera um pouco mais de Energia, Temperatura Corporal, Oxigênio e Sanidade ao encontrar um evento crítico."
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "Cabeça"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "Botas com isolamento (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "Capacete de proteção (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "Máscara de oxigênio (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "Lanterna de cabeça (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "Gorro térmico (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "Piqueta (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "Luvas de escalada (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "Luvas de peles (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "Bastão de trilha (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "Crampons (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "Botas de neve (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "Botas reforçadas (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "Piolet (Alta qualidade)"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Desafio do Fogo"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "Coragem"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "Ganha experiência ao encontrar um evento perigoso de terreno."
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "Coragem"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "Ganha experiência ao encontrar um evento perigoso de terreno."
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "Passos cautelosos"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "Gasta mais tempo para se movimentar, porém ignora terrenos perigosos."
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "Passos cautelosos"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "Gasta mais tempo para se movimentar, porém ignora terrenos perigosos."
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "Coruja"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "Ganha mais experiência em eventos durante a noite."
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "Ganha mais experiência em eventos durante a noite."
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "Coruja"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "Ganha mais experiência em eventos durante a noite."
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "Coruja"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "Ganha mais experiência em eventos durante a noite."
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "Montanhista íngreme"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "Especialista em se movimentar por terrenos íngremes."
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "Aptidão para eventos"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "Especialista em eventos."
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "Aptidão para terreno plano"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "Especialista em se movimentar por terrenos planos."
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "Aptidão para terreno especial"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "Especialista em terrenos perigosos."
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "Montanhista noturno"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "Especialista em escalar à noite."
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "Aptidão para consumíveis"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "Especialista em utilizar consumíveis."
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "Habilidades gerais"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "Úteis em diferentes situações."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "Sempre que encontrar um evento de terreno perigoso, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "Sempre que encontrar um evento crítico, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "Tocha"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "Aumenta o raio de luz."
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "Lanterna"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "Aumenta o raio de luz."
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "Lanterna"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "Aumenta muito o raio de luz."
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "{0} raio de luz"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "Curativos"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "Habilidades neutras"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "Podem ser selecionadas em todas as especializações."
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "Zona da morte"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "Você está na zona da morte. Você perde Oxigênio ao se movimentar, descansar e encontrar eventos."
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "Consciência tranquila"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "Você dorme com a consciência tranquila."
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "Heroísmo"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "Você sente que pode vencer todos os obstáculos."
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "Sempre que você subir de nível, {0}."
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "Regeneração"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "Você recupera Vida sempre que você usar um item consumível."
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "Regeneração"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "Caça-emoções"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "Ganha Sanidade na zona da morte."
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": "Caça-emoções"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "Artífice"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "Usa sua engenhosidade para criar seu próprio equipamento."
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "Genialidade insana"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "Gasta Sanidade para obter um benefício temporário."
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "Genialidade insana"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "Genialidade insana"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "Genialidade insana"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "Genialidade insana"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "Jornalismo investigativo"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "Ganha experiência ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "Jornalismo investigativo"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Sede de conhecimento"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "Ganha Energia, Temperatura Corporal, Oxigênio, Sanidade e Vida ao subir de nível."
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Sede de conhecimento"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "Pistola sinalizadora verde"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "Chama alguém para barganhar."
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "Pistola sinalizadora vermelha"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "Pede ajuda."
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "Corda de segurança"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "Ignora terrenos perigosos por tempo limitado."
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "Corda de escalada"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao escalar por tempo limitado."
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "Ganchos de escalada"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao escalar por tempo limitado."
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "Inspiração"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "Recupera Energia e reduz o tempo de todas as habilidades que estão em reativação."
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "Reduz em {0} {1} todas as reativações ativas."
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "Conhecimento de terreno"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "Ajuda a se mover pelos tipos de terrenos."
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Conhecimento de terreno: gelo"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "Reduz o custo de Energia no gelo."
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Conhecimento de terreno: neve"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "Reduz o custo de Energia na neve."
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Conhecimento de terreno: rochoso"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "Reduz o custo de Energia em terreno rochoso."
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Conhecimento de terreno: perigos"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "Aumenta a proteção contra eventos causados por terrenos perigosos."
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Conhecimento de terreno: gelo"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "Reduz em {0} o custo de Energia no gelo."
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Conhecimento de terreno: neve"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "Reduz em {0} o custo de Energia na neve."
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Conhecimento de terreno: rochoso"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "Reduz em {0} o custo de Energia nos terrenos rochosos."
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Conhecimento de terreno: perigos"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "Aumenta em {0} a proteção contra eventos de interrupção de terreno."
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "Conhecimento de ambiente"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "Ajuda a enfrentar os perigos da montanha."
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "Resistência a clima frio"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "Reduz a perda de Temperatura Corporal em clima frio."
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Resistência à zona da morte"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "Reduz a perda de Oxigênio na Zona da Morte."
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "Resistência noturna"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "Reduz a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "Resistência a tempestades"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "Reduz os efeitos de custo de Energia em clima de tempestade."
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "Resistência a clima frio"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "Reduz em {0} a perda de Temperatura Corporal em clima frio."
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Resistência à zona da morte"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "Reduz em {0} a perda de Oxigênio na Zona da Morte."
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "Resistência noturna"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "Reduz em {0} a perda de Temperatura Corporal à noite."
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "Resistência a tempestades"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "Reduz em {0} os efeitos de custo de Energia em clima de tempestade."
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "Capacidade"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "Determina quantos itens você pode levar da base."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "O começo"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "Os picos selvagens e indomáveis da montanha se agigantam até os céus.<br>Por muitos anos, a ilha ficou isolada do mundo exterior.<br>Chegou a hora de explorar a cordilheira e preencher os espaços desconhecidos do mapa."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "Alcance o cume e entre para a história."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "Radiação"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "Desconhecido"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "Supostamente há uma antena no cume que amplifica a radiação eletromagnética. Você precisa descobrir qual o efeito dela no amuleto."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "Há outra montanha a conquistar. No entanto, você ainda precisa concluir mais algumas missões secundárias antes de desbloqueá-la."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "Leve o amuleto ao cume para alcançar seu objetivo."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "Desconhecido"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "Força explosiva"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "Desconhecido"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "Você precisa levar seu amuleto carregado até o pico mais alto das montanhas<br>para destruir o ciclo temporal."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "Até mesmo as montanhas mais altas e mais imponentes devem ser escaladas. Preencha todos os requisitos para desbloqueá-las."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "Alcance o cume e escape do ciclo temporal."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "Desconhecido"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "Prólogo"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "Capítulo 1"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "Capítulo 2"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "Capítulo 3"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "Seus olhos se abrem. Onde você está? O que aconteceu? Você tenta se lembrar. Você atravessou um portal..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "Está tudo confuso? Não se preocupe, isso é normal quando alguém atravessa o ciclo temporal em plena consciência. Deve ter algo a ver com a radiação.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "Ciclo temporal? Radiação? Do que essa pessoa está falando? E quem é ela? Será que você está tendo alucinações? Ao ver o amuleto verde brilhante na mesa à sua frente, você tem a certeza de que já viu essa pedra antes. De repente, as memórias inundam sua mente. A moça silenciosa que te resgatou quando você quase caiu na fenda. Por que ela não explicou tudo isso antes pra você?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "'E você teria acreditado em mim? Não mesmo, né? Eu precisava que você viesse comigo. Você tinha que ver com seus próprios olhos... passar pela experiência. Eu sei que vai parecer loucura, então vou explicar do começo: estamos presos nessa ilha em um ciclo temporal. Eu tenho uma ideia de como podemos escapar, mas, primeiro, eu preciso fazer alguns cálculos.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "'E eu já pensei em uma forma de você nos ajudar. Assim que se recuperar, gostaria que você fosse explorar e buscar umas informações. Além disso, você vai aprender habilidades importantes com a experiência em campo. Leve o meu amuleto: ele é nossa melhor esperança de reverter o ciclo temporal, além de ser capaz de transportar você de volta à estação após o reinício do ciclo.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "'A primeira coisa que você deveria fazer é explorar a região e se familiarizar com o poder do amuleto.<br>Eu sei que estou pedindo muito, mas essa é nossa única opção. Você vai ter que confiar em mim.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "Sua cabeça está latejando. Você até pensa em dizer alguma coisa, mas não consegue proferir nenhuma palavra. Você não consegue se levantar, só fica em silêncio e inerte. A estranha misteriosa fica te analisando com uma expressão preocupada."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "'Você está bem? Ah, eu entendo. Você descobriu algo que seu cérebro não é capaz de processar. E então morrer, em plena consciência do ciclo temporal... Isso é muito impactante, mesmo.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "Desculpe por colocar você nessa situação. Eu levei muitos anos para entender tudo isso. Principalmente a importância da pedra. Foi um mistério para mim, por muito tempo. Ela é a chave desta prisão.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "E falando em prisão: você precisa sobreviver para chegar ao objetivo que calculei. Assim a pedra absorverá a radiação necessária. Por favor, você precisa ser perseverante. Tenho certeza de que vai funcionar da próxima vez.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "Você não consegue se levantar, sua cabeça lateja e impede que você se mova ou mesmo fale qualquer coisa. Até a estranha misteriosa parece estar diferente, com a voz distorcida..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "Tem alguma coisa errada? Ah, isso acontece. Mas, por favor, continue tentando! O amuleto precisa absorver a radiação. A antena no cume ajudará a canalizar a radiação eletromagnética: essa é a única forma de sairmos desse ciclo temporal.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "Quando você acorda, imediatamente olha para a estranha misteriosa. A expressão dela não revela se a sua tentativa de reverter o ciclo temporal foi um sucesso ou não. Com empolgação, você conta tudo que viu, inclusive as iniciais na antena. Você quer saber o que elas significam."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "Você não entendeu? Significa que você já esteve lá em cima outra vez. Provavelmente mais de uma vez. Nós nos encontramos muitas vezes, também. Lá fora e aqui na estação. Mas você não acreditava em mim. Só depois que você obteve o amuleto, a sua memória passou a ultrapassar os limites do ciclo temporal. Com ela, você recobrou a sua consciência e a sua capacidade de se lembrar de tudo.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "Você se remói com as dúvidas. Não seria melhor simplesmente esquecer? A dor e o medo de ficar nessa prisão eterna... Por que a estranha não te contou tudo logo do começo? O que mais ela pode estar escondendo?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "Eu sei que essa situação não é fácil. Eu quis dar um tempo para você se acostumar com tudo. Eu levei muitos anos para entender tudo. Principalmente a importância da pedra. Foi um mistério para mim, por muito tempo. Ela é a chave desta prisão.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "Prisão? Você engole em seco. Isso significa que você escalou ao cume, até a antena, para nada? Você vai continuar nessa prisão do ciclo temporal?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "A pedra superaqueceu. Era de se esperar. Mas não foi suficiente para romper o ciclo temporal. Por favor, eu preciso de um tempo para pensar, e enquanto isso você poderia continuar treinando. Isso tudo ainda não acabou...'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "Quando você acorda, imediatamente olha para a estranha misteriosa. Ela está com uma expressão decepcionada. Será que não funcionou? Você tenta se acalmar e conta a ela sobre a pedra mudando de cor e o brilho vermelho."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "A pedra superaqueceu. Era de se esperar. Mas não foi suficiente para romper o ciclo temporal. Por favor, eu preciso de um tempo para pensar, e enquanto isso você poderia continuar treinando. Isso tudo ainda não acabou...'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "Estamos tão perto de desestabilizar o ciclo temporal. Você precisa continuar tentando, enquanto ainda restarem forças! Por favor!'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "Mais uma coisa: se estiver carregando a pedra e acabar morrendo, você retornará para a estação, mas sofrerá... alterações. Nada acontecerá com o seu corpo, mas sua mente ficará anuviada, como se estivesse acordando de um coma. Eu chamo essa enfermidade de doença do ciclo temporal.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "Há uma cura, mas os meus suprimentos podem acabar. Se isso acontecer, não vou poder fazer mais nada por você, então lute para viver.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "Mais uma coisa: se estiver carregando a pedra e acabar morrendo, você retornará para a estação, mas sofrerá... alterações. Nada acontecerá com o seu corpo, mas sua mente ficará anuviada, como se estivesse acordando de um coma. Eu chamo essa enfermidade de doença do ciclo temporal.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "Há uma cura, mas meus suprimentos estão acabando. Eu só consigo te recuperar dessa condição mais uma vez. Só mais uma última vez, entendeu?'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "Mais uma coisa: se estiver carregando a pedra e acabar morrendo, você retornará para a estação, mas sofrerá... alterações. Nada acontecerá com o seu corpo, mas sua mente ficará anuviada, como se estivesse acordando de um coma. Eu chamo essa enfermidade de doença do ciclo temporal.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "Há uma cura, mas meus suprimentos acabaram. Mas eu sei que isso não é o fim. Enquanto algum de vocês ainda tiver disposição de continuar, ainda temos uma chance...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "A montanha é implacável, não é mesmo? Mas continue tentando, por favor. Eu esperei tanto tempo por uma pessoa habilidosa como você...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "Eu sei que você está fazendo um grande sacrifício para nos tirar daqui, mas seus esforços vão valer a pena. Estamos muito perto de descobrir a saída dessa prisão. Por favor, não desista...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "Nunca desista. Está me ouvindo? Nunca! Essa é a maior lição que eu aprendi durante todos esses anos solitários na estação: é preciso continuar firme.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "Você voltou! Que bom. Achei que você tinha morrido de vez. Ah, aqui sempre há uma outra chance.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "Minha nossa, você está com uma cara péssima. O que aconteceu? Não precisa conversar sobre isso se não quiser. Talvez prefira descansar para se sentir melhor.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "O que aconteceu? Um acidente? Você congelou até morrer? Ou se sufocou? Deve ter sido muito desconfortável, não? Da próxima vez, tente mudar a sua estratégia.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "Sabe como é, dizem que a montanha é insuperável. Será que até mesmo para você?'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "Excelente, você conseguiu concluir a missão. O ambiente era mesmo tão inóspito quanto parecia?'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "Parabéns. Poucos alpinistas são tão bons quanto você. Se você continuar com tamanho progresso, em breve ficaremos livres do ciclo temporal.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "Suas habilidades são impressionantes. E você se torna melhor a cada missão que conclui. Sinceramente, desde que você chegou, eu passei a ter mais confiança de que um dia, enfim, sairemos daqui...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "Maravilha! Suas habilidades de alpinista são de cair o queixo. Eu não iria durar nem um dia lá fora.''"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "Você supera as intempéries e não deixa nada te abalar. Isso é incrível. Você é demais. Melhor até do que eu esperava.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "Acho que você entendeu o que realmente importa por aqui: nunca desistir de aprender e se adaptar às coisas novas e situações inesperadas.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "Quem diria! Você sobreviveu! Não podemos mais dizer que a montanha é insuperável pra você.'"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "Está me ouvindo? Você está aí? Nossa, é terrível de ver o que a doença do ciclo temporal faz com as pessoas.'"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "Mas ainda há uma fagulha de esperança. Enquanto um de vocês ainda tiver disposição para lutar, teremos uma chance de sair desse ciclo temporal...'"
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "Certo, precisa de mais tempo para se planejar? Admiro a sua cautela!'"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "Já voltou? Aconteceu alguma coisa? Ah, entendi. Você precisa se preparar mais. Tudo bem, não se preocupe.'"
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "Você se esqueceu alguma coisa? Por que voltou?'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "O que aconteceu? Há poucos segundos, você estava na montanha, e agora, de repente, voltou para essa estação esquisita. A misteriosa estranha também está aqui, e parece que ela estava te esperando."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "A pedra traz você de volta quando a sirene soa e o tempo se reinicia. Eu acho que ela apenas volta para o ponto de origem dela.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "É bom você saber: estamos em uma antiga estação de pesquisas com raios gama. Aparentemente, queriam criar um gigantesco campo de força eletromagnética. A ilha inteira era um local secreto e restrito. Quase ninguém sabia que ela existia.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "Até que alguma coisa deu errado. Algum tipo de surto. A radiação eletromagnética foi liberada e causou inúmeras anomalias na cordilheira: provavelmente, foi isso que iniciou o ciclo temporal. O tempo só se move normalmente na estação. Talvez seja por que as anomalias surgiram aqui? Enfim, eu encontrei a pedra brilhante na sala ao lado. Foi a última coisa que restou dos experimentos.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "Desculpe por não ter uma explicação melhor. Muitas coisas são incompreensíveis para mim, assim como são para você. Mas uma coisa eu descobri: a pedra reage à radiação. Nosso sucesso depende dela. Continue se preparando para que nós possamos sair daqui.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "Você ainda ouve um zumbido, mas está começando a se acostumar aos efeitos colaterais da anomalia. A estranha misteriosa parece estar te esperando outra vez. Você quer saber o que aconteceu aos antigos habitantes da estação de pesquisa."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "É um mistério sem resposta. Acredite em mim, eu passei muito tempo tentando desvendá-lo. Eles simplesmente desapareceram. Deixaram tudo para trás. Parece até que viraram poeira...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "A mulher misteriosa evita o seu olhar. Você percebe que ela está escondendo algo, mas essa situação parece até ser mais estressante para ela. Por educação, você evita o assunto. Uma hora vai acabar descobrindo, mesmo."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "Por favor, precisamos nos concentrar na missão! Continue investigando lá fora enquanto eu faço mais simulações. Em breve eu vou terminar...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "Finalmente, você voltou! Eu estava te esperando. Você aprendeu muito lá fora. Acho que chegou a hora de darmos o próximo passo...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "A pedra reage à radiação eletromagnética. Durante os experimentos realizados aqui, ela deve ter superaquecido e... implodiu. Isso deve ter causado as anomalias e iniciado o ciclo temporal. Basicamente, nós só precisamos repetir esse mesmo experimento. Mas temos um desafio a mais: todos os dispositivos usados no experimento pararam de funcionar. Totalmente. Mas eu sei que há um outro caminho...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "Você já percebeu aquela antena no cume? A radiação é mais forte lá, e a antena ainda intensifica a potência dela. Se nós conseguirmos expor a pedra à radiação, talvez ela superaqueça novamente e reverta o ciclo temporal. Quer dizer... essa é a minha teoria, mas, no momento, é a nossa única esperança.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "Você hesita. O que acontecerá se você recusar? Afinal, escalar uma montanha não é simples assim. Por outro lado, você quer descobrir o mistério daquela antena. Por que ela foi construída? Com qual propósito? A estranha sorri para você, como se conseguisse ler seus pensamentos."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "Descanse o quanto quiser, ou continue se preparando. Sei que a missão vai ser árdua. Mas eu confio em você!'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "Você acorda na estação e um pensamento não sai da sua cabeça. Há quanto tempo você está nessa ilha, inconscientemente na prisão do ciclo temporal?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "Difícil dizer. Alguns meses, talvez anos? Sei que o tempo é o nosso principal assunto, mas, mesmo assim, eu perdi a capacidade de contar quanto tempo se passou.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "Você gostaria de ouvir mais respostas. Como foi que a estranha chegou à estação? E como ela sabe sobre os experimentos que ocorreram aqui?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "Preciso dizer uma coisa. Eu não estou aqui por acaso. Meu pai é o pesquisador chefe. Ele... era, na verdade. Quando o acidente aconteceu, eu perdi a consciência. Quando acordei, eu estava sozinha. Eu era apenas uma garota assustada. Assustada demais para sair por aquela porta.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "Quando enfim percebi que meu pai não voltaria mais, comecei a procurar uma forma de fugir. Eu me aventurei para fora da estação e conheci pessoas, mas quando eu as encontrava novamente, elas não se lembravam de mim. Tudo estava se repetindo lá fora, mas aqui dentro, não. Era como um quebra-cabeças cujas peças nunca se encaixavam...<br>Até hoje, depois de tantos anos, eu sinto que só compreendo uma parte minúscula do que está acontecendo aqui.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "Sei que você vai achar que eu te enganei, mas preciso que acredite em mim: essa nunca foi minha intenção. Eu só quero sair daqui, da mesma forma que você.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "Seus olhos se abrem subitamente, e você esfrega o rosto. De volta à estação, outra vez! E lá está a estranha outra vez, à sua espera. Por que será que ela escolheu você? Afinal, você não é a única pessoa nessas montanhas..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "Eu tentei conversar com os nativos. Eles sempre foram abertamente hostis a mim. Mas não é de se espantar, não é mesmo? Afinal de contas, nós invadimos a ilha deles e começamos a tomar conta de tudo sem nem pedir licença.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "Mas mesmo com tanta hostilidade, eu quase consegui uma vez. Conversei com um xamã. O corpo dele inteiro era coberto de tatuagens. Ele acreditou em mim, mas estava preocupado que a mente dele nunca voltaria a ser a mesma...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "Funciona desse jeito: se você morrer aqui, o tempo apenas se reinicia. Você passa por todas as experiências novamente, mas não se lembra de nada. No entanto, se você carregar a pedra consigo, sua memória permanece intacta, inclusive a memória da sua morte. Quando você volta, seu corpo se restaura completamente, mas a sua mente... <br>Para o xamã, era muito mais assustador se tornar uma carcaça desalmada do que ter o corpo preso em um eterno ciclo temporal.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "Ninguém gostaria de se tornar uma carcaça desalmada. Você muito menos! Será que essa estranha já tentou escalar os picos? Ou ela sempre arruma outras pessoas para fazer o serviço pesado?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "Não sou alpinista. Eu não sobreviveria nem uma hora na zona da morte. Posso treinar o quanto for, mas nunca serei tão boa quanto você. Mas eu tenho outras qualidades. Cada um faz o que sabe e nós vamos conseguir sair daqui, está bom? Essa é a nossa única chance...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "A estranha misteriosa se aproxima conforme você acorda, devagar. Os olhos dela estão brilhando, e ela traz um sorriso nos lábios."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "Boas notícias! Descobri por que a pedra não afetou o ciclo temporal, mesmo que a radiação estivesse de acordo com todos os meus cálculos.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "Imagine o ciclo temporal como um guarda-chuvas. Ele perpassa toda a cordilheira, como um casulo invisível. Mas o casulo não é igual em todos os pontos. Quanto mais nos afastamos do ponto original da perturbação, mais fino ele fica e é mais fácil para a radiação penetrar nele. Já está entendendo o que isso significa, né? Nós precisamos chegar ao ponto mais alto da cordilheira...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "Lá nós vamos encontrar o calcanhar de Aquiles do ciclo temporal. Se levarmos a pedra superaquecida até esse ponto fraco, abriremos uma fenda que desestabilizará todo o ciclo temporal. Sei que estou pedindo muito, mas precisamos que você escale o último cume. Será o nosso passo final para sair daqui, tenho certeza!'"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "E é maravilhoso saber que temos mais uma pessoa na nossa equipe. Conversem e compartilhem seus aprendizados na montanha! A única maneira de escaparmos do ciclo temporal é nos unirmos.'"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "Por sinal, eu acho uma maravilha você ter trazido reforços! Gente de alto calibre. Vamos aprender muito trabalhando em equipe. Nosso time vai ser insuperável.'"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "Redefinir pontos"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "Serve para redefinir melhorias."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "Pts. de melhoria (Aventureira)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "Serve para aprimorar as habilidades da aventureira."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "Pts. de melhoria (Cientista)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "Serve para aprimorar as habilidades do cientista."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "Pts. de melhoria (Jornalista)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "Serve para aprimorar as habilidades do jornalista."
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "Experiência inicial"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "Aumenta a sua quantidade inicial de pontos de experiência na missão."
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "Melhorias de atributos básicos"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "Melhorias do seu personagem feitas na base."
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "Cientista em uma missão"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "Há relatos de um cientista que também ficou preso no ciclo temporal.<br>O conhecimento dele pode nos ajudar muito.<br>Primeiro, é claro, você precisa convencê-lo a te seguir para depois levá-lo à estação."
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "Encontre o cientista e leve-o à estação."
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "Normal"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "O clima nessa montanha é normal."
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "O clima agradável é um pouco mais comum do que o clima frio ou de tempestade."
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "Tempestade"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "O clima nessa montanha é bastante tempestuoso."
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "Aumenta a probabilidade de clima de tempestade.<br>Clima pior, em média."
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "Frio"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "O clima nessa montanha é muito frio."
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "Aumenta a probabilidade de clima frio.<br>Clima pior, em média."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "Jornalismo investigativo"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "Há rumores de um jornalista vagando pela montanha. Encontre-o e use as habilidades investigativas dele para descobrir uma saída do ciclo temporal."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "Busque pistas que te levem ao jornalista."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "Primeira pista"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "Segunda pista"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "Saída"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "Proficiência de personagem"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "Proficiência de item"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "Proficiência no ambiente"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "Proficiência em terrenos"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "Proficiência em eventos"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "Itens usados"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "Equipamento"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "Consumíveis não usados"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "Terreno perigoso cruzado"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "Eventos ocorridos"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "Horas caminhadas"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "Horas caminhadas à noite"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "Horas caminhadas na zona da morte"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "Horas caminhadas em clima ruim"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "Horas escaladas"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "Horas escaladas à noite"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "Horas escaladas na zona da morte"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "Horas escaladas em clima ruim"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "Experiência obtida"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "Níveis obtidos"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "Experiência ganha por"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "Melhorias"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "Melhorias desbloqueadas ao subir de nível"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "Caminhada no sol"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "Ganha mais Temperatura Corporal em boas condições climáticas."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "Ganha ainda mais Temperatura Corporal em boas condições climáticas."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "Caminhada no sol"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal em boas condições climáticas."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "Caminhada no sol"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal em boas condições climáticas."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "Movimentos intensos"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "Ganha consideravelmente mais Temperatura Corporal por hora ao se movimentar, porém aumenta o custo de Energia."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "Ganha consideravelmente mais Temperatura Corporal por hora ao se movimentar, porém aumenta o custo de Energia."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "Movimentos intensos"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "Ganha consideravelmente mais Temperatura Corporal por hora ao se movimentar, porém aumenta o custo de Energia."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "Movimentos intensos"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "Ganha consideravelmente mais Temperatura Corporal por hora ao se movimentar, porém aumenta o custo de Energia."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "Radiador humano"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Ganha mais Temperatura Corporal por hora ao se movimentar."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Ganha ainda mais Temperatura Corporal por hora ao se movimentar."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "Radiador humano"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal por hora ao se movimentar."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "Radiador humano"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Ganha mais Temperatura Corporal por hora ao se movimentar."
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "Sono bem aproveitado"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Ganha mais Energia ao dormir."
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Ganha ainda mais Energia ao dormir."
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "Sono bem aproveitado"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "Ganha mais Energia ao dormir."
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "Sono bem aproveitado"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "Ganha mais Energia ao dormir."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "Euforia"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia na zona da morte."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente o custo de Energia na zona da morte."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "Euforia"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de Energia na zona da morte."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "Euforia"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia na zona da morte."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "Poupar forças"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia ao se movimentar, porém aumenta o custo de tempo."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Reduz o custo de Energia ao se movimentar, porém aumenta o custo de tempo."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "Poupar forças"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar, porém aumenta o custo de tempo."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "Poupar forças"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar, porém aumenta o custo de tempo."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "Fôlego longo"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o ganho de Oxigênio, porém reduz o ganho de Temperatura Corporal."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Aumenta o ganho de Oxigênio, porém reduz o ganho de Temperatura Corporal."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "Fôlego longo"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio, porém reduz o ganho de Temperatura Corporal."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "Fôlego longo"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio, porém reduz o ganho de Temperatura Corporal."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "Só mais uma forcinha"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio por um momento, porém aumenta a perda de Sanidade até o fim da missão."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "Só mais uma forcinha"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "Só mais uma forcinha"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "Aumenta a perda de Sanidade até o fim da missão."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "Respiração controlada"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o ganho de Oxigênio por hora. Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio por hora. Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "Respiração controlada"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio por hora. Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "Respiração controlada"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio por hora. Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "Enrijecer"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "Ignora terrenos perigosos."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "Ignora terrenos perigosos."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "Enrijecer"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "Ignora terrenos perigosos."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "Enrijecer"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "Ignora terrenos perigosos."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "Passando do limite"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+), porém aumenta a perda de Sanidade."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+), porém aumenta a perda de Sanidade."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "Passando do limite"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+), porém aumenta a perda de Sanidade."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "Passando do limite"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia em terreno íngreme (elevação 2+), porém aumenta a perda de Sanidade."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "Surto de velocidade"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Reduz o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "Surto de velocidade"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "Surto de velocidade"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "Sem parar"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Reduz consideravelmente a perda de Sanidade ao se movimentar,<br>mas aumenta a perda de Sanidade ao descansar ou em eventos."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente a perda de Sanidade ao se movimentar,<br>mas aumenta a perda de Sanidade ao descansar ou em eventos."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "Sem parar"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "Reduz consideravelmente a perda de Sanidade ao se movimentar,<br>mas aumenta a perda de Sanidade ao descansar ou em eventos."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "Sem parar"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "Reduz consideravelmente a perda de Sanidade ao se movimentar,<br>mas aumenta a perda de Sanidade ao descansar ou em eventos."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "Mente sã"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "Mente sã"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "Mente sã"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "Ganha Sanidade ao alcançar um ponto de interesse."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "Mantra"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Reduz a perda de Sanidade ao se mover."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Reduz a perda de Sanidade ao se mover."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "Mantra"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade ao se mover."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "Mantra"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade ao se mover."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "Sob as estrelas"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "Reduz a penalidade por dormir sem uma tenda."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "Reduz a penalidade por dormir sem uma tenda."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "Sob as estrelas"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "Reduz a penalidade por dormir sem uma tenda."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "Sob as estrelas"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "Reduz a penalidade por dormir sem uma tenda."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "Pensamento de longo prazo"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Ganha Energia ao acordar,<br>mas aumenta o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Ganha Energia ao acordar,<br>mas aumenta o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "Pensamento de longo prazo"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Ganha Energia ao acordar,<br>mas aumenta o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "Pensamento de longo prazo"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Ganha Energia ao acordar,<br>mas aumenta o custo de tempo ao se movimentar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "Espírito da exploração"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "Aumenta consideravelmente o ganho de experiência."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "Aumenta consideravelmente o ganho de experiência."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "Espírito da exploração"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "Aumenta consideravelmente o ganho de experiência."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "Espírito da exploração"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "Aumenta consideravelmente o ganho de experiência."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "Radiador humano"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "Você se concentra em manter sua Temperatura Corporal alta."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "Poupar forças"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "Você se concentra em consumir menos e recuperar mais Energia."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "Espírito da exploração"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "Você se concentra em viagens de longa distância e visitar muitos pontos de interesse."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "Aclimatação"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "Você se concentra em manter seu nível de Oxigênio alto."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "Determinação"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "Você se concentra em seguir o trajeto mais direto até o objetivo."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "Foco mental"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "Você se concentra em manter sua Sanidade mais alta por mais tempo."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "Proficiência em eventos"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "Ajuda a extrair melhores resultados dos eventos."
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Proficiência em eventos: Sanidade"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "Aumenta o ganho de Sanidade em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Proficiência em eventos: Experiência"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "Aumenta o ganho de Experiência em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Proficiência em eventos: Energia"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "Reduz a perda de Energia em eventos."
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Proficiência em eventos: Tempo"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "Reduz o custo de tempo em eventos."
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Proficiência em eventos: Sanidade"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "Aumenta em {0} o ganho de Sanidade em eventos."
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Proficiência em eventos: Experiência"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "Aumenta em {0} o ganho de Experiência em eventos."
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Proficiência em eventos: Energia"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "Reduz em {0} a perda de Energia em eventos."
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Proficiência em eventos: Tempo"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "Reduz em {0} o custo de tempo dos eventos."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "Pensamentos acalentadores"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "Ganha Temperatura Corporal ao usar um item consumível."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "Ganha mais Temperatura Corporal ao usar um item consumível."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "Pensamentos acalentadores"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "Ganha Temperatura Corporal ao usar um item consumível."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "Pensamentos acalentadores"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "Ganha Temperatura Corporal ao usar um item consumível."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "Preservar energia"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia ao se movimentar e ao escalar."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "Reduz o custo de Energia ao se movimentar e ao escalar."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "Preservar energia"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "Reduz consideravelmente o custo de Energia ao se movimentar e ao escalar."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "Preservar energia"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e ao escalar."
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "Clareza mental"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia ao se movimentar e enquanto a Sanidade estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente o custo de Energia ao se movimentar e escalar enquanto a Sanidade estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "Clareza mental"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e enquanto a Sanidade estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "Clareza mental"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e enquanto a Sanidade estiver alta."
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "Ar fresco"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de tempo ao se movimentar e escalar enquanto o Oxigênio estiver alto."
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente o custo de tempo ao se movimentar e escalar enquanto o Oxigênio estiver alto."
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "Ar fresco"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de tempo ao se movimentar e escalar enquanto o Oxigênio estiver alto."
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "Ar fresco"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de tempo ao se movimentar e escalar enquanto o Oxigênio estiver alto."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "Vai devagar"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Ganha um pouco de Energia, Temperatura Corporal e Oxigênio ao acordar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Ganha mais Energia, Temperatura Corporal e Oxigênio ao acordar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "Vai devagar"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Ganha um pouco de Energia, Temperatura Corporal e Oxigênio ao acordar."
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "Vai devagar"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Ganha um pouco de Energia, Temperatura Corporal e Oxigênio ao acordar."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "Mais Temperatura Corporal"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "Mais Temperatura Corporal"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "Mais Temperatura Corporal"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "Mais Temperatura Corporal"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "Aumenta o máximo de Temperatura Corporal."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "Mais Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "Mais Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "Mais Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "Mais Energia"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "Aumenta o máximo de Energia."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "Mais Vida"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "Mais Vida"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "Mais Vida"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "Mais Vida"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "Aumenta o máximo de Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "Mais Oxigênio"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "Mais Oxigênio"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "Mais Oxigênio"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "Mais Oxigênio"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "Aumenta o máximo de Oxigênio."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "Mais Sanidade"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "Mais Sanidade"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "Mais Sanidade"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "Mais Sanidade"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "Aumenta o máximo de Sanidade."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "Maiores atributos básicos."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o máximo de Energia, Temperatura Corporal, Oxigênio, Sanidade e Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "Maiores atributos básicos."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "Maiores atributos básicos."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "Aumenta o máximo de Energia, Temperatura Corporal, Oxigênio, Sanidade e Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "Maiores atributos básicos."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "Aumenta o máximo de Energia, Temperatura Corporal, Oxigênio, Sanidade e Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "Maiores atributos básicos."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "Aumenta o máximo de Energia, Temperatura Corporal, Oxigênio, Sanidade e Vida."
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "Maiores atributos básicos."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "Anomalia"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "Aumenta o custo de tempo ao se movimentar e escalar."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "Anomalia forte"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "Aumenta consideravelmente o custo de tempo ao se movimentar e escalar."
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "Limpo"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "O clima nessa montanha costuma ser limpo."
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "Aumenta a probabilidade de clima limpo, em vez de clima frio ou de tempestade."
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "Muitas tempestades"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "O clima nessa montanha é fortemente tempestuoso."
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "Aumenta consideravelmente a probabilidade de clima de tempestade, em vez de clima limpo."
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "Muito frio"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "O clima nessa montanha é de um frio intenso."
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "Aumenta consideravelmente a probabilidade de clima frio, em vez de clima limpo."
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "Clima ruim"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "O clima nessa montanha é muito frio e tempestuoso."
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "Aumenta a probabilidade de clima frio e tempestuoso, em vez de clima limpo."
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "Clima muito ruim"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "O clima nessa montanha é de muitas tempestades e um frio intenso."
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "Aumenta consideravelmente a probabilidade de clima frio e tempestuoso, em vez de clima limpo."
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "Uma montanha extensa."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "Encontre 3 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "Uma ampla paisagem montanhosa."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "Encontre 2 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "Uma montanha compacta com elevação moderada."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "Uma montanha comum com elevação moderada."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "Uma formação montanhosa com aclives suaves."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "Uma montanha extensa."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "Encontre 3 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "Uma montanha extensa. Há uma grande quantidade de terrenos perigosos nessa montanha."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "Encontre 3 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "Uma montanha extensa. A região oferece uma surpreendente variedade de trajetos possíveis, <br>mas requer muitas escaladas."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "Encontre 3 anomalias temporais. As anomalias estão espalhadas por uma vasta região. <br>Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "Uma montanha extensa. Apenas uma pequena parte da montanha está localizada na zona da morte,<br>mas o terreno é extremamente desafiador."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "Encontre 3 anomalias temporais. As anomalias estão espalhadas por uma vasta região.<br>Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "Uma montanha grande com elevação moderada."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "Uma montanha grande com elevação moderada.<br>A região oferece uma surpreendente variedade de trajetos possíveis, mas requer muitas escaladas."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "Uma montanha grande com elevação moderada.<br>Há uma grande quantidade de terrenos perigosos nessa montanha."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "Uma cratera gigantesca com uma elevação profunda e cônica."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "Uma montanha compacta com uma elevação extremamente íngreme.<br>Uma boa parte da montanha está localizada na zona da morte."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "Uma cratera aberta de um dos lados, com elevações moderadas."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "Encontre 3 anomalias temporais. As anomalias estão espalhadas por uma vasta região.<br>Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "Uma paisagem montanhosa que lembra um caldeirão, com diversas elevações."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "Encontre 3 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "Uma montanha grande com elevação moderada.<br>Há uma grande quantidade de terrenos perigosos nessa montanha."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "Uma montanha grande com elevação moderada."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "Uma grande montanha com elevação íngreme.<br>Uma boa parte da montanha está localizada na zona da morte, porém o terreno é menos desafiador."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "Uma montanha extensa."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "Encontre 4 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "Anomalia 5"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "Uma ampla formação montanhosa."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "Encontre 4 anomalias temporais. As anomalias estão espalhadas por uma vasta região.<br>Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "Anomalia 5"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "Uma cratera gigantesca com uma elevação profunda e cônica.<br>Há uma grande quantidade de terrenos perigosos nessa montanha."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "Encontre 4 anomalias temporais. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "Anomalia 5"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "Uma ampla cratera com uma elevação profunda e cônica."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "Encontre 4 anomalias temporais. As anomalias estão espalhadas por uma vasta região.<br>Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "Anomalia 5"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "Uma montanha com um terreno extenso."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "Uma montanha com um terreno extenso.<br>Uma boa parte da montanha está localizada na zona da morte."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "Uma grande montanha com elevação íngreme.<br>Uma boa parte da montanha está localizada na zona da morte."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "Uma montanha grande com elevação moderada."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "Uma montanha grande com uma elevação íngreme.<br>Há uma grande quantidade de terrenos perigosos nessa montanha."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "Primeira subida"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "Sua primeira subida! Quanta concentração e disposição!"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "Vale lembrar a minha preocupação com a doença do ciclo temporal. Você está exibindo sintomas, mas os meus suprimentos para a cura estão praticamente esgotados.'"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "Eu só consigo te recuperar dessa condição mais uma vez. Só mais uma última vez, entendeu? Depois disso, você vai passar o resto da vida em um coma acordado.'"
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "Uma ampla e imperscrutável formação montanhosa."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "Encontre 5 anomalias temporais. As anomalias estão espalhadas por uma vasta região. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "Anomalia 5"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "Uma formação montanhosa imponente, com picos rochosos muito íngremes."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "Encontre 5 anomalias temporais. As anomalias estão espalhadas por uma vasta região. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomalia 1"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomalia 2"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomalia 3"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Anomalia 4"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "Anomalia 5"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "Uma cratera colossal com um penhasco rochoso e muito íngreme."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "Missão secundária"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "Uma montanha imensa, imprevisível e cheia de terrenos extremamente desafiadores."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "Chegue ao cume. Depois alcance o objetivo."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Cume"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Objetivo"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "Proficiência e habilidades"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "Efeitos ativados por melhorias na base.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "Ambiente e equipamentos"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "Efeitos que sofrem influência da montanha atual, do ambiente e do equipamento ativo no momento.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "Temporário"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "Efeitos temporários que expiram com o tempo.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "Até o fim da missão"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "Efeitos que expiram no fim da missão.<br>Clique para ver cada efeito individualmente."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Pulmões aquecidos"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Aumenta o ganho de Oxigênio enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Aumenta consideravelmente o ganho de Oxigênio enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Pulmões aquecidos"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Pulmões aquecidos"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Aumenta o ganho de Oxigênio enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Espírito fervilhante"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduz a perda de Sanidade ao se mover enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente a perda de Sanidade ao se mover enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Espírito fervilhante"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade ao se mover enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Espírito fervilhante"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduz a perda de Sanidade ao se mover enquanto a Temperatura Corporal estiver alta."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "Passos vigorosos"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia ao se movimentar e escalar enquanto a Vida estiver alta."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente o custo de Energia ao se movimentar e escalar enquanto a Vida estiver alta."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "Passos vigorosos"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e escalar enquanto a Vida estiver alta."
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "Passos vigorosos"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e escalar enquanto a Vida estiver alta."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "Fôlego extra"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "Reduz o custo de Energia ao se movimentar e escalar enquanto a Vida estiver baixa."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "Reduz consideravelmente o custo de Energia ao se movimentar e escalar enquanto a Vida estiver baixa."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "Fôlego extra"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e escalar enquanto a Vida estiver baixa."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "Fôlego extra"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "Reduz o custo de Energia ao se movimentar e escalar enquanto a Vida estiver baixa."
+    }
+  ]
+}

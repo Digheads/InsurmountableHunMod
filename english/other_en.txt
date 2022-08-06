@@ -1,0 +1,2864 @@
+{
+  "LOCA": [
+    {
+      "key": "STAT_ENERGY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_energy\">Energia</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\">A mászás során <style=\"energy\">Energiát</style> használsz fel.<br>A meredek szakaszok több Energiába kerülnek.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_sanity\">Józanság</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\">A <style=\"sanity\">Józanság</style> a mászással járó mentális stressz hatására lassan, de folyamatosan csökken .</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_oxygen\">Oxigén</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\">Az <style=\"oxygen\">Oxigén</style> a hegy felsőbb szakaszában, a Halálzónában kerül felhasználásra.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">Testhőmérséklet</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}{1} / {2}</font></style><br><style=\"description\">A <style=\"bodytemp\">Testhőmérséklet</style> jellemzően éjszaka és hideg időben csökken.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_health\">Egészség</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\">Amikor az <style=\"health\">Egészség</style> eléri a nullát, az utazásnak vége!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_exp\">Tapasztalati pontok</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}. szt.<br>{1}/{2} a következő szinthez</font></style><br><style=\"description\">A <style=\"exp\">Tapasztalati pontok</style> új képességek aktiválásához szükségesek, amelyek segítenek az aktuális küldetésben.</style>"
+    },
+    {
+      "key": "HUD_HEIGHT",
+      "value": "<style=\"header\"><style=\"i_height\">Magasság</style></style><br><br><font=\"numbers_m\">{0}</font> m<br><br><style=\"warning\">Halálzóna: <font=\"numbers_m\">{1}</font> m</style><br><style=\"description\">{1} m magasságban eléred a Halálzónát.<br>A Halálzónában <style=\"oxygen\">Oxigént</style> vesztesz.</style>"
+    },
+    {
+      "key": "STAT_ENERGY",
+      "value": "Energia"
+    },
+    {
+      "key": "STAT_BODYTEMP",
+      "value": "Testhőmérséklet"
+    },
+    {
+      "key": "STAT_OXYGEN",
+      "value": "Oxigén"
+    },
+    {
+      "key": "STAT_SANITY",
+      "value": "Józanság"
+    },
+    {
+      "key": "STAT_HEALTH",
+      "value": "Egészség"
+    },
+    {
+      "key": "STAT_EXP",
+      "value": "Tapasztalati pont"
+    },
+    {
+      "key": "STAT_TIME",
+      "value": "Idő"
+    },
+    {
+      "key": "STAT_PERCENT",
+      "value": "<style=\"description\"> (maximális állapot {0}%-a)</style>"
+    },
+    {
+      "key": "ITEM_TENT",
+      "value": "Lehetővé teszi, hogy sátorban pihenj."
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_INVENTORY",
+      "value": "<style=\"description\">Bal klikk: Mozgatás.</style>"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_LOADOUT",
+      "value": "<style=\"description\">Bal klikk: Mozgatás.</style>"
+    },
+    {
+      "key": "ITEM_EQUIPMENT",
+      "value": "<style=\"description\">Felszerelés - Bal klikk + húzás: a Felszerelési Rekeszbe való áthelyezéshez.<br>Minden típusból egyszerre csak egy Felszerelési Tárgyat vehetsz fel.</style>"
+    },
+    {
+      "key": "ITEM_PASSIVE",
+      "value": "<style=\"description\">Hasznos Barlangi Eseményeknél.<br>Bal klikk: Mozgatás.</style>"
+    },
+    {
+      "key": "ITEM_GENERIC",
+      "value": "<style=\"description\">Hasznos lehet.<br>Bal klikk: Mozgatás.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_STATS_ALREADY_FILLED",
+      "value": "<style=\"description_forbidden\">Ennek a tételnek jelenleg nincs hatása.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_ALREADY_ACTIVE",
+      "value": "<style=\"description_forbidden\">Ez a tétel jelenleg még aktív.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">Ez a tárgy nem használható az Események alatt.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_LEFTOVER",
+      "value": "<style=\"description_forbidden\">Nem használható, ha a maradványban lévő Tárgyak mozgathatók.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">Ez a képesség nem használható Eseménydialógusok alatt.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">Ez a tárgy jelenleg nem használható.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">Ez a képesség jelenleg nem használható.</style>"
+    },
+    {
+      "key": "HOVER_ITEM_TEMPEFFECTS",
+      "value": ""
+    },
+    {
+      "key": "STAT_CURRENT_TIME",
+      "value": "<style=\"header\"><style=\"i_time\">Idő</style></style><br><style=\"numbers_stat\"><font=\"numbers_m\">{0}<br>{1}</font></style><br><style=\"description\"><size=70%>Napfelkelte: <font=\"numbers_m_i\">{2}</font>.<br>Naplemente: <font=\"numbers_m_i\">{3}</font>.</size></style>"
+    },
+    {
+      "key": "TIME_DAY",
+      "value": "Nap"
+    },
+    {
+      "key": "TIME_NIGHT",
+      "value": "Éjszaka"
+    },
+    {
+      "key": "TIME_NIGHT_CHANGE",
+      "value": "Alkonyat"
+    },
+    {
+      "key": "TIME_DAY_CHANGE",
+      "value": "Hajnal"
+    },
+    {
+      "key": "HUD_WEATHER",
+      "value": "<style=\"header\">Időjárás</style><br><br>{0}<br>{1}<br><br><size=90%>{2}</size><br><br><style=\"description\">Az időjárás minden nap változik.<br>Az időjárás befolyásolhatja a játékmenetet.</style>"
+    },
+    {
+      "key": "TOGGLE_HUD_SIZE_OPTION",
+      "value": "Nagyobb HUD"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_KEYBOARD",
+      "value": "Állapot Előnézeti Panel (Billentyűzet / Egér Bemenet)"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_GAMEPAD",
+      "value": "Állapot Előnézeti Panel (Gamepad Bemenet)"
+    },
+    {
+      "key": "BTN_CHANGE_CHARACTER",
+      "value": "Karakter módosítása"
+    },
+    {
+      "key": "BTN_CHANGE_LOADOUT",
+      "value": "Leltár megnyitása"
+    },
+    {
+      "key": "BTN_START_MISSION",
+      "value": "Küldetés megkezdése"
+    },
+    {
+      "key": "WORLDMAP_TITLE",
+      "value": "Térkép"
+    },
+    {
+      "key": "WORLDMAP_DESCRIPTION",
+      "value": "Tervezd meg küldetéseidet itt."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_TITLE",
+      "value": "Csak időjárás"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_DESCRIPTION",
+      "value": "Úgy tűnik, hogy valamilyen anomália miatt az időjárás ezen a hegyen egy végtelen időhurokba került..."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_HOVER",
+      "value": "Ezen a hegyen csak {0} időjárás fordulhat elő.<br> ({1})"
+    },
+    {
+      "key": "CHARACTER_SCREEN_TITLE",
+      "value": "Karakterek"
+    },
+    {
+      "key": "CHARACTER_SKILL_ALREADY_UNLOCKED_HOVER",
+      "value": "Feloldva: {0}"
+    },
+    {
+      "key": "CHAR_DEAD_PANEL_OVERLAY",
+      "value": "Nem áll készen a cselekvésre"
+    },
+    {
+      "key": "WEATHER_CLEAR",
+      "value": "Tiszta"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_CLEAR",
+      "value": "Normál időjárás"
+    },
+    {
+      "key": "WEATHER_COLD",
+      "value": "Hideg"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_COLD",
+      "value": "A Testhőmérséklet-veszteség megnövekedett"
+    },
+    {
+      "key": "WEATHER_STORM",
+      "value": "Vihar"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_STORM",
+      "value": "A hegymászás Energiaköltsége megnövekedett"
+    },
+    {
+      "key": "HOVER_TEMP_EFFECT",
+      "value": "<style=\"header\">{0}</style><br><br>időtartam: <font=\"numbers_m\">{1}</font> óra<br><br><style=\"description\">{2}</style><br><style=\"numbers_stat\">{3}</style>"
+    },
+    {
+      "key": "HOVER_TRAIT",
+      "value": "<style=\"header\">{0}</style><br><br><style=\"description\">{1}</style><br><style=\"numbers_stat\">{2}</style>"
+    },
+    {
+      "key": "BTN_WALK",
+      "value": "Sétálás"
+    },
+    {
+      "key": "BTN_PAUSE_WALK",
+      "value": "Megállás"
+    },
+    {
+      "key": "BTN_INVENTORY",
+      "value": "Leltár"
+    },
+    {
+      "key": "TITLE_INVENTORY",
+      "value": "Leltár"
+    },
+    {
+      "key": "TITLE_ITEMS",
+      "value": "Hátizsák"
+    },
+    {
+      "key": "BTN_YES",
+      "value": "IGEN"
+    },
+    {
+      "key": "BTN_NO",
+      "value": "NEM"
+    },
+    {
+      "key": "BTN_LEVELUP",
+      "value": "SZINTLÉPÉS"
+    },
+    {
+      "key": "TITLE_LEVELUP",
+      "value": "SZINTLÉPÉS"
+    },
+    {
+      "key": "DESCRIPTION_LEVELUP",
+      "value": "A hegyen szerzett tapasztalatok erősebbé tették téged.<br>Válaszd ki a Képességeidet!"
+    },
+    {
+      "key": "REMAINING_USES",
+      "value": "Felhasználható:"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM",
+      "value": "Biztos eldobod?"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM_DESCRIPTION",
+      "value": "Eldobod a következőt: <sprite=\"{0}\" name=\"{1}\"> <style=\"subtract\">{2} x1</style>. Biztos vagy benne?"
+    },
+    {
+      "key": "MAIN_MENU_NEW_GAME",
+      "value": "Új Játék"
+    },
+    {
+      "key": "MAIN_MENU_OPTIONS",
+      "value": "Beállítások"
+    },
+    {
+      "key": "MAIN_MENU_QUIT",
+      "value": "Kilépés"
+    },
+    {
+      "key": "MAIN_MENU_CREDITS",
+      "value": "Készítők"
+    },
+    {
+      "key": "MAIN_MENU_LANGUAGE",
+      "value": "Nyelv"
+    },
+    {
+      "key": "MAIN_MENU_BACK",
+      "value": "Vissza"
+    },
+    {
+      "key": "MAIN_MENU_LOADING",
+      "value": "Betöltés..."
+    },
+    {
+      "key": "DAEDELIC_LEGAL_LINES",
+      "value": "© 2022 Daedalic Entertainment GmbH.<br>A Daedalic logó a németországi Daedalic Entertainment GmbH védjegye. Minden jog fenntartva.<br>Magyarra fordította: Digheads Ferke"
+    },
+    {
+      "key": "ENGLISH",
+      "value": "Magyar"
+    },
+    {
+      "key": "GERMAN",
+      "value": "Német"
+    },
+    {
+      "key": "PAUSE_MENU_CONTINUE",
+      "value": "Folytatás"
+    },
+    {
+      "key": "PAUSE_MENU_RETRY",
+      "value": "Újra"
+    },
+    {
+      "key": "PAUSE_MENU_MAIN_MENU",
+      "value": "Vissza a Főmenübe"
+    },
+    {
+      "key": "PAUSE_MENU",
+      "value": "Szünet"
+    },
+    {
+      "key": "PAUSE_MENU_HELP",
+      "value": "Segítség"
+    },
+    {
+      "key": "EVENT_UNKNOWN_OUTCOME",
+      "value": "(A kimenetel ismeretlen...)"
+    },
+    {
+      "key": "EVENT_END",
+      "value": "(Befejezed ezt az Eseményt)"
+    },
+    {
+      "key": "EVENT_MISSING_ITEM",
+      "value": "Szükséges"
+    },
+    {
+      "key": "EVENT_STATICHOVER_ITEMS",
+      "value": "Tárgyak"
+    },
+    {
+      "key": "EVENT_STATICHOVER_STATUS",
+      "value": "Állapot"
+    },
+    {
+      "key": "EVENT_STATICHOVER_TIME",
+      "value": "Idő"
+    },
+    {
+      "key": "WEATHER_FORECAST_TOMORROW",
+      "value": "Holnapi időjárás"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_ENTERED",
+      "value": "Beléptél a Halálzónába"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_LEFT",
+      "value": "Elhagytad a Halálzónát"
+    },
+    {
+      "key": "SKILLTARGETED_ERROR_RANGE",
+      "value": "Túl messze van!"
+    },
+    {
+      "key": "MAIN_MENU_CONTINUE",
+      "value": "Folytatás"
+    },
+    {
+      "key": "BTN_OK",
+      "value": "OK"
+    },
+    {
+      "key": "BTN_SKILLS",
+      "value": "Képességek"
+    },
+    {
+      "key": "BTN_CANCEL",
+      "value": "Mégsem"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL",
+      "value": "Válassz Képességet"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL_DESCRIPTION",
+      "value": "Szeretnéd a <br>{0} képességet választani?"
+    },
+    {
+      "key": "BTN_SKILLACTIVE",
+      "value": "Kész {0} múlva"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_TITLE",
+      "value": "Tárgyak hátrahagyása"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_DESCRIPTION",
+      "value": "A 'Maradványok' összes tárgya véglegesen elvész. Folytatod?"
+    },
+    {
+      "key": "TITLE_LEFTOVERS",
+      "value": "Maradványok"
+    },
+    {
+      "key": "CONFIRM",
+      "value": "Megerősítés"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT",
+      "value": "VSync Ismétlések*"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT_HOVER",
+      "value": "<style=header>VSYNC</style><br><style=description>Korlátozza a másodpercenkénti képkockák (FPS) mennyiségét a képernyő képfrissítési frekvenciájától (Hz) függően.<br>Minél magasabb ez az érték, annál kevesebb képkockát generál másodpercenként, és annál stabilabb lesz a teljesítmény és a grafikus kártya terhelése.</style>"
+    },
+    {
+      "key": "CHOOSE",
+      "value": "Válassz"
+    },
+    {
+      "key": "UI_CHOICE_CONSTRAINT_TITLE",
+      "value": "Válassz kihívást!"
+    },
+    {
+      "key": "UI_MISSIONS_TITLE",
+      "value": "Küldetések"
+    },
+    {
+      "key": "UI_MISSION_SCREEN_TITLE",
+      "value": "Küldetés kiválasztása"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_TITLE",
+      "value": "Örök éjszaka"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_DESCRIPTION",
+      "value": "Ez a hegy megdermedt az időben, egy végtelen sötét éjszakában."
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_HOVER",
+      "value": "Az éjszakai hatások mindig érvényesek."
+    },
+    {
+      "key": "CONSTRAINTS",
+      "value": "Korlátozások"
+    },
+    {
+      "key": "REWARDS",
+      "value": "Jutalmak"
+    },
+    {
+      "key": "FAIL_REWARDS",
+      "value": "Kudarc esetén"
+    },
+    {
+      "key": "MISSION_HOVER_ALREADY_COMPLETED",
+      "value": "Ezt a küldetést már teljesítetted."
+    },
+    {
+      "key": "MISSION_HOVER_LOCKED",
+      "value": "Ez a mellékküldetés még nincs feloldva. Előbb fejezd be a {0} fő fejezetét."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED",
+      "value": "Ez a terület még nincs feloldva.<br>Végezz el sikeresen {0} mellékküldetést a '{1}' területen, hogy kinyisd ezt a fejezetet."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED_PROGRESS",
+      "value": "Jelenleg befejezve:"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED_NEW",
+      "value": "Ez a küldetés elérhető. Még nem kezdtél bele."
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED",
+      "value": "Ez a küldetés elérhető. Még nem fejezted be."
+    },
+    {
+      "key": "MISSION_GOAL_REACH",
+      "value": "Elérni:"
+    },
+    {
+      "key": "MISSION_GOAL_COLLECT",
+      "value": "Összegyűjteni:"
+    },
+    {
+      "key": "MISSION_GOAL_SUMMARY",
+      "value": "Találd meg a tárgyakat"
+    },
+    {
+      "key": "SHOWCURRENTMISSION",
+      "value": "Jelenlegi küldetés megjelenítése"
+    },
+    {
+      "key": "MISSION_CLICK_HINT",
+      "value": "Klikkelj a jelenlegi küldetés megjelenítéséhez."
+    },
+    {
+      "key": "TARGET_TILE_START",
+      "value": "Kiindulópont"
+    },
+    {
+      "key": "TARGET_TILE_PEAK",
+      "value": "Csúcs"
+    },
+    {
+      "key": "TARGET_TILE_CAMP",
+      "value": "Tábor"
+    },
+    {
+      "key": "TARGET_TILE_WEATHER STATION",
+      "value": "Elhagyatott időjárás-állomás"
+    },
+    {
+      "key": "MISSION_CHARACTER_REWARD_TITLE",
+      "value": "Teljesítéskor:"
+    },
+    {
+      "key": "ALREADY_UNLOCKED",
+      "value": "Már feloldva"
+    },
+    {
+      "key": "EQUIPMENT",
+      "value": "Felszerelés"
+    },
+    {
+      "key": "LEFTOVER_WARNING",
+      "value": "Figyelmeztetés!<br>A 'Maradványokban' még mindig vannak tárgyak. Ezek elvesznek."
+    },
+    {
+      "key": "DO_NOT_SHOW_AGAIN",
+      "value": "Ne jelenjen meg újra"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_TITLE",
+      "value": "Tárgy használata?"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_DESCRIPTION",
+      "value": "Szeretnéd használni a <sprite=\"{0}\" name=\"{1}\"> {2} tárgyat?"
+    },
+    {
+      "key": "SKILLS_TITLE",
+      "value": "Képességek"
+    },
+    {
+      "key": "LEVELUP_TITLE",
+      "value": "Szintlépés"
+    },
+    {
+      "key": "LEVELUP_DESCRIPTION",
+      "value": "Válassz Képességet"
+    },
+    {
+      "key": "MOUNTAIN1_NAME",
+      "value": "1. Hegy"
+    },
+    {
+      "key": "MOUNTAIN1_DESCRIPTION",
+      "value": "Ez a hegy a hosszú és fáradságos mászásának kezdete.<br>A felkészültséged és kitartásod itt próbára kerül."
+    },
+    {
+      "key": "MOUNTAIN2_NAME",
+      "value": "2. Hegy"
+    },
+    {
+      "key": "MOUNTAIN2_DESCRIPTION",
+      "value": "A hegyek egyre durvábbak és még kegyetlenebbek.<br>Remélhetőleg jól felszerelt vagy és egészséges, s megerősödtél az első hegy után."
+    },
+    {
+      "key": "MOUNTAIN3_NAME",
+      "value": "3. Hegy"
+    },
+    {
+      "key": "MOUNTAIN3_DESCRIPTION",
+      "value": "A végső csúcs, magasan a felhők felett - lenyűgöző és szinte elérhetetlen.<br>Az előző hegyek állóképességi próbatételnek számítottak, azonban ennek a leküzdése már a lehetetlennel határos...<br>És nincs visszaút.<br>El kell jutnod a csúcsra, bármi áron!"
+    },
+    {
+      "key": "SCAR_DEFAULT_EXPLANATION",
+      "value": "Kimerültnek érzed magad a sok hegymászás után..."
+    },
+    {
+      "key": "CLIMB_FINISH_TITLE",
+      "value": "Tábor"
+    },
+    {
+      "key": "CLIMB_FINISH_DAYS",
+      "value": "Napok a legutóbbi hegyen:"
+    },
+    {
+      "key": "BTN_CLIMB_CONTINUE",
+      "value": "Folytatás"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_TITLE",
+      "value": "Időhurok Limbo"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_DESCRIPTION",
+      "value": "Minden karaktered az ominózus időhurok betegségben szenved és visszafordíthatatlan ébredési kómában van.<br>A történet itt ér véget."
+    },
+    {
+      "key": "RUN_DEATH_TITLE",
+      "value": "Meghaltál"
+    },
+    {
+      "key": "RUN_FINISH_TITLE",
+      "value": "Siker"
+    },
+    {
+      "key": "BTN_RUN_CONTINUE",
+      "value": "Főmenü"
+    },
+    {
+      "key": "BTN_DEATH_CONTINUE",
+      "value": "Főmenü"
+    },
+    {
+      "key": "RUN_FINISH_DAYS",
+      "value": "Napok"
+    },
+    {
+      "key": "RUN_FINISH_LEVEL",
+      "value": "Szint:"
+    },
+    {
+      "key": "RUN_FINISH_CLIMBS",
+      "value": "Megmászott hegyek:"
+    },
+    {
+      "key": "RUN_FINISH_HEIGHT",
+      "value": "Maximum magasság:"
+    },
+    {
+      "key": "ROUTE1_NAME",
+      "value": "Útvonal 1"
+    },
+    {
+      "key": "ROUTE2_NAME",
+      "value": "Útvonal 2"
+    },
+    {
+      "key": "ROUTE3_NAME",
+      "value": "Útvonal 3"
+    },
+    {
+      "key": "TENT_DURABILITY",
+      "value": "Sátor tartóssága"
+    },
+    {
+      "key": "NO_TENT_AVAILABLE",
+      "value": "Nincs sátor a leltárban"
+    },
+    {
+      "key": "SLEEP_LOCATION_TENT",
+      "value": "Pihenés"
+    },
+    {
+      "key": "SLEEP_LOCATION_REST",
+      "value": "Pihenés"
+    },
+    {
+      "key": "SLEEP_LOCATION_CAVE",
+      "value": "Békés barlang"
+    },
+    {
+      "key": "BTN_START",
+      "value": "Kezdés"
+    },
+    {
+      "key": "BTN_SELECTROUTE",
+      "value": "Kiválasztás"
+    },
+    {
+      "key": "STATUS_SLEEPING",
+      "value": "Alvás"
+    },
+    {
+      "key": "STATUS_AWAKE",
+      "value": "Ébren"
+    },
+    {
+      "key": "BTN_SLEEP",
+      "value": "Alvás"
+    },
+    {
+      "key": "SLEEP_DURATION",
+      "value": "Alvás időtartama"
+    },
+    {
+      "key": "DURABILITY_CAVE",
+      "value": "Barlang <size=66%>(nincs szükség sátorra)</size>"
+    },
+    {
+      "key": "SLEEP_WINDOW_TITLE",
+      "value": "Alvás"
+    },
+    {
+      "key": "SLEEP_EXECUTION_TITLE",
+      "value": "Alszik..."
+    },
+    {
+      "key": "USE_TENT",
+      "value": "Sátor használata"
+    },
+    {
+      "key": "SHORT_SLEEP",
+      "value": "Rövid"
+    },
+    {
+      "key": "LONG_SLEEP",
+      "value": "Hosszú"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_NAME",
+      "value": "Megfagyott lábujjak"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "A lábujjaid megfagytak"
+    },
+    {
+      "key": "CRITENERGYSCAR_NAME",
+      "value": "Sérült boka"
+    },
+    {
+      "key": "CRITENERGYSCAR_DESCRIPTION",
+      "value": "A bokád megsérült"
+    },
+    {
+      "key": "CRITOXYGENSCAR_NAME",
+      "value": "Magaslati betegség"
+    },
+    {
+      "key": "CRITOXYGENSCAR_DESCRIPTION",
+      "value": "Magaslati betegségben szenvedsz"
+    },
+    {
+      "key": "CRITSANITYSCAR_NAME",
+      "value": "Rémálmok"
+    },
+    {
+      "key": "CRITSANITYSCAR_DESCRIPTION",
+      "value": "Rémálmoktól szenvedsz"
+    },
+    {
+      "key": "EXHAUSTED_NAME",
+      "value": "Kimerültél"
+    },
+    {
+      "key": "EXHAUSTED_DESCRIPTION",
+      "value": "Kimerültségben szenvedsz"
+    },
+    {
+      "key": "FROSTBITTEN_NAME",
+      "value": "Megfagyott"
+    },
+    {
+      "key": "FROSTBITTEN_DESCRIPTION",
+      "value": "A csípős hideg a hegyekben megvisel."
+    },
+    {
+      "key": "ADVENTURER_NAME",
+      "value": "Kalandor"
+    },
+    {
+      "key": "ADVENTURER_INTRO",
+      "value": "Lemerült az óceánok sós mélyére elveszett kincsek után kutatva, rég kihalt kultúrákat fedezett fel a legmélyebb esőerdőkben és ősi romokat tárt fel a végtelen sivatagokban. Egyetlen kaland sem volt elég nagy a számára, és semmi sem állt az útjába. Most egy új kihívás keres.<br>Egy távoli sziget, amely régóta a ködtakaró mögött rejtőzik. Egy olyan hegyvonulat, amelyről nincs feljegyzés - és olyan csúcsok, amelyek az égbe tornyosulnak és csak arra várnak, hogy megmássza őket.<br>Ez a kalandorok álma - és esély, hogy bekerüljön a történelemkönyvekbe."
+    },
+    {
+      "key": "SCIENTIST_NAME",
+      "value": "Tudós"
+    },
+    {
+      "key": "SCIENTIST_INTRO",
+      "value": "Van egy forradalmi elmélete: Úgy gondolja, hogy van egy felfedezetlen elektromágneses Energiaforrás, amely elegendő energiát termelhet az egész világ Energiaellátásához. A szakértők kigúnyolták és tudományos fikcióként utasították el az elméletét, de a kollégái szűklátókörűsége csak tovább szítja a vágyait, hogy folytassa a kutatást.<br>Amikor egy titokzatos szigetről értesül, amely lényegében a semmiből bukkant fel, meglátja benne a lehetőséget. A kezdeti számítások szerint a hatalmas hegységben ideálisak a körülmények egy lehetséges elektromágneses forró pont számára. A sugárzásnak a csúcsokon kell a legerősebbnek lennie.<br>Meg kell másznia a csúcsokat, hogy egyszer s mindenkorra bebizonyítsa az elméletét - és helyreállítsa a hírnevét."
+    },
+    {
+      "key": "JOURNALIST_NAME",
+      "value": "Újságíró"
+    },
+    {
+      "key": "JOURNALIST_INTRO",
+      "value": "Az igazság véget nem érő keresésében egyik válság sújtotta régióból a másikba repül. Egyetlen forrópont sem lehet túl veszélyes, egyetlen történet sem lehet ellentmondásos. Az egyszerű embereket folyamatosan tájékoztatni kell az elit sötét mesterkedéseiről - és ki tudná jobban felvilágosítani őket?<br>Amikor azt a pletykát hallja, hogy egy egész szigetet hosszú éveken át titokban tartottak a nyilvánosság elől, akkor elkezd kutakodni: egy megszálló erő, amely rejtélyes módon eltűnt, és bizalmas kísérletek, amelyeket magasan a hegyekben végeztek?<br>Meg kell másznia a hegycsúcsokat, és a saját szemével látnia kell. Ha a pletykák igaznak bizonyulnak, ez lehet karriere legnagyobb sztorija, ami egyenes út a Pulitzer-díjhoz."
+    },
+    {
+      "key": "BTN_SELECTCHARACTER",
+      "value": "Kiválasztás"
+    },
+    {
+      "key": "SCAR_CRITENERGY_EXPLANATION",
+      "value": "Küzdesz a folytatásért..."
+    },
+    {
+      "key": "SCAR_CRITBODYTEMP_EXPLANATION",
+      "value": "A hideg nagyon megvisel..."
+    },
+    {
+      "key": "SCAR_CRITOXYGEN_EXPLANATION",
+      "value": "Az oxigénhiány miatt szédülsz..."
+    },
+    {
+      "key": "SCAR_CRITSANITY_EXPLANATION",
+      "value": "Kezdesz dolgokat látni..."
+    },
+    {
+      "key": "SKILL_LEVEL_0",
+      "value": "I"
+    },
+    {
+      "key": "SKILL_LEVEL_1",
+      "value": "II"
+    },
+    {
+      "key": "SKILL_LEVEL_2",
+      "value": "III"
+    },
+    {
+      "key": "STAT_ENERGY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_energy\">Energia</style></style><br><style=\"description\">Az <style=\"energy\">Energia</style> a mászás során kerül felhasználásra.<br>A meredek szakaszok több energiába kerülnek.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_sanity\">Józanság</style></style><br><style=\"description\">A <style=\"sanity\">Józanság</style> a hegymászással járó<br>mentális stressz következtében lassan, de folyamatosan csökken.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_oxygen\">Oxigén</style></style><br><style=\"description\">Az <style=\"oxygen\">Oxigén</style> a hegy magasan fekvő Halálzónájában különösen gyorsan elhasználódik.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">Testhőmérséklet</style></style><br><style=\"description\">A <style=\"bodytemp\">Testhőmérséklet</style> éjszaka, továbbá hideg, havas és viharos időben csökken.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_health\">Egészség</style></style><br><style=\"description\">Amikor az <style=\"health\">Egészség</style> eléri a nullát, az utazásnak vége!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_exp\">Tapasztalat</style></style><br><style=\"description\">Az események és a találkozások <style=\"exp\">Tapasztalatot</style> adnak.</style>"
+    },
+    {
+      "key": "STAT_TIME_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_time\">Idő</style></style><br><style=\"description\">Az események és a hegymászás során az idő<br>telik, az állapotértékek frissülnek.</style>"
+    },
+    {
+      "key": "UNLOCKS_SKILLTREE",
+      "value": "Felold egy Képességet"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_FULL",
+      "value": "Már megtelt"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_EMPTY",
+      "value": "Már üres"
+    },
+    {
+      "key": "CHARACTER_STAR_HOVER",
+      "value": "A következő nehézségeken teljesítetted a feljutást:"
+    },
+    {
+      "key": "LOCKED_DIFFICULTY_EXPLANATION",
+      "value": "Ahhoz, hogy feloldd ezt a nehézségi szintet,<br>teljesítened kell a feljutást ezzel a karakterrel<br>{0}</b> nehézségen!"
+    },
+    {
+      "key": "SKILL_COSTS_CANNOT_AFFORD",
+      "value": "Nem tudod használni ezt a képességet, mert a {0} szinted túl alacsony."
+    },
+    {
+      "key": "ITEM_YOU_FULFILL",
+      "value": "Van egy"
+    },
+    {
+      "key": "ITEM_YOU_ARE_MISSING",
+      "value": "Hiányzik egy"
+    },
+    {
+      "key": "STAT_YOU_FULFILL",
+      "value": "Van elég"
+    },
+    {
+      "key": "STAT_YOU_ARE_MISSING",
+      "value": "Nincs elég"
+    },
+    {
+      "key": "TE_YOU_FULFILL",
+      "value": "Megvan a hatása"
+    },
+    {
+      "key": "TE_YOU_ARE_MISSING",
+      "value": "Hiányzik a hatása"
+    },
+    {
+      "key": "EVENT_STATICHOVER_EFFECTS",
+      "value": "Hatások"
+    },
+    {
+      "key": "SKILL_TREE_LIST_EXPLANATION",
+      "value": "A Képességek a Tapasztalat révén oldódnak fel."
+    },
+    {
+      "key": "MAX_LEVEL_DESCRIPTION",
+      "value": "Maximum szint elérve"
+    },
+    {
+      "key": "CHARACTERSELECTION_ADVENTURER",
+      "value": "Mint vérbeli kalandor, mindig a következő nagy kihívás után kutat."
+    },
+    {
+      "key": "CHARACTERSELECTION_SCIENTIST",
+      "value": "Ambiciózus tudósként a zsenialitás és az őrület közötti vékony határvonalon jár."
+    },
+    {
+      "key": "CHARACTERSELECTION_JOURNALIST",
+      "value": "Oknyomozó újságíróként beutazza a világot, hogy leleplezze a nagy botrányokat."
+    },
+    {
+      "key": "MOUNTAIN1_ADVENTURER_DESCRIPTION",
+      "value": "Mászd meg az első csúcsot. De ne feledd, addig nem győzted le a hegyet, amíg biztonságban vissza nem érsz a bázisra. Addig is, a hegy rabja vagy."
+    },
+    {
+      "key": "MOUNTAIN2_ADVENTURER_DESCRIPTION",
+      "value": "A második csúcs rád vár. Meg kell hódítanod a hegyet - és a belső énedet."
+    },
+    {
+      "key": "MOUNTAIN3_ADVENTURER_DESCRIPTION",
+      "value": "Ha azt akarod, hogy a neved bekerüljön a történelemkönyvekbe, meg kell másznod a harmadik csúcsot. Megörökítenek majd a hegymászás történetében?"
+    },
+    {
+      "key": "MOUNTAIN1_SCIENTIST_DESCRIPTION",
+      "value": "Mászd meg az első csúcsot, és találd meg az elektromágneses erőforrásra utaló bizonyítékot."
+    },
+    {
+      "key": "MOUNTAIN2_SCIENTIST_DESCRIPTION",
+      "value": "Az első olvasatok nem hozták meg a remélt áttörést. Meg kell másznod a második csúcsot, hogy több mérést végezhess."
+    },
+    {
+      "key": "MOUNTAIN3_SCIENTIST_DESCRIPTION",
+      "value": "A sugárzás egyre erősebb. Mászd meg a végső csúcsot, hogy bebizonyítsd a világnak, hogy egy briliáns kutató vagy."
+    },
+    {
+      "key": "MOUNTAIN1_JOURNALIST_DESCRIPTION",
+      "value": "Mászd meg az első hegyet és derítsd ki, igazak-e a kísérletekről szóló pletykák."
+    },
+    {
+      "key": "MOUNTAIN2_JOURNALIST_DESCRIPTION",
+      "value": "Érezni lehet, hogy hamarosan szélesre tárod a történetet. Lépj fel a második csúcsra, hogy többet tudj meg."
+    },
+    {
+      "key": "MOUNTAIN3_JOURNALIST_DESCRIPTION",
+      "value": "Csak még egy mászás. Az oknyomozó újságírásért járó Pulitzer-díj egy karnyújtásnyira van."
+    },
+    {
+      "key": "LOCKED",
+      "value": "Még nincs feloldva"
+    },
+    {
+      "key": "CLIMB_OTHER_MOUNTAINS_FIRST",
+      "value": "Először meg kell másznod a többi hegyet."
+    },
+    {
+      "key": "CHOSE_MOUNTAINEER_TITLE",
+      "value": "Válaszd ki hegymászódat"
+    },
+    {
+      "key": "CHOSE_ROUTE_TITLE",
+      "value": "Válaszd ki az útvonalat"
+    },
+    {
+      "key": "HINT_1",
+      "value": "Optimalizálhatod a mászóútvonalakat a felszereléseddel és a Képességeiddel."
+    },
+    {
+      "key": "HINT_2",
+      "value": "Nagy magasságkülönbségek megmászásakor a normál lépcsőfokokhoz képest lényegesen több energiát vesztesz."
+    },
+    {
+      "key": "HINT_3",
+      "value": "Ha valamely állapotértéked (az Egészség kivételével) eléri a nullát, a játéknak nem lesz azonnal vége. Veszélyes helyzetekkel kell azonban szembenézned!"
+    },
+    {
+      "key": "HINT_4",
+      "value": "Az aktív Képességek hasznosnak bizonyulhatnak húzós helyzetekben!"
+    },
+    {
+      "key": "HINT_5",
+      "value": "Az időjárás nem csak az állapotodat, hanem a láthatóságot is befolyásolja. Tartsd szemmel a bal alsó sarokban lévő időjárásjelzőt!"
+    },
+    {
+      "key": "SCARS",
+      "value": "Sebhelyek"
+    },
+    {
+      "key": "BTN_SORT_BY_TREE",
+      "value": "Rendezés csoport szerint"
+    },
+    {
+      "key": "BTN_SORT_BY_DATE",
+      "value": "Rendezés sorrend szerint"
+    },
+    {
+      "key": "NO_SKILL_UNLOCKED_YET",
+      "value": "Még nem oldottál fel semmilyen Képességet.<br>Lépj szintet, hogy új Képességek közül választhass!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_LOCKED",
+      "value": "Menet közben nem változtathatod meg a nehézségi fokozatot!"
+    },
+    {
+      "key": "QUALITY_VERY LOW",
+      "value": "Nagyon alacsony"
+    },
+    {
+      "key": "QUALITY_LOW",
+      "value": "Alacsony"
+    },
+    {
+      "key": "QUALITY_MEDIUM",
+      "value": "Közepes"
+    },
+    {
+      "key": "QUALITY_HIGH",
+      "value": "Magas"
+    },
+    {
+      "key": "QUALITY_VERY HIGH",
+      "value": "Nagyon magas"
+    },
+    {
+      "key": "QUALITY_ULTRA",
+      "value": "Ultra"
+    },
+    {
+      "key": "OPTIONS_FPS",
+      "value": "Max. képkockaszám másodpercenként"
+    },
+    {
+      "key": "OPTIONS_BRIGHTNESS",
+      "value": "Fényerő"
+    },
+    {
+      "key": "FPS_UNCAPPED",
+      "value": "korlátlan"
+    },
+    {
+      "key": "FPS_30",
+      "value": "30"
+    },
+    {
+      "key": "FPS_60",
+      "value": "60"
+    },
+    {
+      "key": "OPTIONS_DIFFICULTY",
+      "value": "Nehézség"
+    },
+    {
+      "key": "OPTIONS_MASTERVOLUME",
+      "value": "Fő hangerő"
+    },
+    {
+      "key": "OPTIONS_BGM",
+      "value": "Zene"
+    },
+    {
+      "key": "OPTIONS_SFX",
+      "value": "Hangok"
+    },
+    {
+      "key": "OPTIONS_FULLSCREEN",
+      "value": "Teljes képernyő"
+    },
+    {
+      "key": "OPTIONS_RESOLUTION",
+      "value": "Felbontás"
+    },
+    {
+      "key": "OPTIONS_QUALITY",
+      "value": "Minőség"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_TITLE",
+      "value": "Feloldott nehézség"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_DESCRIPTION",
+      "value": "Gratulálunk!<br>Feloldottad a <b>{1}</b> nehézségi fokozatot a {0}-hoz!"
+    },
+    {
+      "key": "VIP_DISCORD_TEXT",
+      "value": "VIP státusz az összes nehézségi fokozat feloldásáért!"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_DIFFICULTYHASNOREVIVES",
+      "value": "<style=description_forbidden>Ezen a nehézségen nincsenek újraélesztési pontok!</style>"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_SPENTALLREVIVES",
+      "value": "<style=description_forbidden>Nincs több újjáélesztő pontod!</style>"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL",
+      "value": "Normál"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_FLAVOR",
+      "value": "Fel tudsz jutni a csúcsra?"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_DESCRIPTION",
+      "value": "Alacsonyabb nehézségi szint.<br>Kihívásokkal teli, de teljesíthető.<br><br><i>Kezdőknek ajánlott.</i>"
+    },
+    {
+      "key": "DIFFICULTY_HARD",
+      "value": "Nehéz"
+    },
+    {
+      "key": "DIFFICULTY_HARD_FLAVOR",
+      "value": "Egy nagyobb kihívás"
+    },
+    {
+      "key": "DIFFICULTY_HARD_DESCRIPTION",
+      "value": "Fokozott nehézség.<br>Az erőforrások gyorsabban fogynak<br>és a hegy környezete és időjárása halálosabb.<br><br><i>Tapasztalt hegymászóknak ajánlott.</i>"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE",
+      "value": "Insurmountable"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_FLAVOR",
+      "value": "A halál mindig veled mászik"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_DESCRIPTION",
+      "value": "Rendkívül nehéz.<br>A mozgás és a hegymászás még költségesebb<br>és a hegység terepviszonyai, az időjárás és a Halálzóna hatásai pusztítóak.<br><br><i>Félelmet nem ismerő extrém hegymászóknak<br>ajánlott, acél idegekkel.</i>"
+    },
+    {
+      "key": "DIFFICULTY_LOCKED_HOVER",
+      "value": ""
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_TITLE",
+      "value": "Válaszd ki a nehézséget!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_TITLE",
+      "value": "Nehézségi szint megerősítése"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_DESCRIPTION",
+      "value": "Figyelem!<br>Ez a választás nem változtatható meg.<br>Biztos vagy benne?"
+    },
+    {
+      "key": "CHANGEABLE_KEYBINDINGS",
+      "value": "(A billentyűkiosztás a Beállítások képernyőn keresztül módosítható.)"
+    },
+    {
+      "key": "PAGE",
+      "value": "Oldal"
+    },
+    {
+      "key": "TUTORIAL_1_TITLE",
+      "value": "Kamera Vezérlése"
+    },
+    {
+      "key": "TUTORIAL_1_DESCRIPTION",
+      "value": "Tartsd lenyomva a <b>V*</b> billentyűt és mozgasd az egeret, hogy körülnézz.<br><br>A kamera elforgatásához mozgasd az egeret a <b>középső egérgombot*</b> lenyomva tartva.<br>Nagyíthatsz vagy kicsinyíthetsz az egérkerékkel történő görgetéssel."
+    },
+    {
+      "key": "TUTORIAL_2_TITLE",
+      "value": "Mozgás"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION",
+      "value": "Ahhoz, hogy sikeresen teljesíts egy hegyet, el kell navigálnod a karakteredet a csempék mentén, a megjelölt célhoz. Az idő nem halad és az állapotértékek sem változnak, amíg a karaktered áll."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION1",
+      "value": "<b>Bal klikk*</b> egy érvényes csempére, hogy hozzáadj egy ellenőrzőpontot, ahová a karakterednek el kell mozdulnia. További Ellenőrzőpontokat adhatsz hozzá más érvényes csempékre kattintva.<br>Kattints ismét az utolsó ellenőrzőpontra a mozgás megkezdéséhez."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION2",
+      "value": "<b>Jobb klikk*</b> a karaktered megállításához vagy az utolsó ellenőrzőpont eltávolításához."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION3",
+      "value": "Alternatívaként a Mozgás gombot is megnyomhatod a karaktered mozgatásához avagy megállításához.<br>A Sebesség gombot is használhatod, hogy az idő gyorsabban teljen. Ez a hatás nem befolyásolja az egyes állapotértékeket."
+    },
+    {
+      "key": "TUTORIAL_3_TITLE",
+      "value": "Tereptípusok"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION",
+      "value": "3 különböző tereptípus létezik: szikla, hó és jég. Mindegyik típus egy alapvető standard terepből és további különböző terep altípusokból áll. A tereptípusokon való mozgás költségei a karaktered felszerelésétől és képzettségeitől függ. A egyes altípusok további költségekkel járhatnak, vagy veszélyes eseményeket válthatnak ki."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_STONE",
+      "value": "<b>SZIKLA</b> - standard terep - nincsenek különleges tulajdonságai<br><br><b>TÖRMELÉK</b> – terep altípus, veszélyes eseményeket idézhet elő<br><br><b>FŰ</b> - terep altípus - nincsenek különleges tulajdonságai."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_SNOW",
+      "value": "<b>HÓ</b> - terep altípus - nincsenek különleges tulajdonságai<br><br><b>HÓTORLASZOK</b> - terep altípus, veszélyes eseményeket válthat ki<br><br><b>MÉLYHÓ</b> - terep altípus - magasabb Energiaköltséget igényel."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_ICE",
+      "value": "<b>JÉG</b> - standard terep - nincsenek különleges tulajdonságai<br><br><b>GLECCSER</b> - terep altípus, veszélyes eseményeket válthat ki.<br><br><b>JÉGLABIRINTUS</b> - terep altípus - magasabb idő- és testhőmérséklet-költséget igényel."
+    },
+    {
+      "key": "TUTORIAL_4_TITLE",
+      "value": "Események"
+    },
+    {
+      "key": "TUTORIAL_4_DESCRIPTION",
+      "value": "Különböző típusú események fordulhatnak elő a hegyen.<br>Ha rálépsz egy ilyen jelölővel ellátott mezőre, akkor eseményt válthatsz ki."
+    },
+    {
+      "key": "TUTORIAL_5_TITLE",
+      "value": "Állapotok"
+    },
+    {
+      "key": "TUTORIAL_6_TITLE",
+      "value": "Kritikus Állapot"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION1",
+      "value": "Amikor egy állapotérték (az Egészségen kívül) eléri a nullát, a karaktered állapota kritikussá válik."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION2",
+      "value": "Az útvonal előnézete pirosra változik, amint bármelyik állapotérték eléri a kritikus szintet."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION3",
+      "value": "Ha ezen állapot ellenére tovább mozogsz, akkor veszélyes eseményekkel kell majd szembenézned. Vigyázz - ha az életerőd eléri a nullát, a menetnek vége!"
+    },
+    {
+      "key": "TUTORIAL_7_TITLE",
+      "value": "Szintlépés"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION1",
+      "value": "Amint a Tapasztalatod elér egy bizonyos küszöbértéket, szintet léphetsz a karaktereddel."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION2",
+      "value": "Minden egyes szintlépéssel többféle Képesség közül választhatsz. Egyes Képességek időhöz kötöttek vagy bizonyos feltételek szükségesek ahhoz, hogy aktívak legyenek."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION3",
+      "value": "A jobb felső sarokban található Képességek ablakban a kiválasztott képességek átfogó listája látható. A Képességek aktív hatásai a képernyő tetején, középen található Hatások sávban jelennek meg."
+    },
+    {
+      "key": "TUTORIAL_8_TITLE",
+      "value": "Időjárás"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION",
+      "value": "Az időjárás minden reggel változhat. A képernyő bal alsó sarkában láthatod az aktuális időjárást és a következő napra vonatkozó előrejelzést. Az időjárásnak 3 különböző típusa van."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_CLEAR",
+      "value": "<b>TISZTA IDŐ</b> - barátságos időjárás, negatív hatások nélkül. Csak élvezd a hegymászást."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_COLD",
+      "value": "<b>HIDEG IDŐ</b> - negatív hatással van a testhőmérsékletre, különösen éjszaka. Próbálj meg meleg ruházatot felvenni."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_STORM",
+      "value": "<b>VIHAROS IDŐ</b> - negatív hatással van az Energia- és időköltségekre, valamint csökkenti a látótávolságot."
+    },
+    {
+      "key": "TUTORIAL_9_TITLE",
+      "value": "Események"
+    },
+    {
+      "key": "TUTORIAL_9_DESCRIPTION",
+      "value": "Az események kihívást állítanak eléd, hogy nehézségekkel teli döntéseket hozz, amelyeknek különböző kimenetele lehet. <br>Vigyázz - egy esemény ideje alatt, a hegyi körülmények függvényében állapotértékeket (pl. testhőmérséklet) nyerhetsz vagy veszíthetsz!"
+    },
+    {
+      "key": "TUTORIAL_10_TITLE",
+      "value": "Alvás"
+    },
+    {
+      "key": "TUTORIAL_10_DESCRIPTION",
+      "value": "Az alvás jó módja az Energia helyreállításának.<br>Háromféleképpen lehet ezt megtenni: Kereshetsz egy barlangszimbólumot a térképen, és letáborozhatsz ott. Elhasználhatsz egy sátrat a készletéből (minden sátor legfeljebb háromszor használható), de aludhatsz sátor nélkül is, azonban ez negatív hatással van a állapotértékekre, ezt csak végső megoldásként használd."
+    },
+    {
+      "key": "SCORE_XP",
+      "value": "A megszerzett tapasztalatért járó pontok"
+    },
+    {
+      "key": "SCORE_MOUNTAINS",
+      "value": "Pontok a megmászott hegyekért"
+    },
+    {
+      "key": "SCORE_NOCRIT",
+      "value": "Bónusz a kritikus állapot elkerüléséért"
+    },
+    {
+      "key": "SCORE_CONSUMABLES",
+      "value": "Pontok az összegyűjtött Tárgyakért"
+    },
+    {
+      "key": "SCORE_EQUIPMENT",
+      "value": "Pontok az összegyűjtött Felszerelésekért"
+    },
+    {
+      "key": "SCORE_TIME",
+      "value": "Időbónusz"
+    },
+    {
+      "key": "GENERIC_KEYBINDING_HINT",
+      "value": "(Gyorsbillentyű: <b>{0}</b>)"
+    },
+    {
+      "key": "TAKEEVERYTHINGFROMLEFTOVERS",
+      "value": "Összes tárgy felvétele"
+    },
+    {
+      "key": "LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "Összes tárgy otthagyása"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM",
+      "value": "Ezt a tárgyat feloldottuk.<br>Felszerelheted vagy bepakolhatod {0}ért."
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM_UNAFFORDEABLE",
+      "value": "<color=red>Legalább {0} kell<br>ahhoz, hogy ezt a tárgyat bepakolhasd vagy felszerelhesd.</color>"
+    },
+    {
+      "key": "HOVER_LOADOUT_WITHDRAWN_ITEM",
+      "value": "Ezt a terméket {0}t vesz el."
+    },
+    {
+      "key": "BTN_LEAVE_EVERYTHING_TITLE",
+      "value": "Hagyd itt az összeset"
+    },
+    {
+      "key": "HOVER_BTN_LEAVE_EVERYTHING",
+      "value": "Összes tárgy és felszerelés eltávolítása a leltárból."
+    },
+    {
+      "key": "BTN_SHOW_MISSION_TITLE",
+      "value": "Küldetés"
+    },
+    {
+      "key": "HOVER_BTN_SHOW_MISSION",
+      "value": "Megjeleníti az aktuális küldetés részleteit."
+    },
+    {
+      "key": "BTN_TAKE_EVERYTHING_TITLE",
+      "value": "Vedd el az összeset"
+    },
+    {
+      "key": "HOVER_BTN_TAKE_EVERYTHING",
+      "value": "A lehető legtöbb tárgyat áthelyezi a maradványokból a leltárba."
+    },
+    {
+      "key": "MISSION_GOAL_UNKNOWN",
+      "value": "Ismeretlen Cél"
+    },
+    {
+      "key": "MISSION_TARGET_HUD_GOALS_TITLE",
+      "value": "Küldetési célok:"
+    },
+    {
+      "key": "HOVER_BTN_ACTIVE_SKILL",
+      "value": "{0}<br>Kattints a képesség használatához, vagy nyomd meg a(z) {1} billentyűt."
+    },
+    {
+      "key": "HOVER_BTN_SLEEP",
+      "value": "Megnyitja az Alvás képernyőt."
+    },
+    {
+      "key": "HOVER_BTN_INVENTORY",
+      "value": "Megnyitja a Leltárt."
+    },
+    {
+      "key": "HOVER_BTN_WALK",
+      "value": "Megkezdi a játékos mozgását.<br>Végigsétál a kiválasztott ösvényen."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_WALK",
+      "value": "Megállítja a játékos mozgását <b>a következő Csempénél</b>."
+    },
+    {
+      "key": "HOVER_BTN_SPEED",
+      "value": "Sebesség"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_TOGGLE",
+      "value": "A játékos mozgásának sebességét állítja be.<br>Csak egy kényelmi funkció - nincs hatással az idő- ill. Energiaköltségekre."
+    },
+    {
+      "key": "HOVER_BTN_SKILLTREE",
+      "value": "Megjeleníti a kiválasztott Képességeket."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU_TITLE",
+      "value": "Szünet"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU",
+      "value": "Megállítja a játékot és megjeleníti a rendelkezésre álló opciókat."
+    },
+    {
+      "key": "TUTORIAL_CLOSE_HINT",
+      "value": "Az oktatóprogramot bármikor újra megnyithatod a Szünet menü segítségével."
+    },
+    {
+      "key": "HINT",
+      "value": "Tipp"
+    },
+    {
+      "key": "HINT_SELECT_CONFIRM",
+      "value": "Válaszd ki és erősítsd meg a választásodat a(z) {0} vagy {1} billentyűvel."
+    },
+    {
+      "key": "HINT_DECLINE_CANCEL",
+      "value": "A választásodat a(z) {0} vagy {1} billentyűvel törölheted."
+    },
+    {
+      "key": "HINT_CAMERA",
+      "value": "A kamerát a(z) {0} vagy {1} és az egér mozgatásával tudod elforgatni."
+    },
+    {
+      "key": "Alpha0",
+      "value": "0"
+    },
+    {
+      "key": "Alpha1",
+      "value": "1"
+    },
+    {
+      "key": "Alpha2",
+      "value": "2"
+    },
+    {
+      "key": "Alpha3",
+      "value": "3"
+    },
+    {
+      "key": "Alpha4",
+      "value": "4"
+    },
+    {
+      "key": "Alpha5",
+      "value": "5"
+    },
+    {
+      "key": "Alpha6",
+      "value": "6"
+    },
+    {
+      "key": "Alpha7",
+      "value": "7"
+    },
+    {
+      "key": "Alpha8",
+      "value": "8"
+    },
+    {
+      "key": "Alpha9",
+      "value": "9"
+    },
+    {
+      "key": "Mouse0",
+      "value": "Bal egérgomb"
+    },
+    {
+      "key": "Mouse1",
+      "value": "Jobb egérgomb"
+    },
+    {
+      "key": "Mouse2",
+      "value": "Középső egérgomb"
+    },
+    {
+      "key": "Space",
+      "value": "Szóköz"
+    },
+    {
+      "key": "Up Arrow",
+      "value": "Felfele nyíl"
+    },
+    {
+      "key": "Down Arrow",
+      "value": "Lefele nyíl"
+    },
+    {
+      "key": "Left Arrow",
+      "value": "Balra nyíl"
+    },
+    {
+      "key": "Right Arrow",
+      "value": "Jobbra nyíl"
+    },
+    {
+      "key": "KEYBINDING_PROMPT",
+      "value": "<Nyomj meg egy gombot>"
+    },
+    {
+      "key": "KEYBINDINGS_TITLE",
+      "value": "Billentyűzetkiosztás"
+    },
+    {
+      "key": "KEYBINDING_DUPLICATE_ERROR",
+      "value": "Ezt a billentyűt már használod!"
+    },
+    {
+      "key": "ABILITY_ACTIVE",
+      "value": "Aktív Képesség"
+    },
+    {
+      "key": "ABILITY_PASSIVE",
+      "value": "Passzív Képesség"
+    },
+    {
+      "key": "ABILITY_TRIGGERED",
+      "value": "Kiváltott Képesség"
+    },
+    {
+      "key": "ABILITY_CONDITIONAL",
+      "value": "Feltételes Képesség"
+    },
+    {
+      "key": "ABILITY_HOURS",
+      "value": "óra"
+    },
+    {
+      "key": "ABILITY_COOLDOWN",
+      "value": "Újratöltődés"
+    },
+    {
+      "key": "ABILITY_DURATION",
+      "value": "Időtartam"
+    },
+    {
+      "key": "ABILITY_DURATION_ACTIVE",
+      "value": "Aktív hátralévő idő:"
+    },
+    {
+      "key": "ABILITY_DURATION_FORXHOURS",
+      "value": "{0} órán keresztül"
+    },
+    {
+      "key": "SPECIALIZATION_TITLE",
+      "value": "Válaszd ki a stratégiádat!"
+    },
+    {
+      "key": "SELECT1",
+      "value": "Megerősítés / Kiválasztás (1)"
+    },
+    {
+      "key": "SELECT2",
+      "value": "Megerősítés / Kiválasztás (2)"
+    },
+    {
+      "key": "CANCELPATH1",
+      "value": "Útvonal megszakítása (1)"
+    },
+    {
+      "key": "CANCELPATH2",
+      "value": "Útvonal megszakítása (2)"
+    },
+    {
+      "key": "ROTATECAM1",
+      "value": "Kamera elforgatása (1)"
+    },
+    {
+      "key": "ROTATECAM2",
+      "value": "Kamera elforgatása (2)"
+    },
+    {
+      "key": "MOVE",
+      "value": "Mozgás"
+    },
+    {
+      "key": "STOPMOVE",
+      "value": "Mozgás megállítása"
+    },
+    {
+      "key": "TOGGLEINVENTORY",
+      "value": "Leltár megnyitása / bezárása"
+    },
+    {
+      "key": "TOGGLEHELPSCREEN",
+      "value": "Segítség megnyitása / bezárása"
+    },
+    {
+      "key": "TOGGLESKILLSCREEN",
+      "value": "Képességek megnyitása / bezárása"
+    },
+    {
+      "key": "TOGGLEPAUSEMENU",
+      "value": "Szünet menü megnyitása / bezárása"
+    },
+    {
+      "key": "CANCEL",
+      "value": "Mégsem"
+    },
+    {
+      "key": "LEVELUP",
+      "value": "Szintlépés megerősítése"
+    },
+    {
+      "key": "TOGGLETIMELAPSE",
+      "value": "Sebesség ki/bekapcsolása"
+    },
+    {
+      "key": "TOGGLESLEEPSCREEN",
+      "value": "Alvás ablak megnyitása / bezárása"
+    },
+    {
+      "key": "RESTORE_DEFAULTS",
+      "value": "Alapbeállítások"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_PROS",
+      "value": "Erős a gyors, közvetlen útvonalak megmászásában"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_CONS",
+      "value": "Ha az egyenes utat választod, lemaradhatsz az Eseményekről és más tapasztalatokról"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_PROS",
+      "value": "Erős abban, hogy a legtöbbet hozza ki az Eseményekből"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_CONS",
+      "value": "Eseményeken kívül nincsenek bónuszok"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_PROS",
+      "value": "Az Erős Energiahatékonyság sík terepen lehetővé teszi a hegyek alapos felfedezését"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_CONS",
+      "value": "A hegyek túl hosszú felfedezése veszélyezteti az épelméjűségedet"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_PROS",
+      "value": "Jó a terep előnyös kihasználásában"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_CONS",
+      "value": "Minden bónusz a tereptől függ"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_PROS",
+      "value": "Kivételes bónuszok éjszakai mászáskor"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_CONS",
+      "value": "Nincsenek bónuszok napközben, és az éjszaka még mindig veszélyes"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_PROS",
+      "value": "Erős abban, hogy a legtöbbet hozza ki a fogyóeszközökből"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_CONS",
+      "value": "Minden bónusz a fogyóeszközök megtalálásától függ"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_TITLE",
+      "value": "Triumf!"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_DESCRIPTION",
+      "value": "Gratulálunk!<br>A legmagasabb nehézségen teljesítetted a feljutást, mint a {0}!"
+    },
+    {
+      "key": "AFFECTEDBY",
+      "value": "Hatással van rá"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION4",
+      "value": "Legfeljebb 3 specializációt választhatsz ({0} közül). Az új specializációkat {1}, {2} és {3} szinten lehet feloldani."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION5",
+      "value": "Az általad választott specializációk határozzák meg, hogy milyen Képességeket választhat."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION6",
+      "value": "Egyes Képességek nem tartoznak egyik szakterülethez sem, és önállóan is kiválaszthatók."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_TITLE",
+      "value": "Leltár és Tárgyak"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION1",
+      "value": "A leltár a képernyőn lévő gomb megnyomásával vagy a megfelelő gyorsbillentyűvel érhető el. A leltárhoz csak akkor férhetsz hozzá, ha a karaktered mozdulatlanul áll.<br><br>Bizonyos tárgyak használat közben elfogynak, más tárgyak pedig felszerelhetők a karakterre és a felszerelés idejére aktívak is maradnak."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION2",
+      "value": "Az elemek használatához kattints azokra az egér jobb gombjával.<br><br>Tartsd lenyomva az egér bal gombját az elemek más nyílásokba történő áthúzásához.<br><br>Ha találsz egy tárgyat, akkor azt a leltárba kell tenned, különben elveszíted azt."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION3",
+      "value": "Egyes tárgyak többször is felhasználhatók, amit az azokon lévő használati sáv jelez.<br>Ha egy tárgy jelenleg nem használható, sötétebb színnel jelenik meg.<br><br>További információkat tekinthetsz meg egy adott tárgyról, ha az egeret föléje viszed: ekkor megjelenik annak hatásainak előnézete."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION4",
+      "value": "A felszerelés használatához húzd a felszerelést a Felszerelés szekció megfelelő rekeszébe. Onnan vissza is mozgathatod azt a leltárába. Egy tárgy passzív hatásokat és bónuszokat biztosít, amíg fel van szerelve."
+    },
+    {
+      "key": "PICKNEWSPECIALIZATION",
+      "value": "Az {1}, {2} és {3} szinten új specializációt választhatsz."
+    },
+    {
+      "key": "GENERICSKILLINFO",
+      "value": "Ez a Képesség nem tartozik egyetlen szakterülethez sem."
+    },
+    {
+      "key": "BASICVALUES_NAME",
+      "value": "Alapértékek"
+    },
+    {
+      "key": "CLICK_TO_PICK_A_MODIFIER",
+      "value": "Kattints az útvonal kiválasztásához"
+    },
+    {
+      "key": "PICK_A_MODIFIER",
+      "value": "Válassz útvonalat"
+    },
+    {
+      "key": "MISSION_DEFAULT_MODIFIERS_TITLE",
+      "value": "Környezet"
+    },
+    {
+      "key": "REWARD_DISPLAY_NOT_RECEIVED_HOVER",
+      "value": "Ezt a jutalmat nem kaptad meg."
+    },
+    {
+      "key": "MISSION_FINISH_UI_ADDITIONAL_REWARDS",
+      "value": "További jutalmak"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OBJECTIVES",
+      "value": "Célok"
+    },
+    {
+      "key": "MISSION_FINISH_UI_DETAILS",
+      "value": "Részletek"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OVERVIEW",
+      "value": "Áttekintés"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED",
+      "value": "Még nincs feloldva.<br>A következő csúcsot kell elérni: {1}<br>az alábbi Képesség feloldásához:<br>{0}"
+    },
+    {
+      "key": "EXPLANATION_EVENT_GAIN_NEGATED_BY_TES",
+      "value": "Nincsen hatással a jelenlegi Képességeid és hatásaid miatt."
+    },
+    {
+      "key": "SKILL_COSTS",
+      "value": "Költség:"
+    },
+    {
+      "key": "SKILL_EFFECTS",
+      "value": "Hatások:"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION",
+      "value": "Gratulálunk!<br>Új Képességeket oldottál fel a {0}:<br>{1}"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION_TITLE",
+      "value": "Képesség feloldva!"
+    },
+    {
+      "key": "WINDOW_BLOCKED_DURING_WALKING",
+      "value": "Ez az ablak mozgás közben zárolva van."
+    },
+    {
+      "key": "OPTION_BLOCKED_DURING_WALKING",
+      "value": "Ez az opció mozgás közben zárolva van."
+    },
+    {
+      "key": "TOGGLEHUDVISIBLE",
+      "value": "HUD ki/bekapcsolása"
+    },
+    {
+      "key": "PAUSEWALK_ACTIVATED_HOVER_HINT",
+      "value": "Aktív - a karakter megáll a következő csempénél."
+    },
+    {
+      "key": "LESS_THAN_ONE_MINUTE",
+      "value": "kevesebb, mint egy perc"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_TITLE",
+      "value": "Kamera ki/bekapcsolása"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_DESCRIPTION",
+      "value": "Rögzíti/feloldja a kamerát a célponton/célpontról."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION",
+      "value": "A kiválasztott nehézség befolyásolja az Alapértékeket."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_NORMAL",
+      "value": "A kiválasztott nehézség (Normál) befolyásolja az Alapértékeket."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_HARD",
+      "value": "A kiválasztott nehézség (Nehéz) befolyásolja az Alapértékeket."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_INSURMOUNTABLE",
+      "value": "A kiválasztott nehézség (Insurmountable) befolyásolja az Alapértékeket."
+    },
+    {
+      "key": "EMPTY",
+      "value": ""
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TITLE",
+      "value": "Frissítés"
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TEXT",
+      "value": "A jelenlegi hegymászásod a {0} verzióban készült, és nem kompatibilis az Insurmountable {1} verziójával.<br>Ha új hegymászást kezdesz ebben a verzióban, a régi mentésed felülíródik.<br>A feloldott nehézségi szintek nem vesznek el."
+    },
+    {
+      "key": "FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "OPTIONS_AMBIENT",
+      "value": "Környezet"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TITLE",
+      "value": "Új játék"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TEXT",
+      "value": "Ez felülírja az aktuális mentési fájlt. Mindenképpen folytatod?"
+    },
+    {
+      "key": "INVALID_SAVEGAME_TEXT",
+      "value": "Hiba - az aktuális mentés nem tölthető be.<br>Ha ebben a verzióban új hegymászást indítasz, az érvénytelen mentés felülírásra kerül.<br>A feloldott nehézségi szintek nem vesznek el."
+    },
+    {
+      "key": "HINT_6",
+      "value": "A felhasználói felületet billentyűparanccsal elrejtheted (gyorsbillentyű: H)"
+    },
+    {
+      "key": "HINT_7",
+      "value": "Bármikor aludhatsz, akár sátor nélkül is. A sátor és a barlang azonban jobban véd a hidegtől."
+    },
+    {
+      "key": "HINT_8",
+      "value": "A karakter kiválasztásakor 1-3 Képességet választhatsz. További készségeket oldhatsz fel, ha feljutsz egy hegycsúcsra."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M1SUMMIT",
+      "value": "Még nincs feloldva.<br>A képesség kiválasztásához el kell érned az első hegy csúcsát, mint a {0}."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M2SUMMIT",
+      "value": "Még nincs feloldva.<br>A képesség kiválasztásához el kell érned a második hegy csúcsát, mint a {0}."
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_GAINED",
+      "value": "aktiválva"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_LOST",
+      "value": "lejárt"
+    },
+    {
+      "key": "PRODFICIENCY_CURRENT_LEVEL_TITLE",
+      "value": "Jelenlegi szint:"
+    },
+    {
+      "key": "PROFICIENCY_MAX_LEVEL_TITLE",
+      "value": "(Már elérted a maximális szintet.)"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_APPENDIX",
+      "value": "a következő szintig"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_GAINEDSOFAR",
+      "value": "(Összes megszerzett XP: {0})"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_SUMMARY",
+      "value": "XP-t szerzett: "
+    },
+    {
+      "key": "PROFICIENCY_MISSION_REWARD_TITLE",
+      "value": "Küldetés jutalom"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER_REWARD_TITLE",
+      "value": "Karakter jutalom"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_REWARDS_APPENDIX",
+      "value": "missziós jutalmakból"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_CHARACTERREWARDS_APPENDIX",
+      "value": "karakter jutalmakból"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FOR_TRACKABLES",
+      "value": "érte"
+    },
+    {
+      "key": "SUMMARIZE_ITEMS_HOVER_TITLE",
+      "value": "Feloldott Tárgyak:"
+    },
+    {
+      "key": "DEACTIVATE_TUTORIALS",
+      "value": "Oktatóanyagok elrejtése"
+    },
+    {
+      "key": "FREELOOK",
+      "value": "Körbenézés"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TITLE",
+      "value": "Figyelem"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TEXT",
+      "value": "Az aktuális mentési fájlt nem sikerült betölteni. A fájl át lett nevezve, továbbá új menetet kell indítanod. Kérlek, lépj kapcsolatba a fejlesztőkkel a Discord szerverünkön, és küld el nekik a sérült fájlt és a naplót."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_TEXT",
+      "value": "A haladás állapota és annak biztonsági másolata nem tudott betöltődni. Ennek nem lett volna szabad megtörténnie, kivéve, ha a mentési/betöltési folyamat megszakadt, vagy ha a fájlok módosításra kerültek. A sérült fájl át lett nevezve, a haladási állapot vissza lett állítva az alapértelmezettre. Kérlek, lépj kapcsolatba a fejlesztőkkel a Discord szerverünkön, és küld el nekik a sérült fájlt és a naplót."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_OK_BACKUP_TEXT",
+      "value": "A haladási állapotot tároló fájlt nem sikerült betölteni, emiatt átnevezésre került. Egy biztonsági másolat került betöltésre."
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_OK_BACKUP_TEXT",
+      "value": "Az aktuális mentési fájlt nem sikerült betölteni. A fájl át lett nevezve, egy biztonsági másolat került betöltésre."
+    },
+    {
+      "key": "UI_RESET",
+      "value": "Alapállapot"
+    },
+    {
+      "key": "UI_MISSION",
+      "value": "Küldetések"
+    },
+    {
+      "key": "UI_UPGRADES",
+      "value": "Fejlesztések"
+    },
+    {
+      "key": "UI_UPGRADES_UNASSIGNED",
+      "value": "Frissítéseket rendelhetsz hozzá!"
+    },
+    {
+      "key": "MIND_BODY_PREPARATION",
+      "value": "Mentális és fizikai felkészülés"
+    },
+    {
+      "key": "MOUNTAIN_KNOWLEDGE",
+      "value": "Hegyi Ismeretek"
+    },
+    {
+      "key": "UI_UNLOCKED_SMALL",
+      "value": "Feloldva"
+    },
+    {
+      "key": "UI_NEW_SMALL",
+      "value": "Új"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_TITLE",
+      "value": "Kezdés felkészületlenül"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_DESCRIPTION",
+      "value": "Fel nem használt tárgyi kapacitással rendelkezel.<br>Biztos, hogy hiányos leltárral akarod elkezdeni ezt a küldetést?"
+    },
+    {
+      "key": "UI_INVENTORYLOADOUT_TITLE",
+      "value": "Tárgyak elvitele"
+    },
+    {
+      "key": "UI_UPGRADE_COST",
+      "value": "Költség:"
+    },
+    {
+      "key": "UI_CHAPTER_LOCKED",
+      "value": "Ez az fejezet zárolva van"
+    },
+    {
+      "key": "UI_CHAPTER_NEW",
+      "value": "Új!"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED_BUT_NEVER_ATTEMPTED",
+      "value": "Ez a fejezet fel van oldva, de még nem lett elkezdve."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_BUT_NEVER_SUCCESSFULLY",
+      "value": "Még nincs befejezve."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_SUCCESSFULLY",
+      "value": "Fejezet befejezve!"
+    },
+    {
+      "key": "UI_CHAPTER_BEATENBY",
+      "value": "Legyőzte a"
+    },
+    {
+      "key": "UI_CHAPTERSELECTION_LABEL",
+      "value": "Fejezetek"
+    },
+    {
+      "key": "METAGAME_PROLOGUE_TEXT",
+      "value": "Eltávolítandó"
+    },
+    {
+      "key": "NPC_GENERAL_DAUGHTER_NAME",
+      "value": "Idegen"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_PROFICIENCY_TITLE",
+      "value": "Szakértelem"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_PROFICIENCY",
+      "value": "Haladás"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_REWARDS",
+      "value": "Következő jutalom"
+    },
+    {
+      "key": "UI_DIALOGUE_NEXT",
+      "value": "Folytatás"
+    },
+    {
+      "key": "UI_DIALOGUE_DONE",
+      "value": "Kész"
+    },
+    {
+      "key": "UI_MISSION_UNLOCKED",
+      "value": "Küldetés feloldva"
+    },
+    {
+      "key": "UI_REGION_MISSIONS_UNLOCKED",
+      "value": "Mellékküldetések feloldva a"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED",
+      "value": "Régió feloldva"
+    },
+    {
+      "key": "UI_ITEM_UNLOCKED",
+      "value": "Tárgy feloldva"
+    },
+    {
+      "key": "OPTIONS_VSYNC",
+      "value": "VSync szám"
+    },
+    {
+      "key": "HOVER_CHARLOCKED",
+      "value": "Ez a karakter még nincs feloldva.<br>Egy mellékküldetés alatt oldhatod fel őt."
+    },
+    {
+      "key": "HOVER_CHARDEAD",
+      "value": "Ez a karakter a hegyi kudarc miatt időhurok-kórban szenved.<br>A karaktert a Karaktermenüben lehet újraéleszteni."
+    },
+    {
+      "key": "HOVER_CHARAVAILABLE",
+      "value": "Ez a karakter fel lett oldva és kiválasztható."
+    },
+    {
+      "key": "UNKNOWN_CHAR",
+      "value": "Ismeretlen karakter"
+    },
+    {
+      "key": "HOVER_CHARACTIVE",
+      "value": "Jelenleg kiválasztva"
+    },
+    {
+      "key": "DEAD_TITLE",
+      "value": "időhurok betegség"
+    },
+    {
+      "key": "DEAD_TEXT",
+      "value": "{0} időhurok-kórban szenved a Hegyi kudarca miatt. Ahhoz, hogy további küldetéseket játszhass vele, újra kell élesztened a Karaktermenüben."
+    },
+    {
+      "key": "DEAD_TEXT_DIFFICULTYHASNOREVIVES",
+      "value": "{0} visszafordíthatatlanul legyengült az időhurok-kór miatt.<br>Nem képes többé semmilyen csúcsot elérni...<br>Minden remény a bajtársaiban nyugszik."
+    },
+    {
+      "key": "REVIVE_TITLE",
+      "value": "Újjáélesztés"
+    },
+    {
+      "key": "REVIVE_TEXT",
+      "value": "Használj {0} {1} újraélesztési pontot {2}-ért?"
+    },
+    {
+      "key": "OPTIONS_VSYNC_OFF",
+      "value": "Ki"
+    },
+    {
+      "key": "GAMEOVER_TITLE",
+      "value": "Vége"
+    },
+    {
+      "key": "GAMEOVER_TEXT",
+      "value": "Minden Karakter meghalt!"
+    },
+    {
+      "key": "GAMEOVER_STARTOVER",
+      "value": "Újrakezdés"
+    },
+    {
+      "key": "PAUSE_MENU_GIVEUP",
+      "value": "Feladás"
+    },
+    {
+      "key": "GIVEUP_TITLE",
+      "value": "Feladás"
+    },
+    {
+      "key": "GIVEUP_TEXT",
+      "value": "Biztos, hogy fel akarod adni? Ez a karaktered halálát fogja eredményezni."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_TITLE",
+      "value": "Újjáélesztési Pontok"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_DESCRIPTION",
+      "value": "Olyan karakterek felélesztésére szolgál, akik az időhurok-betegség miatt nem tudnak küldetéseket elkezdeni."
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES",
+      "value": "Csapatfejlesztések"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_ACTIONREQUIRED",
+      "value": "Csapatfrissítési pontok adhatók"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_NEW",
+      "value": "Új fejlesztések elérhetőek"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS",
+      "value": "Karakterek"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_ACTIONREQUIRED",
+      "value": "Karakterek fejleszthetők"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_NEW",
+      "value": "Új Karakter érhető el"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS",
+      "value": "Küldetések"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_ACTIONREQUIRED",
+      "value": "Küldetés kiválasztása szükséges"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_NEW",
+      "value": "Új küldetés érhető el"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY",
+      "value": "Leltár"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_ACTIONREQUIRED",
+      "value": "Tárgyak adhatók hozzá"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_NEW",
+      "value": "Új tárgyak elérhetőek el"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY",
+      "value": "Szakértelem"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_ACTIONREQUIRED",
+      "value": "//MÉG NEM HASZNÁLT?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_NEW",
+      "value": "//MÉG NEM HASZNÁLT?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS",
+      "value": "Erőforrások"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_ACTIONREQUIRED",
+      "value": "Cselekvés szükséges"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_NEW",
+      "value": "Új erőforrások érhetők el"
+    },
+    {
+      "key": "MISSION_GOAL_TRACK",
+      "value": "Keresd meg és érd el:"
+    },
+    {
+      "key": "TRACK_TILE_DEFAULT",
+      "value": "Tárgy"
+    },
+    {
+      "key": "MISSION_WEATHER",
+      "value": "Időjárás:"
+    },
+    {
+      "key": "SKILL_TRACKING",
+      "value": "Nyomkövető eszköz használata"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_NAME",
+      "value": "Nyomkövető eszköz használatban"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_DESCRIPTION",
+      "value": "Állítsd be a kamerát és kövesd a jeleket, hogy megtaláld a célt"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_BUTTON",
+      "value": "Beállítja a játékos mozgási sebességét.<br>Nincs hatása az idő- ill. Energiaköltségekre a hegyen."
+    },
+    {
+      "key": "CONDITION_IS_UNDER",
+      "value": "vége"
+    },
+    {
+      "key": "CONDITION_IS_OVER",
+      "value": "alatt van"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_TITLE",
+      "value": "Csapatfejlesztések"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_DESCRIPTION",
+      "value": "Minden hegymászót érintő fejlesztések"
+    },
+    {
+      "key": "HOURS_SHORT",
+      "value": "ó."
+    },
+    {
+      "key": "SKILLDURATION_UNTIL_END_OF_MISSION",
+      "value": "A küldetés végéig aktív"
+    },
+    {
+      "key": "SKILLDURATION_TEMPORARY",
+      "value": "Korlátozott idejű hatás - {0} órán át aktív"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_UNDER",
+      "value": "Csak akkor aktív, ha {0} {1} alatt van"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_OVER",
+      "value": "Csak akkor aktív, ha {0} {1} felett van"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_TITLE",
+      "value": "Nyomkövető Eszköz"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_DESCRIPTION",
+      "value": "Egyes küldetések alatt a következő célpontot a nyomkövető eszköz segítségével tudod megtalálni, amit a képernyő jobb alsó sarkában lévő Képesség sávban tudsz aktiválni/deaktiválni.<br><br>Ezt követően a kamerát mozgatva felfedezheted a célt. Minél közelebb van a cél a képernyő közepéhez, annál erősebb lesz a jel.<br>Ne felejts el felfelé ill. lefelé nézni a pontosabb helymeghatározás érdekében."
+    },
+    {
+      "key": "MISSION_DIFFICULTY_EXPLANATION",
+      "value": "<style=\"header\">Küldetés nehézsége</style><br><br>A csillagok száma mutatja a küldetés általános nehézségét.<br>"
+    },
+    {
+      "key": "HINT_9",
+      "value": "A kamerát úgy is beállíthatod, hogy az, a saját tengelye körül forogjon, így jobban áttekintheted a szűk helyeket. (gyorsbillentyű: R)"
+    },
+    {
+      "key": "HINT_10",
+      "value": "Ha az állapotod kritikussá válik, az útvonal színe piros lesz - ettől kezdve minden lépése a saját felelősségedre történik!"
+    },
+    {
+      "key": "HINT_11",
+      "value": "Ha az életerőd eléri a nullát, a karaktered összeomlik és az utazás véget ér."
+    },
+    {
+      "key": "HINT_12",
+      "value": "Az időjárás minden reggel változhat. Tartsd szemmel az időjárásjelzőt!"
+    },
+    {
+      "key": "HINT_13",
+      "value": "Viharos időben több energiát használsz fel és több időre van szükséged a cselekvéshez."
+    },
+    {
+      "key": "HINT_14",
+      "value": "A hideg időjárás negatívan hat a Testhőmérsékletre, különösen éjszaka."
+    },
+    {
+      "key": "HINT_15",
+      "value": "A 'törmelék', a 'gleccser' és a 'hófúvás' alterepek veszélyes eseményeket idézhetnek elő."
+    },
+    {
+      "key": "HINT_16",
+      "value": "A 'mélyhó' és a 'jéglabirintus' alterepek növelik néhány állapotérték költségét."
+    },
+    {
+      "key": "HINT_17",
+      "value": "Minden csempe a 3 tereptípus egyikéből áll: szikla, hó vagy jég. Minden tereptípus más, veszélyes tulajdonságokkal rendelkező alterepet is tartalmaz."
+    },
+    {
+      "key": "HINT_18",
+      "value": "Ha az egeret a leltárban lévő tárgyak fölé viszed, megjelenik a hatásuk előnézete."
+    },
+    {
+      "key": "HINT_19",
+      "value": "Ne felejts el nyomkövetőt használni, miközben rendellenességeket keresel. (gyorsbillentyű: T)"
+    },
+    {
+      "key": "HINT_20",
+      "value": "A küldetés megszakítható a kiindulási pontra való visszatéréssel."
+    },
+    {
+      "key": "SKIP_CUTSCENE",
+      "value": "Kihagyás"
+    },
+    {
+      "key": "SCORE_MAINMISSIONS",
+      "value": "Fő küldetések"
+    },
+    {
+      "key": "SCORE_SIDEMISSIONS",
+      "value": "Mellékküldetések"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ADVENTURER",
+      "value": "Szakértelem Kalandorként"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_SCIENTIST",
+      "value": "Szakértelem Tudósként"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_JOURNALIST",
+      "value": "Szakértelem Újságíróként"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ITEM",
+      "value": "Tárgyszakértelem"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ENVIRONMENT",
+      "value": "Környezetszakértelem"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_TERRAIN",
+      "value": "Terepszakértelem"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_EVENT",
+      "value": "Eseményszakértelem"
+    },
+    {
+      "key": "SCORE_DEATHS",
+      "value": "Halálesetekért járó büntetés"
+    },
+    {
+      "key": "RUN_WIN_TITLE",
+      "value": "Játék teljesítve!"
+    },
+    {
+      "key": "RUN_WIN_CONTINUE",
+      "value": "Főmenü"
+    },
+    {
+      "key": "RUN_WIN_SCORE",
+      "value": "Pontszám:"
+    },
+    {
+      "key": "STATVALUETYPE_CANUSETRACKING",
+      "value": "Az anomáliák követésére használt eszköz, amely a következő mozgásig aktív."
+    },
+    {
+      "key": "TRACKING_WRONG_DIRECTION",
+      "value": "Nincs jel ebből az irányból"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_CHARACTER",
+      "value": "Karakterszakértelem"
+    },
+    {
+      "key": "INPUT_SELECT",
+      "value": "Megerősítés / Kiválasztás"
+    },
+    {
+      "key": "INPUT_CANCELPATH",
+      "value": "Útvonal megszakítása"
+    },
+    {
+      "key": "INPUT_TOGGLEFREELOOK",
+      "value": "Körbenézés"
+    },
+    {
+      "key": "INPUT_ROTATECAM",
+      "value": "Kameraforgatás"
+    },
+    {
+      "key": "INPUT_FREELOOKCAM",
+      "value": "Körbenézés"
+    },
+    {
+      "key": "INPUT_STARTMOVE",
+      "value": "Mozgás"
+    },
+    {
+      "key": "INPUT_STOPMOVE",
+      "value": "Megállás"
+    },
+    {
+      "key": "INPUT_TOGGLEINVENTORY",
+      "value": "Leltár Megnyitása / Bezárása"
+    },
+    {
+      "key": "INPUT_TOGGLESKILLSCREEN",
+      "value": "Képességáttekintő Megnyitása / Bezárása"
+    },
+    {
+      "key": "INPUT_TOGGLEPAUSEMENU",
+      "value": "Szünet Menü Megnyitása / Bezárása"
+    },
+    {
+      "key": "INPUT_CANCEL",
+      "value": "Mégsem"
+    },
+    {
+      "key": "INPUT_LEVELUP",
+      "value": "Szintlépés megerősítése"
+    },
+    {
+      "key": "INPUT_CHANGETIMELAPSE",
+      "value": "Sebesség Ki/Bekapcsolása"
+    },
+    {
+      "key": "INPUT_TOGGLESLEEPSCREEN",
+      "value": "Alvás Képernyő Megnyitása / Bezárása"
+    },
+    {
+      "key": "INPUT_TOGGLEHUDVISIBLE",
+      "value": "HUD Ki/Bekapcsolása"
+    },
+    {
+      "key": "INPUT_TAKEEVERYTHINGFROMLEFTOVER",
+      "value": "Minden elvitele"
+    },
+    {
+      "key": "INPUT_SHOWCURRENTMISSION",
+      "value": "Jelenlegi küldetés megjelenítése"
+    },
+    {
+      "key": "INPUT_LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "Mindent otthagy"
+    },
+    {
+      "key": "INPUT_ZOOM",
+      "value": "Nagyítás/Kicsinyítés"
+    },
+    {
+      "key": "MISSIONSKILL",
+      "value": "Nyomkövető eszköz használata"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL1",
+      "value": "Aktív Képesség (1. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL2",
+      "value": "Aktív Képesség (2. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL3",
+      "value": "Aktív Képesség (3. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL4",
+      "value": "Aktív Képesség (4. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL5",
+      "value": "Aktív Képesség (5. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL6",
+      "value": "Aktív Képesség (6. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL7",
+      "value": "Aktív Képesség (7. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL8",
+      "value": "Aktív Képesség (8. rés)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL9",
+      "value": "Aktív Képesség (9. rés)"
+    },
+    {
+      "key": "INPUT_MISSIONSKILL",
+      "value": "Nyomkövető eszköz használata"
+    },
+    {
+      "key": "INPUT_ACTIONMENU",
+      "value": "Műveletek menü megnyitása"
+    },
+    {
+      "key": "CONTROLSCHEME_KEYPAD",
+      "value": "Billentyűzet és Egér"
+    },
+    {
+      "key": "CONTROLSCHEME_GAMEPAD",
+      "value": "Gamepad"
+    },
+    {
+      "key": "INPUT_ZOOM_IN",
+      "value": "Nagyítás"
+    },
+    {
+      "key": "INPUT_ZOOM_OUT",
+      "value": "Kicsinyítés"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE0",
+      "value": "UI navigációs módban (fel)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE1",
+      "value": "UI navigációs módban (balra)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE2",
+      "value": "UI navigációs módban (jobbra)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE3",
+      "value": "UI navigációs módban (le)"
+    },
+    {
+      "key": "INPUT_NAVIGATE",
+      "value": "Navigálás"
+    },
+    {
+      "key": "INPUT_UP",
+      "value": "Navigálás fel"
+    },
+    {
+      "key": "INPUT_DOWN",
+      "value": "Navigálás le"
+    },
+    {
+      "key": "INPUT_LEFT",
+      "value": "Navigálás balra"
+    },
+    {
+      "key": "INPUT_RIGHT",
+      "value": "Navigálás jobbra"
+    },
+    {
+      "key": "INPUT_MOVECURSOR",
+      "value": "Csempekurzor mozgatása"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL",
+      "value": "Görgetés"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_UP",
+      "value": "Görgetés Fel"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_DOWN",
+      "value": "Görgetés Le"
+    },
+    {
+      "key": "INPUT_RIGHT_STICK_PRESS",
+      "value": "Nyomd Meg A Jobb Botot"
+    },
+    {
+      "key": "INPUT_LEFT_STICK_PRESS",
+      "value": "Nyomd Meg A Bal Botot"
+    },
+    {
+      "key": "INPUT_RIGHTCLICK",
+      "value": "Használ / felszerel / tárgyat mozgat / jelölőnégyzetbe pipál"
+    },
+    {
+      "key": "INPUT_SUBMIT",
+      "value": "Megerősítés"
+    },
+    {
+      "key": "INPUT_CLICK",
+      "value": "Kiválasztás"
+    },
+    {
+      "key": "INPUT_PROMPT_ADDCHECKPOINT",
+      "value": "Ellenőrzőpont hozzáadása"
+    },
+    {
+      "key": "INPUT_PROMPT_SKIPEVENTTEXTANIMATION",
+      "value": "Animáció kihagyása"
+    },
+    {
+      "key": "INPUT_PROMPT_CLOSE",
+      "value": "Bezárás"
+    },
+    {
+      "key": "INPUT_PROMPT_USEITEM",
+      "value": "Tárgy használata"
+    },
+    {
+      "key": "INPUT_PROMPT_TAKEITEM",
+      "value": "Tárgy felvétele"
+    },
+    {
+      "key": "INPUT_PROMPT_DROPITEM",
+      "value": "Tárgy eldobása"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPITEM",
+      "value": "Tárgy cseréje"
+    },
+    {
+      "key": "INPUT_PROMPT_EQUIPITEM",
+      "value": "Tárgy felszerelése"
+    },
+    {
+      "key": "INPUT_PROMPT_UNEQUIPITEM",
+      "value": "Tárgy leszerelése"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPEQUIPMENT",
+      "value": "Felszerelés cseréje"
+    },
+    {
+      "key": "INPUT_PROMPT_ENTERHUDMODE",
+      "value": "Állapotrészletek megtekintése"
+    },
+    {
+      "key": "INPUT_PROMPT_EXITHUDMODE",
+      "value": "Állapotrészletek elrejtése"
+    },
+    {
+      "key": "INPUT_PROMPT_NAVIGATEHUDMODE",
+      "value": "Állapotrészletek közti navigálás"
+    },
+    {
+      "key": "INPUT_PROMPT_CREATEPATH",
+      "value": "Útvonal elindítása"
+    },
+    {
+      "key": "CONFIRM_UNLOCK",
+      "value": "Feloldás"
+    },
+    {
+      "key": "CONFIRM_UNLOCK_DESCRIPTION",
+      "value": "Szeretnéd feloldani: {0}?"
+    },
+    {
+      "key": "CONFIRM_UPGRADE",
+      "value": "Fejlesztés"
+    },
+    {
+      "key": "CONFIRM_UPGRADE_DESCRIPTION",
+      "value": "Szeretné fejleszteni: {0}?"
+    },
+    {
+      "key": "CONFIRM_RESET",
+      "value": "Visszaállítás"
+    },
+    {
+      "key": "CONFIRM_RESET_DESCRIPTION",
+      "value": "Vissza akarod állítani a(z) {0} fejlesztéseit?"
+    },
+    {
+      "key": "STINGER_1_1",
+      "value": "Az állomáson vagy. Egy fiatal lány áll előtted, karjában egy plüssmackóval. Tátott szájjal rád mutat. Nem, nem rád, hanem a repedés túloldalán izzó vörös amulettre."
+    },
+    {
+      "key": "STINGER_1_2",
+      "value": "Gyorsan behajolsz a repedésbe, amely egyre szűkebbé és szűkebbé válik. Éppen mikor megragadnád az amulettet, hirtelen visszavágódsz az állomásra.<br>Kábultan nézed, ahogy a repedés végleg bezárul. Azután minden elsötétül..."
+    },
+    {
+      "key": "STINGER_2_1",
+      "value": "Az állomáson vagy. Egy fiatal lány áll előtted, karjában egy plüssmackóval. Tátott szájjal rád mutat. Nem, nem rád, hanem a repedés túloldalán izzó vörös amulettre."
+    },
+    {
+      "key": "STINGER_2_2",
+      "value": "Gyorsan behajolsz a repedésbe, amely egyre szűkebbé és szűkebbé válik. Éppen mikor megragadnád az amulettet, hirtelen visszavágódsz az állomásra.<br>Kábultan nézed, ahogy a repedés végleg bezárul. Azután minden elsötétül..."
+    },
+    {
+      "key": "STINGER_3_1",
+      "value": "Az állomáson vagy. Egy fiatal lány áll előtted, karjában egy plüssmackóval. Tátott szájjal rád mutat. Nem, nem rád, hanem a repedés túloldalán izzó vörös amulettre."
+    },
+    {
+      "key": "STINGER_3_2",
+      "value": "Gyorsan behajolsz a repedésbe, amely egyre szűkebbé és szűkebbé válik. Éppen mikor megragadnád az amulettet, hirtelen visszavágódsz az állomásra.<br>Szédülés gyötör, de megcsináltad. Kábultan hagyod, hogy az amulett az ujjaid között lógjon. A fénye kialszik."
+    },
+    {
+      "key": "STINGER_3_3",
+      "value": "A lány óvatosan odamegy hozzád, és megvizsgálja a követ. Hirtelen kikapja az amulettet és eltűnik egy nehéz vasajtó mögött. Modani próbálsz valamit, hogy figyelmeztesd a lányt, de ekkor minden elsötétül..."
+    },
+    {
+      "key": "IGNORE_NIGHT",
+      "value": "Ez a hatás inaktív, mert egy menedékhelyen alszol."
+    },
+    {
+      "key": "PRIVACYPOLICY",
+      "value": "Adatvédelem"
+    },
+    {
+      "key": "SKILL_DRONE_NAME",
+      "value": "<style=\"supportpack\">Parancsnoki Drón</style>"
+    },
+    {
+      "key": "SKILL_DRONE_DESCRIPTION",
+      "value": "Elküldheted a drónodat, hogy keressen egy közeli barlangot. Ha nem talál, akkor pirosan fog villogni."
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_TITLE",
+      "value": "<style=\"supportpack\">Támogatói Csomag Aktiválva</style>"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_DESCRIPTION",
+      "value": "A Támogatói Csomagot aktiváltuk!<br>Nagyon szépen köszönjük, hogy támogatod az Insurmountable fejlesztését.<br>Kezdj új játékot, vagy folytasd a meglévőt, hogy hozzáférhess a jutalmakhoz!"
+    },
+    {
+      "key": "SUPPORTERPACK_NOTIFICATION_DRONE_NOPOIFOUND",
+      "value": "Nem található barlang!"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED",
+      "value": "Szöveg sebessége"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_SLOW",
+      "value": "Lassú"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_NORMAL",
+      "value": "Normál"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_FAST",
+      "value": "Gyors"
+    },
+    {
+      "key": "UNIT_METERS",
+      "value": "m"
+    },
+    {
+      "key": "UNIT_MINUTES",
+      "value": "p"
+    },
+    {
+      "key": "UNIT_HOURS",
+      "value": "ó"
+    },
+    {
+      "key": "UNIT_DAYS",
+      "value": "n"
+    },
+    {
+      "key": "JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "RUSSIAN",
+      "value": "Русский"
+    },
+    {
+      "key": "CHINESESIMPLIFIED",
+      "value": "简体中文"
+    },
+    {
+      "key": "CHINESETRADITIONAL",
+      "value": "繁體中文"
+    },
+    {
+      "key": "DISCORD_JOINUS",
+      "value": "Csatlakozz hozzánk!"
+    },
+    {
+      "key": "LOGGING_IN_GENERIC",
+      "value": "Bejelentkezés..."
+    },
+    {
+      "key": "LOGGING_IN_EPIC",
+      "value": "Kérlek, jelentkezz be a hitelesítéshez"
+    }
+  ]
+}

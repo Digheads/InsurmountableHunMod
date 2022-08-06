@@ -1,0 +1,2864 @@
+{
+  "LOCA": [
+    {
+      "key": "STAT_ENERGY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_energy\">Energy</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"energy\">Energy</style> is used when climbing.<br>Steep passages cost more Energy.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_sanity\">Sanity</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"sanity\">Sanity</style> decreases slowly, but steadily as a result of the mental stress that comes with the climb.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_oxygen\">Oxygen</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"oxygen\">Oxygen</style> is used in the Death Zone high up on the mountain.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">Body Temperature</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}{1} / {2}</font></style><br><style=\"description\"><style=\"bodytemp\">Body Temperature</style> is typically reduced at night and in cold weather.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_health\">Health</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\">When your <style=\"health\">Health</style> hits zero, your journey is over!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_exp\">Experience Points</style></style><br><style=\"numbers_stat\">Lv.<font=\"numbers\">{0}<br>{1}/{2} for the next level</font></style><br><style=\"description\"><style=\"exp\">Experience Points</style> are required to activate new Skills that will help you on your current mission.</style>"
+    },
+    {
+      "key": "HUD_HEIGHT",
+      "value": "<style=\"header\"><style=\"i_height\">Height</style></style><br><br><font=\"numbers_m\">{0}</font> m<br><br><style=\"warning\">Death Zone: <font=\"numbers_m\">{1}</font> m</style><br><style=\"description\">At {1} m height you reach the Death Zone.<br>In the Death Zone you lose <style=\"oxygen\">Oxygen</style>.</style>"
+    },
+    {
+      "key": "STAT_ENERGY",
+      "value": "Energy"
+    },
+    {
+      "key": "STAT_BODYTEMP",
+      "value": "Body Temperature"
+    },
+    {
+      "key": "STAT_OXYGEN",
+      "value": "Oxygen"
+    },
+    {
+      "key": "STAT_SANITY",
+      "value": "Sanity"
+    },
+    {
+      "key": "STAT_HEALTH",
+      "value": "Health"
+    },
+    {
+      "key": "STAT_EXP",
+      "value": "Experience Points"
+    },
+    {
+      "key": "STAT_TIME",
+      "value": "Time"
+    },
+    {
+      "key": "STAT_PERCENT",
+      "value": "<style=\"description\"> ({0}% of Max Stat Value)</style>"
+    },
+    {
+      "key": "ITEM_TENT",
+      "value": "Allows the player to rest in the tent."
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_INVENTORY",
+      "value": "<style=\"description\">Left Click: Move.</style>"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_LOADOUT",
+      "value": "<style=\"description\">Left Click: Move.</style>"
+    },
+    {
+      "key": "ITEM_EQUIPMENT",
+      "value": "<style=\"description\">Equipment - Left Click+Drag to move it into an Equipment Slot.<br>Only one Equipment Item of each type can be put on at the same time.</style>"
+    },
+    {
+      "key": "ITEM_PASSIVE",
+      "value": "<style=\"description\">Useful in Cave Events.<br>Left Click: Move.</style>"
+    },
+    {
+      "key": "ITEM_GENERIC",
+      "value": "<style=\"description\">Might be useful.<br>Left Click: Move.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_STATS_ALREADY_FILLED",
+      "value": "<style=\"description_forbidden\">This item would have no effect at the moment.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_ALREADY_ACTIVE",
+      "value": "<style=\"description_forbidden\">This item is currently still active.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">This item cannot be used during Events.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_LEFTOVER",
+      "value": "<style=\"description_forbidden\">Cannot be used when Items in leftover can be moved.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">This skill cannot be used during Event dialogues.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">This item cannot be used right now.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">This skill cannot be used right now.</style>"
+    },
+    {
+      "key": "HOVER_ITEM_TEMPEFFECTS",
+      "value": ""
+    },
+    {
+      "key": "STAT_CURRENT_TIME",
+      "value": "<style=\"header\"><style=\"i_time\">Time</style></style><br><style=\"numbers_stat\"><font=\"numbers_m\">{0}<br>{1}</font></style><br><style=\"description\"><size=70%>The day begins with sunrise at <font=\"numbers_m_i\">{2}</font>.<br>The night begins with sunset at <font=\"numbers_m_i\">{3}</font>.</size></style>"
+    },
+    {
+      "key": "TIME_DAY",
+      "value": "Day"
+    },
+    {
+      "key": "TIME_NIGHT",
+      "value": "Night"
+    },
+    {
+      "key": "TIME_NIGHT_CHANGE",
+      "value": "Nightfall"
+    },
+    {
+      "key": "TIME_DAY_CHANGE",
+      "value": "Daybreak"
+    },
+    {
+      "key": "HUD_WEATHER",
+      "value": "<style=\"header\">Weather</style><br><br>{0}<br>{1}<br><br><size=90%>{2}</size><br><br><style=\"description\">The weather changes every day.<br>Weather can influence the gameplay.</style>"
+    },
+    {
+      "key": "TOGGLE_HUD_SIZE_OPTION",
+      "value": "Bigger HUD"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_KEYBOARD",
+      "value": "Status Preview Panel (Keyboard / Mouse Input)"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_GAMEPAD",
+      "value": "Status Preview Panel (Gamepad Input)"
+    },
+    {
+      "key": "BTN_CHANGE_CHARACTER",
+      "value": "Change Character"
+    },
+    {
+      "key": "BTN_CHANGE_LOADOUT",
+      "value": "Open Inventory"
+    },
+    {
+      "key": "BTN_START_MISSION",
+      "value": "Start Mission"
+    },
+    {
+      "key": "WORLDMAP_TITLE",
+      "value": "Map"
+    },
+    {
+      "key": "WORLDMAP_DESCRIPTION",
+      "value": "Plan your missions here."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_TITLE",
+      "value": "Only weather"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_DESCRIPTION",
+      "value": "Some kind of anomaly seems to be causing the weather on this mountain to be caught in an endless time loop..."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_HOVER",
+      "value": "On this mountain, the only weather that can occur is {0}.<br> ({1})"
+    },
+    {
+      "key": "CHARACTER_SCREEN_TITLE",
+      "value": "Characters"
+    },
+    {
+      "key": "CHARACTER_SKILL_ALREADY_UNLOCKED_HOVER",
+      "value": "You have already unlocked this Skill for {0}"
+    },
+    {
+      "key": "CHAR_DEAD_PANEL_OVERLAY",
+      "value": "Not ready for action"
+    },
+    {
+      "key": "WEATHER_CLEAR",
+      "value": "Clear"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_CLEAR",
+      "value": "Normal Weather"
+    },
+    {
+      "key": "WEATHER_COLD",
+      "value": "Cold"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_COLD",
+      "value": "Body Temperature loss increased"
+    },
+    {
+      "key": "WEATHER_STORM",
+      "value": "Storm"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_STORM",
+      "value": "Energy cost for climbing increased"
+    },
+    {
+      "key": "HOVER_TEMP_EFFECT",
+      "value": "<style=\"header\">{0}</style><br><br>Ends in: <font=\"numbers_m\">{1}</font> hour(s)<br><br><style=\"description\">{2}</style><br><style=\"numbers_stat\">{3}</style>"
+    },
+    {
+      "key": "HOVER_TRAIT",
+      "value": "<style=\"header\">{0}</style><br><br><style=\"description\">{1}</style><br><style=\"numbers_stat\">{2}</style>"
+    },
+    {
+      "key": "BTN_WALK",
+      "value": "Walk"
+    },
+    {
+      "key": "BTN_PAUSE_WALK",
+      "value": "Stop"
+    },
+    {
+      "key": "BTN_INVENTORY",
+      "value": "Inventory"
+    },
+    {
+      "key": "TITLE_INVENTORY",
+      "value": "Inventory"
+    },
+    {
+      "key": "TITLE_ITEMS",
+      "value": "Backpack"
+    },
+    {
+      "key": "BTN_YES",
+      "value": "YES"
+    },
+    {
+      "key": "BTN_NO",
+      "value": "NO"
+    },
+    {
+      "key": "BTN_LEVELUP",
+      "value": "LEVEL UP"
+    },
+    {
+      "key": "TITLE_LEVELUP",
+      "value": "LEVEL UP"
+    },
+    {
+      "key": "DESCRIPTION_LEVELUP",
+      "value": "Your experience on the mountain has made you stronger.<br>Choose a Trait!"
+    },
+    {
+      "key": "REMAINING_USES",
+      "value": "Uses left:"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM",
+      "value": "Discard Item?"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM_DESCRIPTION",
+      "value": "You are discarding <sprite=\"{0}\" name=\"{1}\"> <style=\"subtract\">{2} x1</style>. Are you sure?"
+    },
+    {
+      "key": "MAIN_MENU_NEW_GAME",
+      "value": "New Game"
+    },
+    {
+      "key": "MAIN_MENU_OPTIONS",
+      "value": "Options"
+    },
+    {
+      "key": "MAIN_MENU_QUIT",
+      "value": "Quit Game"
+    },
+    {
+      "key": "MAIN_MENU_CREDITS",
+      "value": "Credits"
+    },
+    {
+      "key": "MAIN_MENU_LANGUAGE",
+      "value": "Language"
+    },
+    {
+      "key": "MAIN_MENU_BACK",
+      "value": "Back"
+    },
+    {
+      "key": "MAIN_MENU_LOADING",
+      "value": "Loading..."
+    },
+    {
+      "key": "DAEDELIC_LEGAL_LINES",
+      "value": "© 2022 Daedalic Entertainment GmbH.<br> The Daedalic Logo is trademark of Daedalic Entertainment GmbH, Germany. All rights reserved."
+    },
+    {
+      "key": "ENGLISH",
+      "value": "English"
+    },
+    {
+      "key": "GERMAN",
+      "value": "Deutsch"
+    },
+    {
+      "key": "PAUSE_MENU_CONTINUE",
+      "value": "Continue"
+    },
+    {
+      "key": "PAUSE_MENU_RETRY",
+      "value": "Retry"
+    },
+    {
+      "key": "PAUSE_MENU_MAIN_MENU",
+      "value": "Back to Main Menu"
+    },
+    {
+      "key": "PAUSE_MENU",
+      "value": "Paused"
+    },
+    {
+      "key": "PAUSE_MENU_HELP",
+      "value": "Help"
+    },
+    {
+      "key": "EVENT_UNKNOWN_OUTCOME",
+      "value": "(Outcome is unknown...)"
+    },
+    {
+      "key": "EVENT_END",
+      "value": "(Finishes this Event)"
+    },
+    {
+      "key": "EVENT_MISSING_ITEM",
+      "value": "Required"
+    },
+    {
+      "key": "EVENT_STATICHOVER_ITEMS",
+      "value": "Items"
+    },
+    {
+      "key": "EVENT_STATICHOVER_STATUS",
+      "value": "Status"
+    },
+    {
+      "key": "EVENT_STATICHOVER_TIME",
+      "value": "Time"
+    },
+    {
+      "key": "WEATHER_FORECAST_TOMORROW",
+      "value": "Weather tomorrow"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_ENTERED",
+      "value": "Death Zone entered"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_LEFT",
+      "value": "Death Zone left"
+    },
+    {
+      "key": "SKILLTARGETED_ERROR_RANGE",
+      "value": "Too far away!"
+    },
+    {
+      "key": "MAIN_MENU_CONTINUE",
+      "value": "Continue"
+    },
+    {
+      "key": "BTN_OK",
+      "value": "OK"
+    },
+    {
+      "key": "BTN_SKILLS",
+      "value": "Skills"
+    },
+    {
+      "key": "BTN_CANCEL",
+      "value": "Cancel"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL",
+      "value": "Choose Skill"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL_DESCRIPTION",
+      "value": "Do you want to choose <br>{0}?"
+    },
+    {
+      "key": "BTN_SKILLACTIVE",
+      "value": "Ready in {0}"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_TITLE",
+      "value": "Leave behind Items"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_DESCRIPTION",
+      "value": "All Items in 'Leftovers' will be permanently lost. Continue?"
+    },
+    {
+      "key": "TITLE_LEFTOVERS",
+      "value": "Leftovers"
+    },
+    {
+      "key": "CONFIRM",
+      "value": "Confirm"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT",
+      "value": "VSync Iterations*"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT_HOVER",
+      "value": "<style=header>VSYNC</style><br><style=description>Limits the amount of frames per second (FPS) dependent on the picture refresh rate (Hz) of the screen.<br>The higher this value, the less frames per second will be generated and the more stable the performance and the graphic card workload will be.</style>"
+    },
+    {
+      "key": "CHOOSE",
+      "value": "Choose"
+    },
+    {
+      "key": "UI_CHOICE_CONSTRAINT_TITLE",
+      "value": "Choose Your Challenge!"
+    },
+    {
+      "key": "UI_MISSIONS_TITLE",
+      "value": "Missions"
+    },
+    {
+      "key": "UI_MISSION_SCREEN_TITLE",
+      "value": "Mission Selection"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_TITLE",
+      "value": "Eternal Night"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_DESCRIPTION",
+      "value": "This mountain is frozen in time, caught in an endless dark night."
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_HOVER",
+      "value": "Night effects are in play at all times."
+    },
+    {
+      "key": "CONSTRAINTS",
+      "value": "Constraints"
+    },
+    {
+      "key": "REWARDS",
+      "value": "Rewards"
+    },
+    {
+      "key": "FAIL_REWARDS",
+      "value": "Upon failure"
+    },
+    {
+      "key": "MISSION_HOVER_ALREADY_COMPLETED",
+      "value": "You have already completed this mission."
+    },
+    {
+      "key": "MISSION_HOVER_LOCKED",
+      "value": "This side mission is not yet unlocked. Finish the main chapter on {0} to unlock it."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED",
+      "value": "This region is not yet unlocked.<br>Finish {0} side missions in region '{1}' successfully to play this chapter."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED_PROGRESS",
+      "value": "Currently Finished:"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED_NEW",
+      "value": "This mission is unlocked. You have not played it yet."
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED",
+      "value": "This mission is unlocked. You have not completed it yet."
+    },
+    {
+      "key": "MISSION_GOAL_REACH",
+      "value": "Reach:"
+    },
+    {
+      "key": "MISSION_GOAL_COLLECT",
+      "value": "Collect:"
+    },
+    {
+      "key": "MISSION_GOAL_SUMMARY",
+      "value": "Find items"
+    },
+    {
+      "key": "SHOWCURRENTMISSION",
+      "value": "Show Current Mission"
+    },
+    {
+      "key": "MISSION_CLICK_HINT",
+      "value": "Click to show your current mission."
+    },
+    {
+      "key": "TARGET_TILE_START",
+      "value": "Starting point"
+    },
+    {
+      "key": "TARGET_TILE_PEAK",
+      "value": "Summit"
+    },
+    {
+      "key": "TARGET_TILE_CAMP",
+      "value": "Camp"
+    },
+    {
+      "key": "TARGET_TILE_WEATHER STATION",
+      "value": "Abandoned weather station"
+    },
+    {
+      "key": "MISSION_CHARACTER_REWARD_TITLE",
+      "value": "When finished with:"
+    },
+    {
+      "key": "ALREADY_UNLOCKED",
+      "value": "Already unlocked"
+    },
+    {
+      "key": "EQUIPMENT",
+      "value": "Equipment"
+    },
+    {
+      "key": "LEFTOVER_WARNING",
+      "value": "Warning!<br>There are still Items in 'Leftovers'. These will be lost."
+    },
+    {
+      "key": "DO_NOT_SHOW_AGAIN",
+      "value": "Do not show again"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_TITLE",
+      "value": "Use Item?"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_DESCRIPTION",
+      "value": "Do you want to use <sprite=\"{0}\" name=\"{1}\"> {2}?"
+    },
+    {
+      "key": "SKILLS_TITLE",
+      "value": "Skills"
+    },
+    {
+      "key": "LEVELUP_TITLE",
+      "value": "Level Up"
+    },
+    {
+      "key": "LEVELUP_DESCRIPTION",
+      "value": "Choose your next Skill"
+    },
+    {
+      "key": "MOUNTAIN1_NAME",
+      "value": "Mountain 1"
+    },
+    {
+      "key": "MOUNTAIN1_DESCRIPTION",
+      "value": "This mountain is the beginning of your long and arduous climb.<br>Your preparations and perseverance will be tested here."
+    },
+    {
+      "key": "MOUNTAIN2_NAME",
+      "value": "Mountain 2"
+    },
+    {
+      "key": "MOUNTAIN2_DESCRIPTION",
+      "value": "The mountains are getting rougher and even more merciless.<br>Hopefully, you are well equipped, healthy and strengthened after your first mountain."
+    },
+    {
+      "key": "MOUNTAIN3_NAME",
+      "value": "Mountain 3"
+    },
+    {
+      "key": "MOUNTAIN3_DESCRIPTION",
+      "value": "The final summit, high above the clouds—majestic and almost unattainable.<br>The previous mountains were an endurance test, but to overcome this one verges on the impossible...<br>And there is no going back.<br>You have to reach the top, no matter what!"
+    },
+    {
+      "key": "SCAR_DEFAULT_EXPLANATION",
+      "value": "You feel exhausted after all that climbing..."
+    },
+    {
+      "key": "CLIMB_FINISH_TITLE",
+      "value": "Camp"
+    },
+    {
+      "key": "CLIMB_FINISH_DAYS",
+      "value": "Days on last mountain:"
+    },
+    {
+      "key": "BTN_CLIMB_CONTINUE",
+      "value": "Continue"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_TITLE",
+      "value": "Time Loop Limbo"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_DESCRIPTION",
+      "value": "All of your characters are suffering from the ominous Time Loop sickness and are in an irreversible waking coma. There is no way to save them now.<br>This story ends here."
+    },
+    {
+      "key": "RUN_DEATH_TITLE",
+      "value": "Died"
+    },
+    {
+      "key": "RUN_FINISH_TITLE",
+      "value": "Success"
+    },
+    {
+      "key": "BTN_RUN_CONTINUE",
+      "value": "Main Menu"
+    },
+    {
+      "key": "BTN_DEATH_CONTINUE",
+      "value": "Main Menu"
+    },
+    {
+      "key": "RUN_FINISH_DAYS",
+      "value": "Days"
+    },
+    {
+      "key": "RUN_FINISH_LEVEL",
+      "value": "Level:"
+    },
+    {
+      "key": "RUN_FINISH_CLIMBS",
+      "value": "Mountains scaled:"
+    },
+    {
+      "key": "RUN_FINISH_HEIGHT",
+      "value": "Maximum height:"
+    },
+    {
+      "key": "ROUTE1_NAME",
+      "value": "Route 1"
+    },
+    {
+      "key": "ROUTE2_NAME",
+      "value": "Route 2"
+    },
+    {
+      "key": "ROUTE3_NAME",
+      "value": "Route 3"
+    },
+    {
+      "key": "TENT_DURABILITY",
+      "value": "Tent durability"
+    },
+    {
+      "key": "NO_TENT_AVAILABLE",
+      "value": "No tent in inventory"
+    },
+    {
+      "key": "SLEEP_LOCATION_TENT",
+      "value": "Rest"
+    },
+    {
+      "key": "SLEEP_LOCATION_REST",
+      "value": "Rest"
+    },
+    {
+      "key": "SLEEP_LOCATION_CAVE",
+      "value": "Peaceful Cave"
+    },
+    {
+      "key": "BTN_START",
+      "value": "Start"
+    },
+    {
+      "key": "BTN_SELECTROUTE",
+      "value": "Choose"
+    },
+    {
+      "key": "STATUS_SLEEPING",
+      "value": "Sleeping"
+    },
+    {
+      "key": "STATUS_AWAKE",
+      "value": "Awake"
+    },
+    {
+      "key": "BTN_SLEEP",
+      "value": "Sleep"
+    },
+    {
+      "key": "SLEEP_DURATION",
+      "value": "Sleep Duration"
+    },
+    {
+      "key": "DURABILITY_CAVE",
+      "value": "Cave <size=66%>(no tent needed)</size>"
+    },
+    {
+      "key": "SLEEP_WINDOW_TITLE",
+      "value": "Go to sleep"
+    },
+    {
+      "key": "SLEEP_EXECUTION_TITLE",
+      "value": "Sleeping..."
+    },
+    {
+      "key": "USE_TENT",
+      "value": "Use tent"
+    },
+    {
+      "key": "SHORT_SLEEP",
+      "value": "Sleep briefly"
+    },
+    {
+      "key": "LONG_SLEEP",
+      "value": "Sleep long"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_NAME",
+      "value": "Frozen Toes"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "Your toes are frozen"
+    },
+    {
+      "key": "CRITENERGYSCAR_NAME",
+      "value": "Damaged Ankle"
+    },
+    {
+      "key": "CRITENERGYSCAR_DESCRIPTION",
+      "value": "Your ankles are injured"
+    },
+    {
+      "key": "CRITOXYGENSCAR_NAME",
+      "value": "Altitude Sickness"
+    },
+    {
+      "key": "CRITOXYGENSCAR_DESCRIPTION",
+      "value": "You are suffering from altitude sickness"
+    },
+    {
+      "key": "CRITSANITYSCAR_NAME",
+      "value": "Nightmares"
+    },
+    {
+      "key": "CRITSANITYSCAR_DESCRIPTION",
+      "value": "You are suffering from nightmares"
+    },
+    {
+      "key": "EXHAUSTED_NAME",
+      "value": "Exhausted"
+    },
+    {
+      "key": "EXHAUSTED_DESCRIPTION",
+      "value": "You are suffering from exhaustion"
+    },
+    {
+      "key": "FROSTBITTEN_NAME",
+      "value": "Frostbitten"
+    },
+    {
+      "key": "FROSTBITTEN_DESCRIPTION",
+      "value": "The biting cold on the mountains is getting to you"
+    },
+    {
+      "key": "ADVENTURER_NAME",
+      "value": "Adventurer"
+    },
+    {
+      "key": "ADVENTURER_INTRO",
+      "value": "You've dived down into the briny depths of the oceans in search of lost treasure, researched long-extinct cultures in the deepest rain forests, and unearthed ancient ruins in endless deserts. No adventure was ever big enough for you, and nothing ever got in your way. Now, a new challenge awaits you.<br>A remote island, long concealed behind a blanket of fog. A mountain range of which there is no record—and peaks that tower into the heavens, just waiting to be scaled.<br>This is the stuff of adventurers' dreams—and your chance to get your name into the history books."
+    },
+    {
+      "key": "SCIENTIST_NAME",
+      "value": "Scientist"
+    },
+    {
+      "key": "SCIENTIST_INTRO",
+      "value": "You have a revolutionary theory: You believe there is an undiscovered source of electromagnetic energy that could generate enough energy to power the entire world. Experts have derided and dismissed your theory as science fiction, but your colleagues' narrow-mindedness only fuels your desire to continue your research.<br>When you learn of a mysterious island that essentially appeared out of thin air, you see your chance. According to your initial calculations, the conditions in the massive mountain range are ideal for an electromagnetic hot spot. The radiation should be strongest on the peaks.<br>You will need to scale the summits to prove your theory once and for all—and restore your reputation."
+    },
+    {
+      "key": "JOURNALIST_NAME",
+      "value": "Journalist"
+    },
+    {
+      "key": "JOURNALIST_INTRO",
+      "value": "In your never-ending quest for truth, you jet from one crisis-stricken region to another. No conflict area is too dangerous for you, no story too controversial. Ordinary people need to be kept abreast of the dark machinations of the elite—and who better to enlighten them than you?<br>When you hear rumors that an entire island was kept secret from the public for many years, you start digging: an occupying force that mysteriously vanished, and confidential experiments conducted high up in the mountains?<br>You have to scale the peaks and see for yourself. If the rumors prove true, this could be the greatest story of your career—and your Pulitzer is in the bag."
+    },
+    {
+      "key": "BTN_SELECTCHARACTER",
+      "value": "Choose"
+    },
+    {
+      "key": "SCAR_CRITENERGY_EXPLANATION",
+      "value": "You're struggling to keep going..."
+    },
+    {
+      "key": "SCAR_CRITBODYTEMP_EXPLANATION",
+      "value": "The cold is really getting to you..."
+    },
+    {
+      "key": "SCAR_CRITOXYGEN_EXPLANATION",
+      "value": "The lack of oxygen is making you dizzy..."
+    },
+    {
+      "key": "SCAR_CRITSANITY_EXPLANATION",
+      "value": "You're starting to see things..."
+    },
+    {
+      "key": "SKILL_LEVEL_0",
+      "value": "I"
+    },
+    {
+      "key": "SKILL_LEVEL_1",
+      "value": "II"
+    },
+    {
+      "key": "SKILL_LEVEL_2",
+      "value": "III"
+    },
+    {
+      "key": "STAT_ENERGY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_energy\">Energy</style></style><br><style=\"description\"><style=\"energy\">Energy</style> is used when climbing.<br>Steep passages cost more Energy.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_sanity\">Sanity</style></style><br><style=\"description\"><style=\"sanity\">Sanity</style> decreases slowly, but steadily<br>as a result of the mental stress that comes with the climb.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_oxygen\">Oxygen</style></style><br><style=\"description\"><style=\"oxygen\">Oxygen</style> is used especially quickly in the Death Zone high up on the mountain.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">Body Temperature</style></style><br><style=\"description\"><style=\"bodytemp\">Body Temperature</style> is used up at night and in cold, snowy, or stormy weather.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_health\">Health</style></style><br><style=\"description\">When your <style=\"health\">Health</style> hits zero, your journey is over!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_exp\">Experience</style></style><br><style=\"description\">You gain <style=\"exp\">Experience</style> as an outcome from events and encounters.</style>"
+    },
+    {
+      "key": "STAT_TIME_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_time\">Time</style></style><br><style=\"description\">When you are busy in events or climbing, time<br>passes and your stats update respectively.</style>"
+    },
+    {
+      "key": "UNLOCKS_SKILLTREE",
+      "value": "Unlocks Specialization"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_FULL",
+      "value": "This stat is already full"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_EMPTY",
+      "value": "This stat is already empty."
+    },
+    {
+      "key": "CHARACTER_STAR_HOVER",
+      "value": "You have completed the ascent on the following difficulties:"
+    },
+    {
+      "key": "LOCKED_DIFFICULTY_EXPLANATION",
+      "value": "To unlock this difficulty level,<br>you need to complete the ascent with this character<br>on <b>{0}</b> difficulty!"
+    },
+    {
+      "key": "SKILL_COSTS_CANNOT_AFFORD",
+      "value": "You cannot use this Skill because your {0} is too low"
+    },
+    {
+      "key": "ITEM_YOU_FULFILL",
+      "value": "You have"
+    },
+    {
+      "key": "ITEM_YOU_ARE_MISSING",
+      "value": "You are missing"
+    },
+    {
+      "key": "STAT_YOU_FULFILL",
+      "value": "You have enough"
+    },
+    {
+      "key": "STAT_YOU_ARE_MISSING",
+      "value": "You don't have enough"
+    },
+    {
+      "key": "TE_YOU_FULFILL",
+      "value": "You have the effect"
+    },
+    {
+      "key": "TE_YOU_ARE_MISSING",
+      "value": "You are missing the effect"
+    },
+    {
+      "key": "EVENT_STATICHOVER_EFFECTS",
+      "value": "Effects"
+    },
+    {
+      "key": "SKILL_TREE_LIST_EXPLANATION",
+      "value": "Skills and specializations are unlocked through Experience"
+    },
+    {
+      "key": "MAX_LEVEL_DESCRIPTION",
+      "value": "Maximum level reached"
+    },
+    {
+      "key": "CHARACTERSELECTION_ADVENTURER",
+      "value": "As a dyed-in-the-wool adventurer, you are always on the lookout for the next big challenge."
+    },
+    {
+      "key": "CHARACTERSELECTION_SCIENTIST",
+      "value": "As an ambitious scientist, you walk the fine line between genius and insanity."
+    },
+    {
+      "key": "CHARACTERSELECTION_JOURNALIST",
+      "value": "As an investigative journalist, you travel the world to expose major scandals."
+    },
+    {
+      "key": "MOUNTAIN1_ADVENTURER_DESCRIPTION",
+      "value": "Scale the first summit. But remember, you won't have bested the mountain until you are safely back at base camp. Until then, the mountain owns you."
+    },
+    {
+      "key": "MOUNTAIN2_ADVENTURER_DESCRIPTION",
+      "value": "The second summit awaits you. You must conquer the mountain—and your inner self."
+    },
+    {
+      "key": "MOUNTAIN3_ADVENTURER_DESCRIPTION",
+      "value": "If you want to see your name in the history books, you will need to scale the third summit. Will you be immortalized in the annals of mountaineering?"
+    },
+    {
+      "key": "MOUNTAIN1_SCIENTIST_DESCRIPTION",
+      "value": "Scale the first summit and find proof of a source of electromagnetic power."
+    },
+    {
+      "key": "MOUNTAIN2_SCIENTIST_DESCRIPTION",
+      "value": "Initial readings didn't deliver the breakthrough you had hoped for. You will need to scale the second summit to take more readings."
+    },
+    {
+      "key": "MOUNTAIN3_SCIENTIST_DESCRIPTION",
+      "value": "The radiation is growing stronger. Scale the final summit to prove to the world that you are a brilliant researcher."
+    },
+    {
+      "key": "MOUNTAIN1_JOURNALIST_DESCRIPTION",
+      "value": "Climb the first mountain and find out whether the rumors about the experiments are true."
+    },
+    {
+      "key": "MOUNTAIN2_JOURNALIST_DESCRIPTION",
+      "value": "You can sense that you're about to crack the story wide open. Scale the second summit to learn more."
+    },
+    {
+      "key": "MOUNTAIN3_JOURNALIST_DESCRIPTION",
+      "value": "Just one more climb. The Pulitzer Prize for investigative journalism is within your grasp."
+    },
+    {
+      "key": "LOCKED",
+      "value": "Not yet unlocked"
+    },
+    {
+      "key": "CLIMB_OTHER_MOUNTAINS_FIRST",
+      "value": "You have to climb the other mountains first."
+    },
+    {
+      "key": "CHOSE_MOUNTAINEER_TITLE",
+      "value": "Choose your mountaineer"
+    },
+    {
+      "key": "CHOSE_ROUTE_TITLE",
+      "value": "Choose your route"
+    },
+    {
+      "key": "HINT_1",
+      "value": "You can optimize your climbing routes with your equipment and Skills."
+    },
+    {
+      "key": "HINT_2",
+      "value": "You lose significantly more Energy when climbing big height differences in comparison to normal steps."
+    },
+    {
+      "key": "HINT_3",
+      "value": "Once a stat other than health reaches 0, it isn't Game Over immediately. However, you will face dangerous situations!"
+    },
+    {
+      "key": "HINT_4",
+      "value": "Active Skills can prove useful in tricky situations!"
+    },
+    {
+      "key": "HINT_5",
+      "value": "Weather affects not only your stat changes, but also visibility. Keep an eye on the weather display at the bottom left!"
+    },
+    {
+      "key": "SCARS",
+      "value": "Scars"
+    },
+    {
+      "key": "BTN_SORT_BY_TREE",
+      "value": "Sort by Group"
+    },
+    {
+      "key": "BTN_SORT_BY_DATE",
+      "value": "Sort by Order"
+    },
+    {
+      "key": "NO_SKILL_UNLOCKED_YET",
+      "value": "You haven't unlocked any Skills yet.<br>By obtaining Experience, you can level up and choose from new Skills!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_LOCKED",
+      "value": "You cannot change the difficulty during your run!"
+    },
+    {
+      "key": "QUALITY_VERY LOW",
+      "value": "Very low"
+    },
+    {
+      "key": "QUALITY_LOW",
+      "value": "Low"
+    },
+    {
+      "key": "QUALITY_MEDIUM",
+      "value": "Medium"
+    },
+    {
+      "key": "QUALITY_HIGH",
+      "value": "High"
+    },
+    {
+      "key": "QUALITY_VERY HIGH",
+      "value": "Very high"
+    },
+    {
+      "key": "QUALITY_ULTRA",
+      "value": "Ultra"
+    },
+    {
+      "key": "OPTIONS_FPS",
+      "value": "Max. frames per second"
+    },
+    {
+      "key": "OPTIONS_BRIGHTNESS",
+      "value": "Brightness"
+    },
+    {
+      "key": "FPS_UNCAPPED",
+      "value": "unlimited"
+    },
+    {
+      "key": "FPS_30",
+      "value": "30"
+    },
+    {
+      "key": "FPS_60",
+      "value": "60"
+    },
+    {
+      "key": "OPTIONS_DIFFICULTY",
+      "value": "Difficulty"
+    },
+    {
+      "key": "OPTIONS_MASTERVOLUME",
+      "value": "Master Volume"
+    },
+    {
+      "key": "OPTIONS_BGM",
+      "value": "Music"
+    },
+    {
+      "key": "OPTIONS_SFX",
+      "value": "Sounds"
+    },
+    {
+      "key": "OPTIONS_FULLSCREEN",
+      "value": "Fullscreen"
+    },
+    {
+      "key": "OPTIONS_RESOLUTION",
+      "value": "Resolution"
+    },
+    {
+      "key": "OPTIONS_QUALITY",
+      "value": "Quality"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_TITLE",
+      "value": "Unlocked Difficulty"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_DESCRIPTION",
+      "value": "Congratulations!<br>You unlocked the difficulty <b>{1}</b> for the {0}!"
+    },
+    {
+      "key": "VIP_DISCORD_TEXT",
+      "value": "VIP Status for unlocking all difficulties!"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_DIFFICULTYHASNOREVIVES",
+      "value": "<style=description_forbidden>There are no revive points on this difficulty!</style>"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_SPENTALLREVIVES",
+      "value": "<style=description_forbidden>You have no revive points left!</style>"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL",
+      "value": "Normal"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_FLAVOR",
+      "value": "Can you make it to the top?"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_DESCRIPTION",
+      "value": "Lower difficulty.<br>Challenging, but doable.<br><br><i>Recommended for beginners.</i>"
+    },
+    {
+      "key": "DIFFICULTY_HARD",
+      "value": "Difficult"
+    },
+    {
+      "key": "DIFFICULTY_HARD_FLAVOR",
+      "value": "A bigger challenge"
+    },
+    {
+      "key": "DIFFICULTY_HARD_DESCRIPTION",
+      "value": "Increased difficulty.<br>Your resources deplete faster<br>and the mountain's environment and weather is deadlier.<br><br><i>Recommended for experienced mountaineers.</i>"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE",
+      "value": "Insurmountable"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_FLAVOR",
+      "value": "Death always climbs with you"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_DESCRIPTION",
+      "value": "Extreme difficulty.<br>Moving and climbing is even more expensive<br>and the mountain's terrain, weather and Death Zone effects are devastating.<br><br><i>Recommended for fearless extreme mountaineers<br>with nerves of steel.</i>"
+    },
+    {
+      "key": "DIFFICULTY_LOCKED_HOVER",
+      "value": ""
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_TITLE",
+      "value": "Choose your Difficulty!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_TITLE",
+      "value": "Confirm Difficulty"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_DESCRIPTION",
+      "value": "Warning!<br>This choice cannot be changed for your run.<br>Are you sure?"
+    },
+    {
+      "key": "CHANGEABLE_KEYBINDINGS",
+      "value": "(The keybinding can be changed via the Options Screen.)"
+    },
+    {
+      "key": "PAGE",
+      "value": "Page"
+    },
+    {
+      "key": "TUTORIAL_1_TITLE",
+      "value": "Camera Control"
+    },
+    {
+      "key": "TUTORIAL_1_DESCRIPTION",
+      "value": "Hold the <b>V*</b> key and move the mouse to look around.<br><br>Move the mouse while holding the <b>middle mouse button*</b> to rotate the camera.<br>Zoom in or out by scrolling with the mouse wheel."
+    },
+    {
+      "key": "TUTORIAL_2_TITLE",
+      "value": "Movement"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION",
+      "value": "In order to successfully complete a mountain, you have to navigate your character along the tiles to the marked goal. Time will not pass and your stats will not change until your character moves."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION1",
+      "value": "<b>Left-click*</b> a valid tile to add a checkpoint to which the character should move. You can add more Checkpoints by clicking on other valid tiles.<br>Click on the final checkpoint again to start moving."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION2",
+      "value": "<b>Right-click*</b> to stop the character or to remove the final checkpoint."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION3",
+      "value": "Alternatively, you can press the Move button to move or stop your character.<br>You can also use the Speed button to make your character walk faster. This effect does not impact your stats in the game."
+    },
+    {
+      "key": "TUTORIAL_3_TITLE",
+      "value": "Terrain Types"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION",
+      "value": "There are 3 different types of terrain: rock, snow, and ice. Each type consists of a basic standard terrain and additional terrain subtypes. The cost of moving on any type of terrain depends on your character's equipment and Skills. Terrain subtypes can involve additional costs or may trigger dangerous events."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_STONE",
+      "value": "<b>ROCK</b> – standard terrain – no special properties<br><br><b>RUBBLE</b> – sub-terrain, can trigger dangerous Events<br><br><b>GRASS</b> – sub-terrain – no special properties."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_SNOW",
+      "value": "<b>SNOW</b> – standard terrain – no special properties<br><br><b>SNOWDRIFTS</b> – terrain subtype, can trigger dangerous Events<br><br><b>DEEP SNOW</b> – terrain subtype – requires higher Energy cost."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_ICE",
+      "value": "<b>ICE</b> – standard terrain – no special properties<br><br><b>GLACIER</b> – terrain subtype, can trigger dangerous Events<br><br><b>ICE LABYRINTH</b> – terrain subtype – requires higher Time and Body Temperature cost."
+    },
+    {
+      "key": "TUTORIAL_4_TITLE",
+      "value": "Events"
+    },
+    {
+      "key": "TUTORIAL_4_DESCRIPTION",
+      "value": "There are various types of events that can occur on the mountain.<br>If you step on a field with such a marker, an event gets triggered."
+    },
+    {
+      "key": "TUTORIAL_5_TITLE",
+      "value": "Stats"
+    },
+    {
+      "key": "TUTORIAL_6_TITLE",
+      "value": "Critical Status"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION1",
+      "value": "When a stat (other than Health) reaches 0, your status is critical."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION2",
+      "value": "Your path preview turns red once any of your stats reaches critical level."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION3",
+      "value": "If you continue to move in this condition, you will face dangerous critical events. Careful—if your Health reaches 0, your run is over!"
+    },
+    {
+      "key": "TUTORIAL_7_TITLE",
+      "value": "Leveling Up"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION1",
+      "value": "Once your Experience reaches a certain threshold, you can level up your character."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION2",
+      "value": "You can choose from a selection of Skills with each level up. Some Skills are time-limited or require specific conditions to be active."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION3",
+      "value": "The Skills window on the top right provides a comprehensive list of your chosen skills. Active effects of your Skills are displayed in the Effects bar in the center at the top of the screen."
+    },
+    {
+      "key": "TUTORIAL_8_TITLE",
+      "value": "Weather"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION",
+      "value": "The weather can change every morning. You can see the current weather and the forecast for the next day at the lower left of the screen. There are 3 different types of weather."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_CLEAR",
+      "value": "<b>CLEAR WEATHER</b> – friendly weather with no negative Effects for your character. Just enjoy your climb."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_COLD",
+      "value": "<b>COLD WEATHER</b> – has a negative impact on your Body Temperature, especially at night. Try equipping some warm clothing."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_STORM",
+      "value": "<b>STORMY WEATHER</b> – has a negative impact on your Energy and Time costs and reduces your visual range."
+    },
+    {
+      "key": "TUTORIAL_9_TITLE",
+      "value": "Events"
+    },
+    {
+      "key": "TUTORIAL_9_DESCRIPTION",
+      "value": "Events challenge you to make difficult choices with various outcomes.<br>Careful—when time passes in an event, you might gain or lose stats like body temperature based on the conditions on the mountain!"
+    },
+    {
+      "key": "TUTORIAL_10_TITLE",
+      "value": "Sleep"
+    },
+    {
+      "key": "TUTORIAL_10_DESCRIPTION",
+      "value": "Sleeping is a good way to restore Energy.<br>There are three ways to do this: You can look for a cave symbol on the map and make camp there. You can use a tent from your inventory (each tent can be used up to three times). You can also sleep without a tent; this has a negative effect on your stats, so it should only be a last resort."
+    },
+    {
+      "key": "SCORE_XP",
+      "value": "Points for Experience gained"
+    },
+    {
+      "key": "SCORE_MOUNTAINS",
+      "value": "Points for mountains climbed"
+    },
+    {
+      "key": "SCORE_NOCRIT",
+      "value": "Bonus for avoiding critical state"
+    },
+    {
+      "key": "SCORE_CONSUMABLES",
+      "value": "Points for collected Items"
+    },
+    {
+      "key": "SCORE_EQUIPMENT",
+      "value": "Points for collected Equipment"
+    },
+    {
+      "key": "SCORE_TIME",
+      "value": "Time Bonus"
+    },
+    {
+      "key": "GENERIC_KEYBINDING_HINT",
+      "value": "(Keybinding: <b>{0}</b>)"
+    },
+    {
+      "key": "TAKEEVERYTHINGFROMLEFTOVERS",
+      "value": "Take all"
+    },
+    {
+      "key": "LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "Reset"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM",
+      "value": "This item has been unlocked.<br>You can equip or pack it for {0}."
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM_UNAFFORDEABLE",
+      "value": "<color=red>You need at least {0}<br>to pack or equip this item.</color>"
+    },
+    {
+      "key": "HOVER_LOADOUT_WITHDRAWN_ITEM",
+      "value": "This item will be packed for {0}."
+    },
+    {
+      "key": "BTN_LEAVE_EVERYTHING_TITLE",
+      "value": "Reset"
+    },
+    {
+      "key": "HOVER_BTN_LEAVE_EVERYTHING",
+      "value": "Removes items and equipment from your inventory to free up inventory capacity."
+    },
+    {
+      "key": "BTN_SHOW_MISSION_TITLE",
+      "value": "Show Mission"
+    },
+    {
+      "key": "HOVER_BTN_SHOW_MISSION",
+      "value": "Shows an overview of your current mission<br>as you have selected it."
+    },
+    {
+      "key": "BTN_TAKE_EVERYTHING_TITLE",
+      "value": "Take all"
+    },
+    {
+      "key": "HOVER_BTN_TAKE_EVERYTHING",
+      "value": "Moves as many objects as possible from the leftovers to the inventory."
+    },
+    {
+      "key": "MISSION_GOAL_UNKNOWN",
+      "value": "Unknown Goal"
+    },
+    {
+      "key": "MISSION_TARGET_HUD_GOALS_TITLE",
+      "value": "Mission Goals:"
+    },
+    {
+      "key": "HOVER_BTN_ACTIVE_SKILL",
+      "value": "{0}<br>Click to use the skill, or press {1}"
+    },
+    {
+      "key": "HOVER_BTN_SLEEP",
+      "value": "Opens the Sleep Screen."
+    },
+    {
+      "key": "HOVER_BTN_INVENTORY",
+      "value": "Opens the Inventory."
+    },
+    {
+      "key": "HOVER_BTN_WALK",
+      "value": "Starts the player movement. <br>Walk along the selected path."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_WALK",
+      "value": "Stops the player movement <b>at the next Hextile</b>."
+    },
+    {
+      "key": "HOVER_BTN_SPEED",
+      "value": "Timelapse"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_TOGGLE",
+      "value": "Toggles the speed in which the player moves. <br>Only flavor - has no effects on time- or energy costs on the mountain."
+    },
+    {
+      "key": "HOVER_BTN_SKILLTREE",
+      "value": "Shows your selected skills."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU_TITLE",
+      "value": "Pause"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU",
+      "value": "Pauses the game and shows options."
+    },
+    {
+      "key": "TUTORIAL_CLOSE_HINT",
+      "value": "You can open the Tutorial again at any time via the Pause Menu."
+    },
+    {
+      "key": "HINT",
+      "value": "Hint"
+    },
+    {
+      "key": "HINT_SELECT_CONFIRM",
+      "value": "You choose and confirm your selection with {0} or {1}."
+    },
+    {
+      "key": "HINT_DECLINE_CANCEL",
+      "value": "You cancel your choice with {0} or {1}."
+    },
+    {
+      "key": "HINT_CAMERA",
+      "value": "You rotate the camera with {0} or {1} and the movement of your mouse."
+    },
+    {
+      "key": "Alpha0",
+      "value": "0"
+    },
+    {
+      "key": "Alpha1",
+      "value": "1"
+    },
+    {
+      "key": "Alpha2",
+      "value": "2"
+    },
+    {
+      "key": "Alpha3",
+      "value": "3"
+    },
+    {
+      "key": "Alpha4",
+      "value": "4"
+    },
+    {
+      "key": "Alpha5",
+      "value": "5"
+    },
+    {
+      "key": "Alpha6",
+      "value": "6"
+    },
+    {
+      "key": "Alpha7",
+      "value": "7"
+    },
+    {
+      "key": "Alpha8",
+      "value": "8"
+    },
+    {
+      "key": "Alpha9",
+      "value": "9"
+    },
+    {
+      "key": "Mouse0",
+      "value": "Left Mouse Button"
+    },
+    {
+      "key": "Mouse1",
+      "value": "Right Mouse Button"
+    },
+    {
+      "key": "Mouse2",
+      "value": "Middle Mouse Button"
+    },
+    {
+      "key": "Space",
+      "value": "Space"
+    },
+    {
+      "key": "Up Arrow",
+      "value": "Arrow Up"
+    },
+    {
+      "key": "Down Arrow",
+      "value": "Arrow Down"
+    },
+    {
+      "key": "Left Arrow",
+      "value": "Arrow Left"
+    },
+    {
+      "key": "Right Arrow",
+      "value": "Arrow Right"
+    },
+    {
+      "key": "KEYBINDING_PROMPT",
+      "value": "<Press Any Button>"
+    },
+    {
+      "key": "KEYBINDINGS_TITLE",
+      "value": "Keybindings"
+    },
+    {
+      "key": "KEYBINDING_DUPLICATE_ERROR",
+      "value": "This keybinding is already being used!"
+    },
+    {
+      "key": "ABILITY_ACTIVE",
+      "value": "Active Skill"
+    },
+    {
+      "key": "ABILITY_PASSIVE",
+      "value": "Passive Skill"
+    },
+    {
+      "key": "ABILITY_TRIGGERED",
+      "value": "Triggered Skill"
+    },
+    {
+      "key": "ABILITY_CONDITIONAL",
+      "value": "Conditional Skill"
+    },
+    {
+      "key": "ABILITY_HOURS",
+      "value": "hour(s)"
+    },
+    {
+      "key": "ABILITY_COOLDOWN",
+      "value": "Cooldown"
+    },
+    {
+      "key": "ABILITY_DURATION",
+      "value": "Duration"
+    },
+    {
+      "key": "ABILITY_DURATION_ACTIVE",
+      "value": "Remaining Time Active:"
+    },
+    {
+      "key": "ABILITY_DURATION_FORXHOURS",
+      "value": "for {0} hour(s)"
+    },
+    {
+      "key": "SPECIALIZATION_TITLE",
+      "value": "Choose Your Strategy!"
+    },
+    {
+      "key": "SELECT1",
+      "value": "Confirm / Chose (1)"
+    },
+    {
+      "key": "SELECT2",
+      "value": "Confirm / Chose (2)"
+    },
+    {
+      "key": "CANCELPATH1",
+      "value": "Cancel Path (1)"
+    },
+    {
+      "key": "CANCELPATH2",
+      "value": "Cancel Path (2)"
+    },
+    {
+      "key": "ROTATECAM1",
+      "value": "Rotate Camera (1)"
+    },
+    {
+      "key": "ROTATECAM2",
+      "value": "Rotate Camera (2)"
+    },
+    {
+      "key": "MOVE",
+      "value": "Move"
+    },
+    {
+      "key": "STOPMOVE",
+      "value": "Stop Moving"
+    },
+    {
+      "key": "TOGGLEINVENTORY",
+      "value": "Open / Close Inventory"
+    },
+    {
+      "key": "TOGGLEHELPSCREEN",
+      "value": "Open / Close Help"
+    },
+    {
+      "key": "TOGGLESKILLSCREEN",
+      "value": "Open / Close Skill Overview"
+    },
+    {
+      "key": "TOGGLEPAUSEMENU",
+      "value": "Open / Close Pause Menu"
+    },
+    {
+      "key": "CANCEL",
+      "value": "Cancel"
+    },
+    {
+      "key": "LEVELUP",
+      "value": "Confirm Level up"
+    },
+    {
+      "key": "TOGGLETIMELAPSE",
+      "value": "Toggle Timelapse"
+    },
+    {
+      "key": "TOGGLESLEEPSCREEN",
+      "value": "Open / Close Sleep Screen"
+    },
+    {
+      "key": "RESTORE_DEFAULTS",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_PROS",
+      "value": "Strong at climbing fast, direct routes to the summit"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_CONS",
+      "value": "Taking the direct path might make you miss out on events and experience"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_PROS",
+      "value": "Strong at getting the most out of events"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_CONS",
+      "value": "No bonuses outside of events"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_PROS",
+      "value": "Strong Energy efficiency on flat terrain allows to explore the mountain thoroughly"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_CONS",
+      "value": "Exploring the mountain for too long threatens your Sanity"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_PROS",
+      "value": "Strong at using the terrain to your advantage"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_CONS",
+      "value": "All bonuses are dependent on terrain"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_PROS",
+      "value": "Exceptional bonuses when climbing during the night"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_CONS",
+      "value": "No bonuses during the day, and the night is still dangerous"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_PROS",
+      "value": "Strong at getting the most out of your consumable items"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_CONS",
+      "value": "All bonuses are dependent on finding consumable items"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_TITLE",
+      "value": "Triumph!"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_DESCRIPTION",
+      "value": "Congratulations!<br> You have completed the ascent on the highest difficulty as the {0}!"
+    },
+    {
+      "key": "AFFECTEDBY",
+      "value": "Affected by"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION4",
+      "value": "You will choose up to 3 specializations (out of {0}). New specializations are unlocked at level {1}, {2} and {3}."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION5",
+      "value": "The specializations you choose will determine which Skills you can select."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION6",
+      "value": "Some Skills do not belong to any specialization and can be selected independently."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_TITLE",
+      "value": "Inventory & Items"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION1",
+      "value": "You can access your inventory by pressing the button on the screen or using the corresponding hotkey. You can only access your inventory when your character is standing still.<br><br>Certain items are consumed when they are used, and other items can be equipped to your character and remain active when equipped."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION2",
+      "value": "Right-click items with the mouse to use them.<br><br>Click and hold the left mouse button to drag and drop items into other slots.<br><br>When you find an item, you have to put it into your inventory, or you will lose it when you close your inventory."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION3",
+      "value": "Some items can be used multiple times, as indicated by the usage bar on the item.<br>If an item cannot currently be used, it is displayed in a darker color.<br><br>You can view more information about an item by hovering your mouse over the item; this will display a preview of the item's effects."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION4",
+      "value": "To use equipment, drag it to the corresponding slot in the Equipment section. From there, you can also move it back into your inventory. An item will provide passive effects and bonuses for as long as it is equipped."
+    },
+    {
+      "key": "PICKNEWSPECIALIZATION",
+      "value": "At level {1}, {2} and {3} you can choose a new specialization."
+    },
+    {
+      "key": "GENERICSKILLINFO",
+      "value": "This Skill does not belong to any specialization."
+    },
+    {
+      "key": "BASICVALUES_NAME",
+      "value": "Basic Values"
+    },
+    {
+      "key": "CLICK_TO_PICK_A_MODIFIER",
+      "value": "Click to choose a route"
+    },
+    {
+      "key": "PICK_A_MODIFIER",
+      "value": "Choose a route"
+    },
+    {
+      "key": "MISSION_DEFAULT_MODIFIERS_TITLE",
+      "value": "Environment"
+    },
+    {
+      "key": "REWARD_DISPLAY_NOT_RECEIVED_HOVER",
+      "value": "You have not received this reward."
+    },
+    {
+      "key": "MISSION_FINISH_UI_ADDITIONAL_REWARDS",
+      "value": "Additional Rewards"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OBJECTIVES",
+      "value": "Objectives"
+    },
+    {
+      "key": "MISSION_FINISH_UI_DETAILS",
+      "value": "Details"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OVERVIEW",
+      "value": "Overview"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED",
+      "value": "Not yet unlocked.<br>The following summit must be reached as the {1}<br>to unlock this Skill:<br>{0}"
+    },
+    {
+      "key": "EXPLANATION_EVENT_GAIN_NEGATED_BY_TES",
+      "value": "No impact due to your current Skills and effects"
+    },
+    {
+      "key": "SKILL_COSTS",
+      "value": "Cost:"
+    },
+    {
+      "key": "SKILL_EFFECTS",
+      "value": "Effects:"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION",
+      "value": "Congratulations!<br>You have unlocked new Skills for the {0}:<br>{1}"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION_TITLE",
+      "value": "Skill unlocked!"
+    },
+    {
+      "key": "WINDOW_BLOCKED_DURING_WALKING",
+      "value": "This window is locked while moving."
+    },
+    {
+      "key": "OPTION_BLOCKED_DURING_WALKING",
+      "value": "This option is locked while moving."
+    },
+    {
+      "key": "TOGGLEHUDVISIBLE",
+      "value": "Toggle HUD"
+    },
+    {
+      "key": "PAUSEWALK_ACTIVATED_HOVER_HINT",
+      "value": "Active – the character will stop at the next tile."
+    },
+    {
+      "key": "LESS_THAN_ONE_MINUTE",
+      "value": "less than one minute"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_TITLE",
+      "value": "Toggle Camera"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_DESCRIPTION",
+      "value": "Locks the camera on/off the target."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION",
+      "value": "The Basic Values are influenced by the selected difficulty"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_NORMAL",
+      "value": "The Basic Values are influenced by the selected difficulty (Normal)"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_HARD",
+      "value": "The Basic Values are influenced by the selected difficulty (Difficult)"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_INSURMOUNTABLE",
+      "value": "The Basic Values are influenced by the selected difficulty (Insurmountable)"
+    },
+    {
+      "key": "EMPTY",
+      "value": ""
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TITLE",
+      "value": "Update"
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TEXT",
+      "value": "Your current ascent was created in version {0} and is not compatible with version {1} of Insurmountable.<br>If you start a new ascent in this version, your old save will be overwritten.<br>Your unlocked difficulties will not be lost."
+    },
+    {
+      "key": "FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "OPTIONS_AMBIENT",
+      "value": "Ambient"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TITLE",
+      "value": "New Game"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TEXT",
+      "value": "This will overwrite your current Savefile. Proceed anyways?"
+    },
+    {
+      "key": "INVALID_SAVEGAME_TEXT",
+      "value": "Error – your current savegame cannot be loaded.<br>If you start a new ascent in this version, the invalid save will be overwritten.<br>Your unlocked difficulties will not be lost."
+    },
+    {
+      "key": "HINT_6",
+      "value": "You can hide the UI with a keyboard shortcut (default hotkey: H)"
+    },
+    {
+      "key": "HINT_7",
+      "value": "You can sleep at any time, even without a tent. However, tents and caves protect you better from the cold."
+    },
+    {
+      "key": "HINT_8",
+      "value": "When selecting a character, you can choose 1–3 Skills. You can unlock additional Skills by making it to the summit of a mountain."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M1SUMMIT",
+      "value": "Not yet unlocked.<br>To choose this Skill you must reach the summit of the first mountain as the {0}."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M2SUMMIT",
+      "value": "Not yet unlocked.<br>To choose this Skill you must reach the summit of the second mountain as the {0}."
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_GAINED",
+      "value": "activated"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_LOST",
+      "value": "expired"
+    },
+    {
+      "key": "PRODFICIENCY_CURRENT_LEVEL_TITLE",
+      "value": "Current Level:"
+    },
+    {
+      "key": "PROFICIENCY_MAX_LEVEL_TITLE",
+      "value": "(You have already reached the max level.)"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_APPENDIX",
+      "value": "until the next level"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_GAINEDSOFAR",
+      "value": "(Total XP gained: {0})"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_SUMMARY",
+      "value": "gained XP for"
+    },
+    {
+      "key": "PROFICIENCY_MISSION_REWARD_TITLE",
+      "value": "Mission Reward"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER_REWARD_TITLE",
+      "value": "Character Reward"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_REWARDS_APPENDIX",
+      "value": "from mission rewards"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_CHARACTERREWARDS_APPENDIX",
+      "value": "from character rewards"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FOR_TRACKABLES",
+      "value": "for"
+    },
+    {
+      "key": "SUMMARIZE_ITEMS_HOVER_TITLE",
+      "value": "Unlocked Items:"
+    },
+    {
+      "key": "DEACTIVATE_TUTORIALS",
+      "value": "Deactivate Tutorials"
+    },
+    {
+      "key": "FREELOOK",
+      "value": "Look around"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TITLE",
+      "value": "Warning"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TEXT",
+      "value": "Your current savefile could not be loaded. It has been renamed and you will have to start a new run. Please contact the Devs on our Discord server to send them the corrupt file and the log."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_TEXT",
+      "value": "Your progression and its backup could not be loaded. This should not happen unless the Saving/Loading process was interrupted or you modified the files. It has been renamed and your progression was reset for now. Please contact the Devs on our Discord server to send them the corrupt file and the log."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_OK_BACKUP_TEXT",
+      "value": "Your progression file could not be loaded and has been renamed. A backup was loaded for now."
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_OK_BACKUP_TEXT",
+      "value": "Your current savefile could not be loaded. It has been renamed and a backup was restored."
+    },
+    {
+      "key": "UI_RESET",
+      "value": "Reset"
+    },
+    {
+      "key": "UI_MISSION",
+      "value": "Missions"
+    },
+    {
+      "key": "UI_UPGRADES",
+      "value": "Upgrades"
+    },
+    {
+      "key": "UI_UPGRADES_UNASSIGNED",
+      "value": "You can assign upgrades!"
+    },
+    {
+      "key": "MIND_BODY_PREPARATION",
+      "value": "Mental & Physical Preparation"
+    },
+    {
+      "key": "MOUNTAIN_KNOWLEDGE",
+      "value": "Mountain Knowledge"
+    },
+    {
+      "key": "UI_UNLOCKED_SMALL",
+      "value": "Unlocked"
+    },
+    {
+      "key": "UI_NEW_SMALL",
+      "value": "New"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_TITLE",
+      "value": "Start unprepared"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_DESCRIPTION",
+      "value": "You have unused item capacity.<br>Are you sure you want to start this mission with an incomplete inventory?"
+    },
+    {
+      "key": "UI_INVENTORYLOADOUT_TITLE",
+      "value": "Take items"
+    },
+    {
+      "key": "UI_UPGRADE_COST",
+      "value": "Cost:"
+    },
+    {
+      "key": "UI_CHAPTER_LOCKED",
+      "value": "This chapter is locked."
+    },
+    {
+      "key": "UI_CHAPTER_NEW",
+      "value": "New!"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED_BUT_NEVER_ATTEMPTED",
+      "value": "This chapter is unlocked, but you have not attempted it."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_BUT_NEVER_SUCCESSFULLY",
+      "value": "Not finished yet."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_SUCCESSFULLY",
+      "value": "Chapter finished!"
+    },
+    {
+      "key": "UI_CHAPTER_BEATENBY",
+      "value": "Beaten by"
+    },
+    {
+      "key": "UI_CHAPTERSELECTION_LABEL",
+      "value": "Chapters"
+    },
+    {
+      "key": "METAGAME_PROLOGUE_TEXT",
+      "value": "RemoveThis"
+    },
+    {
+      "key": "NPC_GENERAL_DAUGHTER_NAME",
+      "value": "Stranger"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_PROFICIENCY_TITLE",
+      "value": "Proficiency"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_PROFICIENCY",
+      "value": "Progress"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_REWARDS",
+      "value": "Next reward"
+    },
+    {
+      "key": "UI_DIALOGUE_NEXT",
+      "value": "Continue"
+    },
+    {
+      "key": "UI_DIALOGUE_DONE",
+      "value": "Done"
+    },
+    {
+      "key": "UI_MISSION_UNLOCKED",
+      "value": "Mission unlocked"
+    },
+    {
+      "key": "UI_REGION_MISSIONS_UNLOCKED",
+      "value": "Side missions unlocked for"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED",
+      "value": "Region unlocked"
+    },
+    {
+      "key": "UI_ITEM_UNLOCKED",
+      "value": "Item unlocked"
+    },
+    {
+      "key": "OPTIONS_VSYNC",
+      "value": "VSync count"
+    },
+    {
+      "key": "HOVER_CHARLOCKED",
+      "value": "This character is not yet unlocked.<br>You can unlock them on a side mission."
+    },
+    {
+      "key": "HOVER_CHARDEAD",
+      "value": "This character is suffering from Time Loop sickness due to their failure on the mountain.<br>They can be revived in the Character Menu."
+    },
+    {
+      "key": "HOVER_CHARAVAILABLE",
+      "value": "This character has been unlocked and can be selected."
+    },
+    {
+      "key": "UNKNOWN_CHAR",
+      "value": "Unknown character"
+    },
+    {
+      "key": "HOVER_CHARACTIVE",
+      "value": "Currently selected"
+    },
+    {
+      "key": "DEAD_TITLE",
+      "value": "Time Loop sickness"
+    },
+    {
+      "key": "DEAD_TEXT",
+      "value": "{0} is suffering from Time Loop sickness due to their failure on the Mountain. To play more missions with them, you need to revive them in the Character Menu."
+    },
+    {
+      "key": "DEAD_TEXT_DIFFICULTYHASNOREVIVES",
+      "value": "{0} is irreversibly weakened due to Time Loop sickness.<br>They are no longer able to reach any summits...<br>All hope rests with their comrades."
+    },
+    {
+      "key": "REVIVE_TITLE",
+      "value": "Revive"
+    },
+    {
+      "key": "REVIVE_TEXT",
+      "value": "Use {0} of {1} revive points for {2}?"
+    },
+    {
+      "key": "OPTIONS_VSYNC_OFF",
+      "value": "Off"
+    },
+    {
+      "key": "GAMEOVER_TITLE",
+      "value": "Game Over"
+    },
+    {
+      "key": "GAMEOVER_TEXT",
+      "value": "All Characters have died!"
+    },
+    {
+      "key": "GAMEOVER_STARTOVER",
+      "value": "Start over"
+    },
+    {
+      "key": "PAUSE_MENU_GIVEUP",
+      "value": "Give up"
+    },
+    {
+      "key": "GIVEUP_TITLE",
+      "value": "Give up"
+    },
+    {
+      "key": "GIVEUP_TEXT",
+      "value": "Are you sure you want to give up? This will result in the death of your character."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_TITLE",
+      "value": "Revive Points"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_DESCRIPTION",
+      "value": "Used to revive characters who cannot start missions due to Time Loop sickness."
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES",
+      "value": "Team Upgrades"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_ACTIONREQUIRED",
+      "value": "Team Upgrade points can be assigned"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_NEW",
+      "value": "New Upgrades available"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS",
+      "value": "Characters"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_ACTIONREQUIRED",
+      "value": "Characters can be upgraded"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_NEW",
+      "value": "New Character available"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS",
+      "value": "Missions"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_ACTIONREQUIRED",
+      "value": "Mission selection required"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_NEW",
+      "value": "New mission available"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY",
+      "value": "Inventory"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_ACTIONREQUIRED",
+      "value": "Items can be added"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_NEW",
+      "value": "New Items available"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY",
+      "value": "Proficiency"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_ACTIONREQUIRED",
+      "value": "//NOT USED YET?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_NEW",
+      "value": "//NOT USED YET?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS",
+      "value": "Resources"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_ACTIONREQUIRED",
+      "value": "Action required"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_NEW",
+      "value": "New resources available"
+    },
+    {
+      "key": "MISSION_GOAL_TRACK",
+      "value": "Find and reach:"
+    },
+    {
+      "key": "TRACK_TILE_DEFAULT",
+      "value": "Artifact"
+    },
+    {
+      "key": "MISSION_WEATHER",
+      "value": "Weather:"
+    },
+    {
+      "key": "SKILL_TRACKING",
+      "value": "Use Tracking Device"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_NAME",
+      "value": "Using Tracking Device"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_DESCRIPTION",
+      "value": "Adjust the Camera and use the pings to find your goal"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_BUTTON",
+      "value": "Toggles the speed at which the player moves.<br>Has no effects on Time or Energy costs on the mountain."
+    },
+    {
+      "key": "CONDITION_IS_UNDER",
+      "value": "is over"
+    },
+    {
+      "key": "CONDITION_IS_OVER",
+      "value": "is under"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_TITLE",
+      "value": "Team Upgrades"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_DESCRIPTION",
+      "value": "Upgrades that affect all Mountaineers"
+    },
+    {
+      "key": "HOURS_SHORT",
+      "value": "hr(s)"
+    },
+    {
+      "key": "SKILLDURATION_UNTIL_END_OF_MISSION",
+      "value": "Active until the end of this mission"
+    },
+    {
+      "key": "SKILLDURATION_TEMPORARY",
+      "value": "Limited-time effect – active for {0} hours"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_UNDER",
+      "value": "Only active while {0} is below {1}"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_OVER",
+      "value": "Only active while {0} is above {1}"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_TITLE",
+      "value": "Tracking Device"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_DESCRIPTION",
+      "value": "Some missions require you to use your tracking device to find your next goal. You can activate/deactivate it on your Skill bar located in the lower right of the screen.<br><br>You can then move your camera to find your goal. The closer your goal is to the center of the screen, the stronger the signal will be.<br>Remember to look up or down to get a more precise location."
+    },
+    {
+      "key": "MISSION_DIFFICULTY_EXPLANATION",
+      "value": "<style=\"header\">Mission Difficulty</style><br><br>The number of stars shows the general difficulty of this mission.<br>"
+    },
+    {
+      "key": "HINT_9",
+      "value": "You can also set the camera to rotate around its own axis to give you a better overview of tight spaces. (Default key: R)"
+    },
+    {
+      "key": "HINT_10",
+      "value": "If your status becomes critical, your path will turn red – every step you take from that point on is at your own peril!"
+    },
+    {
+      "key": "HINT_11",
+      "value": "If your Health hits 0, your character collapses and your journey comes to an end."
+    },
+    {
+      "key": "HINT_12",
+      "value": "The weather can change every morning. Keep an eye on your weather display!"
+    },
+    {
+      "key": "HINT_13",
+      "value": "During stormy weather, you consume more energy and need more time for actions."
+    },
+    {
+      "key": "HINT_14",
+      "value": "Cold weather has a negative impact on your Body Temperature, particularly at night."
+    },
+    {
+      "key": "HINT_15",
+      "value": "The sub-terrains 'rubble,' 'glacier,' and 'snowdrift' can trigger perilous events."
+    },
+    {
+      "key": "HINT_16",
+      "value": "The sub-terrains 'deep snow' and 'ice labyrinth' increase the cost of some of your stats."
+    },
+    {
+      "key": "HINT_17",
+      "value": "Each tile consists of one of the 3 terrain types: rock, snow, or ice. Each type of terrain contains other sub-terrains with dangerous traits."
+    },
+    {
+      "key": "HINT_18",
+      "value": "Hovering your mouse over the items in your inventory will display a preview of their effects."
+    },
+    {
+      "key": "HINT_19",
+      "value": "Remember to use your tracking device while searching for anomalies. (Default key T)"
+    },
+    {
+      "key": "HINT_20",
+      "value": "You can abort a mission by returning to the starting point."
+    },
+    {
+      "key": "SKIP_CUTSCENE",
+      "value": "Skip"
+    },
+    {
+      "key": "SCORE_MAINMISSIONS",
+      "value": "Main Missions"
+    },
+    {
+      "key": "SCORE_SIDEMISSIONS",
+      "value": "Side Missions"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ADVENTURER",
+      "value": "Proficiency as Adventurer"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_SCIENTIST",
+      "value": "Proficiency as Scientist"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_JOURNALIST",
+      "value": "Proficiency as Journalist"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ITEM",
+      "value": "Item Proficiency"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ENVIRONMENT",
+      "value": "Environment Proficiency"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_TERRAIN",
+      "value": "Terrain Proficiency"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_EVENT",
+      "value": "Event Proficiency"
+    },
+    {
+      "key": "SCORE_DEATHS",
+      "value": "Penalty for deaths"
+    },
+    {
+      "key": "RUN_WIN_TITLE",
+      "value": "Game completed!"
+    },
+    {
+      "key": "RUN_WIN_CONTINUE",
+      "value": "Main Menu"
+    },
+    {
+      "key": "RUN_WIN_SCORE",
+      "value": "Score:"
+    },
+    {
+      "key": "STATVALUETYPE_CANUSETRACKING",
+      "value": "A stationary device used to track anomalies, active until next movement"
+    },
+    {
+      "key": "TRACKING_WRONG_DIRECTION",
+      "value": "No signal from this direction"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_CHARACTER",
+      "value": "Character Proficiency"
+    },
+    {
+      "key": "INPUT_SELECT",
+      "value": "Confirm / Choose"
+    },
+    {
+      "key": "INPUT_CANCELPATH",
+      "value": "Cancel Path"
+    },
+    {
+      "key": "INPUT_TOGGLEFREELOOK",
+      "value": "Look around"
+    },
+    {
+      "key": "INPUT_ROTATECAM",
+      "value": "Rotate Camera"
+    },
+    {
+      "key": "INPUT_FREELOOKCAM",
+      "value": "Look around"
+    },
+    {
+      "key": "INPUT_STARTMOVE",
+      "value": "Move"
+    },
+    {
+      "key": "INPUT_STOPMOVE",
+      "value": "Stop Moving"
+    },
+    {
+      "key": "INPUT_TOGGLEINVENTORY",
+      "value": "Open / Close Inventory"
+    },
+    {
+      "key": "INPUT_TOGGLESKILLSCREEN",
+      "value": "Open / Close Skill Overview"
+    },
+    {
+      "key": "INPUT_TOGGLEPAUSEMENU",
+      "value": "Open / Close Pause Menu"
+    },
+    {
+      "key": "INPUT_CANCEL",
+      "value": "Cancel"
+    },
+    {
+      "key": "INPUT_LEVELUP",
+      "value": "Confirm Level up"
+    },
+    {
+      "key": "INPUT_CHANGETIMELAPSE",
+      "value": "Toggle Timelapse"
+    },
+    {
+      "key": "INPUT_TOGGLESLEEPSCREEN",
+      "value": "Open / Close Sleep Screen"
+    },
+    {
+      "key": "INPUT_TOGGLEHUDVISIBLE",
+      "value": "Toggle HUD"
+    },
+    {
+      "key": "INPUT_TAKEEVERYTHINGFROMLEFTOVER",
+      "value": "Take all"
+    },
+    {
+      "key": "INPUT_SHOWCURRENTMISSION",
+      "value": "Show current mission"
+    },
+    {
+      "key": "INPUT_LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "Reset"
+    },
+    {
+      "key": "INPUT_ZOOM",
+      "value": "Zoom in/out"
+    },
+    {
+      "key": "MISSIONSKILL",
+      "value": "Use Tracking Device"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL1",
+      "value": "Active Skill (Slot 1)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL2",
+      "value": "Active Skill (Slot 2)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL3",
+      "value": "Active Skill (Slot 3)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL4",
+      "value": "Active Skill (Slot 4)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL5",
+      "value": "Active Skill (Slot 5)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL6",
+      "value": "Active Skill (Slot 6)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL7",
+      "value": "Active Skill (Slot 7)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL8",
+      "value": "Active Skill (Slot 8)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL9",
+      "value": "Active Skill (Slot 9)"
+    },
+    {
+      "key": "INPUT_MISSIONSKILL",
+      "value": "Use Tracking Device"
+    },
+    {
+      "key": "INPUT_ACTIONMENU",
+      "value": "Open Action Menu"
+    },
+    {
+      "key": "CONTROLSCHEME_KEYPAD",
+      "value": "Keyboard & Mouse"
+    },
+    {
+      "key": "CONTROLSCHEME_GAMEPAD",
+      "value": "Gamepad"
+    },
+    {
+      "key": "INPUT_ZOOM_IN",
+      "value": "Zoom in"
+    },
+    {
+      "key": "INPUT_ZOOM_OUT",
+      "value": "Zoom out"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE0",
+      "value": "To UI navigation mode (up)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE1",
+      "value": "To UI navigation mode (left)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE2",
+      "value": "To UI navigation mode (right)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE3",
+      "value": "To UI navigation mode (down)"
+    },
+    {
+      "key": "INPUT_NAVIGATE",
+      "value": "Navigate"
+    },
+    {
+      "key": "INPUT_UP",
+      "value": "Navigate up"
+    },
+    {
+      "key": "INPUT_DOWN",
+      "value": "Navigate down"
+    },
+    {
+      "key": "INPUT_LEFT",
+      "value": "Navigate to the left"
+    },
+    {
+      "key": "INPUT_RIGHT",
+      "value": "Navigate to the right"
+    },
+    {
+      "key": "INPUT_MOVECURSOR",
+      "value": "Move hextile cursor"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL",
+      "value": "Scroll"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_UP",
+      "value": "Scroll Up"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_DOWN",
+      "value": "Scroll Down"
+    },
+    {
+      "key": "INPUT_RIGHT_STICK_PRESS",
+      "value": "Press Right Stick"
+    },
+    {
+      "key": "INPUT_LEFT_STICK_PRESS",
+      "value": "Press Left Stick"
+    },
+    {
+      "key": "INPUT_RIGHTCLICK",
+      "value": "Use / equip / move item / Toggle checkbox"
+    },
+    {
+      "key": "INPUT_SUBMIT",
+      "value": "Confirm"
+    },
+    {
+      "key": "INPUT_CLICK",
+      "value": "Choose"
+    },
+    {
+      "key": "INPUT_PROMPT_ADDCHECKPOINT",
+      "value": "Add Checkpoint"
+    },
+    {
+      "key": "INPUT_PROMPT_SKIPEVENTTEXTANIMATION",
+      "value": "Skip animation"
+    },
+    {
+      "key": "INPUT_PROMPT_CLOSE",
+      "value": "Close"
+    },
+    {
+      "key": "INPUT_PROMPT_USEITEM",
+      "value": "Use Item"
+    },
+    {
+      "key": "INPUT_PROMPT_TAKEITEM",
+      "value": "Take Item"
+    },
+    {
+      "key": "INPUT_PROMPT_DROPITEM",
+      "value": "Drop Item"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPITEM",
+      "value": "Swap Item"
+    },
+    {
+      "key": "INPUT_PROMPT_EQUIPITEM",
+      "value": "Equip Item"
+    },
+    {
+      "key": "INPUT_PROMPT_UNEQUIPITEM",
+      "value": "Unequip Item"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPEQUIPMENT",
+      "value": "Swap equipment"
+    },
+    {
+      "key": "INPUT_PROMPT_ENTERHUDMODE",
+      "value": "View Status Details"
+    },
+    {
+      "key": "INPUT_PROMPT_EXITHUDMODE",
+      "value": "Hide Status Details"
+    },
+    {
+      "key": "INPUT_PROMPT_NAVIGATEHUDMODE",
+      "value": "Navigate Status Details"
+    },
+    {
+      "key": "INPUT_PROMPT_CREATEPATH",
+      "value": "Start Path"
+    },
+    {
+      "key": "CONFIRM_UNLOCK",
+      "value": "Unlock"
+    },
+    {
+      "key": "CONFIRM_UNLOCK_DESCRIPTION",
+      "value": "Do you want to unlock {0}?"
+    },
+    {
+      "key": "CONFIRM_UPGRADE",
+      "value": "Upgrade"
+    },
+    {
+      "key": "CONFIRM_UPGRADE_DESCRIPTION",
+      "value": "Do you want to upgrade {0}?"
+    },
+    {
+      "key": "CONFIRM_RESET",
+      "value": "Reset"
+    },
+    {
+      "key": "CONFIRM_RESET_DESCRIPTION",
+      "value": "Do you want to reset upgrades for {0}?"
+    },
+    {
+      "key": "STINGER_1_1",
+      "value": "You are in the station. A young girl is standing in front of you with a teddy bear in her arms. Her mouth agape, she points at you. No, not at you, but at the glowing red amulet on the rock on the other side of the crack."
+    },
+    {
+      "key": "STINGER_1_2",
+      "value": "You quickly lean into the crack, which is getting narrower and narrower. Just as you are about to grab the amulet, you are forcefully thrown back into the station. <br>You are dazed and can only watch as the crack closes for good. Then your vision turns black..."
+    },
+    {
+      "key": "STINGER_2_1",
+      "value": "You are in the station. A young girl is standing in front of you with a teddy bear in her arms. Her mouth agape, she points at you. No, not at you, but at the glowing red amulet on the rock on the other side of the crack."
+    },
+    {
+      "key": "STINGER_2_2",
+      "value": "You quickly lean into the crack, which is getting narrower and narrower. Just as you are about to grab the amulet, you are forcefully thrown back into the station. <br>You are dazed and can only watch as the crack closes for good. Then your vision turns black..."
+    },
+    {
+      "key": "STINGER_3_1",
+      "value": "You are in the station. A young girl is standing in front of you with a teddy bear in her arms. Her mouth agape, she points at you. No, not at you, but at the glowing red amulet on the rock on the other side of the crack."
+    },
+    {
+      "key": "STINGER_3_2",
+      "value": "You quickly lean into the crack, which is getting narrower and narrower. Your fingers close around the stone as you are forcefully thrown back into the station. <br>You are overcome by dizziness, but you did it. Dazed, you allow the amulet to dangle between your fingers. Its glow is extinguished."
+    },
+    {
+      "key": "STINGER_3_3",
+      "value": "Cautiously, the girl approaches you and inspects the stone. Suddenly, she snatches the amulet from your hand and disappears behind a heavy iron door. You try to say something, to warn the girl, then your vision turns black..."
+    },
+    {
+      "key": "IGNORE_NIGHT",
+      "value": "This effect is ignored because you are sleeping in a shelter."
+    },
+    {
+      "key": "PRIVACYPOLICY",
+      "value": "Privacy Policy"
+    },
+    {
+      "key": "SKILL_DRONE_NAME",
+      "value": "<style=\"supportpack\">Command Drone</style>"
+    },
+    {
+      "key": "SKILL_DRONE_DESCRIPTION",
+      "value": "You send out your drone to look for a nearby cave. If it can't find any, it will blink red."
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_TITLE",
+      "value": "<style=\"supportpack\">Supporter Pack Activated</style>"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_DESCRIPTION",
+      "value": "The Supporter Pack has been activated!<br>Thank you so much for supporting the development of Insurmountable. <br>Start a new game or continue an existing run to get access to your rewards!"
+    },
+    {
+      "key": "SUPPORTERPACK_NOTIFICATION_DRONE_NOPOIFOUND",
+      "value": "No cave found!"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED",
+      "value": "Event text speed"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_SLOW",
+      "value": "Slow"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_NORMAL",
+      "value": "Normal"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_FAST",
+      "value": "Fast"
+    },
+    {
+      "key": "UNIT_METERS",
+      "value": "m"
+    },
+    {
+      "key": "UNIT_MINUTES",
+      "value": "m"
+    },
+    {
+      "key": "UNIT_HOURS",
+      "value": "h"
+    },
+    {
+      "key": "UNIT_DAYS",
+      "value": "d"
+    },
+    {
+      "key": "JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "RUSSIAN",
+      "value": "Русский"
+    },
+    {
+      "key": "CHINESESIMPLIFIED",
+      "value": "简体中文"
+    },
+    {
+      "key": "CHINESETRADITIONAL",
+      "value": "繁體中文"
+    },
+    {
+      "key": "DISCORD_JOINUS",
+      "value": "Join us!"
+    },
+    {
+      "key": "LOGGING_IN_GENERIC",
+      "value": "Logging in..."
+    },
+    {
+      "key": "LOGGING_IN_EPIC",
+      "value": "Please Log in to Authenticate"
+    }
+  ]
+}

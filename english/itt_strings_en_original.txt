@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "Tent"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "Moon Herb"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "Torch"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Climbing Gloves"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "Oxygen Bottle"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Fire Charm"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "Heavy Boots"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "Fur Gloves"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "Hot Tea"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "Snow Boots"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Thunder Charm"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "Hiking Staff"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "Canned Food"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Stone Charm"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Wind Charm"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "Climbing Axe"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "Crampons"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">Weather Rocket</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "Changes the current weather to \"clear\"."
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "Charm"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "Gloves"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "Boots"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "Tools"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "Fur Gloves"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "Increased Body Temperature gain while moving and searching"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Trial of the Earth"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "Weather: Stormy"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "Weather: Cold"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Trial of the Wind"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "Night"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "Snow Boots"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "Weather: Clear"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "Friendly weather. No effects."
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "Climbing Axe"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "Crampons"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "Hiking Staff"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Climbing Gloves"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "Weather: Snow"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "Heavy Boots"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Trial of Thunder"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "Sprained Ankle"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "Paranoia"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "Summit Fever"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "Decreased Energy Cost when moving"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "Preserve your Breath"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "Decreased Effect of the Death Zone"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "(Decreased Energy Cost for a short time)"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "(Decreased Oxygen Loss for a longer time)"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "On the Edge"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "Prevent critical events for 6 hours"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "Eagle Eye"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "Increased Camera zoom until next movement"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "Leap"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "Jump over a gap or tile"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "Can't jump there!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "Too close!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "Can't jump that high!"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "Single-Minded"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "Ignore negative effects of weather and terrain"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "Smash Rock"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "Destroy an obstacle within 1 tile"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "Destroy an obstacle within 2 tiles"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "Nothing to destroy..."
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "Can't reach it!"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "Always Prepared"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "Canned food and oxygen bottles are more effective"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "Canned food and oxygen bottles are even more effective"
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "Climber"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "Reduced Energy cost on steep terrain (2+ Elevation)"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "Reduced Energy cost on steep terrain (2+ Elevation)"
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "Determination"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "Gain Health when waking up"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "Gain more Health when waking up"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "Early Sleeper"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "Gain Energy when waking up"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "Gain more Energy when waking up"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "On the Edge"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "Gain Sanity whenever you reach a point of interest"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "Power Through"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "Lose 50 Oxygen, gain 20 Energy"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "Ice Mastery"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "Reduced Energy cost on ice"
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "Ice Speed"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "Reduced Time cost on ice"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "Significantly reduced Time cost on ice"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "Night Climber"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "Reduced Body Temperature loss at night"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "Significantly reduced Body Temperature loss at night"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "One with the Stars"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "Reduced Energy cost of all climbing at night"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "Significantly reduced Energy cost of all climbing at night"
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "Rationality"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "Increased maximum Sanity"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "Significantly increased maximum Sanity"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "Robust Mind"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "Reduced Sanity loss in Events"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "Significantly reduced Sanity loss in Events"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "Driven to the Limit"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "Lose 10 Sanity, gain 20 Energy, 20 Body Temperature and 20 Oxygen"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "Enthusiasm"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "Gain Energy whenever you reach a point of interest"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "Gain more Energy whenever you reach a point of interest"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "Fast Pace"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "Reduced time cost for movement"
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "Quickness"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "Reduced Time cost in Events"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "Significantly reduced Time cost in Events"
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "Open-Minded"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "Gain Sanity in Events"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "Gain more Sanity in Events"
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "Wanderer"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "Reduced Time cost on flat terrain (0-1 Elevation)"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "Significantly reduced Time cost on flat terrain (0-1 Elevation)"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "Deep Breaths"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "Increased maximum Oxygen"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "Significantly increased maximum Oxygen"
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "Energetic"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "Increased maximum Energy"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "Significantly increased maximum Energy"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "Morning Routine"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "Gain Oxygen when waking up"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "Gain more Oxygen when waking up"
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "Purpose"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "Reduced Energy loss in Events"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "Significantly reduced Energy loss in Events"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "Snow Mastery"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "Reduced Energy cost on snow"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "Snow Speed"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "Reduced Time cost on snow"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "Significantly reduced Time cost on snow"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "Comfort of Home"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "Gain Sanity whenever you use a consumable item"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "Gain more Sanity whenever you use a consumable item"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "Herbology"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "Tea and herbs are more effective"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "Tea and herbs are even more effective"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "Meditation"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "Gain a special Meditation Event"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "One with the Cold"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "Gain Sanity when moving in cold weather"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "Gain more Sanity when moving in cold weather"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "One with the Mountain"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "Gain Sanity on ice, Oxygen on snow, and Body Temperature on stone"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "Gain more Sanity on ice, more Oxygen on snow, and more Body Temperature on stone"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "One with the Storm"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "Gain Oxygen when moving in stormy weather"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "Gain more Oxygen when moving in stormy weather"
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "Inner Fire"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "Gain more Body Temperature per hour when moving"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "Gain even more Body Temperature per hour when moving"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "Stone Mastery"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "Reduced Energy cost on stone"
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "Stone Speed"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "Reduced Time cost on stone"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "Significantly reduced Time cost on stone"
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "Strong Body"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "Increased maximum Health"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "Significantly increased maximum Health"
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "Thick Skin"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "Reduced Health loss in Events"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "Significantly reduced Health loss in Events"
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "Warm Heart"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "Increased maximum Body Temperature"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "Significantly increased maximum Body Temperature"
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "Adventurer"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "Cold as Ice"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "Explorer"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "Heart of Snow"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "Spiritual"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "Strength of Stone"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "Always Prepared"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "Canned food and oxygen bottles are more effective"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "Always Prepared"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "Canned food and oxygen bottles are even more effective"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "Climber"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "Lower Energy cost on steep terrain (2+ Elevation)"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "Climber"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "Lower Energy cost on steep terrain (2+ Elevation)"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "Determination"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "Gain Health when waking up"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "Determination"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "Gain Health when waking up"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "Early Sleeper"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "Gain Energy when waking up"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "Early Sleeper"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "Gain Energy when waking up"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "On the Edge"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "Gain Sanity whenever you reach a point of interest"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "On the Edge"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "Gain Sanity whenever you reach a point of interest"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "Ice Master"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "Reduced Energy cost on ice"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "Ice Speed"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "Reduced Time cost on ice"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "Ice Speed"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "Reduced Time cost on ice"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "Moonstruck"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "Reduced Body Temperature loss at night"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "Moonstruck"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "Reduced Body Temperature loss at night"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "One with the Stars"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "Reduced Energy cost of all climbing at night"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "One with the Stars"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "Reduced Energy cost of all climbing at night"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "Rationality"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "Increased maximum Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "Rationality"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "Increased maximum Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "Robust Mind"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "Reduced Sanity loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "Robust Mind"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "Reduced Sanity loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "On The Edge"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "Ignore critical events"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "Eagle Eye"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "Increased Camera Zoom"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "Enthusiasm"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "Gain Energy whenever you reach a point of interest"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "Enthusiasm"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "Gain Energy whenever you reach a point of interest"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "Fast Pace"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "Reduced Time cost for movement"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "Quickness"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "Reduced Time cost in Events"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "Quickness"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "Reduced Time cost in Events"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "Open-Minded"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "Gain Sanity in Events"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "Open-Minded"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "Gain Sanity in Events"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "Wanderer"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "Reduced Time cost on flat terrain (0-1 Elevation)"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "Wanderer"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "Reduced Time cost on flat terrain (0-1 Elevation)"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "Comfort of Home"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "Gain Sanity whenever you use a consumable item"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "Comfort of Home"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "Gain Sanity whenever you use a consumable item"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "Herbology"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "Tea and herbs are more effective"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "Herbology"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "Tea and herbs are more effective"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "One with the Cold"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "Gain additional Sanity when moving in cold weather"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "One with the Cold"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "Gain additional Sanity when moving in cold weather"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "One with the Mountain"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "Gain additional Sanity on ice, Oxygen on snow, and Body Temperature on stone"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "One with the Mountain"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "Gain additional Sanity on ice, Oxygen on snow, and Body Temperature on stone"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "One with the Storm"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "Gain additional Oxygen when moving in stormy weather"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "One with the Storm"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "Gain additional Oxygen when moving in stormy weather"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "Single-Minded"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "Ignore negative environment and terrain effects"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "Deep Breaths"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "Increased maximum Oxygen"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "Deep Breaths"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "Increased maximum Oxygen"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "Energetic"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "Increased maximum Energy"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "Energetic"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "Increased maximum Energy"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "Morning Routine"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "Gain Oxygen when waking up"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "Morning Routine"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "Gain Oxygen when waking up"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "Purpose"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "Reduced Energy loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "Purpose"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "Reduced Energy loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "Snow Master"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "Reduced Energy cost on snow"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "Snow Speed"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "Reduced Time cost on snow"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "Snow Speed"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "Reduced Time cost on snow"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "Inner Fire"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "Gain additional Body Temperature when moving"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "Inner Fire"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "Gain additional Body Temperature when moving"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "Stone Master"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "Reduced Energy cost on stone"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "Stone Speed"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "Reduced Time cost on stone"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "Stone Speed"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "Reduced Time cost on stone"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "Strong Body"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "Increased maximum Health"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "Strong Body"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "Increased maximum Health"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "Thick Skin"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "Reduced Health loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "Thick Skin"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "Reduced Health loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "Warm Heart"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "Increased maximum Body Temperature"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "Warm Heart"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "Increased maximum Body Temperature"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "Sleep (cave)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "You sleep in a cave.<br>Reduced Body Temperature loss, increased Energy gain."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "Sleep (outside)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "You sleep outside without a tent.<br>Increased Body Temperature loss, reduced Energy gain."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "Sleep (tent)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "You sleep in a tent.<br>Reduced Body Temperature loss, increased Energy gain."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "Blizzard"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "The weather on this route is merciless.<br>Increased effect of cold weather."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "Cold Nights"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "The nights on this route are colder than usual.<br>Increased Body Temperature loss at night."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "Eerie Surroundings"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "Shadows and noises follow you on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "Rough Terrain"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "The terrain on this route is very challenging."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "Severe Storms"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "There are heavy storms on this route.<br>Effects of storms are increased."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "Thin Air"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "Breathing is harder on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "Firm Snow"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "Snowy terrain provides better grip on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "Stable Ice"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "Icy terrain provides better grip on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "Sturdy Rock"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "Stony terrain provides better grip on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "Thick Air"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "The air on this route is fresh and clear."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "Unusual Phenomena"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "This route holds many discoveries."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "Warm Nights"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "The nights on this route are warmer than usual."
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "Frozen Toes"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "Your toes are frozen"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "Damaged Ankle"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "Your ankles are injured"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "Altitude Sickness"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "You are suffering from altitude sickness"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "Nightmares"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "You are suffering from nightmares"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "Exhausted"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "You are suffering from exhaustion"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "Frostbitten"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "The biting cold on the mountains is getting to you"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "Warm Rest"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "You sleep while sheltered from the cold"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "Environment"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "Temporary effects that are caused by time and location on the mountain.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "Equipment"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "Effects from equipped items.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "Scars"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "Lingering effects from the strain of the former mountains.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "Temporary Buffs"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "Temporary positive effects.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "Temprary Debuffs"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "Temporary negative effects.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "Traits"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "Effects that you gained from leveling up.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "Deep Snow"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "Increased Energy cost for movement"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "Glacier"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "Danger – Unpredictable things could happen..."
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "Ice Labyrinth"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "Increased Time cost and additional Body Temperature loss when moving"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "Rubble"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "Danger – Unpredictable things could happen..."
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "Snowdrift"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "Danger – Unpredictable things could happen..."
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "Volcanic Rock"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "Increased Oxygen loss and Body Temperature gain when moving"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "Injured Hand"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "Increased Energy cost on steep terrain (2+ Elevation)"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "Injured Head"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "Reduced Experience gain"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "Reduced Time cost, increased Energy cost and additional Body Temperature gain when moving"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "Reduced Time cost, increased Energy cost and additional Body Temperature gain when moving"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "Injured Torso"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "It hurts to breathe"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "Injured Leg"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "Increased Energy cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "Snow Blind"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "Increased Time cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "Heavy Blizzard"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "The weather on this route is merciless."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "Very Cold Nights"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "The nights on this route are colder than usual."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "Very Eerie Surroundings"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "Shadows and noises follow you on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "Very Rough Terrain"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "This route is hard to overcome."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "Very Severe Storms"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "There are heavy storms on this route."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "Very Thin Air"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "Breathing is harder on this route."
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "{0} Energy cost on flat terrain"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "{0} Energy cost when climbing (1 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "{0} Energy cost when climbing (2 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "{0} Energy cost when climbing (3 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "{0} Energy cost when climbing (4 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "{0} Energy cost when climbing (5 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "{0} Energy cost when climbing (6 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "{0} Energy cost on all terrain"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "{0} Energy cost on all terrain"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "{0} Energy cost on stone"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "{0} Energy cost on snow"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "{0} Energy cost on ice"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "{0} Energy cost on flat terrain"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "{0} Time cost when climbing (1 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "{0} Time cost when climbing (2 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "{0} Time cost when climbing (3 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "{0} Time cost when climbing (4 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "{0} Time cost when climbing (5 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "{0} Time cost when climbing (6 height difference)"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "{0} Time cost on all terrain"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "{0} Time cost on all terrain"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "{0} Time cost on stone"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "{0} Time cost on snow"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "{0} Time cost on ice"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "{0} Energy per hour when resting"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "{0} Energy per hour when resting"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "{0} Sanity per hour when moving"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "{0} Sanity per hour when moving"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "{0} Sanity per hour when moving on stone"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "{0} Sanity per hour when moving on stone"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "{0} Sanity per hour when moving on snow"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "{0} Sanity per hour when moving on snow"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "{0} Sanity per hour when moving on ice"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "{0} Sanity per hour when moving on ice"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "{0} Sanity per hour when resting / in events"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "{0} Sanity per hour when resting / in events"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "{0} Body Temperature per hour when moving"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "{0} Body Temperature per hour when moving"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "{0} Body Temperature per hour when moving on stone"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "{0} Body Temperature per hour when moving on stone"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "{0} Body Temperature per hour when moving on snow"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "{0} Body Temperature per hour when moving on snow"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "{0} Body Temperature per hour when moving on ice"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "{0} Body Temperature per hour when moving on ice"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "{0} Body Temperature per hour when resting / in events"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "{0} Body Temperature per hour when resting / in events"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "{0} Oxygen per hour when moving"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "{0} Oxygen per hour when moving"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "{0} Oxygen per hour when moving on stone"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "{0} Oxygen per hour when moving on stone"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "{0} Oxygen per hour when moving on snow"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "{0} Oxygen per hour when moving on snow"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "{0} Oxygen per hour when moving on ice"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "{0} Oxygen per hour when moving on ice"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "{0} Oxygen change per hour when resting / in events"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "{0} Oxygen change per hour when resting / in events"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "{0} maximum camera distance"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "{0} Energy gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "{0} Energy loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "{0} Energy gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "{0} Energy loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "{0} Body Temperature gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "{0} Body Temperature loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "{0} Body Temperature gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "{0} Body Temperature loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "{0} Oxygen gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "{0} Oxygen loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "{0} Oxygen gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "{0} Oxygen loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "{0} Sanity gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "{0} Sanity loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "{0} Sanity gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "{0} Sanity loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "{0} Health gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "{0} Health loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "{0} Health gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "{0} Health loss in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "{0} Experience gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "{0} Experience gain in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "{0} time change in events"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "{0} time change in events"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "{0} effectiveness of tea and herbs"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "{0} effectiveness of canned food and oxygen bottles"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "{0} maximum Health"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "{0} maximum Energy"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "{0} maximum Sanity"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "{0} maximum Body Temperature"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "{0} maximum Oxygen"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "{0} cooldown for all interruption events"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "{0} cooldown for critical events"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "{0} cooldown for terrain interruption events"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "Rappel"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "Rappel down to a lower tile"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "Can't rappel there!"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "Target tile needs to be below the current tile!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "Grapple"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "Quickly climb up to a higher tile"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "Can't grapple there!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "Target tile needs to be above the current tile!"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "(High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "(High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "(High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "High Quality"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "High Quality"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "High Quality"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "Insulated Boots"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "Warm Cap"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "Protective Helmet"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "Oxygen Mask"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "Headlamp"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "{0} improved light radius"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "Ice Axe"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "Flashlight"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "Only active during {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "Whenever you wake up, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "Whenever you reach a point of interest, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "Whenever you use a consumable item, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "gain {0} Energy"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "lose {0} Energy"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "gain {0} Body Temperature"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "lose {0} Body Temperature"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "gain {0} Oxygen"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "lose {0} Oxygen"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "gain {0} Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "lose {0} Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "gain {0} Health"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "lose {0} Health"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "gain {0} Experience"
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "Adrenaline"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "Whenever you suffer a dangerous terrain event, gain some Energy"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "Whenever you suffer a dangerous terrain event, gain more Energy"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "Thick Blood"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "Weakens the effect of the Death Zone"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "Further weakens the effect of the Death Zone"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "Acclimatized"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "Weakens the effect of cold weather"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "Further weakens the effect of cold weather"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "Perseverance"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "Weakens the effect of stormy weather"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "Further weakens the effect of stormy weather"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "Burning Ambition"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "Increased Body Temperature gain per hour"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "Significantly increased Body Temperature gain per hour"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "Strong Lungs"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "Increased Oxygen gain per hour"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "Significantly increased Oxygen gain per hour"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "Light Steps"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "Reduced Energy cost on flat terrain"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "Significantly reduced Energy cost on flat terrain"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "First Aid"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "Spend some time to heal your wounds"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "Refocus"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "Spend some time to regain some Sanity"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "Analysis"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "Spend some time to gain Experience"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "Warmup"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "Spend some Energy to increase Body Temperature"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "Breathing Exercise"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "Spend some Body Temperature to increase Oxygen"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "Reduced time cost and additional Body Temperature gain when moving"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "Master Climber"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "Reduced Energy cost on all terrain"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "Significantly reduced Energy cost on all terrain"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "One with the Ice"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "Gain some Sanity back while moving on ice"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "Gain more Sanity back while moving on ice"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "One with the Snow"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "Gain some Oxygen back while moving on snow"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "Gain more Oxygen back while moving on snow"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "One with the Stone"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "Gain some Body Temperature while moving on stone"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "Gain more Body Temperature while moving on stone"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "Alpine Style"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "Reduced time cost on all terrain"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "Significantly reduced time cost on all terrain"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "Efficiency"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "Reduced Energy loss in events"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "Significantly reduced Energy loss in events"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "Unstoppable"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "Whenever you suffer a critical event, regain a little Energy, Body Temperature, Oxygen and Sanity"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "Whenever you suffer a critical event, regain a little more Energy, Body Temperature, Oxygen and Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "Reduced time cost, increased Energy cost and additional Body Temperature gain when moving"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "Frozen Hands"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "Your hands are frozen"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "Muscle Fatigue"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "You whole body hurts when you move"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "Persistent Cough"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "You can't seem to stop coughing"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "Summit Fever"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "You are obsessed with reaching the summit at any cost"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "Doubt"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "You are beginning to wonder if all of this is a mistake"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "Hubris"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "You are starting to feel overconfident"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "Adrenaline"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "Whenever you suffer a dangerous terrain event, gain some Energy"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "Adrenaline"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "Whenever you suffer a dangerous terrain event, gain more Energy"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "Thick Blood"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "Weakens the effect of the Death Zone"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "Thick Blood"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "Further weakens the effect of the Death Zone"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "Acclimatized"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "Weakens the effect of cold weather"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "Acclimatized"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "Further weakens the effect of cold weather"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "Perseverance"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "Weakens the effect of stormy weather"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "Perseverance"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "Further weakens the effect of stormy weather"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "Burning Ambition"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "Increased Body Temperature gain per hour"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "Burning Ambition"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "Significantly increased Body Temperature gain per hour"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "Strong Lungs"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "Increased Oxygen gain per hour"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "Strong Lungs"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "Significantly increased Oxygen gain per hour"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "Light Steps"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "Reduced Energy cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "Light Steps"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "Significantly reduced Energy cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "Sprint"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "Reduced Time cost and additional Body Temperature gain when moving"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "Master Climber"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "Reduced Energy cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "Master Climber"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "Significantly reduced Energy cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "One with the Ice"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "Gain some Sanity back while moving on ice"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "One with the Ice"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "Gain more Sanity back while moving on ice"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "One with the Snow"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "Gain some Oxygen back while moving on snow"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "One with the Snow"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "Gain more Oxygen back while moving on snow"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "One with the Stone"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "Gain some Body Temperature while moving on stone"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "One with the Stone"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "Gain more Body Temperature while moving on stone"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "Alpine Style"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "Reduced Time cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "Alpine Style"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "Significantly reduced Time cost on all terrain"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "Efficiency"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "Reduced Energy loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "Efficiency"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "Significantly reduced Energy loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "Unstoppable"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "Whenever you suffer a critical event, regain a little Energy, Body Temperature, Oxygen and Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "Unstoppable"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "Whenever you suffer a critical event, regain a little more Energy, Body Temperature, Oxygen and Sanity"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "Head"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "Insulated Boots (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "Protective Helmet (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "Oxygen Mask (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "Headlamp (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "Warm Cap (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "Climbing Axe (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "Climbing Gloves (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "Fur Gloves (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "Hiking Staff (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "Crampons (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "Snow Boots (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "Heavy Boots (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "Ice Axe (High Quality)"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Trial of Fire"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "Courage"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "Whenever you suffer a dangerous terrain event, gain some Experience"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "Courage"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "Whenever you suffer a dangerous terrain event, gain some Experience"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "Careful Steps"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "Spend more Time when moving, but ignore dangerous terrain"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "Careful Steps"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "Spend more Time when moving, but ignore dangerous terrain"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "Night Owl"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "Gain more Experience in events during the night"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "Gain more Experience in events during the night"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "Night Owl"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "Gain more Experience in events during the night"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "Night Owl"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "Gain more Experience in events during the night"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "Steep Climber"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "Specialized in moving through steep terrain"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "Event Expert"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "More efficient in events"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "Flat Terrain Expert"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "Specialized in moving through flat terrain"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "Special Terrain Expert"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "Specialized in dangerous terrain"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "Night Climber"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "Specialized in night climbing"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "Consumables Expert"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "Specialized in utilizing consumables"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "General Skills"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "Helps in different situations"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "Whenever you suffer a dangerous terrain event, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "Whenever you suffer a critical event, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "Torch"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "Increased light radius"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "Lamp"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "Increased light radius"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "Lamp"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "Strongly increased light radius"
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "{0} light radius"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "Bandage"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "Neutral Skills"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "Can be selected independently from your specialization"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "Death Zone"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "You are in the Death Zone. You lose Oxygen when moving or resting, and in events."
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "Good Conscience"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "You feel good about yourself"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "Heroism"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "You feel like a hero"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "Whenever you level up, {0}"
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "Regeneration"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "Whenever you use a consumable item, you recover some Health"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "Regeneration"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "Thrill Seeker"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "Gain Sanity while you are in the Death Zone"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": "Thrill Seeker"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "Tinkerer"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "Use your ingenuity to create your own equipment."
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "Mad Genius"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "Spend Sanity to gain a temporary buff of your choice."
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "Mad Genius"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "Mad Genius"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "Mad Genius"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "Mad Genius"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "Investigative Journalism"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "Whenever you reach a point of interest, gain some Experience"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "Investigative Journalism"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Thirst for Knowledge"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "Gain some Energy, Body Temperature, Oxygen, Sanity and Health whenever you level up"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Thirst for Knowledge"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "Green Flare Pistol"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "Calls for a trader."
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "Red Flare Pistol"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "Calls for help."
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "Safety Rope"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "Ignores dangerous terrain for a limited time."
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "Climbing Rope"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "Reduces the Energy cost of climbing for a limited time."
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "Climbing Hooks"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "Reduces the Energy cost of climbing for a limited time."
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "Inspiration"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "Restores Energy and reduces the cooldown of all Skills currently on cooldown"
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "Reduces all active cooldowns by {0} {1}."
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "Terrain Knowledge"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "Helps you navigate terrain types"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Terrain Knowledge: Ice"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "Reduced Energy cost on Ice"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Terrain Knowledge: Snow"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "Reduced Energy cost on Snow"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Terrain Knowledge: Rock"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "Reduced Energy cost on Rock"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Terrain Knowledge: Dangers"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "Improves protection from events caused by dangerous terrain"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Terrain Knowledge: Ice"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "{0} reduced Energy cost on Ice"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Terrain Knowledge: Snow"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "{0} reduced Energy cost on Snow"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Terrain Knowledge: Rock"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "{0} reduced Energy cost on Rock"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Terrain Knowledge: Dangers"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "{0} improved protection from terrain interruption events"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "Environment Knowledge"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "Helps you face the mountain's dangers"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "Cold Weather Resistance"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "Reduced Body Temperature loss in cold weather"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Death Zone Resistance"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "Reduced Oxygen loss in the Death Zone"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "Night Resistance"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "Reduced Body Temperature loss at night"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "Storm Resistance"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "Reduced Energy cost effects in stormy weather"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "Cold Weather Resistance"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "{0} reduced Body Temperature loss in cold weather"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Death Zone Resistance"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "{0} reduced Oxygen loss in the Death Zone"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "Night Resistance"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "{0} reduced Body Temperature loss at night"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "Storm Resistance"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "{0} reduced Energy cost effects in stormy weather"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "Capacity"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "Determines how many items you can take along from the base"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "The Beginning"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "Wild mountain peaks tower into the heavens. <br>For many years, the island was cut off from the outside world. <br>But now, the time has come to explore the mountain range and fill in the blank spots on the map."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "Reach the summit and make history."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "Radiation"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "Unknown"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "There is supposedly an antenna high up on the summit that is amplifying the electromagnetic radiation. You need to find out what effect it has on the amulet."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "Another mountain is waiting for you to conquer it. However, you must complete enough side missions to unlock it first."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "Bring the amulet to the summit and then reach your goal."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "Unknown"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "Explosive Force"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "Unknown"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "You need to bring your charged amulet to the highest peak in the mountains <br>in order to destroy the time loop."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "Even the highest and mightiest mountain needs to be climbed. Meet all the requirements to unlock it."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "Reach the summit and escape the time loop."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "Unknown"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "Prologue"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "Chapter 1"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "Chapter 2"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "Chapter 3"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "Your eyes snap open. Where are you? What happened? You try to remember. There was that gate you walked through..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "Confused? Don't worry; that's normal if you're fully conscious when you go through the time loop. It must have something to do with the radiation.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "Time loop? Radiation? What is this person talking about? And who is she? Could you be hallucinating? You spot the glowing green amulet lying on the table in front of you. You're sure you've seen that stone before. Suddenly, it all comes flooding back. The silent young woman who rescued you when you nearly fell into a fissure. Why didn't she tell you all of this earlier?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "'Would you have believed me? Not at all, right? I needed you to come with me. It was important for you to see it with your own eyes... and to actually experience it for yourself. I know how insane this all seems, so first things first: We're in a time loop, and we're stuck on this island. But I have an idea of how we might be able to escape. I just need to perform some calculations first.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "'I've already thought of a way you can help. As soon as you feel recovered, you should go out and try to find some information for me. Getting out there will also help you improve your skills and become more experienced. Take my amulet. Not only is it our only hope of reversing the time loop; it will also transport you back to the station when time gets reset.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "'The first thing to do is explore the area and familiarize yourself with the stone's power. <br>I know I'm asking quite a lot, but there is no other way. You will have to trust me.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "Your head is pounding. You want to say something, but your powers of speech fail you. You just lie there, silent and motionless. The mysterious stranger scrutinizes you, a worried look on her face."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "'What's wrong with you? Oh... alright, I understand. You discovered something that your brain can't process. And then dying, fully conscious of the time loop... that takes its toll.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "I'm sorry I got you into this situation. You know... it took me years to understand all of this. The importance of the stone, in particular, remained a mystery to me for a long, long time. It's the key to this prison.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "And speaking of prison: You have to survive longer and make it to the calculated goal so the stone can absorb enough radiation. Please, you must persevere. I'm sure it will work next time.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "You lie there, your head pounding, barely capable of movement or speech. Even the mysterious stranger seems different somehow, her voice oddly distorted..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "Something's gone wrong, eh? Oh well, it happens. But please try again! The amulet has to absorb the radiation. The antenna on the summit will help it receive enough electromagnetic radiation. It's our only way out of this time loop.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "When you wake up, you immediately look toward the mysterious stranger. Her expression doesn't reveal whether your attempt to reverse the time loop was a success. Excitedly, you tell her about everything you saw, including the initials on the antenna. You want to know what it means."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "Can't you see? You've already been up there at least once. Probably multiple times. We've met each other many times, too. Out there, and here in the station. But you didn't believe me. It's only since you've had the amulet that your memory lasts past a single time loop. It allowed you to regain consciousness, and now you remember everything.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "Doubt gnaws at you. Wouldn't it be better to just forget? The pain and the fear of being trapped here forever... why didn't the stranger tell you everything right from the start? And what might she still be hiding from you?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "I know the situation we're in is no easy one. I wanted to give you time to get accustomed to it all. You know... it took me years to understand all of this. The importance of the stone, in particular, remained a mystery to me for a long, long time. It's the key to this prison.'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "Prison? You swallow hard. Does that mean you scaled the summit with the antenna for naught, and you're still stuck in the time loop?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "The stone is overheated, just as it should be. But it didn't break the time loop. Please give me time to think about this. In the meantime, you should probably go train some more. It's not over yet...'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "When you wake up, you immediately look toward the mysterious stranger. She wears a disappointed expression. Didn't it work? You try to stay calm; you tell her about how the stone changed and started glowing red."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "The stone is overheated, just as it should be. But it didn't break the time loop. Please give me time to think about this. In the meantime, you should probably go train some more. It's not over yet...'"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "We are so close to destabilizing the time loop. As long as there's still a single drop of blood flowing through your veins, you have to keep trying! Please!'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "One more thing: If you are carrying the stone with you and you happen to die out there, you will return to the station, but you'll be... changed. Your body will be unharmed, but your mind will be foggy, like you're in a sort of waking coma. I've started calling this affliction Time Loop sickness.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "There is a cure, but my supplies of it aren't endless. Once they're exhausted, there won't be much I can do for you. Your best bet is just to stay alive.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "One more thing: If you are carrying the stone with you and you happen to die out there, you will return to the station, but you'll be... changed. Your body will be unharmed, but your mind will be foggy, like you're in a sort of waking coma. I've started calling this affliction Time Loop sickness.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "There is a cure, but my supplies of it are close to running out. I can only restore you from this state one more time. Only one last time, understood?'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "One more thing: If you are carrying the stone with you and you happen to die out there, you will return to the station, but you'll be... changed. Your body will be unharmed, but your mind will be foggy, like you're in a sort of waking coma. I've started calling this affliction Time Loop sickness.'"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "There is a cure, but my supplies of it have completely run out. This is hardly a consolation, but it's not over yet. As long as one of you is left, we still have a chance...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "The mountain is merciless, isn't it? But please keep trying. I've been waiting so long for someone with your skills to finally arrive...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "I know what you are sacrificing to get both of us out of here. But your hard work is going to pay off. We're so close to finding a way out of this prison. You can't give up...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "Never give up. Do you hear me? Never! If there's one lesson I learned during all those solitary years in the station, it's that you must keep going.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "Welcome back! It seems like you died out there. Ah well, no matter. You can always try again.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "Oh no, you look awful. What happened? You don't have to talk about it if you do not want to. I'm sure you'll feel much better after a little rest.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "What happened? An accident? Did you freeze to death, or maybe suffocate? Must have been quite uncomfortable, eh? It might be helpful if you tried to come up with a different strategy.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "Well, they do say the mountain is <i>insurmountable</i>. But even for you?'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "Excellent, you've successfully completed your task. Was it really rough out there?'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "Well done. You're a fantastic mountaineer. If you keep making such good progress, we'll break out of the time loop for sure.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "You've got some impressive skills. And you get better and better with every mission you complete. Honestly, your arrival here has restored my confidence that we'll finally escape someday...'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "Bravo! Your alpine skills are most impressive. I wouldn't last a day out there.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "The way you brave the elements and don't let anything rattle you is just remarkable. You're good. Even better than I expected.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "I think you've understood what really matters up here: the willingness to learn and to adapt to new and unexpected situations.'"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "Oh, you made it back in one piece! It looks like we'll have to redefine the word <i>insurmountable</i> for you.'"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "Can you hear me? Are you even there? It's devastating what Time Loop sickness does to a person.'"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "But there's still a glimmer of hope. As long as one of you is still alive, we might make it out of the time loop...'"
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "Right, you need more time to plan? That's very wise of you!'"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "Back so soon? Did something happen? Ah, I see, you're not quite ready yet. Not to worry.'"
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "Did you forget something? Why did you come back?'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "How can this be? Just seconds ago, you were still on the mountain, and now you're suddenly back in this strange station. The mysterious stranger is here, too, as though she was waiting for you."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "The stone brings you back here as soon as you hear the siren and time resets. I think it just returns to its place of origin.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "You should know that we are in a former research station where experiments with gamma rays were conducted. Apparently, they wanted to create a gigantic electromagnetic force field. The entire island was essentially a restricted area. Hardly anyone knew it existed.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "But something went wrong. Some sort of breakdown. The electromagnetic radiation that was released caused countless anomalies throughout the mountain range; ultimately, they must have triggered the time loop. Time only moves normally in the station. Maybe because it was the location where the anomalies originated? I don't know. Anyway, I found the glowing stone in the room next door. It's all that remains of the experiments.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "I'm afraid I can't offer you a better explanation. Many things are just as incomprehensible to me as they are to you. But there is one thing I've figured out: The stone responds to the radiation. We won't succeed without it. Please continue with your preparations so we can eventually get out of here.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "Your ears are still ringing, but you are slowly starting to get used to the side effects of the anomaly. The mysterious stranger seems to be waiting for you again. You want to know what happened to the former residents of the research station."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "It's an unsolved mystery. Believe me, I spent a very long time trying to find the answer. They just disappeared. Left everything behind. It's almost as though they vanished into thin air...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "The mysterious woman avoids your gaze. You can tell she's hiding something, but the situation seems to be as stressful for her as it is for you—maybe even more so. You decide not to press the issue any further. You'll figure it out eventually."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "Please, we need to focus on the task at hand! Keep looking around outside while I run some more simulations. I should be done soon...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "Finally, you're back! I've been waiting for you. You've learned a lot out there. I think the time has come to take the next step...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "The stone reacts to electromagnetic radiation. During the experiments that were conducted here, it must have overheated... and imploded. That must have caused the anomalies and triggered the time loop. Essentially, all we have to do is repeat the experiment. Obviously, there's a catch: All the technical devices we need are dead now. Totally unusable. But there's another way...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "Did you notice the antenna on the next peak? Not only is the radiation stronger over there; the antenna also intensifies it. If we subject the stone to enough radiation, it might overheat again and reverse the time loop. I mean... I admit, it's just a theory, but right now, it's our only hope.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "You hesitate. What happens if you refuse? After all, scaling a mountain isn't exactly a walk in the park. On the other hand, you really want to find out more about the mysterious antenna-like structure. Why was it built? What was its purpose? The stranger smiles at you, as though she's read your mind."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "Feel free to rest, or to keep preparing—I know this task seems daunting. But you can do it, I'm sure of it!'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "You wake up in the station with one thought plaguing you. How long have you already been on the island, unwittingly trapped in this time loop?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "Hard to say. Months? Years? It might sound strange, since time is basically the only thing I think about, but I've also lost all sense of it.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "You have more questions you want answered. How did the stranger get into the station? And how does she know about the experiments that took place here?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "You should know that I'm not here by chance. My father is the lead researcher. Or... he was, I mean. When the accident happened, I must have lost consciousness. When I finally woke up, I was alone. I was just a girl, and I was afraid. I was scared to set foot outside the door.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "When I eventually realized that my father wasn't coming back, I started to look for an escape. I ventured out of the station and met people, but when we saw each other again, they didn't remember me. Everything out there kept repeating, but not in here. It was like a puzzle where the pieces didn't really seem to fit... <br>Even after all these years, I still feel like I only understand a tiny fraction of what's going on.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "You probably feel like I've deceived you, but please believe me when I say that was never my intention. I just want to get out of here, like you do.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "Your eyes snap open, and you rub your temples. Back in the station again! And there's the stranger again, already waiting for you. You want to know why she chose you. After all, you're not the only person in these mountains..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "I tried to make contact with the locals. But it wasn't just that they didn't trust me; they were downright hostile. Well, who could blame them? After all, we showed up on their island uninvited and started making ourselves right at home.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "But even considering the underlying hostility, it almost worked out once. I spoke to a shaman. His whole body was covered in tattoos. He believed me, but he was also concerned that his mind would stay addled forever...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "It works like this: If you die out there, all that happens is that time resets. You experience everything all over again, but you don't remember it. If you have the stone with you, though, your memory stays intact—including your memory of your own death. When you come back, your body may be unscathed, but your mind, well... <br> For the shaman, the thought of ending up as a soulless husk was much more frightening than being trapped in the time loop forever.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "No one wants to end up as a soulless husk. You know you don't, anyway! You want to know if the stranger has tried scaling one of the peaks herself, or if she always gets other people to do the work for her."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "I'm not a mountaineer, and I wouldn't survive an hour in the Death Zone. No matter how hard I train, I'll never be as good as you. But I have other qualities. Let's each just stick to the jobs we're good at, alright? That's the only way we'll ever get out of here...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "The mysterious stranger leans over you as you slowly awaken. Her eyes are sparkling, and a smile plays on her lips."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "Good news! I found out why the stone didn't affect the time loop, even though everything with the radiation went according to my calculations.'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "You have to picture the time loop like an umbrella. It spans the entire mountain range like an invisible shell. But the shell isn't the same everywhere. The farther we go from the original site of the disruption, the thinner the shell gets, and the easier it is for the radiation to penetrate it. You can probably imagine what that means, right? We need to get to the highest point in the mountain range...'"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "That's where we'll find the Achilles' heel of the time loop. If we take the overheated stone to that weak point, cracks should form in the shell that will destabilize the entire time loop. I know I've asked a lot of you, but I still need you to scale that final summit. That will be the last step, I'm sure of it!'"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "And it's marvelous that we have another ally now. Please talk to each other and learn from each other! The only way we have any hope of escaping the time loop is if we all pull together as a real team.'"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "By the way, I think it's wonderful that you brought reinforcements! And a real expert, too. I'm sure we'll learn a lot from each other by working together. We need to become a real team.'"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "Reset Points"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "Used to reset upgrades"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "Upgrade Points (Adventurer)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "Used to improve the abilities of the adventurer"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "Upgrade Points (Scientist)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "Used to improve the abilities of the scientist"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "Upgrade Points (Journalist)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "Used to improve the abilities of the journalist"
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "Starting Experience"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "Increases the amount of experience that you start with on a mission"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "Base Stat Upgrades"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "Upgrades that you gained from upgrading the Character in Base"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "A Scientist on a mission"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "There are reports of a scientist who is also caught in the time loop. <br>His expertise could be very valuable to your efforts. <br>Of course, you'll need to convince him to join you first, and then take him to the station."
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "Find the scientist and take him to the station."
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "Normal"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "Normal Weather"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "Friendly Weather is slightly more likely than stormy or cold weather"
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "Stormy"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "Stormy Weather"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "Increased probability of stormy weather."
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "Cold"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "Cold Weather"
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "Increased probability of cold weather."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "Investigative Journalism"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "There are rumors of a journalist wandering the mountain. Find him and use his investigative skills to find a way out of the time loop."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "Search for clues that will lead you to the journalist."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "First Clue"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "Second Clue"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "Exit"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "Character Proficiency"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "Item Proficiency"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "Environment Proficiency"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "Terrain Proficiency"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "Event Proficiency"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "Items used"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "Equipment"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "Unused Consumables"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "Dangerous Terrain crossed"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "Events experienced"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "Hours walked"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "Hours walked at Night"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "Hours walked in the Death Zone"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "Hours walked in Bad Weather"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "Hours climbed"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "Hours climbed at Night"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "Hours climbed in the Death Zone"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "Hours climbed in Bad Weather"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "Experience Received"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "Levelups Gained"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "Experience received for"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "Upgrades"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "Upgrade, that are activated by leveling up"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "Walk in the Sun"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "Gain more Body Temperature in nice weather."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "Gain even more Body Temperature in nice weather."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "Walk in the Sun"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "Gain more Body Temperature in nice weather."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "Walk in the Sun"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "Gain more Body Temperature in nice weather."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "Intense Movement"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "Gain significantly more Body Temperature per Hour when moving, but at increased energy cost."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "Gain significantly more Body Temperature per Hour when moving, but at increased energy cost."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "Intense Movement"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "Gain significantly more Body Temperature per Hour when moving, but at increased energy cost."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "Intense Movement"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "Gain significantly more Body Temperature per Hour when moving, but at increased energy cost."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "Stay Warm"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Gain more Body Temperature per Hour when Moving"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Gain even more Body Temperature per Hour when Moving"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "Stay Warm"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Gain more Body Temperature per Hour when Moving"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "Stay Warm"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Gain more Body Temperature per Hour when Moving"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "Deep Rest"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Gain more Energy when Sleeping"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Gain even more Energy when Sleeping"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "Deep Rest"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "Gain more Energy when Sleeping"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "Deep Rest"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "Gain more Energy when Sleeping"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "Euphoria"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "Reduced Energy Cost in the Death Zone"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "Significantly reduced Energy Cost in the Death Zone"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "Euphoria"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "Reduced Energy Cost in the Death Zone"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "Euphoria"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "Reduced Energy Cost in the Death Zone"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "Conserve Strength"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Reduced Energy Cost when moving, but increased time cost"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Reduced Energy Cost when moving, but increased time cost"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "Conserve Strength"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Reduced Energy Cost when moving, but increased time cost"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "Conserve Strength"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Reduced Energy Cost when moving, but increased time cost"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "Deep Breaths"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Increased Oxygen gain, but decreased Body Temperature gain"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Increased Oxygen gain, but decreased Body Temperature gain"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "Deep Breaths"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Increased Oxygen gain, but decreased Body Temperature gain"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "Deep Breaths"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Increased Oxygen gain, but decreased Body Temperature gain"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "One more push"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Significantly increased Oxygen gain for a time, but increased Sanity loss until the end of the mission"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "One more push"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "Significantly increased Oxygen gain"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "One more push"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "Increased Sanity loss until the end of the mission"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "Controlled Breathing"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Increased Oxygen gain per hour. Increased Maximum Oxygen."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Significantly increased Oxygen gain per hour. Increased Maximum Oxygen."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "Controlled Breathing"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Increased Oxygen gain per hour. Increased Maximum Oxygen."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "Controlled Breathing"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Significantly increased Oxygen gain per hour. Increased Maximum Oxygen."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "Harden"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "Ignores dangerous terrain"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "Ignores dangerous terrain"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "Harden"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "Ignores dangerous terrain"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "Harden"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "Ignores dangerous terrain"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "Over the edge"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Lower Energy Cost on steep terrain (2+ Elevation), but increased Sanity loss"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Lower Energy Cost on steep terrain (2+ Elevation), but increased Sanity loss"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "Over the edge"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "Lower Energy Cost on steep terrain (2+ Elevation), but increased Sanity loss"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "Over the edge"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "Lower Energy Cost on steep terrain (2+ Elevation), but increased Sanity loss"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "Fast movement"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Reduced Time Cost when moving"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Reduced Time Cost when moving"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "Fast movement"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Reduced Time Cost when moving"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "Fast movement"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Reduced Time Cost when moving"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "Can't Stop now"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Significantly decreased sanity loss when moving, <br>but additional sanity loss when resting / in events"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Significantly decreased sanity loss when moving, <br>but additional sanity loss when resting / in events"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "Can't Stop now"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "Significantly decreased sanity loss when moving, <br>but additional sanity loss when resting / in events"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "Can't Stop now"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "Significantly decreased sanity loss when moving, <br>but additional sanity loss when resting / in events"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "Mindfulness"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "Whenever you reach a point of interest, gain Sanity."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "Whenever you reach a point of interest, gain Sanity."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "Mindfulness"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "Whenever you reach a point of interest, gain Sanity."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "Mindfulness"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "Whenever you reach a point of interest, gain Sanity."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "Chant"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Reduced Sanity loss when moving"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Reduced Sanity loss when moving"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "Chant"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "Reduced Sanity loss when moving"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "Chant"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "Reduced Sanity loss when moving"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "Under the Stars"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "Reduced penalty for sleeping without a Tent"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "Reduced penalty for sleeping without a Tent"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "Under the Stars"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "Reduced penalty for sleeping without a Tent"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "Under the Stars"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "Reduced penalty for sleeping without a Tent"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "Long-term thinking"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Gain Energy when waking up, <br>but increased Time cost when moving"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Gain Energy when waking up, <br>but increased Time cost when moving"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "Long-term thinking"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Gain Energy when waking up, <br>but increased Time cost when moving"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "Long-term thinking"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Gain Energy when waking up, <br>but increased Time cost when moving"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "Explore the Mountain"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "Significantly increased Experience gain"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "Significantly increased Experience gain"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "Explore the Mountain"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "Significantly increased Experience gain"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "Explore the Mountain"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "Significantly increased Experience gain"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "Stay Warm"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "Focus on keeping your Body Temperature up."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "Conserve Strenght"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "Focus on recovering more Energy and spending less."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "Explore the Mountain"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "Focus on traveling long distances and visiting many Points of Interest."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "Acclimatize"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "Focus on keeping your Oxygen level up."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "Determined"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "Focus on going the direct path to your objective."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "Mental Focus"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "Focus on keeping Sanity up longer."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "Event Knowledge"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "Helps you to get the most out of events"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Event Knowledge: Sanity"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "Increases Sanity gain in Events"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Event Knowledge: Experience"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "Increases Experience gain in Events"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Event Knowledge: Energy"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "Reduces Energy loss in Events"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Event Knowledge:Time"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "Reduces Time costs of Events"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Event Knowledge: Sanity"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "{0} increased Sanity gain in Events"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Event Knowledge: Experience"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "{0} increased Experience gain in Events"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Event Knowledge: Energy"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "{0} reduced Energy loss in Events"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Event Knowledge:Time"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "{0} reduced Time costs of Events"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "Warm Thoughts"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "Whenever you use a consumable Item, you get some Body Temperature"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "Whenever you use a consumable Item, you get more Body Temperature"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "Warm Thoughts"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "Whenever you use a consumable Item, you get some Body Temperature"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "Warm Thoughts"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "Whenever you use a consumable Item, you get some Body Temperature"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "Preserve Energy"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "Reduced Energy Cost when moving and climbing"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "Reduced Energy Cost when moving and climbing"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "Preserve Energy"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "Significantly reduced Energy Cost when moving and climbing"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "Preserve Energy"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "Reduced Energy Cost when moving and climbing"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "Clear Mind"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduced Energy Cost when moving and climbing while Sanity is high"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Significantly reduced Energy Cost when moving and climbing while Sanity is high"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "Clear Mind"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduced Energy Cost when moving and climbing while Sanity is high"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "Clear Mind"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduced Energy Cost when moving and climbing while Sanity is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "Fresh Air"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduced Time Cost when moving and climbing while Oxygen is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Significantly reduced Time Cost when moving and climbing while Oxygen is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "Fresh Air"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduced Time Cost when moving and climbing while Oxygen is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "Fresh Air"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduced Time Cost when moving and climbing while Oxygen is high"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "Take it slow"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Gain some Energy, Body Temperature and Oxygen when waking up"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Gain more Energy, Body Temperature and Oxygen when waking up"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "Take it slow"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Gain some Energy, Body Temperature and Oxygen when waking up"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "Take it slow"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Gain some Energy, Body Temperature and Oxygen when waking up"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "Increased Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Increased Maximum Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Increased Maximum Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "Increased Maximum Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "Increased Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Increased Maximum Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "Increased Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Increased Maximum Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "Increased Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "Increased Maximum Body Temperature"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "Increased Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "Increased Maximum Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "Increased Maximum Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "Increased Maximum Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "Increased Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "Increased Maximum Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "Increased Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "Increased Maximum Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "Increased Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "Increased Maximum Energy"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "Increased Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "Increased Maximum Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "Increased Maximum Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "Increased Maximum Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "Increased Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "Increased Maximum Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "Increased Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "Increased Maximum Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "Increased Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "Increased Maximum Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "Increased Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Increased Maximum Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Increased Maximum Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "Increased Maximum Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "Increased Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Increased Maximum Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "Increased Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Increased Maximum Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "Increased Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "Increased Maximum Oxygen"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "Increased Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Increased Maximum Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Increased Maximum Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "Increased Maximum Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "Increased Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "Increased Maximum Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "Increased Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "Increased Maximum Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "Increased Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "Increased Maximum Sanity"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "Increased Base Stats"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "Increased Maximum Energy, Body Temperature, Oxygen, Sanity and Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "Increased Base Stats"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "Increased Base Stats"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "Increased Maximum Energy, Body Temperature, Oxygen, Sanity and Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "Increased Base Stats"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "Increased Maximum Energy, Body Temperature, Oxygen, Sanity and Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "Increased Base Stats"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "Increased Maximum Energy, Body Temperature, Oxygen, Sanity and Health"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "Increased Base Stats"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "Anomaly"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "Increased Time Cost when moving"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "Strong Anomaly"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "Significantly increased Time Cost when moving"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "Clear"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "Friendly Weather"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "Increased probability of Clear Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "Very Stormy"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "Very Stormy Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "Significantly increased probability of Stormy Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "Very Cold"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "Very Cold Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "Significantly increased probability of Cold Weather"
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "Bad Weather"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "Dangerously Bad Weather"
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "Increased probability of Cold and Stormy Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "Very Bad Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "Extremely Bad Weather"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "Significantly increased probability of Cold and Stormy Weather"
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "An expansive mountain."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "Find 3 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "A vast mountain landscape."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "Find 2 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "A compact mountain with moderate elevation."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "An ordinary mountain with moderate elevation."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "A mountain formation with relatively gentle slope."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "An expansive mountain."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "Find 3 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "An expansive mountain. There is a great deal of dangerous terrain on this mountain."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "Find 3 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "An expansive mountain. The region offers an unusually high number of potential paths, <br>but it requires a great deal of climbing."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "Find 3 temporal anomalies. The anomalies are spread out over a wide area.<br>Then reach the goal."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "An expansive mountain. Only a small section of the mountain is located in the Death Zone,<br>but the terrain is extremely challenging."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "Find 3 temporal anomalies. The anomalies are spread out over a wide area.<br>Then reach the goal."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "A large mountain with moderate elevation."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "A large mountain with moderate elevation.<br>The region offers an unusually high number of potential paths, but it requires a great deal of climbing."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "A large mountain with moderate elevation.<br>There is a great deal of dangerous terrain on this mountain."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "A gigantic crater with a steep, conical rise."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "A compact mountain with an extremely steep rise.<br>A large area of the mountain is located in the Death Zone."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "A crater, open on one side, with moderate rises."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "Find 3 temporal anomalies. The anomalies are spread out over a wide area.<br>Then reach the goal."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "A cauldron-like mountain landscape with a number of rises."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "Find 3 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "A large mountain with moderate elevation.<br>There is a great deal of dangerous terrain on this mountain."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "A large mountain with moderate elevation."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "A large mountain with a steep rise.<br>A large area of the mountain is located in the Death Zone, but the terrain is less challenging."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "An expansive mountain."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "Find 4 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "Anomaly 5"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "A vast mountain formation."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "Find 4 temporal anomalies. The anomalies are spread out over a wide area.<br>Then reach the goal."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "Anomaly 5"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "A gigantic crater with a steep, conical rise.<br>There is a great deal of dangerous terrain on this mountain."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "Find 4 temporal anomalies. Then reach the goal."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "Anomaly 5"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "A vast crater with a steep, conical rise."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "Find 4 temporal anomalies. The anomalies are spread out over a wide area.<br>Then reach the goal."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "Anomaly 5"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "A mountain with expansive terrain."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "A mountain with expansive terrain.<br>A large area of the mountain is located in the Death Zone."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "A large mountain with a steep rise.<br>A large area of the mountain is located in the Death Zone."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "A large mountain with moderate elevation."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "A large mountain with a steep rise.<br>There is a great deal of dangerous terrain on this mountain."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "First Ascent"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "Your first ascent! You're focused and driven!"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "By the way, I'm concerned about the Time Loop sickness. You're showing symptoms. I can help you, but my supplies of the cure are nearly exhausted.'"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "I can only restore you from this state one more time. Only one last time, understood? After that, you'll spend the rest of your life in a sort of permanent waking coma.'"
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "A vast and impenetrable mountain formation."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "Find 5 temporal anomalies. The anomalies are spread out over a wide area. Then reach the goal."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "Anomaly 5"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "An imposing mountain formation with steep, rocky spires."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "Find 5 temporal anomalies. The anomalies are spread out over a wide area. Then reach the goal."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Anomaly 1"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Anomaly 2"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Anomaly 3"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Anomaly 4"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "Anomaly 5"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "A colossal crater with a sheer, rocky cliff."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "Side Mission"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "An immense, unpredictable mountain with extremely challenging terrain."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "Scale the summit. Then reach the goal."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Summit"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Goal"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "Proficiency and Skills"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "Effects that are activated by upgrades in the base.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "Environment and Equipment"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "Effects that are influenced by the current mountain, the environment and currently active equipment.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "Temporary"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "Temporary effects that will expire after a time.<br>Click to see the individual effects."
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "Until end of mission"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "Effects that will expire at the end of the mission.<br>Click to see the individual effects."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Warmed-Up Lungs"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Increased Oxygen gain while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Significantly increased Oxygen gain while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Warmed-Up Lungs"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Increased Oxygen gain while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Warmed-Up Lungs"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Increased Oxygen gain while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Fervid Spirit"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduced Sanity loss when moving while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Significantly reduced Sanity loss when moving while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Fervid Spirit"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduced Sanity loss when moving while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Fervid Spirit"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduced Sanity loss when moving while Body Temperature is high"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "Vigorous Steps"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Reduced Energy cost when moving and climbing while Health is high"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Significantly reduced Energy cost when moving and climbing while Health is high"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "Vigorous Steps"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "Reduced Energy cost when moving and climbing while Health is high"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "Vigorous Steps"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "Reduced Energy cost when moving and climbing while Health is high"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "Second Wind"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "Reduced Energy cost when moving and climbing while Health is low"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "Significantly reduced Energy cost when moving and climbing while Health is low"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "Second Wind"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "Reduced Energy cost when moving and climbing while Health is low"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "Second Wind"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "Reduced Energy cost when moving and climbing while Health is low"
+    }
+  ]
+}

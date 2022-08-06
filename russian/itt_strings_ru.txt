@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "Палатка"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "Лунная трава"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "Факел"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Альпинистские перчатки"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "Кислородный баллон"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Амулет огня"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "Тяжёлые ботинки"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "Меховые перчатки"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "Горячий чай"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "Зимние ботинки"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Амулет грома"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "Трекинговые палки"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "Консервы"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Амулет камня"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Амулет ветра"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "Альпинистский топорик"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "Альпинистские кошки"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">Погодная ракета</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "Меняет текущую погоду на ясную."
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "Амулет"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "Перчатки"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "Ботинки"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "Спортинвентарь"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "Меховые перчатки"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла при передвижении и исследовании"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "Испытание земли"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "Погода: буря"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "Погода: холод"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "Испытание ветра"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "Ночь"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "Зимние ботинки"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "Погода: ясно"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "Хорошая погода. Не оказывает эффектов."
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "Альпинистский топорик"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "Альпинистские кошки"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "Трекинговые палки"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "Альпинистские перчатки"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "Погода: снегопад"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "Тяжёлые ботинки"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "Испытание грома"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "Растяжение лодыжки"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "Паранойя"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "Скорее к вершине!"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "Ровное дыхание"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "Зона смерти меньше влияет на вас"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "(Расход энергии снижается на короткое время)"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "(Расход кислорода снижается на продолжительное время)"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "На пределе"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "Вы избегаете критических событий в течение 6 часов"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "Орлиный взор"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "Максимальная степень отдаления камеры увеличена до следующего хода"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "Прыжок"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "Вы можете перепрыгнуть через клетку или ущелье"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "Туда прыгнуть не получится!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "Слишком близко!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "Так высоко прыгнуть не получится!"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "Целеустремлённость"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "На вас не влияют плохая погода и эффекты рельефа"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "Каменотёс"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "Вы можете уничтожить препятствие на расстоянии 1 клетки"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "Вы можете уничтожить препятствие на расстоянии 2 клеток"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "Тут ничего нет…"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "Не дотянуться!"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "Подготовленность"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "Консервы и кислородные баллоны более эффективны"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "Консервы и кислородные баллоны ещё более эффективны"
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "Альпинист"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+)"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 4+)"
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "Решительность"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "Вы восстанавливаете здоровье при пробуждении"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше здоровья при пробуждении"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "Кто рано встаёт"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "Вы восстанавливаете энергию при пробуждении"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше энергии при пробуждении"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "На пределе"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "Преодоление"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "Вы теряете 50 ед. кислорода, но восстанавливаете 20 ед. энергии"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "Покорение льдов"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на ледяных участках"
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "Скорость на льду"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "Вы тратите меньше времени на ледяных участках"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "Вы тратите гораздо меньше времени на ледяных участках"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "Дитя ночи"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "По ночам вы теряете тепло медленнее"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "По ночам вы теряете тепло гораздо медленнее"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "Дитя звёзд"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на подъёмах и спусках по ночам"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "Вы расходуете гораздо меньше энергии на подъёмах и спусках по ночам"
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "Рациональность"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "Максимальный показатель рассудка значительно увеличен"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "Непоколебимый разум"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка в событиях"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "Вы теряете гораздо меньше рассудка в событиях"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "Из последних сил"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "Вы теряете 10 ед. рассудка, но восстанавливаете 20 ед. энергии, 20 ед. тепла и 20 ед. кислорода"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "Энтузиазм"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете энергию"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "Достигнув любой метки, вы восстанавливаете ещё больше энергии"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "Быстрый шаг"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "Вы тратите меньше времени на передвижение"
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "Проворство"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "Вы тратите меньше времени в событиях"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "Вы тратите гораздо меньше времени в событиях"
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "Без предрассудков"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок в событиях"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше рассудка в событиях"
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "Бродяга"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "Вы тратите меньше времени на участках с ровным рельефом (перепад высоты 0-1)"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "Вы тратите гораздо меньше времени на участках с ровным рельефом (перепад высоты 0-1)"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "Глубокое дыхание"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "Максимальный запас кислорода значительно увеличен"
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "Энергичность"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "Максимальный запас энергии значительно увеличен"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "Утренняя зарядка"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "Вы восстанавливаете кислород при пробуждении"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "Вы восстанавливаете больше кислорода при пробуждении"
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "Практичность"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в событиях"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "Вы расходуете гораздо меньше энергии в событиях"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "Покорение снегов"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на снежных участках"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "Скорость на снегу"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "Вы тратите меньше времени на снежных участках"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "Вы тратите гораздо меньше времени на снежных участках"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "Домашний уют"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок, употребляя расходуемый предмет"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше рассудка, употребляя расходуемый предмет"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "Травничество"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "Чай и травы более эффективны"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "Чай и травы ещё более эффективны"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "Медитация"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "Вам доступно особое событие — медитация"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "Дитя хлада"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок при передвижении в холодную погоду"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше рассудка при передвижении в холодную погоду"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "Дитя гор"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок на ледяных, кислород на снежных и тепло на скалистых участках"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше рассудка на ледяных, кислорода на снежных и тепла на скалистых участках"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "Дитя бури"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "Вы восстанавливаете кислород при передвижении во время бури"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше кислорода при передвижении во время бури"
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "Внутренний огонь"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в час при передвижении"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше тепла в час при передвижении"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "Покорение скал"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на скалистых участках"
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "Скорость в скалах"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "Вы тратите меньше времени на скалистых участках"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "Вы тратите гораздо меньше времени на скалистых участках"
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "Крепкое тело"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "Максимальный запас здоровья значительно увеличен"
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "Толстокожесть"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "Вы теряете меньше здоровья в событиях"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "Вы теряете гораздо меньше здоровья в событиях"
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "Горячее сердце"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "Максимальный запас тепла значительно увеличен"
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "Авантюризм"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "Ледяная хватка"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "Исследование мира"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "Снежное сердце"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "Духовность"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "Сила камня"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "Подготовленность"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "Консервы и кислородные баллоны более эффективны"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "Подготовленность"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "Консервы и кислородные баллоны ещё более эффективны"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "Альпинист"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+)"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "Альпинист"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+)"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "Решительность"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "Вы восстанавливаете здоровье при пробуждении"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "Решительность"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "Вы восстанавливаете здоровье при пробуждении"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "Кто рано встаёт"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "Вы восстанавливаете энергию при пробуждении"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "Кто рано встаёт"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "Вы восстанавливаете энергию при пробуждении"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "На пределе"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "На пределе"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "Покоритель льдов"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на ледяных участках"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "Скорость на льду"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "Вы тратите меньше времени на ледяных участках"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "Скорость на льду"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "Вы тратите меньше времени на ледяных участках"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "Лунатизм"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "По ночам вы теряете тепло медленнее"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "Лунатизм"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "По ночам вы теряете тепло медленнее"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "Дитя звёзд"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на подъёмах и спусках по ночам"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "Дитя звёзд"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на подъёмах и спусках по ночам"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "Рациональность"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "Рациональность"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "Непоколебимый разум"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "Непоколебимый разум"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "На пределе"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "Вы избегаете критических событий"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "Орлиный взор"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "Максимальная степень отдаления камеры увеличена"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "Энтузиазм"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете энергию"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "Энтузиазм"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете энергию"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "Быстрый шаг"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "Вы тратите меньше времени на передвижение"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "Проворство"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "Вы тратите меньше времени в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "Проворство"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "Вы тратите меньше времени в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "Без предрассудков"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "Без предрассудков"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "Бродяга"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "Вы тратите меньше времени на участках с ровным рельефом (перепад высоты 0-1)"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "Бродяга"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "Вы тратите меньше времени на участках с ровным рельефом (перепад высоты 0-1)"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "Домашний уют"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок, употребляя расходуемый предмет"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "Домашний уют"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок, употребляя расходуемый предмет"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "Травничество"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "Чай и травы более эффективны"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "Травничество"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "Чай и травы более эффективны"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "Дитя хлада"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше рассудка при передвижении в холодную погоду"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "Дитя хлада"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше рассудка при передвижении в холодную погоду"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "Дитя гор"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше рассудка на ледяных, кислорода на снежных и тепла на скалистых участках"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "Дитя гор"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше рассудка на ледяных, кислорода на снежных и тепла на скалистых участках"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "Дитя бури"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода при передвижении во время бури"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "Дитя бури"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода при передвижении во время бури"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "Целеустремлённость"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "На вас не влияют негативные природные условия и эффекты рельефа"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "Глубокое дыхание"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "Глубокое дыхание"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "Энергичность"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "Энергичность"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "Утренняя зарядка"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "Вы восстанавливаете кислород при пробуждении"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "Утренняя зарядка"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "Вы восстанавливаете кислород при пробуждении"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "Практичность"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "Практичность"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "Покоритель снегов"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на снежных участках"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "Скорость на снегу"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "Вы тратите меньше времени на снежных участках"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "Скорость на снегу"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "Вы тратите меньше времени на снежных участках"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "Внутренний огонь"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "Внутренний огонь"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "Покоритель скал"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на скалистых участках"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "Скорость в скалах"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "Вы тратите меньше времени на скалистых участках"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "Скорость в скалах"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "Вы тратите меньше времени на скалистых участках"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "Крепкое тело"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "Крепкое тело"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "Толстокожесть"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "Вы теряете меньше здоровья в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "Толстокожесть"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "Вы теряете меньше здоровья в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "Горячее сердце"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "Горячее сердце"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "Сон (в пещере)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "Вы спите в пещере.<br>Вы медленнее теряете тепло и быстрее восстанавливаете энергию."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "Сон (снаружи)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "Вы спите на открытом воздухе без палатки.<br>Вы быстрее теряете тепло и медленнее восстанавливаете энергию."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "Сон (в палатке)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "Вы спите в палатке.<br>Вы медленнее теряете тепло и быстрее восстанавливаете энергию."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "Буран"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "Погодные условия на этом маршруте беспощадны.<br>Эффект холодной погоды усилен."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "Холодные ночи"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "Ночи на этом маршруте необычайно холодны.<br>По ночам вы быстрее теряете тепло."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "Зловещая обстановка"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "На этом маршруте вас преследуют странные тени и звуки."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "Неровный рельеф"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "На этом маршруте очень сложный рельеф."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "Суровые бури"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "На этом маршруте бывают сильные бури.<br>Эффект бурь усилен."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "Разреженный воздух"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "На этом маршруте труднее дышать."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "Плотный снег"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "По снежным участкам проще передвигаться."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "Толстый лёд"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "По ледяным участкам проще передвигаться."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "Могучие скалы"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "По скалистым участкам проще передвигаться."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "Плотный воздух"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "Воздух на этом маршруте чист и свеж."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "Необыкновенные явления"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "На этом маршруте вам попадётся много необычного."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "Тёплые ночи"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "Ночи на этом маршруте необычайно теплы."
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "Замёрзшие ноги"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "У вас замёрзли пальцы ног"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "Травма лодыжки"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "Вы травмировали лодыжку"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "Высотная болезнь"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "Вы страдаете от высотной болезни"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "Кошмары"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "Вас мучают кошмары"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "Измождение"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "Вы выбились из сил"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "Обморожение"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "Холодный горный воздух пробирает вас до костей"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "Отдых в тепле"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "Вы спите, укрывшись от холода"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "Природные условия"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "Непостоянные эффекты, зависящие от времени суток и местоположения.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "Снаряжение"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "Эффекты от используемого снаряжения.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "Недуги"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "Эффекты, оставшиеся с вами после невзгод во время прошлых восхождений.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "Временные усиления"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "Временные положительные эффекты.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "Временные ослабления"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "Временные отрицательные эффекты.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "Таланты"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "Эффекты, полученные при повышении уровня.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "Глубокий снег"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "Вы расходуете больше энергии на передвижение"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "Ледник"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "Опасный участок! Возможны происшествия…"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "Ледяной лабиринт"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "Вы тратите больше времени и быстрее теряете тепло при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "Осыпь"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "Опасный участок! Возможны происшествия…"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "Сугробы"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "Опасный участок! Возможны происшествия…"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "Вулканическая порода"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "Вы расходуете больше кислорода и быстрее восстанавливаете тепло при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "Травма руки"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "Вы расходуете больше энергии на участках с крутым рельефом (перепад высоты 2+)"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "Травма головы"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "Вы получаете меньше опыта"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "Бег"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "Вы тратите меньше времени, расходуете больше энергии и восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "Бег"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "Вы тратите меньше времени, расходуете больше энергии и восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "Травма туловища"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "Вам больно дышать"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "Травма ноги"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "Вы расходуете больше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "Снежная мгла"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "Вы тратите больше времени на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "Ужасный буран"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "Погодные условия на этом маршруте беспощадны."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "Очень холодные ночи"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "Ночи на этом маршруте необычайно холодны."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "Очень зловещая обстановка"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "На этом маршруте вас преследуют странные тени и звуки."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "Очень неровный рельеф"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "Этот маршрут чрезвычайно сложно преодолеть."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "Очень суровые бури"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "На этом маршруте бывают сильные бури."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "Очень разреженный воздух"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "На этом маршруте труднее дышать."
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "Расход энергии на участках с ровным рельефом: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "Расход энергии на подъёмах и спусках (при перепаде высоты 1): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "Расход энергии на подъёмах и спусках (при перепаде высоты 2): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "Расход энергии на подъёмах и спусках (при перепаде высоты 3): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "Расход энергии на подъёмах и спусках (при перепаде высоты 4): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "Расход энергии на подъёмах и спусках (при перепаде высоты 5): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "Расход энергии на подъёмах и спусках (при перепаде высоты 6): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "Расход энергии на участках с любым рельефом: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "Расход энергии на участках с любым рельефом: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "Расход энергии на скалистых участках: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "Расход энергии на снежных участках: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "Расход энергии на ледяных участках: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "Расход энергии на участках с ровным рельефом: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "Затраты времени на подъёмах и спусках (при перепаде высоты 1): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "Затраты времени на подъёмах и спусках (при перепаде высоты 2): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "Затраты времени на подъёмах и спусках (при перепаде высоты 3): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "Затраты времени на подъёмах и спусках (при перепаде высоты 4): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "Затраты времени на подъёмах и спусках (при перепаде высоты 5): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "Затраты времени на подъёмах и спусках (при перепаде высоты 6): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "Затраты времени на участках с любым рельефом: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "Затраты времени на участках с любым рельефом: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "Затраты времени на скалистых участках: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "Затраты времени на снежных участках: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "Затраты времени на ледяных участках: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "Энергия в час при отдыхе: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "Энергия в час при отдыхе: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "Рассудок в час при передвижении: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "Рассудок в час при передвижении: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "Рассудок в час при передвижении по скалистым участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "Рассудок в час при передвижении по скалистым участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "Рассудок в час при передвижении по снежным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "Рассудок в час при передвижении по снежным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "Рассудок в час при передвижении по ледяным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "Рассудок в час при передвижении по ледяным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "Рассудок в час во время отдыха/событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "Рассудок в час во время отдыха/событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "Тепло в час при передвижении: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "Тепло в час при передвижении: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "Тепло в час при передвижении по скалистым участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "Тепло в час при передвижении по скалистым участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "Тепло в час при передвижении по снежным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "Тепло в час при передвижении по снежным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "Тепло в час при передвижении по ледяным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "Тепло в час при передвижении по ледяным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "Тепло в час во время отдыха/событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "Тепло в час во время отдыха/событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "Кислород в час при передвижении: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "Кислород в час при передвижении: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "Кислород в час при передвижении по скалистым участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "Кислород в час при передвижении по скалистым участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "Кислород в час при передвижении по снежным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "Кислород в час при передвижении по снежным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "Кислород в час при передвижении по ледяным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "Кислород в час при передвижении по ледяным участкам: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "Кислород в час во время отдыха/событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "Кислород в час во время отдыха/событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "Максимальное расстояние камеры: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "Восстановление энергии в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "Расход энергии в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "Восстановление энергии в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "Расход энергии в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "Восстановление тепла в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "Потеря тепла в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "Восстановление тепла в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "Потеря тепла в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "Восстановление кислорода в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "Расход кислорода в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "Восстановление кислорода в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "Расход кислорода в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "Восстановление рассудка в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "Потеря рассудка в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "Восстановление рассудка в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "Потеря рассудка в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "Восстановление здоровья в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "Потеря здоровья в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "Восстановление здоровья в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "Потеря здоровья в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "Прирост опыта в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "Прирост опыта в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "Изменение времени в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "Изменение времени в событиях: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "Эффективность чая и трав: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "Эффективность консервов и кислородных баллонов: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "Максимум здоровья: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "Максимум энергии: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "Максимум рассудка: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "Максимум тепла: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "Максимум кислорода: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "Перезагрузка всех опасных событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "Перезагрузка критических событий: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "Перезагрузка событий, связанных с рельефом: {0}"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "Спуск"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "Вы можете быстро спуститься на клетку, расположенную ниже"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "Здесь не спуститься!"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "Клетка должна быть расположена ниже!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "Зацеп"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "Вы можете быстро подняться на клетку, расположенную выше"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "Здесь не зацепиться!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "Клетка должна быть расположена выше!"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "(Отличное качество)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "(Отличное качество)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "(Отличное качество)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "Отличная"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "Отличный"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "Отличное"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "Утеплённые ботинки"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "Тёплая шапка"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "Защитный шлем"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "Кислородная маска"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "Налобный фонарь"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "Увеличивает радиус освещения: {0}"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "Ледоруб"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "Фонарь"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "Действует только при следующих условиях: {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "При каждом пробуждении {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "Достигнув любой метки, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "Использовав любой расходуемый предмет, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "вы восстанавливаете {0} ед. энергии"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "вы теряете {0} ед. энергии"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "вы восстанавливаете {0} ед. тепла"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "вы теряете {0} ед. тепла"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "вы восстанавливаете {0} ед. кислорода"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "вы теряете {0} ед. кислорода"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "вы восстанавливаете {0} ед. рассудка"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "вы теряете {0} ед. рассудка"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "вы восстанавливаете {0} ед. здоровья"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "вы теряете {0} ед. здоровья"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "вы получаете {0} ед. опыта"
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "Адреналин"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "Пережив опасное событие, связанное с рельефом, вы восстанавливаете энергию"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "Пережив опасное событие, связанное с рельефом, вы восстанавливаете ещё больше энергии"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "Густая кровь"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "Зона смерти меньше влияет на вас"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "Зона смерти ещё меньше влияет на вас"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "Акклиматизация"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "Холодная погода меньше влияет на вас"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "Холодная погода ещё меньше влияет на вас"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "Упорство"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "Бури меньше влияют на вас"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "Бури ещё меньше влияют на вас"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "Жар амбиций"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в час"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "Вы восстанавливаете гораздо больше тепла в час"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "Натренированные лёгкие"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода в час"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "Вы восстанавливаете гораздо больше кислорода в час"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "Лёгкая походка"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "Вы расходуете гораздо меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "Первая помощь"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "Вы можете потратить некоторое время, чтобы вылечить раны"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "Рефлексия"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "Вы можете потратить некоторое время, чтобы восстановить рассудок"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "Анализ"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "Вы можете потратить некоторое время, чтобы получить очки опыта"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "Разогрев"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "Вы можете потратить немного энергии, чтобы поднять уровень тепла"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "Дыхательные упражнения"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "Вы можете потратить немного тепла, чтобы восстановить кислород"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "Бег"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "Вы тратите меньше времени и восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "Покорение гор"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "Вы расходуете гораздо меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "Дитя льда"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок при передвижении по ледяным участкам"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше рассудка при передвижении по ледяным участкам"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "Дитя снега"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "Вы восстанавливаете кислород при передвижении по снежным участкам"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше кислорода при передвижении по снежным участкам"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "Дитя скал"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "Вы восстанавливаете тепло при передвижении по скалистым участкам"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "Вы восстанавливаете ещё больше тепла при передвижении по скалистым участкам"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "Альпийский стиль"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "Вы тратите меньше времени на участках с любым рельефом"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "Вы тратите гораздо меньше времени на участках с любым рельефом"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "Продуктивность"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в событиях"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "Вы расходуете гораздо меньше энергии в событиях"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "Неудержимость"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "После критического события вы восстанавливаете энергию, тепло, кислород и рассудок"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "После критического события вы восстанавливаете больше энергии, тепла, кислорода и рассудка"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "Бег"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "Вы тратите меньше времени, расходуете больше энергии и восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "Замёрзшие руки"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "У вас замёрзли руки"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "Уставшие мышцы"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "Всё ваше тело ноет при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "Сильный кашель"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "Вы безостановочно кашляете"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "Одержимость"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "Вы готовы добраться до вершины любой ценой"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "Сомнение"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "Вы начинаете думать, что совершили ошибку"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "Гордыня"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "Вы ведёте себя так, словно вам всё нипочём"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "Адреналин"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "Пережив опасное событие, связанное с рельефом, вы восстанавливаете энергию"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "Адреналин"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "Пережив опасное событие, связанное с рельефом, вы восстанавливаете ещё больше энергии"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "Густая кровь"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "Зона смерти меньше влияет на вас"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "Густая кровь"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "Зона смерти ещё меньше влияет на вас"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "Акклиматизация"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "Холодная погода меньше влияет на вас"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "Акклиматизация"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "Холодная погода ещё меньше влияет на вас"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "Упорство"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "Бури меньше влияют на вас"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "Упорство"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "Бури ещё меньше влияют на вас"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "Жар амбиций"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в час"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "Жар амбиций"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "Вы восстанавливаете гораздо больше тепла в час"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "Натренированные лёгкие"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода в час"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "Натренированные лёгкие"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "Вы восстанавливаете гораздо больше кислорода в час"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "Лёгкая походка"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "Лёгкая походка"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "Вы расходуете гораздо меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "Бег"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "Вы тратите меньше времени и восстанавливаете больше тепла при передвижении"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "Покорение гор"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "Покорение гор"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "Вы расходуете гораздо меньше энергии на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "Дитя льда"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "Вы восстанавливаете рассудок при передвижении по ледяным участкам"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "Дитя льда"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "Вы восстанавливаете ещё больше рассудка при передвижении по ледяным участкам"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "Дитя снега"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "Вы восстанавливаете кислород при передвижении по снежным участкам"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "Дитя снега"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "Вы восстанавливаете ещё больше кислорода при передвижении по снежным участкам"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "Дитя скал"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "Вы восстанавливаете тепло при передвижении по скалистым участкам"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "Дитя скал"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "Вы восстанавливаете ещё больше тепла при передвижении по скалистым участкам"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "Альпийский стиль"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "Вы тратите меньше времени на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "Альпийский стиль"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "Вы тратите гораздо меньше времени на участках с любым рельефом"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "Продуктивность"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "Продуктивность"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "Вы расходуете гораздо меньше энергии в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "Неудержимость"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "После критического события вы восстанавливаете энергию, тепло, кислород и рассудок"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "Неудержимость"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "После критического события вы восстанавливаете больше энергии, тепла, кислорода и рассудка"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "Голова"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "Утеплённые ботинки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "Защитный шлем (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "Кислородная маска (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "Головной фонарь (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "Тёплая шапка (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "Альпинистский топорик (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "Альпинистские перчатки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "Меховые перчатки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "Трекинговые палки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "Альпинистские кошки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "Зимние ботинки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "Тяжёлые ботинки (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "Ледоруб (отличного качества)"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "Испытание огня"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "Храбрость"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "Пережив опасное событие, связанное с рельефом, вы получаете опыт"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "Храбрость"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "Пережив опасное событие, связанное с рельефом, вы получаете опыт"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "Осторожные шаги"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "Вы тратите больше времени при передвижении, но на вас не влияет опасный рельеф"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "Осторожные шаги"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "Вы тратите больше времени при передвижении, но на вас не влияет опасный рельеф"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "Сова"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "Ночью вы получаете больше опыта за события"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "Ночью вы получаете больше опыта за события"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "Сова"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "Ночью вы получаете больше опыта за события"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "Сова"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "Ночью вы получаете больше опыта за события"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "Опытный альпинист"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "Специализация: преодоление крутого рельефа"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "Искатель событий"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "Специализация: события"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "Любитель прогулок"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "Специализация: преодоление ровного рельефа"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "Эксперт по особому рельефу"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "Специализация: преодоление опасного рельефа"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "Дитя ночи"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "Специализация: ночные восхождения"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "Знаток расходуемых предметов"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "Специализация: расходуемые предметы"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "Мастер на все руки"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "Эти знания пригодятся в разных ситуациях"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "Пережив любое опасное событие, связанное с рельефом, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "Пережив любое критическое событие, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "Факел"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "Увеличивает радиус освещения"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "Лампа"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "Увеличивает радиус освещения"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "Лампа"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "Значительно увеличивает радиус освещения"
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "Радиус освещения: {0}"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "Повязка"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "Общие навыки"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "Можно выбирать независимо от специализации"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "Зона смерти"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "Вы находитесь в зоне смерти. Вы будете терять кислород при передвижении, отдыхе и во время событий."
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "Добрая душа"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "Вы сделали доброе дело и довольны собой"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "Храброе сердце"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "Вы чувствуете, что совершили героический поступок"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "При повышении уровня {0}"
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "Регенерация"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "Использовав любой расходуемый предмет, вы восстанавливаете немного здоровья"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "Регенерация"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "Экстрим"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "Находясь в зоне смерти, вы восстанавливаете рассудок"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": "Экстрим"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "Умелец"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "Вы можете самостоятельно мастерить снаряжение"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "Безумный гений"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "Вы тратите рассудок, чтобы получить временное усиление на свой выбор"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "Безумный гений"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "Безумный гений"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "Безумный гений"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "Безумный гений"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "Журналистское расследование"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "Достигнув любой метки, вы получаете опыт"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "Журналистское расследование"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Жажда знаний"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "При повышении уровня вы восстанавливаете немного энергии, тепла, кислорода, рассудка и здоровья"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "Жажда знаний"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "Зелёный сигнальный пистолет"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "Позволяет вызвать торговца."
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "Красный сигнальный пистолет"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "Позволяет вызвать помощь."
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "Страховочный канат"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "Даёт защиту от опасного рельефа на некоторое время."
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "Трос"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "Временно снижает затраты энергии на подъёмах и спусках."
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "Скальные крюки"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "Временно снижает затраты энергии на подъёмах и спусках."
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "Вдохновение"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "Восстанавливает энергию и ускоряет перезарядку всех навыков"
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "Ускоряет всю текущую перезарядку на {0} {1}"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "Знание рельефа"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "Вы лучше передвигаетесь по различным типам рельефа"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Знание рельефа: лёд"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на ледяных участках"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Знание рельефа: снег"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на снежных участках"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Знание рельефа: скалы"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на скалистых участках"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Знание рельефа: опасности"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "Вы лучше защищены от опасных событий, связанных с рельефом"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "Знание рельефа: лёд"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "Снижение расхода энергии на ледяных участках: {0}"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "Знание рельефа: снег"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "Снижение расхода энергии на снежных участках: {0}"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "Знание рельефа: скалы"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "Снижение расхода энергии на скалистых участках: {0}"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "Знание рельефа: опасности"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "Защита от опасных событий, связанных с рельефом: {0}"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "Знание природных условий"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "Вы лучше готовы к опасностям, что таит гора"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "Стойкость к холоду"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "Вы теряете меньше тепла в холодную погоду"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Стойкость в зоне смерти"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "Вы расходуете меньше кислорода в зоне смерти"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "Стойкость в ночи"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "По ночам вы теряете тепло медленнее"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "Стойкость к бурям"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии во время бури"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "Стойкость к холоду"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "Снижение потери тепла в холодную погоду: {0}"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "Стойкость в зоне смерти"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "Снижение расхода кислорода в зоне смерти: {0}"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "Стойкость в ночи"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "Снижение потери тепла по ночам: {0}"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "Стойкость к бурям"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "Снижение расхода энергии во время бури: {0}"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "Вместимость"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "Определяет, сколько предметов вы можете взять с собой"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "Начало"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "Первозданные горные вершины уходят далеко в небо. <br>Этот остров был отрезан от мира много лет. <br>Наконец настало время исследовать этот горный хребет и заполнить пробелы на карте."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "Поднимитесь на вершину и войдите в историю."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "Излучение"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "Неизвестно"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "На самой вершине горы, предположительно, находится антенна, усиливающая электромагнитное излучение. Вы должны выяснить, как она подействует на амулет."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "Очередная гора ждёт вас. Но прежде чем отправиться покорять новую вершину, вы должны завершить определённое число дополнительных заданий."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "Поднимитесь на вершину с амулетом, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "Неизвестно"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "Взрывная сила"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "Неизвестно"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "Чтобы разорвать временную петлю, принесите заряженный амулет<br>на самую высокую горную вершину."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "Даже самую высокую гору можно покорить. Прежде чем начать восхождение, выполните все требования."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "Поднимитесь на вершину и выберитесь из временной петли."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "Неизвестно"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "Пролог"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "Глава 1"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "Глава 2"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "Глава 3"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "Вы резко открываете глаза. Где вы? Что произошло? Вы пытаетесь хоть что-нибудь вспомнить. Кажется, вы прошли через какие-то врата…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "— В голове всё перемешалось? Так бывает, когда человек проходит сквозь временную петлю, находясь в ясном сознании. Видимо, дело в излучении."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "Что за временная петля? Какое ещё излучение? Кто эта девушка и о чём она говорит? Может, вам всё это привиделось? Вы замечаете на столе светящийся зелёный амулет. Вы совершенно точно уже где-то видели этот камень. Вдруг на вас накатывают воспоминания. Когда вы чуть не свалились в разлом, эта девушка спасла вас. Но почему она сразу вам всё не рассказала?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "— Если бы мне такое рассказали, я бы точно не поверила. Тебе надо было увидеть всё своими глазами, испытать на собственной шкуре. Понимаю, всё это звучит дико, так что вот главное, что тебе нужно понять: мы попали во временную петлю и застряли на этом острове. Но я, кажется, знаю, как отсюда вырваться. Надо только провести кое-какие вычисления."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "— Я придумала, как ты можешь мне помочь. Когда отдохнёшь, сделай пару коротких вылазок и собери для меня информацию. Заодно наберёшься опыта и улучшишь свои навыки. Возьми мой амулет — без него временную петлю не разорвать. Кроме того, он будет возвращать тебя на станцию в конце временного цикла."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "— Сперва тебе нужно изучить местность и понять, как действует камень.<br>Знаю, что прошу о многом, но другого пути нет. Тебе придётся мне довериться."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "У вас стучит в ушах. Вы пытаетесь что-то сказать, но не можете издать ни звука. Вы просто лежите, тихо и неподвижно. Таинственная незнакомка обеспокоенно разглядывает вас."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "— Что с тобой? А… понимаю. Узнать о чём-то, что твой мозг не может принять; умереть, осознавая, что находишься во временной петле… Да, это тяжело."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "— Прости, что впутала тебя в это дело. Понимаешь… я несколько лет пыталась во всём разобраться. Очень долго не могла понять, чем так важен этот камень. Оказалось, это ключ от нашей тюрьмы."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "— Кстати о тюрьмах. Ты уж постарайся продержаться и добраться до цели, чтобы камень поглотил нужный запас излучения. Пожалуйста. У тебя обязательно получится."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "Вы лежите, чувствуя, как стучит в висках. Вам тяжело шевелиться и разговаривать. Таинственная незнакомка тоже сама не своя, она говорит с вами странным, искажённым голосом…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "— Что, не получилось? Ну ничего, бывает. Только не сдавайся, прошу тебя! Амулет нужно зарядить. Антенна на вершине позволит ему поглотить достаточно электромагнитных волн. Это наш единственный шанс вырваться из временной петли."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "Очнувшись, вы сразу ищете глазами таинственную незнакомку. По её лицу непонятно, удалось ли вам разорвать временную петлю. Вы взволнованно рассказываете ей обо всём, что видели, в том числе об инициалах на антенне. Вам интересно, что всё это значит."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "— До сих пор не понимаешь? Тебе уже приходилось там бывать, возможно даже не раз. И мы с тобой уже встречались — и в горах, и на этой станции. Тогда тебе было сложно в это поверить, но теперь благодаря амулету у тебя сохраняются воспоминания за пределами одной временной петли. Он позволил тебе прийти в сознание, и теперь ты всё помнишь."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "Вас терзают сомнения. Может, лучше было бы всё забыть? Вам больно и страшно, что вы никогда отсюда не выберетесь… Почему она сразу всё не объяснила? И что ещё она скрывает?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "— Мы попали в сложную ситуацию. Потому я и хотела дать тебе время, чтобы свыкнуться с ней. Понимаешь… я несколько лет пыталась во всём разобраться. Очень долго не могла понять, чем так важен этот камень. Оказалось, это ключ от нашей тюрьмы."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "Тюрьмы? Вы нервно сглатываете. Выходит, вы зря покоряли ту гору с антенной? Вы по-прежнему заперты во временной петле?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "— Камень раскалился, как и ожидалось. Но временную петлю он не разорвал. Мне нужно всё обдумать. Можешь пока сходить потренироваться. У нас впереди ещё много работы…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "Очнувшись, вы сразу ищете глазами таинственную незнакомку. Она выглядит разочарованной. Неужели не получилось? Сохраняя спокойствие, вы рассказываете ей, как камень изменился и начал светиться красным."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "— Камень раскалился, как и ожидалось. Но временную петлю он не разорвал. Мне нужно всё обдумать. Можешь пока сходить потренироваться. У нас впереди ещё много работы…"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "— Мы в шаге от того, чтобы разорвать временную петлю. Пока в твоих жилах есть хоть капля крови, прошу тебя, не сдавайся. Пожалуйста!"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "— И ещё кое-что. Пока этот камень у тебя, то ты, если погибнешь в горах, вернёшься на станцию… Но будешь не совсем собой. Тело останется невредимым, а вот разум затуманится, словно ты в коме. Этот побочный эффект я назвала болезнью временной петли."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "— У меня есть от неё средство, но запасы не бесконечны. Когда лекарство закончится, я уже ничего не смогу для тебя сделать. Так что постарайся не умирать."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "— И ещё кое-что. Пока этот камень у тебя, ты, если погибнешь в горах, вернёшься на станцию… Но будешь не совсем собой. Тело останется невредимым, а вот разум затуманится, словно ты в коме. Этот побочный эффект я назвала болезнью временной петли."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "— У меня есть от неё средство, но запасы уже почти закончились. Я смогу привести тебя в чувство ещё только один раз. Последний раз, понимаешь?"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "— И ещё кое-что. Пока этот камень у тебя, ты, если погибнешь в горах, вернёшься на станцию… Но будешь не совсем собой. Тело останется невредимым, а вот разум затуманится, словно ты в коме. Этот побочный эффект я назвала болезнью временной петли."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "— У меня было от неё средство, но я израсходовала всё. Понимаю, утешение невелико, но это ещё не конец. Пока хоть кто-то из вас жив, у нас есть надежда…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "— Гора беспощадна, не правда ли? Прошу, не оставляй попыток. Я так долго ждала кого-нибудь вроде тебя…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "— Я понимаю, ты многим жертвуешь, чтобы нас отсюда вытащить. Но твои труды не пропадут даром. Мы уже почти нашли выход из этой тюрьмы. Сдаваться нельзя…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "— Не сдавайся. Никогда, слышишь? За все эти годы в одиночестве я усвоила одно: всегда надо идти вперёд."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "— Ну привет! Каково оно, умирать? Ничего страшного, попробуешь ещё разок."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "— Выглядишь ты неважно… Что случилось? Если не хочешь, не отвечай. Отдохни пока, скоро тебе обязательно полегчает."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "— Что произошло? Несчастный случай? Обморожение, удушье? Надо думать, мало приятного! В следующий раз попробуй задействовать какую-нибудь другую стратегию."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "— Что ж, эту гору не просто так называют <i>неприступной</i>. Но ты обязательно справишься!"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "— Чудно! У тебя всё получилось. Тяжко пришлось?"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "— Отлично. Горы покоряются тебе! Продолжай в том же духе, и мы обязательно вырвемся из временной петли."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "— Твои навыки впечатляют. И с каждым восхождением ты учишься чему-то новому! Знаешь, это ведь твоё появление вселило в меня уверенность, что однажды мы всё-таки выберемся…"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "— Браво! Похоже, горы для тебя — родная стихия. Я бы там и дня не продержалась."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "— Как невозмутимо ты покоряешь стихию! Просто удивительно. Я знала, что тебе многое по плечу, но таких успехов не ожидала!"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "— Кажется, теперь ты понимаешь, что здесь самое главное. Готовность учиться и приспосабливаться к неожиданным ситуациям."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "— А вот и ты! В полном порядке! Видно, не бывает для тебя <i>неприступных</i> гор."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "— Слышишь меня? Понимаешь, где ты? Что же всё-таки болезнь временной петли с людьми творит…"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "— Но ничего, не всё потеряно. Пока хоть кто-то из вас жив, есть ещё надежда вырваться из временной петли…"
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "— Хочешь сперва продумать стратегию? Очень разумно!"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "— Что, уже? Что-то случилось? А, ты хочешь подготовиться! Это правильно."
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "— Не ждала тебя так скоро! Что-то случилось?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "Как такое возможно? Ещё пару мгновений назад вы были в горах, а теперь вдруг оказались на этой странной станции. И таинственная незнакомка здесь — похоже, она вас ждала."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "— Камень переносит тебя сюда, как только ты слышишь сирену и время идёт на новый круг. Похоже, он возвращается в то место, где был создан."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "— Знай, что мы находимся на бывшей исследовательской станции. Когда-то здесь проводили эксперименты с гамма-излучением. Они хотели создать электромагнитное силовое поле небывалых размеров. Доступ на остров был ограничен, а о его существовании почти никто не знал."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "— Но что-то пошло не так. Оборудование отказало. Из-за этого электромагнитное излучение распространилось по горам и вызвало множество аномалий, которые и породили эту временную петлю. Время идёт нормально только на станции. Может, потому что здесь аномалии и возникли? Не знаю. Так вот, в соседней комнате я нашла светящийся камень. Единственное свидетельство экспериментов."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "— Боюсь, мне больше нечего рассказать. Я, как и ты, многого не понимаю. Но кое-что мне всё же ясно. Этот камень реагирует на излучение. Без него ничего не выйдет. Так что, пожалуйста, собирайся в дорогу. Рано или поздно мы отсюда выберемся."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "У вас по-прежнему звенит в ушах, но вы постепенно свыкаетесь с побочными эффектами аномалии. Похоже, таинственная незнакомка вновь вас ждёт. Вы хотите знать, что стало с теми, кто работал на исследовательской станции."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "— Неизвестно. Поверь, я долго пыталась выяснить, что с ними случилось. Они просто исчезли в никуда. Оставили всё оборудование. Словно испарились…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "Таинственная незнакомка избегает вашего взгляда. Она определённо что-то скрывает, но видно, что ей так же тревожно, как и вам, — а может, даже больше. Вы решаете прекратить расспросы. Так или иначе, вы сами докопаетесь до истины."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "— Давай сосредоточимся на нашей задаче, хорошо? Продолжай поиски, а я прогоню ещё пару симуляций. Это не займёт много времени."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "— Ну наконец-то! Я тебя ждала. Тебе многое удалось выяснить. Пожалуй, настало время шагнуть вперёд…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "— Камень реагирует на электромагнитное излучение. Насколько я понимаю, в результате экспериментов он раскалился и наполнился энергией, которая затем… взорвалась. Думаю, из-за этого и появились аномалии, в том числе временная петля. Всё, что от нас требуется, — это повторить эксперимент. Правда, есть загвоздка: приборы неисправны. Использовать их не получится. Но я кое-что придумала…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "— На вершине соседней горы установлена антенна. Излучение там само по себе мощнее, а антенна дополнительно его усиливает. Если в камень проникнет достаточно волн, он снова раскалится и разорвёт временную петлю. Ну, то есть… Это всего лишь теория, но других вариантов у нас всё равно нет."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "Вас одолевают сомнения. Не лучше ли отказаться? Штурмовать вершину — опасное дело! С другой стороны, странная антенна на горе вызывает у вас любопытство. Как она там оказалась? Для чего её возвели? Незнакомка улыбается, словно только что прочла ваши мысли."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "— Можешь пока отдохнуть. Ну или займись подготовкой. Знаю, задача на первый взгляд не из простых, но у тебя всё получится!"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "Вы приходите в себя на станции. У вас из головы не идёт одна мысль: сколько времени вы уже провели на этом острове, не подозревая, что находитесь во временной петле?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "— Трудно сказать. Месяцы? Годы? Это так странно: я ведь только о времени и думаю, но, как и ты, совсем не замечаю его ход."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "У вас ещё много вопросов. Как эта незнакомка попала на станцию? И откуда она знает о проводившихся здесь экспериментах?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "— Тебе стоит знать, что я оказалась здесь не случайно. Мой отец… был ведущим исследователем. Когда произошла катастрофа, я, кажется, потеряла сознание. А когда очнулась — никого вокруг не было. Я тогда была ребёнком и очень испугалась. Боялась даже на улицу выйти."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "— Когда я поняла, что папа не вернётся, то начала искать способ выбраться. Выходила со станции, общалась с людьми, но никто из них не запоминал меня. За стенами станции все события повторялись, а здесь — нет. Я как будто собирала пазл, а кусочки никак не складывались… <br>И даже спустя столько лет я лишь на пару шагов приблизилась к разгадке."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "— Ты, наверное, считаешь меня обманщицей. Поверь, у меня не было злых намерений. Мне просто хочется отсюда выбраться, как и тебе."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "Вы резко открываете глаза и трёте виски. Вы снова на станции! А рядом стоит та незнакомка, ждёт вас. Вы хотите узнать, почему она выбрала именно вас, а не кого-то ещё. Ведь в этих горах есть и другие люди…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "— Я пыталась общаться с местными, но они, скажу прямо, отнеслись ко мне враждебно. Впрочем, не могу их винить: в конце концов, мы заявились к ним на остров, как к себе домой, и стали тут хозяйничать."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "— Несмотря на общую враждебность, с одним из местных мне удалось установить контакт. Это был шаман, весь в татуировках. Он мне поверил, но не решился помочь: боялся, что это навсегда повредит его разум…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "— Понимаешь, если ты погибнешь в горах, начнётся новый временной цикл. Ты забудешь о произошедшем, и всё повторится вновь. Но если у тебя с собой будет камень, воспоминания сохранятся — в том числе воспоминание о твоей смерти. Когда ты вернёшься, тело останется невредимым, а вот разум… <br>Для шамана мысль о том, что он может утратить разум, оказалась гораздо страшнее, чем перспектива провести остаток жизни во временной петле."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "Утратить разум — незавидная участь. Вы бы тоже предпочли избежать её. Вы интересуетесь, пыталась ли незнакомка хоть раз сама подняться на вершину. Или она всегда сваливает всю работу на других?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "— Я не альпинистка, в зоне смерти и часа не протяну. Сколько бы я ни тренировалась, с тобой мне не сравниться. Но кое на что я всё-таки гожусь. Давай договоримся: каждый делает то, что лучше всего умеет. Если мы отсюда и выберемся, то только так…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "Вы медленно приходите в себя и видите, что над вами стоит, улыбаясь, та самая таинственная незнакомка."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "— У меня хорошие новости! Я разобралась, почему камень не повлиял на временную петлю, хотя все мои вычисления, связанные с излучением, оказались верны."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "— Временная петля словно огромный купол. Она накрывает всю горную цепь невидимой оболочкой, но эта оболочка неравномерна. Чем дальше мы оказываемся от места, где изначально произошёл сбой, тем она тоньше и тем проще сквозь неё пробиться излучению. Понимаешь, к чему я веду? Нам нужно добраться до самой высокой точки горного хребта…"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "— Там у временной петли слабое место. Если мы отнесём туда раскалённый камень, оболочка растрескается, и временная петля перестанет существовать. Понимаю, я многого от тебя прошу, но кто-то должен покорить последнюю вершину. Это последний шаг, я уверена!"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "— И я очень рада, что у нас появился новый союзник. Вы уж говорите друг с другом почаще, пожалуйста! Учитесь друг у друга! Чтобы вырваться из временной петли, мы должны работать сообща, как одна команда."
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "— Кстати, я очень рада, что у нас пополнение! Ещё и настоящий специалист. Если будем работать сообща, то много чему друг у друга научимся. Нам надо стать одной командой."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "Сброс очков"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "Позволяет сбросить улучшения"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "Очки улучшения путешественницы"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "Очки для улучшения умений путешественницы"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "Очки улучшения учёного"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "Очки для улучшения умений учёного"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "Очки улучшения журналиста"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "Очки для улучшения умений журналиста"
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "Начальный опыт"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "Увеличивает количество опыта, с которым вы начинаете задание"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "Основные улучшения"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "Улучшения персонажа, которые вы приобрели на базе"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "Учёный в экспедиции"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "Поступают сообщения об учёном, который тоже попал во временную петлю. <br>Его знания могут вам пригодиться. <br>Осталось только убедить его присоединиться к вам и привести его на станцию."
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "Найдите учёного и приведите его на станцию."
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "Ясно"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "Хорошая погода"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "Высока вероятность, что погода будет ясной."
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "Буря"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "Ненастная погода"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "Высока вероятность, что начнётся буря."
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "Холод"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "Холодная погода"
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "Высока вероятность, что будет холодно."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "Журналистское расследование"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "Ходят слухи, что в горах видели журналиста. Найдите его — вам пригодится помощь человека с опытом в расследованиях, чтобы выбраться из временной петли."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "Найдите зацепки, которые приведут к журналисту."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "Первая зацепка"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "Вторая зацепка"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "Выход"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "Знания персонажа"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "Знание предметов"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "Знание природных условий"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "Знание рельефа"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "Знание событий"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "Использованные предметы"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "Снаряжение"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "Неиспользованные расходуемые предметы"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "Пройденный опасный рельеф"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "Пережитые события"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "Пройденные часы"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "Часы, пройденные ночью"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "Часы, пройденные в зоне смерти"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "Часы, пройденные при плохой погоде"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "Часы на подъёмах и спусках"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "Часы на подъёмах и спусках ночью"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "Часы на подъёмах и спусках в зоне смерти"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "Часы на подъёмах и спусках в плохую погоду"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "Полученный опыт"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "Полученные уровни"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "Опыт за"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "Улучшения"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "Улучшения, которые активируются после повышения уровня"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "Прогулка под солнцем"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете больше тепла в хорошую погоду."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете ещё больше тепла в хорошую погоду."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "Прогулка под солнцем"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в хорошую погоду."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "Прогулка под солнцем"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в хорошую погоду."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "Быстрый шаг"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете значительно больше тепла в час при передвижении, но расходуете больше энергии."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете значительно больше тепла в час при передвижении, но расходуете больше энергии."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "Быстрый шаг"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете значительно больше тепла в час при передвижении, но расходуете больше энергии."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "Быстрый шаг"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете значительно больше тепла в час при передвижении, но расходуете больше энергии."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "Сохранение тепла"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете больше тепла в час при передвижении"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете ещё больше тепла в час при передвижении"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "Сохранение тепла"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в час при передвижении"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "Сохранение тепла"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше тепла в час при передвижении"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "Хороший отдых"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете больше энергии во сне"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете ещё больше энергии во сне"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "Хороший отдых"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше энергии во сне"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "Хороший отдых"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше энергии во сне"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "Эйфория"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "Вы расходуете меньше энергии в зоне смерти"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "Вы расходуете гораздо меньше энергии в зоне смерти"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "Эйфория"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в зоне смерти"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "Эйфория"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в зоне смерти"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "Экономия сил"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Вы расходуете меньше энергии при передвижении, но тратите больше времени"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Вы расходуете меньше энергии при передвижении, но тратите больше времени"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "Экономия сил"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии при передвижении, но тратите больше времени"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "Экономия сил"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии при передвижении, но тратите больше времени"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "Глубокое дыхание"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете больше кислорода, но меньше тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете больше кислорода, но меньше тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "Глубокое дыхание"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода, но меньше тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "Глубокое дыхание"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода, но меньше тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "Последний рывок"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Вы временно восстанавливаете гораздо больше кислорода, но теряете больше рассудка до конца задания"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "Последний рывок"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "Вы восстанавливаете гораздо больше кислорода"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "Последний рывок"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "Вы теряете гораздо больше рассудка до конца задания"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "Дыхательная техника"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете больше кислорода в час. Максимальный запас кислорода увеличен."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете гораздо больше кислорода в час. Максимальный запас кислорода увеличен."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "Дыхательная техника"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода в час. Максимальный запас кислорода увеличен."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "Дыхательная техника"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете гораздо больше кислорода в час. Максимальный запас кислорода увеличен."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "Непоколебимость"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "На вас не влияет опасный рельеф"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "На вас не влияет опасный рельеф"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "Непоколебимость"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "На вас не влияет опасный рельеф"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "Непоколебимость"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "На вас не влияет опасный рельеф"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "Помешательство"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+), но теряете больше рассудка"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+), но теряете больше рассудка"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "Помешательство"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+), но теряете больше рассудка"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "Помешательство"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии на участках с крутым рельефом (перепад высоты 2+), но теряете больше рассудка"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "Быстрое передвижение"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "Вы тратите меньше времени на передвижение"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "Вы тратите меньше времени на передвижение"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "Быстрое передвижение"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "Вы тратите меньше времени на передвижение"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "Быстрое передвижение"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "Вы тратите меньше времени на передвижение"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "Нельзя останавливаться!"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "Вы теряете гораздо меньше рассудка при передвижении, <br>но теряете больше рассудка во время отдыха/событий"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "Вы теряете гораздо меньше рассудка при передвижении, <br>но теряете больше рассудка во время отдыха/событий"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "Нельзя останавливаться!"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "Вы теряете гораздо меньше рассудка при передвижении, <br>но теряете больше рассудка во время отдыха/событий"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "Нельзя останавливаться!"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "Вы теряете гораздо меньше рассудка при передвижении, <br>но теряете больше рассудка во время отдыха/событий"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "Осознанность"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "Осознанность"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "Осознанность"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "Достигнув любой метки, вы восстанавливаете рассудок."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "Походная песенка"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Вы теряете меньше рассудка при передвижении"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Вы теряете меньше рассудка при передвижении"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "Походная песенка"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка при передвижении"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "Походная песенка"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка при передвижении"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "Под звёздным небом"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "Вы меньше страдаете от негативных последствий сна под открытым небом без палатки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "Вы меньше страдаете от негативных последствий сна под открытым небом без палатки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "Под звёздным небом"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "Вы меньше страдаете от негативных последствий сна под открытым небом без палатки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "Под звёздным небом"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "Вы меньше страдаете от негативных последствий сна под открытым небом без палатки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "Дальновидность"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете энергию при пробуждении, <br>но тратите больше времени при передвижении"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете энергию при пробуждении, <br>но тратите больше времени при передвижении"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "Дальновидность"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете энергию при пробуждении, <br>но тратите больше времени при передвижении"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "Дальновидность"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете энергию при пробуждении, <br>но тратите больше времени при передвижении"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "Исследование горы"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "Вы получаете значительно больше опыта"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "Вы получаете значительно больше опыта"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "Исследование горы"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "Вы получаете значительно больше опыта"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "Исследование горы"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "Вы получаете значительно больше опыта"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "Сохранение тепла"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "Вы стараетесь сохранять тепло."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "Экономия сил"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "Вы стараетесь восстанавливать больше энергии и меньше расходовать её."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "Исследование горы"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "Вы стараетесь преодолевать большие расстояния и посещать как можно больше меток."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "Акклиматизация"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "Вы стараетесь беречь кислород."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "Решительность"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "Вы стараетесь как можно скорее достичь цели."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "Концентрация"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "Вы стараетесь сохранять рассудок."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "Знание событий"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "Вы получаете больше выгоды от событий"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Знание событий: рассудок"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "Вы восстанавливаете больше рассудка в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Знание событий: опыт"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "Вы получаете больше опыта в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Знание событий: энергия"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии в событиях"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Знание событий: время"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "Вы тратите меньше времени в событиях"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "Знание событий: рассудок"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "Бонус к восстановлению рассудка в событиях: {0}"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "Знание событий: опыт"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "Бонус к приросту опыта в событиях: {0}"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "Знание событий: энергия"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "Снижение расхода энергии в событиях: {0}"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "Знание событий: время"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "Сокращение затрат времени в событиях: {0}"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "Согревающие мысли"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "Использовав любой расходуемый предмет, вы восстанавливаете тепло"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "Использовав любой расходуемый предмет, вы восстанавливаете ещё больше тепла"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "Согревающие мысли"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "Использовав любой расходуемый предмет, вы восстанавливаете тепло"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "Согревающие мысли"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "Использовав любой расходуемый предмет, вы восстанавливаете тепло"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "Экономия энергии"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "Вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "Вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "Экономия энергии"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "Вы расходуете гораздо меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "Экономия энергии"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "Вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "Ясный ум"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "При высоком уровне рассудка вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "При высоком уровне рассудка вы расходуете гораздо меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "Ясный ум"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "При высоком уровне рассудка вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "Ясный ум"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "При высоком уровне рассудка вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "Свежий воздух"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "При высоком уровне кислорода вы тратите меньше времени при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "При высоком уровне кислорода вы тратите гораздо меньше времени при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "Свежий воздух"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "При высоком уровне кислорода вы тратите меньше времени при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "Свежий воздух"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "При высоком уровне кислорода вы тратите меньше времени при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "Без спешки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "При пробуждении вы восстанавливаете энергию, тепло и кислород"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "При пробуждении вы восстанавливаете ещё больше энергии, тепла и кислорода"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "Без спешки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "При пробуждении вы восстанавливаете энергию, тепло и кислород"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "Без спешки"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "При пробуждении вы восстанавливаете энергию, тепло и кислород"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "Живое тепло"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "Живое тепло"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "Живое тепло"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "Живое тепло"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "Максимальный запас тепла увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "Прилив энергии"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "Прилив энергии"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "Прилив энергии"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "Прилив энергии"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "Максимальный запас энергии увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "Крепкое здоровье"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "Крепкое здоровье"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "Крепкое здоровье"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "Крепкое здоровье"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "Максимальный запас здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "Запас кислорода"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "Запас кислорода"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "Запас кислорода"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "Запас кислорода"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "Максимальный запас кислорода увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "Ясный рассудок"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "Ясный рассудок"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "Ясный рассудок"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "Ясный рассудок"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "Максимальный показатель рассудка увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "Хорошая подготовка"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "Максимальный запас энергии, тепла, кислорода, рассудка и здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "Хорошая подготовка"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "Хорошая подготовка"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "Максимальный запас энергии, тепла, кислорода, рассудка и здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "Хорошая подготовка"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "Максимальный запас энергии, тепла, кислорода, рассудка и здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "Хорошая подготовка"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "Максимальный запас энергии, тепла, кислорода, рассудка и здоровья увеличен"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "Хорошая подготовка"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "Аномалия"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "Вы тратите больше времени на передвижение"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "Сильная аномалия"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "Вы тратите гораздо больше времени на передвижение"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "Ясно"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "Хорошая погода"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "Высокая вероятность ясной погоды"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "Сильные бури"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "Очень ненастная погода"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "Очень высокая вероятность бурь"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "Сильный холод"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "Очень холодная погода"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "Очень высокая вероятность холодной погоды"
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "Плохая погода"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "Опасные погодные условия"
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "Высокая вероятность холодной погоды и бурь"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "Очень плохая погода"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "Крайне опасные погодные условия"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "Очень высокая вероятность холодной погоды и бурь"
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "Огромная гора."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "Найдите 3 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "Обширный горный ландшафт."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "Найдите 2 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "Небольшая гора с умеренным перепадом высот."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "Обычная гора с умеренным перепадом высот."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "Горная гряда с относительно пологим склоном."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "Огромная гора."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "Найдите 3 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "Огромная гора с опасным рельефом."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "Найдите 3 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "Огромная гора. Здесь можно проложить множество маршрутов,<br>но вам придётся часто подниматься и спускаться."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "Найдите на большой территории 3 временные аномалии.<br>Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "Огромная гора. Лишь небольшая её часть находится в зоне смерти,<br>но рельеф здесь крайне сложен."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "Найдите на большой территории 3 временные аномалии.<br>Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "Крупная гора с умеренным перепадом высот."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "Крупная гора с умеренным перепадом высот.<br>Здесь можно проложить множество маршрутов, но вам придётся часто подниматься и спускаться."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "Крупная гора с умеренным перепадом высот.<br>Обладает опасным рельефом."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "Крутая гора конусообразной формы с огромным кратером."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "Небольшая гора с крайне крутым склоном.<br>Значительная её часть находится в зоне смерти."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "Пологая с одной стороны гора с кратером и умеренным перепадом высот."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "Найдите на большой территории 3 временные аномалии.<br>Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "Горная котловина с рядом возвышенностей."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "Найдите 3 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "Крупная гора с умеренным перепадом высот.<br>Обладает опасным рельефом."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "Крупная гора с умеренным перепадом высот."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "Крупная гора с крутым склоном.<br>Значительная часть горы находится в зоне смерти, зато здесь не такой сложный рельеф."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "Огромная гора."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "Найдите 4 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "Аномалия 5"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "Крупная горная гряда."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "Найдите на большой территории 4 временные аномалии.<br>Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "Аномалия 5"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "Крутая гора конусообразной формы с огромным кратером.<br>Обладает опасным рельефом."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "Найдите 4 временные аномалии, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "Аномалия 5"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "Крутая гора конусообразной формы с широким кратером."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "Найдите на большой территории 4 временные аномалии.<br>Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "Аномалия 5"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "Гора с обширным рельефом."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "Гора с обширным рельефом.<br>Значительная её часть находится в зоне смерти."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "Крупная гора с крутым склоном.<br>Значительная её часть находится в зоне смерти."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "Крупная гора с умеренным перепадом высот."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "Крупная гора с крутым склоном.<br>Обладает опасным рельефом."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "Первое восхождение"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "Это ваше первое восхождение! Вы полны решимости!"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "— Кстати, у тебя явно болезнь временной петли. Меня это беспокоит. Я могу тебе помочь, но мои запасы лекарства почти на исходе."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "— Я смогу привести тебя в чувство ещё только один раз. Последний раз, понимаешь? После этого ты впадёшь в некое подобие комы. Твой разум останется затуманенным на всю жизнь."
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "Крупная и неприступная горная гряда."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "Найдите на большой территории 5 временных аномалий. Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "Аномалия 5"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "Внушительная горная гряда с крутыми каменными пиками."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "Найдите на большой территории 5 временных аномалий. Затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "Аномалия 1"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "Аномалия 2"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "Аномалия 3"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "Аномалия 4"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "Аномалия 5"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "Колоссальный кратер с крутыми каменными утёсами."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "Дополнительное задание"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "Огромная и непредсказуемая гора с крайне опасным рельефом."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "Взойдите на вершину, а затем отправляйтесь к цели."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "Вершина"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "Цель"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "Знания и навыки"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "Эффекты улучшений, приобретённых на базе.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "Природные условия и снаряжение"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "Эффекты текущей горы, природных условий и используемого снаряжения.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "Временные эффекты"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "Эффекты, которые исчезнут через некоторое время.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "Эффекты на время задания"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "Эффекты, которые исчезнут в конце задания.<br>Щёлкните, чтобы увидеть их."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Разогретые лёгкие"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Вы восстанавливаете больше кислорода при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Вы восстанавливаете гораздо больше кислорода при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Разогретые лёгкие"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Разогретые лёгкие"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Вы восстанавливаете больше кислорода при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "Пылкий дух"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Вы теряете меньше рассудка во время передвижения при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Вы теряете гораздо меньше рассудка во время передвижения при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "Пылкий дух"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка во время передвижения при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "Пылкий дух"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "Вы теряете меньше рассудка во время передвижения при высоком уровне тепла"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "Бодрый шаг"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "Если у вас много здоровья, вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "Если у вас много здоровья, вы расходуете гораздо меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "Бодрый шаг"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "Если у вас много здоровья, вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "Бодрый шаг"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "Если у вас много здоровья, вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "Второе дыхание"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "Если у вас мало здоровья, вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "Если у вас мало здоровья, вы расходуете гораздо меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "Второе дыхание"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "Если у вас мало здоровья, вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "Второе дыхание"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "Если у вас мало здоровья, вы расходуете меньше энергии при передвижении, на подъёмах и спусках"
+    }
+  ]
+}

@@ -1,0 +1,2864 @@
+{
+  "LOCA": [
+    {
+      "key": "STAT_ENERGY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_energy\">體能</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"energy\">體能</style>會在攀爬中消耗。<br>陡峭的通道會消耗更多體能。</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_sanity\">神志</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"sanity\">神志</style>會緩慢減少，但這是伴隨攀登而來的精神壓力造成的。</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_oxygen\">氧氣</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"oxygen\">氧氣</style>會在大山高處的死亡地帶消耗。</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">體溫</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}{1} / {2}</font></style><br><style=\"description\"><style=\"bodytemp\">體溫</style>通常會在夜間和寒冷天氣中下降。</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_health\">生命值</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\">當<style=\"health\">生命值</style>降為0時，你的旅程就結束了！</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_exp\">經驗值</style></style><br><style=\"numbers_stat\">等級<font=\"numbers\">{0}<br>{1}/{2}下一級</font></style><br><style=\"description\"><style=\"exp\">經驗值</style>用於啟動能幫你完成當前任務的新技能。</style>"
+    },
+    {
+      "key": "HUD_HEIGHT",
+      "value": "<style=\"header\"><style=\"i_height\">高度</style></style><br><br><font=\"numbers_m\">{0}</font>米<br><br><style=\"warning\">死亡地帶：<font=\"numbers_m\">{1}</font>米</style><br><style=\"description\">處於{1}米的高度時，你將抵達死亡地帶。<br>在死亡地帶會消耗<style=\"oxygen\">氧氣</style>。</style>"
+    },
+    {
+      "key": "STAT_ENERGY",
+      "value": "體能"
+    },
+    {
+      "key": "STAT_BODYTEMP",
+      "value": "體溫"
+    },
+    {
+      "key": "STAT_OXYGEN",
+      "value": "氧氣"
+    },
+    {
+      "key": "STAT_SANITY",
+      "value": "神志"
+    },
+    {
+      "key": "STAT_HEALTH",
+      "value": "生命值"
+    },
+    {
+      "key": "STAT_EXP",
+      "value": "經驗值"
+    },
+    {
+      "key": "STAT_TIME",
+      "value": "時間"
+    },
+    {
+      "key": "STAT_PERCENT",
+      "value": "<style=\"description\"> （最大數值的{0}%）</style>"
+    },
+    {
+      "key": "ITEM_TENT",
+      "value": "允許玩家在帳篷裡休息。"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_INVENTORY",
+      "value": "<style=\"description\">滑鼠左擊：移動。</style>"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_LOADOUT",
+      "value": "<style=\"description\">滑鼠左擊：移動。</style>"
+    },
+    {
+      "key": "ITEM_EQUIPMENT",
+      "value": "<style=\"description\">裝備 - 滑鼠左鍵+拖動到裝備欄。<br>每種類型的裝備同時只能穿戴上一件。</style>"
+    },
+    {
+      "key": "ITEM_PASSIVE",
+      "value": "<style=\"description\">在洞穴事件中十分有用。<br>滑鼠左鍵：移動。</style>"
+    },
+    {
+      "key": "ITEM_GENERIC",
+      "value": "<style=\"description\">也許能派上用場。<br>滑鼠左鍵：移動。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_STATS_ALREADY_FILLED",
+      "value": "<style=\"description_forbidden\">這件道具目前沒有效果。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_ALREADY_ACTIVE",
+      "value": "<style=\"description_forbidden\">這件道具目前仍處於啟動狀態。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">這件道具無法在事件中使用。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_LEFTOVER",
+      "value": "<style=\"description_forbidden\">遺留物中的道具可以移動時無法使用。</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">這項技能無法在事件對話中使用。</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">這件道具目前無法使用。</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">這項技能目前無法使用。</style>"
+    },
+    {
+      "key": "HOVER_ITEM_TEMPEFFECTS",
+      "value": ""
+    },
+    {
+      "key": "STAT_CURRENT_TIME",
+      "value": "<style=\"header\"><style=\"i_time\">時間</style></style><br><style=\"numbers_stat\"><font=\"numbers_m\">{0}<br>{1}</font></style><br><style=\"description\"><size=70%>每天的日出時分為<font=\"numbers_m_i\">{2}</font>。<br>夜晚的日落時分為<font=\"numbers_m_i\">{3}</font>。</size></style>"
+    },
+    {
+      "key": "TIME_DAY",
+      "value": "白天"
+    },
+    {
+      "key": "TIME_NIGHT",
+      "value": "夜晚"
+    },
+    {
+      "key": "TIME_NIGHT_CHANGE",
+      "value": "黃昏"
+    },
+    {
+      "key": "TIME_DAY_CHANGE",
+      "value": "黎明"
+    },
+    {
+      "key": "HUD_WEATHER",
+      "value": "<style=\"header\">天氣</style><br><br>{0}<br>{1}<br><br><size=90%>{2}</size><br><br><style=\"description\">天氣每天都會變化。<br>天氣會對玩家的遊戲產生影響。</style>"
+    },
+    {
+      "key": "TOGGLE_HUD_SIZE_OPTION",
+      "value": "放大HUD"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_KEYBOARD",
+      "value": "狀態預覽面板（鍵盤/滑鼠輸入）"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_GAMEPAD",
+      "value": "狀態預覽面板（遊戲控制器輸入）"
+    },
+    {
+      "key": "BTN_CHANGE_CHARACTER",
+      "value": "變更角色"
+    },
+    {
+      "key": "BTN_CHANGE_LOADOUT",
+      "value": "打開庫存"
+    },
+    {
+      "key": "BTN_START_MISSION",
+      "value": "開始任務"
+    },
+    {
+      "key": "WORLDMAP_TITLE",
+      "value": "地圖"
+    },
+    {
+      "key": "WORLDMAP_DESCRIPTION",
+      "value": "在這裡規劃任務。"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_TITLE",
+      "value": "單一天氣"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_DESCRIPTION",
+      "value": "某種異常現象似乎讓這座山上的天氣陷入了一個無盡的時間迴圈……"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_HOVER",
+      "value": "這座山裡唯一可能出現的是{0}天氣。<br> ({1})"
+    },
+    {
+      "key": "CHARACTER_SCREEN_TITLE",
+      "value": "角色"
+    },
+    {
+      "key": "CHARACTER_SKILL_ALREADY_UNLOCKED_HOVER",
+      "value": "你已經解鎖了{0}的技能"
+    },
+    {
+      "key": "CHAR_DEAD_PANEL_OVERLAY",
+      "value": "未準備好行動"
+    },
+    {
+      "key": "WEATHER_CLEAR",
+      "value": "晴朗"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_CLEAR",
+      "value": "正常天氣"
+    },
+    {
+      "key": "WEATHER_COLD",
+      "value": "寒冷"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_COLD",
+      "value": "體溫流失增加"
+    },
+    {
+      "key": "WEATHER_STORM",
+      "value": "暴風雪"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_STORM",
+      "value": "攀爬時體能消耗增加"
+    },
+    {
+      "key": "HOVER_TEMP_EFFECT",
+      "value": "<style=\"header\">{0}</style><br><br>結束時間：<font=\"numbers_m\">{1}</font>小時<br><br><style=\"description\">{2}</style><br><style=\"numbers_stat\">{3}</style>"
+    },
+    {
+      "key": "HOVER_TRAIT",
+      "value": "<style=\"header\">{0}</style><br><br><style=\"description\">{1}</style><br><style=\"numbers_stat\">{2}</style>"
+    },
+    {
+      "key": "BTN_WALK",
+      "value": "行走"
+    },
+    {
+      "key": "BTN_PAUSE_WALK",
+      "value": "停止"
+    },
+    {
+      "key": "BTN_INVENTORY",
+      "value": "庫存"
+    },
+    {
+      "key": "TITLE_INVENTORY",
+      "value": "庫存"
+    },
+    {
+      "key": "TITLE_ITEMS",
+      "value": "背包"
+    },
+    {
+      "key": "BTN_YES",
+      "value": "背包"
+    },
+    {
+      "key": "BTN_NO",
+      "value": "否"
+    },
+    {
+      "key": "BTN_LEVELUP",
+      "value": "等級提升"
+    },
+    {
+      "key": "TITLE_LEVELUP",
+      "value": "等級提升"
+    },
+    {
+      "key": "DESCRIPTION_LEVELUP",
+      "value": "這座山上的經歷讓你變得更強大了。<br>選擇一種特質吧！"
+    },
+    {
+      "key": "REMAINING_USES",
+      "value": "剩餘次數："
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM",
+      "value": "丟棄道具？"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM_DESCRIPTION",
+      "value": "你正準備丟棄<sprite=\"{0}\" name=\"{1}\"> <style=\"subtract\">{2} x1</style>。是否確定？"
+    },
+    {
+      "key": "MAIN_MENU_NEW_GAME",
+      "value": "新遊戲"
+    },
+    {
+      "key": "MAIN_MENU_OPTIONS",
+      "value": "選項"
+    },
+    {
+      "key": "MAIN_MENU_QUIT",
+      "value": "退出遊戲"
+    },
+    {
+      "key": "MAIN_MENU_CREDITS",
+      "value": "製作組"
+    },
+    {
+      "key": "MAIN_MENU_LANGUAGE",
+      "value": "語言"
+    },
+    {
+      "key": "MAIN_MENU_BACK",
+      "value": "返回"
+    },
+    {
+      "key": "MAIN_MENU_LOADING",
+      "value": "讀取中…"
+    },
+    {
+      "key": "DAEDELIC_LEGAL_LINES",
+      "value": "© 2022 Daedalic Entertainment GmbH.<br>Daedalic標識為德國Daedalic Entertainment GmbH公司的商標，版權所有。"
+    },
+    {
+      "key": "ENGLISH",
+      "value": "Magyar"
+    },
+    {
+      "key": "GERMAN",
+      "value": "Deutsch"
+    },
+    {
+      "key": "PAUSE_MENU_CONTINUE",
+      "value": "繼續"
+    },
+    {
+      "key": "PAUSE_MENU_RETRY",
+      "value": "重試"
+    },
+    {
+      "key": "PAUSE_MENU_MAIN_MENU",
+      "value": "返回主選單"
+    },
+    {
+      "key": "PAUSE_MENU",
+      "value": "暫停"
+    },
+    {
+      "key": "PAUSE_MENU_HELP",
+      "value": "幫助"
+    },
+    {
+      "key": "EVENT_UNKNOWN_OUTCOME",
+      "value": "（結果未知...）"
+    },
+    {
+      "key": "EVENT_END",
+      "value": "（完成事件）"
+    },
+    {
+      "key": "EVENT_MISSING_ITEM",
+      "value": "要求"
+    },
+    {
+      "key": "EVENT_STATICHOVER_ITEMS",
+      "value": "道具"
+    },
+    {
+      "key": "EVENT_STATICHOVER_STATUS",
+      "value": "狀態"
+    },
+    {
+      "key": "EVENT_STATICHOVER_TIME",
+      "value": "時間"
+    },
+    {
+      "key": "WEATHER_FORECAST_TOMORROW",
+      "value": "明日天氣"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_ENTERED",
+      "value": "進入死亡地帶"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_LEFT",
+      "value": "離開死亡地帶"
+    },
+    {
+      "key": "SKILLTARGETED_ERROR_RANGE",
+      "value": "太遠了！"
+    },
+    {
+      "key": "MAIN_MENU_CONTINUE",
+      "value": "繼續"
+    },
+    {
+      "key": "BTN_OK",
+      "value": "確認"
+    },
+    {
+      "key": "BTN_SKILLS",
+      "value": "技能"
+    },
+    {
+      "key": "BTN_CANCEL",
+      "value": "取消"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL",
+      "value": "選擇技能"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL_DESCRIPTION",
+      "value": "是否想要選擇<br>{0}？"
+    },
+    {
+      "key": "BTN_SKILLACTIVE",
+      "value": "{0}後準備完畢"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_TITLE",
+      "value": "留置道具"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_DESCRIPTION",
+      "value": "所有處於‘遺留物’中的道具會永久丟失。是否繼續？"
+    },
+    {
+      "key": "TITLE_LEFTOVERS",
+      "value": "遺留物"
+    },
+    {
+      "key": "CONFIRM",
+      "value": "確認"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT",
+      "value": "垂直同步反覆運算"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT_HOVER",
+      "value": "<style=header>垂直同步</style><br><style=description>會基於螢幕的畫面刷新率（Hz）來限制每秒幀數（FPS）。<br>此數值越高，生成的每秒幀數越低，性能和顯卡的工作負載就越穩定。</style>"
+    },
+    {
+      "key": "CHOOSE",
+      "value": "選擇"
+    },
+    {
+      "key": "UI_CHOICE_CONSTRAINT_TITLE",
+      "value": "選擇你的挑戰！"
+    },
+    {
+      "key": "UI_MISSIONS_TITLE",
+      "value": "任務"
+    },
+    {
+      "key": "UI_MISSION_SCREEN_TITLE",
+      "value": "選擇任務"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_TITLE",
+      "value": "永恆黑夜"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_DESCRIPTION",
+      "value": "這座山被凍結在了時間裡，陷入了無盡的黑夜。"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_HOVER",
+      "value": "夜晚效果在遊戲全程生效。"
+    },
+    {
+      "key": "CONSTRAINTS",
+      "value": "限制"
+    },
+    {
+      "key": "REWARDS",
+      "value": "獎勵"
+    },
+    {
+      "key": "FAIL_REWARDS",
+      "value": "失敗"
+    },
+    {
+      "key": "MISSION_HOVER_ALREADY_COMPLETED",
+      "value": "此任務已完成。"
+    },
+    {
+      "key": "MISSION_HOVER_LOCKED",
+      "value": "支線任務尚未解鎖。完成{0}的主線章節即可解鎖。"
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED",
+      "value": "此區域尚未解鎖。<br>成功完成區域'{1}'的{0}個支線任務即可開啟本章節。"
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED_PROGRESS",
+      "value": "當前完成："
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED_NEW",
+      "value": "此任務已經解鎖，尚未開啟。"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED",
+      "value": "此任務已經解鎖，尚未完成。"
+    },
+    {
+      "key": "MISSION_GOAL_REACH",
+      "value": "抵達："
+    },
+    {
+      "key": "MISSION_GOAL_COLLECT",
+      "value": "收集："
+    },
+    {
+      "key": "MISSION_GOAL_SUMMARY",
+      "value": "找到道具"
+    },
+    {
+      "key": "SHOWCURRENTMISSION",
+      "value": "顯示當前任務"
+    },
+    {
+      "key": "MISSION_CLICK_HINT",
+      "value": "點擊查看當前任務。"
+    },
+    {
+      "key": "TARGET_TILE_START",
+      "value": "出發點"
+    },
+    {
+      "key": "TARGET_TILE_PEAK",
+      "value": "頂峰"
+    },
+    {
+      "key": "TARGET_TILE_CAMP",
+      "value": "營地"
+    },
+    {
+      "key": "TARGET_TILE_WEATHER STATION",
+      "value": "廢棄氣象站"
+    },
+    {
+      "key": "MISSION_CHARACTER_REWARD_TITLE",
+      "value": "使用此角色完成時："
+    },
+    {
+      "key": "ALREADY_UNLOCKED",
+      "value": "已解鎖"
+    },
+    {
+      "key": "EQUIPMENT",
+      "value": "裝備"
+    },
+    {
+      "key": "LEFTOVER_WARNING",
+      "value": "警告！<br>‘遺留物’中還有道具。繼續後將會丟失。"
+    },
+    {
+      "key": "DO_NOT_SHOW_AGAIN",
+      "value": "不再顯示"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_TITLE",
+      "value": "使用道具？"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_DESCRIPTION",
+      "value": "是否確定使用<sprite=\"{0}\" name=\"{1}\"> {2}？"
+    },
+    {
+      "key": "SKILLS_TITLE",
+      "value": "技能"
+    },
+    {
+      "key": "LEVELUP_TITLE",
+      "value": "等級提升"
+    },
+    {
+      "key": "LEVELUP_DESCRIPTION",
+      "value": "選擇下一個技能"
+    },
+    {
+      "key": "MOUNTAIN1_NAME",
+      "value": "大山1"
+    },
+    {
+      "key": "MOUNTAIN1_DESCRIPTION",
+      "value": "這座大山是你漫長而艱辛的攀登之旅的起點。<br>你的準備工作和毅力將會在這裡得到測試"
+    },
+    {
+      "key": "MOUNTAIN2_NAME",
+      "value": "大山2"
+    },
+    {
+      "key": "MOUNTAIN2_DESCRIPTION",
+      "value": "大山變得越發崎嶇，也更加無情。<br>翻越第一座大山之後，希望你依然裝備充足、身心健康、體力充沛。"
+    },
+    {
+      "key": "MOUNTAIN3_NAME",
+      "value": "大山3"
+    },
+    {
+      "key": "MOUNTAIN3_DESCRIPTION",
+      "value": "最後的頂峰高聳入雲 —— 雄偉壯觀，看似難以翻越。<br>前一座是一場耐力測驗，但征服這一座幾乎是在挑戰極限...<br>而且你已經無路可退了。<br>你必須不惜一切代價登上頂峰！"
+    },
+    {
+      "key": "SCAR_DEFAULT_EXPLANATION",
+      "value": "攀爬之後的你感覺筋疲力盡…"
+    },
+    {
+      "key": "CLIMB_FINISH_TITLE",
+      "value": "營地"
+    },
+    {
+      "key": "CLIMB_FINISH_DAYS",
+      "value": "前一座山的日程消耗："
+    },
+    {
+      "key": "BTN_CLIMB_CONTINUE",
+      "value": "繼續"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_TITLE",
+      "value": "時間迴圈煉獄"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_DESCRIPTION",
+      "value": "你所有的角色都感染了可怕的時間迴圈症，陷入了無法治癒的清醒昏迷狀態。現在他們已經無藥可救了。<br>故事將會在這裡畫上句點。"
+    },
+    {
+      "key": "RUN_DEATH_TITLE",
+      "value": "死亡"
+    },
+    {
+      "key": "RUN_FINISH_TITLE",
+      "value": "成功"
+    },
+    {
+      "key": "BTN_RUN_CONTINUE",
+      "value": "主選單"
+    },
+    {
+      "key": "BTN_DEATH_CONTINUE",
+      "value": "主選單"
+    },
+    {
+      "key": "RUN_FINISH_DAYS",
+      "value": "天數"
+    },
+    {
+      "key": "RUN_FINISH_LEVEL",
+      "value": "等級："
+    },
+    {
+      "key": "RUN_FINISH_CLIMBS",
+      "value": "登頂山峰："
+    },
+    {
+      "key": "RUN_FINISH_HEIGHT",
+      "value": "最大高度："
+    },
+    {
+      "key": "ROUTE1_NAME",
+      "value": "路線1"
+    },
+    {
+      "key": "ROUTE2_NAME",
+      "value": "路線2"
+    },
+    {
+      "key": "ROUTE3_NAME",
+      "value": "路線3"
+    },
+    {
+      "key": "TENT_DURABILITY",
+      "value": "帳篷耐久"
+    },
+    {
+      "key": "NO_TENT_AVAILABLE",
+      "value": "庫存中沒有帳篷"
+    },
+    {
+      "key": "SLEEP_LOCATION_TENT",
+      "value": "休息"
+    },
+    {
+      "key": "SLEEP_LOCATION_REST",
+      "value": "休息"
+    },
+    {
+      "key": "SLEEP_LOCATION_CAVE",
+      "value": "安靜的洞穴"
+    },
+    {
+      "key": "BTN_START",
+      "value": "開始"
+    },
+    {
+      "key": "BTN_SELECTROUTE",
+      "value": "選擇"
+    },
+    {
+      "key": "STATUS_SLEEPING",
+      "value": "熟睡"
+    },
+    {
+      "key": "STATUS_AWAKE",
+      "value": "蘇醒"
+    },
+    {
+      "key": "BTN_SLEEP",
+      "value": "睡覺"
+    },
+    {
+      "key": "SLEEP_DURATION",
+      "value": "睡眠持續時間"
+    },
+    {
+      "key": "DURABILITY_CAVE",
+      "value": "洞穴<size=66%>（不需要帳篷）</size>"
+    },
+    {
+      "key": "SLEEP_WINDOW_TITLE",
+      "value": "休息"
+    },
+    {
+      "key": "SLEEP_EXECUTION_TITLE",
+      "value": "睡眠中…"
+    },
+    {
+      "key": "USE_TENT",
+      "value": "使用帳篷"
+    },
+    {
+      "key": "SHORT_SLEEP",
+      "value": "小睡"
+    },
+    {
+      "key": "LONG_SLEEP",
+      "value": "長睡"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_NAME",
+      "value": "腳趾凍僵"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "你的腳趾頭被凍僵了"
+    },
+    {
+      "key": "CRITENERGYSCAR_NAME",
+      "value": "腳踝受傷"
+    },
+    {
+      "key": "CRITENERGYSCAR_DESCRIPTION",
+      "value": "你的腳踝受傷了"
+    },
+    {
+      "key": "CRITOXYGENSCAR_NAME",
+      "value": "高原反應"
+    },
+    {
+      "key": "CRITOXYGENSCAR_DESCRIPTION",
+      "value": "你產生了高原反應"
+    },
+    {
+      "key": "CRITSANITYSCAR_NAME",
+      "value": "噩夢"
+    },
+    {
+      "key": "CRITSANITYSCAR_DESCRIPTION",
+      "value": "你被噩夢所困擾"
+    },
+    {
+      "key": "EXHAUSTED_NAME",
+      "value": "精疲力竭"
+    },
+    {
+      "key": "EXHAUSTED_DESCRIPTION",
+      "value": "你已經精疲力竭"
+    },
+    {
+      "key": "FROSTBITTEN_NAME",
+      "value": "凍傷"
+    },
+    {
+      "key": "FROSTBITTEN_DESCRIPTION",
+      "value": "山上刺骨的寒冷讓你難以忍受"
+    },
+    {
+      "key": "ADVENTURER_NAME",
+      "value": "冒險家"
+    },
+    {
+      "key": "ADVENTURER_INTRO",
+      "value": "你曾潛入海洋深處尋找遺失的寶藏，踏入雨林深處研究早已滅絕的文化，還探訪過無盡沙漠中出土的古老廢墟。對你而言任何冒險都不算大，也沒有任何事物能阻擋你的步伐。現在，一個全新的挑戰正在等待著你。<br>一座遙遠的孤島，長久地隱藏在團團迷霧之後。一片沒有任何記錄的山脈 —— 還有高聳入雲的巔峰，正等待著你去征服。<br>這是屬於冒險家的美夢 —— 也是讓你的名字載入史冊的機會。"
+    },
+    {
+      "key": "SCIENTIST_NAME",
+      "value": "科學家"
+    },
+    {
+      "key": "SCIENTIST_INTRO",
+      "value": "你開發了一個革命性的理論：你相信有一種未經發現的電磁能源，可以為全世界提供足夠的能量。專家們嘲笑你，把你的理論當成是科幻小說，但那些目光短淺的同僚只會激發你繼續研究的渴望。<br>當你瞭解到一座神秘島嶼憑空出現之後，你看到自己的機會來了。根據你的初步計算，這片巨大山脈的環境無疑是一處理想的電磁熱點，而山巔則擁有最強的輻射。<br>你需要登上頂峰，一勞永逸地證明自己的理論 —— 恢復屬於你的名譽。"
+    },
+    {
+      "key": "JOURNALIST_NAME",
+      "value": "記者"
+    },
+    {
+      "key": "JOURNALIST_INTRO",
+      "value": "在探尋真相的無窮之路上，你不斷從一個危機四伏的區域朝著下一處進發。對你而言，沒有什麼衝突區域是危險的，也沒有什麼故事是有爭議的。普通人需要瞭解精英階層的黑暗陰謀 —— 還有誰能比你更能啟發他們呢？<br>當你聽到傳言說有一整座島嶼長久以來一直隱藏在公眾的視野之外，立即就開始了資訊挖掘：一支神秘消失的佔領勢力，大山深處的機密試驗？<br>你必須登上頂峰，親自探查一番。如果傳言的真實性得到證實，這可能成為你職業生涯中最棒的故事 —— 就連普利策獎也會成為你的囊中之物。"
+    },
+    {
+      "key": "BTN_SELECTCHARACTER",
+      "value": "選擇"
+    },
+    {
+      "key": "SCAR_CRITENERGY_EXPLANATION",
+      "value": "你掙扎著想要繼續前進..."
+    },
+    {
+      "key": "SCAR_CRITBODYTEMP_EXPLANATION",
+      "value": "你真的冷得受不了..."
+    },
+    {
+      "key": "SCAR_CRITOXYGEN_EXPLANATION",
+      "value": "缺氧讓你頭暈眼花…"
+    },
+    {
+      "key": "SCAR_CRITSANITY_EXPLANATION",
+      "value": "你開始看見一些東西…"
+    },
+    {
+      "key": "SKILL_LEVEL_0",
+      "value": "I"
+    },
+    {
+      "key": "SKILL_LEVEL_1",
+      "value": "II"
+    },
+    {
+      "key": "SKILL_LEVEL_2",
+      "value": "III"
+    },
+    {
+      "key": "STAT_ENERGY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_energy\">體能</style></style><br><style=\"description\"><style=\"energy\">體能</style>會在攀爬中消耗。<br>陡峭的通道會消耗更多體能。</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_sanity\">神志</style></style><br><style=\"description\"><style=\"sanity\">神志</style>會緩慢減少，但這是隨著攀登而來的精神壓力造成的。</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_oxygen\">氧氣</style></style><br><style=\"description\"><style=\"oxygen\">氧氣</style>會在大山高處的死亡地帶消耗。</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">體溫</style></style><br><style=\"description\"><style=\"bodytemp\"體溫</style>通常會在夜間和寒冷天氣中下降。</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_health\">生命值</style></style><br><style=\"description\">當你的<style=\"health\">生命值</style>達到0時，你的旅程就結束了！</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_exp\">經驗值</style></style><br><style=\"description\">你會收穫<style=\"exp\">經驗值</style>作為事件和遭遇的結果。</style>"
+    },
+    {
+      "key": "STAT_TIME_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_time\">時間</style></style><br><style=\"description\">當你忙著處理事件或攀登時，時間<br>會緩緩流逝，你的狀態也會相應地更新。</style>"
+    },
+    {
+      "key": "UNLOCKS_SKILLTREE",
+      "value": "解鎖專精"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_FULL",
+      "value": "狀態全滿"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_EMPTY",
+      "value": "狀態全空"
+    },
+    {
+      "key": "CHARACTER_STAR_HOVER",
+      "value": "已在下列難度中成功登頂："
+    },
+    {
+      "key": "LOCKED_DIFFICULTY_EXPLANATION",
+      "value": "若要解鎖下級難度，<br>需要使用此角色<br>在<b>{0}</b>難度下完成登頂！"
+    },
+    {
+      "key": "SKILL_COSTS_CANNOT_AFFORD",
+      "value": "你的{0}太低，無法使用此技能"
+    },
+    {
+      "key": "ITEM_YOU_FULFILL",
+      "value": "當前擁有"
+    },
+    {
+      "key": "ITEM_YOU_ARE_MISSING",
+      "value": "缺少"
+    },
+    {
+      "key": "STAT_YOU_FULFILL",
+      "value": "擁有足夠"
+    },
+    {
+      "key": "STAT_YOU_ARE_MISSING",
+      "value": "未擁有足夠"
+    },
+    {
+      "key": "TE_YOU_FULFILL",
+      "value": "擁有效果"
+    },
+    {
+      "key": "TE_YOU_ARE_MISSING",
+      "value": "缺少效果"
+    },
+    {
+      "key": "EVENT_STATICHOVER_EFFECTS",
+      "value": "效果"
+    },
+    {
+      "key": "SKILL_TREE_LIST_EXPLANATION",
+      "value": "技能和專精需要通過經驗值解鎖"
+    },
+    {
+      "key": "MAX_LEVEL_DESCRIPTION",
+      "value": "已達最高級"
+    },
+    {
+      "key": "CHARACTERSELECTION_ADVENTURER",
+      "value": "作為一名徹頭徹尾的冒險家，你總是在尋找下一個大挑戰。"
+    },
+    {
+      "key": "CHARACTERSELECTION_SCIENTIST",
+      "value": "作為一個野心勃勃的科學家，你游走在天才與瘋狂的一線之間。"
+    },
+    {
+      "key": "CHARACTERSELECTION_JOURNALIST",
+      "value": "作為一名調查記者，你周遊世界，旨在揭露重大醜聞。"
+    },
+    {
+      "key": "MOUNTAIN1_ADVENTURER_DESCRIPTION",
+      "value": "登上第一座頂峰。但是要記住，只有在安全返回大本營之後，你才算征服了這座大山。在那之前，這座大山才是你的主人。"
+    },
+    {
+      "key": "MOUNTAIN2_ADVENTURER_DESCRIPTION",
+      "value": "第二座頂峰等待著你。你必須征服這座大山 —— 還有內在的自我。"
+    },
+    {
+      "key": "MOUNTAIN3_ADVENTURER_DESCRIPTION",
+      "value": "如果你想在史冊上看見自己的名字，那就必須登上第三座頂峰。你能在登山史冊中千古留名嗎？"
+    },
+    {
+      "key": "MOUNTAIN1_SCIENTIST_DESCRIPTION",
+      "value": "登上第一座頂峰，找到電磁能量源頭存在的證據。"
+    },
+    {
+      "key": "MOUNTAIN2_SCIENTIST_DESCRIPTION",
+      "value": "最初的解讀未能收穫你期望中的突破。你必須登上第二座頂峰，收集更多資料。"
+    },
+    {
+      "key": "MOUNTAIN3_SCIENTIST_DESCRIPTION",
+      "value": "輻射越來越強了。登上最後一座頂峰，向世界證明你是一名傑出的研究者。"
+    },
+    {
+      "key": "MOUNTAIN1_JOURNALIST_DESCRIPTION",
+      "value": "爬上第一座大山，查證有關試驗的傳言是真是假。"
+    },
+    {
+      "key": "MOUNTAIN2_JOURNALIST_DESCRIPTION",
+      "value": "你能感覺到自己就要揭開故事的謎底了。登上第二座頂峰，收集更多資訊。"
+    },
+    {
+      "key": "MOUNTAIN3_JOURNALIST_DESCRIPTION",
+      "value": "再爬一次就夠了。調查記者夢寐以求的普利策獎已經唾手可得。"
+    },
+    {
+      "key": "LOCKED",
+      "value": "尚未解鎖"
+    },
+    {
+      "key": "CLIMB_OTHER_MOUNTAINS_FIRST",
+      "value": "你必須先登上另一座大山。"
+    },
+    {
+      "key": "CHOSE_MOUNTAINEER_TITLE",
+      "value": "選擇一位登山家"
+    },
+    {
+      "key": "CHOSE_ROUTE_TITLE",
+      "value": "選擇你的路線"
+    },
+    {
+      "key": "HINT_1",
+      "value": "你可以用裝備和技能來優化攀登路線。"
+    },
+    {
+      "key": "HINT_2",
+      "value": "相比普通臺階，攀爬大高度差的臺階時會大幅增加體能消耗。"
+    },
+    {
+      "key": "HINT_3",
+      "value": "除生命值外的任一項屬性降為0時，遊戲不會立即結束。不過你將會面臨十分危險的境地！"
+    },
+    {
+      "key": "HINT_4",
+      "value": "遇到棘手的情況時，主動技能是非常有用的！"
+    },
+    {
+      "key": "HINT_5",
+      "value": "天氣不僅會影響你的屬性狀態變化，還會影響到能見度。一定要留心左下角顯示的天氣狀況！"
+    },
+    {
+      "key": "SCARS",
+      "value": "傷疤"
+    },
+    {
+      "key": "BTN_SORT_BY_TREE",
+      "value": "按組排列"
+    },
+    {
+      "key": "BTN_SORT_BY_DATE",
+      "value": "按順序排列"
+    },
+    {
+      "key": "NO_SKILL_UNLOCKED_YET",
+      "value": "尚未解鎖任何技能。<br>獲得經驗後，你可以提升自己的等級，選擇新技能！"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_LOCKED",
+      "value": "行進途中無法更改難度！"
+    },
+    {
+      "key": "QUALITY_VERY LOW",
+      "value": "極低"
+    },
+    {
+      "key": "QUALITY_LOW",
+      "value": "低"
+    },
+    {
+      "key": "QUALITY_MEDIUM",
+      "value": "中"
+    },
+    {
+      "key": "QUALITY_HIGH",
+      "value": "高"
+    },
+    {
+      "key": "QUALITY_VERY HIGH",
+      "value": "極高"
+    },
+    {
+      "key": "QUALITY_ULTRA",
+      "value": "超高"
+    },
+    {
+      "key": "OPTIONS_FPS",
+      "value": "每秒最大幀數"
+    },
+    {
+      "key": "OPTIONS_BRIGHTNESS",
+      "value": "亮度"
+    },
+    {
+      "key": "FPS_UNCAPPED",
+      "value": "無限制"
+    },
+    {
+      "key": "FPS_30",
+      "value": "30"
+    },
+    {
+      "key": "FPS_60",
+      "value": "60"
+    },
+    {
+      "key": "OPTIONS_DIFFICULTY",
+      "value": "難度"
+    },
+    {
+      "key": "OPTIONS_MASTERVOLUME",
+      "value": "主音量"
+    },
+    {
+      "key": "OPTIONS_BGM",
+      "value": "音樂"
+    },
+    {
+      "key": "OPTIONS_SFX",
+      "value": "聲音"
+    },
+    {
+      "key": "OPTIONS_FULLSCREEN",
+      "value": "全屏"
+    },
+    {
+      "key": "OPTIONS_RESOLUTION",
+      "value": "解析度"
+    },
+    {
+      "key": "OPTIONS_QUALITY",
+      "value": "品質"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_TITLE",
+      "value": "已解鎖難度"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_DESCRIPTION",
+      "value": "恭喜！<br>你成功解鎖了{0}的<b>{1}</b>難度！"
+    },
+    {
+      "key": "VIP_DISCORD_TEXT",
+      "value": "VIP可以解鎖所有難度！"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_DIFFICULTYHASNOREVIVES",
+      "value": "<style=description_forbidden>此難度沒有復活點！</style>"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_SPENTALLREVIVES",
+      "value": "<style=description_forbidden>復活點已耗盡！</style>"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL",
+      "value": "普通"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_FLAVOR",
+      "value": "你能成功登頂嗎？"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_DESCRIPTION",
+      "value": "較低難度。<br>有挑戰，但可以做到。<br><br><i>推薦新手</i>"
+    },
+    {
+      "key": "DIFFICULTY_HARD",
+      "value": "困難"
+    },
+    {
+      "key": "DIFFICULTY_HARD_FLAVOR",
+      "value": "更大的挑戰"
+    },
+    {
+      "key": "DIFFICULTY_HARD_DESCRIPTION",
+      "value": "難度增加。<br>資源消耗更快<br>山中環境和天氣更致命。<br><br><i>推薦有經驗的登山者</i>"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE",
+      "value": "噩夢"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_FLAVOR",
+      "value": "死亡如影隨形"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_DESCRIPTION",
+      "value": "極度困難。<br>行動和攀爬消耗更大<br>山中的地形、天氣和死亡地帶的效果更具破壞性。<br><br><i>推薦擁有極致的無畏精神與鋼鐵意志的登山家</i>"
+    },
+    {
+      "key": "DIFFICULTY_LOCKED_HOVER",
+      "value": ""
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_TITLE",
+      "value": "選擇你的難度！"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_TITLE",
+      "value": "確認難度"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_DESCRIPTION",
+      "value": "警告！<br>選擇在行進途中無法更改。<br>是否確認？"
+    },
+    {
+      "key": "CHANGEABLE_KEYBINDINGS",
+      "value": "（鍵位綁定可以在選項介面調整。）"
+    },
+    {
+      "key": "PAGE",
+      "value": "頁面"
+    },
+    {
+      "key": "TUTORIAL_1_TITLE",
+      "value": "相機控制"
+    },
+    {
+      "key": "TUTORIAL_1_DESCRIPTION",
+      "value": "按住<b>V*</b>鍵並移動滑鼠可以環顧四周。<br><br>按住<b>滑鼠滾輪*</b>的同時移動滑鼠可以旋轉相機鏡頭。<br>滾動滑鼠滾輪可以放大或縮小。"
+    },
+    {
+      "key": "TUTORIAL_2_TITLE",
+      "value": "行動"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION",
+      "value": "要想成功征服一座大山，你必須引導角色沿著格子前往指定目標地。時間和你的狀態只會在角色行動後發生改變。"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION1",
+      "value": "使用滑鼠<b>左鍵*</b>點擊一塊有效格子，為角色行動的目的地添加一個檢查點。點擊其他有效格子可以添加更多檢查點。<br>再次點擊最終檢查點可以開始行動。"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION2",
+      "value": "滑鼠<b>右擊*</b>可以阻止角色行動或移除最終檢查點。"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION3",
+      "value": "作為替代，你可以使用行動按鈕來移動角色或阻止你的角色行動。<br>你也可以使用速度按鈕讓角色的行走速度加快。此效果不會影響遊戲中的屬性狀態。"
+    },
+    {
+      "key": "TUTORIAL_3_TITLE",
+      "value": "地形種類"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION",
+      "value": "遊戲中一共有三種不同的地形種類：岩石、雪地和冰面。每一種都包含一個基礎的標準地形以及額外的附屬地形。 任一類地形的行動消耗取決於角色的裝備和技能。附屬地形可能產生額外消耗或觸發危險事件。"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_STONE",
+      "value": "<b>岩石</b> – 標準地形 – 無特殊屬性<br><br><b>碎石</b> – 附屬地形, 可能觸發危險事件<br><br><b>草地</b> – 附屬地形 – 無特殊屬性"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_SNOW",
+      "value": "<b>雪地</b> – 標準地形 – 無特殊屬性<br><br><b>雪堆</b> – 附屬地形, 可能觸發危險事件<br><br><b>深雪</b> – 附屬地形 – 需要更高的體能消耗。"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_ICE",
+      "value": "<b>冰面</b> – 標準地形 – 無特殊屬性<br><br><b>冰川</b> – 附屬地形, 可能觸發危險事件<br><br><b>尖冰</b> – 附屬地形 – 需要更高的時間和體溫消耗。"
+    },
+    {
+      "key": "TUTORIAL_4_TITLE",
+      "value": "事件"
+    },
+    {
+      "key": "TUTORIAL_4_DESCRIPTION",
+      "value": "山中可能會發生各種各樣的事件。<br>如果你踏上擁有此類標記的區域，則可能會觸發一起事件。"
+    },
+    {
+      "key": "TUTORIAL_5_TITLE",
+      "value": "屬性"
+    },
+    {
+      "key": "TUTORIAL_6_TITLE",
+      "value": "危急狀態"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION1",
+      "value": "當一項屬性（除生命值外）降為0時，你將會陷入危險狀態。"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION2",
+      "value": "當你的任意屬性達到危急水準時，路線預覽會變成紅色。"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION3",
+      "value": "如果你在此種情況下繼續行動，則可能會遭遇危急事件。務必小心 —— 當你的生命值降為0時，你的旅程就結束了！"
+    },
+    {
+      "key": "TUTORIAL_7_TITLE",
+      "value": "等級提升"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION1",
+      "value": "當經驗值達到特定閾值時，就可以提升角色的等級了。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION2",
+      "value": "每次升級都可以在一系列技能中做出選擇。某些技能擁有時間限制，或者需要在特殊狀況下才能啟動。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION3",
+      "value": "右上角的技能視窗提供了選中技能的綜合列表。處於啟動狀態的技能會顯示在螢幕正上方的效果欄中。"
+    },
+    {
+      "key": "TUTORIAL_8_TITLE",
+      "value": "天氣"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION",
+      "value": "每天早晨的天氣都會發生變化。你可以在螢幕左下方查看當前天氣以及明日的天氣預報。遊戲中一共存在三種天氣。"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_CLEAR",
+      "value": "<b>晴朗天氣</b> – 友好的天氣，不會對角色造成任何負面影響。盡情享受登山的樂趣吧。"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_COLD",
+      "value": "<b>寒冷天氣</b> – 對體溫有負面影響，尤其是在夜間。嘗試裝備溫暖的衣物吧。"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_STORM",
+      "value": "<b>暴風雪天氣</b> – 對體能和時間消耗有負面影響，同時會降低你的視野範圍。"
+    },
+    {
+      "key": "TUTORIAL_9_TITLE",
+      "value": "事件"
+    },
+    {
+      "key": "TUTORIAL_9_DESCRIPTION",
+      "value": "事件會挑戰你，讓你做出可能產生多種結果的困難選擇。<br>務必小心 —— 當時間在事件中流逝時，根據山中的情況，你可能會獲得或失去某些屬性，比如體溫。"
+    },
+    {
+      "key": "TUTORIAL_10_TITLE",
+      "value": "睡覺"
+    },
+    {
+      "key": "TUTORIAL_10_DESCRIPTION",
+      "value": "睡覺是恢復體能的好方法。<br>遊戲中共有三種睡覺方式：你可以在地圖上尋找洞穴符號，然後在那裡紮營，也可以使用庫存中的帳篷（每頂帳篷最多能使用三次）。你還可以在沒有帳篷的情況下睡覺；此種情況會對你的屬性產生負面影響，所以只應被當成是最後手段。"
+    },
+    {
+      "key": "SCORE_XP",
+      "value": "經驗得分"
+    },
+    {
+      "key": "SCORE_MOUNTAINS",
+      "value": "登山得分"
+    },
+    {
+      "key": "SCORE_NOCRIT",
+      "value": "避免危急狀態加成"
+    },
+    {
+      "key": "SCORE_CONSUMABLES",
+      "value": "物品得分"
+    },
+    {
+      "key": "SCORE_EQUIPMENT",
+      "value": "裝備得分"
+    },
+    {
+      "key": "SCORE_TIME",
+      "value": "時間加成"
+    },
+    {
+      "key": "GENERIC_KEYBINDING_HINT",
+      "value": "（鍵位綁定：<b>{0}</b>）"
+    },
+    {
+      "key": "TAKEEVERYTHINGFROMLEFTOVERS",
+      "value": "全部拿走"
+    },
+    {
+      "key": "LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "重置"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM",
+      "value": "此道具已解鎖。<br>裝備或打包需要{0}。"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM_UNAFFORDEABLE",
+      "value": "<color=red>至少需要{0}<br>來打包或裝備這件道具。</color>"
+    },
+    {
+      "key": "HOVER_LOADOUT_WITHDRAWN_ITEM",
+      "value": "道具打包需要{0}。"
+    },
+    {
+      "key": "BTN_LEAVE_EVERYTHING_TITLE",
+      "value": "重置"
+    },
+    {
+      "key": "HOVER_BTN_LEAVE_EVERYTHING",
+      "value": "移除庫存中的裝備和道具可以釋放庫存的容量。"
+    },
+    {
+      "key": "BTN_SHOW_MISSION_TITLE",
+      "value": "顯示任務"
+    },
+    {
+      "key": "HOVER_BTN_SHOW_MISSION",
+      "value": "選中時<br>顯示當前任務的概述。"
+    },
+    {
+      "key": "BTN_TAKE_EVERYTHING_TITLE",
+      "value": "全部拿走"
+    },
+    {
+      "key": "HOVER_BTN_TAKE_EVERYTHING",
+      "value": "盡可能地將遺留物中的物品移動到庫存。"
+    },
+    {
+      "key": "MISSION_GOAL_UNKNOWN",
+      "value": "未知目標"
+    },
+    {
+      "key": "MISSION_TARGET_HUD_GOALS_TITLE",
+      "value": "任務目標："
+    },
+    {
+      "key": "HOVER_BTN_ACTIVE_SKILL",
+      "value": "{0}<br>點擊使用技能，或者按下{1}鍵"
+    },
+    {
+      "key": "HOVER_BTN_SLEEP",
+      "value": "開啟睡覺介面。"
+    },
+    {
+      "key": "HOVER_BTN_INVENTORY",
+      "value": "開啟庫存。"
+    },
+    {
+      "key": "HOVER_BTN_WALK",
+      "value": "開始玩家行動。<br>沿著選中的路徑行走。"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_WALK",
+      "value": "在<b>下一個六角格</b>阻止玩家行動。"
+    },
+    {
+      "key": "HOVER_BTN_SPEED",
+      "value": "時間加速"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_TOGGLE",
+      "value": "切換玩家行動的速度。<br>只為增加趣味 —— 對山上的時間或體能消耗無任何影響。"
+    },
+    {
+      "key": "HOVER_BTN_SKILLTREE",
+      "value": "顯示選中的技能。"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU_TITLE",
+      "value": "暫停"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU",
+      "value": "暫停遊戲，顯示選項介面。"
+    },
+    {
+      "key": "TUTORIAL_CLOSE_HINT",
+      "value": "在暫停介面可以隨時開啟教程。"
+    },
+    {
+      "key": "HINT",
+      "value": "提示"
+    },
+    {
+      "key": "HINT_SELECT_CONFIRM",
+      "value": "你可以使用{0}或{1}選擇並確認你的選項。"
+    },
+    {
+      "key": "HINT_DECLINE_CANCEL",
+      "value": "你可以使用{0}或{1}取消選擇。"
+    },
+    {
+      "key": "HINT_CAMERA",
+      "value": "你可以使用{0}或{1}移動相機以及滑鼠動作。"
+    },
+    {
+      "key": "Alpha0",
+      "value": "0"
+    },
+    {
+      "key": "Alpha1",
+      "value": "1"
+    },
+    {
+      "key": "Alpha2",
+      "value": "2"
+    },
+    {
+      "key": "Alpha3",
+      "value": "3"
+    },
+    {
+      "key": "Alpha4",
+      "value": "4"
+    },
+    {
+      "key": "Alpha5",
+      "value": "5"
+    },
+    {
+      "key": "Alpha6",
+      "value": "6"
+    },
+    {
+      "key": "Alpha7",
+      "value": "7"
+    },
+    {
+      "key": "Alpha8",
+      "value": "8"
+    },
+    {
+      "key": "Alpha9",
+      "value": "9"
+    },
+    {
+      "key": "Mouse0",
+      "value": "滑鼠左鍵"
+    },
+    {
+      "key": "Mouse1",
+      "value": "滑鼠右鍵"
+    },
+    {
+      "key": "Mouse2",
+      "value": "滑鼠中鍵"
+    },
+    {
+      "key": "Space",
+      "value": "空白鍵"
+    },
+    {
+      "key": "Up Arrow",
+      "value": "上方向鍵"
+    },
+    {
+      "key": "Down Arrow",
+      "value": "下方向鍵"
+    },
+    {
+      "key": "Left Arrow",
+      "value": "左方向鍵"
+    },
+    {
+      "key": "Right Arrow",
+      "value": "右方向鍵"
+    },
+    {
+      "key": "KEYBINDING_PROMPT",
+      "value": "<按任意按鈕>"
+    },
+    {
+      "key": "KEYBINDINGS_TITLE",
+      "value": "鍵位綁定"
+    },
+    {
+      "key": "KEYBINDING_DUPLICATE_ERROR",
+      "value": "此鍵位已被佔用！"
+    },
+    {
+      "key": "ABILITY_ACTIVE",
+      "value": "主動技能"
+    },
+    {
+      "key": "ABILITY_PASSIVE",
+      "value": "被動技能"
+    },
+    {
+      "key": "ABILITY_TRIGGERED",
+      "value": "已觸發技能"
+    },
+    {
+      "key": "ABILITY_CONDITIONAL",
+      "value": "條件技能"
+    },
+    {
+      "key": "ABILITY_HOURS",
+      "value": "小時"
+    },
+    {
+      "key": "ABILITY_COOLDOWN",
+      "value": "冷卻"
+    },
+    {
+      "key": "ABILITY_DURATION",
+      "value": "持續時間"
+    },
+    {
+      "key": "ABILITY_DURATION_ACTIVE",
+      "value": "剩餘啟動時間："
+    },
+    {
+      "key": "ABILITY_DURATION_FORXHOURS",
+      "value": "{0}小時"
+    },
+    {
+      "key": "SPECIALIZATION_TITLE",
+      "value": "選擇你的策略！"
+    },
+    {
+      "key": "SELECT1",
+      "value": "確認/選擇 (1)"
+    },
+    {
+      "key": "SELECT2",
+      "value": "確認/選擇 (2)"
+    },
+    {
+      "key": "CANCELPATH1",
+      "value": "取消路徑 (1)"
+    },
+    {
+      "key": "CANCELPATH2",
+      "value": "取消路徑 (2)"
+    },
+    {
+      "key": "ROTATECAM1",
+      "value": "旋轉相機 (1)"
+    },
+    {
+      "key": "ROTATECAM2",
+      "value": "旋轉相機 (2)"
+    },
+    {
+      "key": "MOVE",
+      "value": "行動"
+    },
+    {
+      "key": "STOPMOVE",
+      "value": "停止行動"
+    },
+    {
+      "key": "TOGGLEINVENTORY",
+      "value": "開啟/關閉庫存"
+    },
+    {
+      "key": "TOGGLEHELPSCREEN",
+      "value": "開啟/關閉幫助"
+    },
+    {
+      "key": "TOGGLESKILLSCREEN",
+      "value": "開啟/關閉技能描述"
+    },
+    {
+      "key": "TOGGLEPAUSEMENU",
+      "value": "開啟/關閉暫停介面"
+    },
+    {
+      "key": "CANCEL",
+      "value": "取消"
+    },
+    {
+      "key": "LEVELUP",
+      "value": "確認升級"
+    },
+    {
+      "key": "TOGGLETIMELAPSE",
+      "value": "延時攝影開關"
+    },
+    {
+      "key": "TOGGLESLEEPSCREEN",
+      "value": "開啟/關閉睡覺介面"
+    },
+    {
+      "key": "RESTORE_DEFAULTS",
+      "value": "恢復默認"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_PROS",
+      "value": "擅長快速攀爬，一路直達頂峰"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_CONS",
+      "value": "選取直接路徑可能會錯過事件和經驗"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_PROS",
+      "value": "擅長從事件中獲取最大收益"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_CONS",
+      "value": "事件外無任何加成"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_PROS",
+      "value": "在平坦地形上的強大體能效率允許你徹底探索整座大山"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_CONS",
+      "value": "在山上探險過久可能會威脅到你的神志"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_PROS",
+      "value": "擅長利用地形優勢"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_CONS",
+      "value": "所有加成取決於地形效果"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_PROS",
+      "value": "夜間攀爬時獲得特殊加成"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_CONS",
+      "value": "白天無任何加成，夜晚依舊危險"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_PROS",
+      "value": "擅長最大化利用消耗品"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_CONS",
+      "value": "所有加成取決於找到的消耗品"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_TITLE",
+      "value": "大獲全勝！"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_DESCRIPTION",
+      "value": "恭喜！<br>你作為{0}在最高難度下成功登頂！"
+    },
+    {
+      "key": "AFFECTEDBY",
+      "value": "影響因素"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION4",
+      "value": "你最多可以選擇3項專精（總共{0}）。新專精會在達到等級{1}、{2}和{3}時解鎖。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION5",
+      "value": "你選擇的專精會決定能夠選擇的技能。"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION6",
+      "value": "某些技能不屬於任何專精，可以被獨立選中。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_TITLE",
+      "value": "庫存&道具"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION1",
+      "value": "你可以使用螢幕上的按鈕或對應熱鍵進入庫存。只有在角色站立不動的情況下才可以開啟庫存。<br><br>某些道具會在使用後消耗，其他道具可以被角色裝備並在裝備後保持啟動狀態。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION2",
+      "value": "使用滑鼠右鍵使用道具。<br><br>點擊並按住滑鼠左鍵可以把道具拖動並放入到其他格子內。<br><br>當你找到一件道具時，必須把它放進庫存，否則關閉庫存後它就會消失。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION3",
+      "value": "某些道具可以多次使用，具體情況會顯示在道具的使用欄中。<br>如果一件道具當前無法使用，則會以較深的顏色顯示。<br><br>把滑鼠懸停在道具上可以查看更多資訊；此操作能展示出道具的效果預覽。"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION4",
+      "value": "若要使用裝備，將其拖動到裝備介面對應的欄位元即可。在裝備介面也可以將其移動回庫存。一件處於裝備狀態下的道具可以提供被動效果和加成。"
+    },
+    {
+      "key": "PICKNEWSPECIALIZATION",
+      "value": "達到等級{1}、{2}和{3}時可以選擇一項新專精。"
+    },
+    {
+      "key": "GENERICSKILLINFO",
+      "value": "此技能不屬於任何專精。"
+    },
+    {
+      "key": "BASICVALUES_NAME",
+      "value": "基本價值"
+    },
+    {
+      "key": "CLICK_TO_PICK_A_MODIFIER",
+      "value": "點擊選擇一條路徑"
+    },
+    {
+      "key": "PICK_A_MODIFIER",
+      "value": "選擇一條路徑"
+    },
+    {
+      "key": "MISSION_DEFAULT_MODIFIERS_TITLE",
+      "value": "環境"
+    },
+    {
+      "key": "REWARD_DISPLAY_NOT_RECEIVED_HOVER",
+      "value": "尚未獲得此獎勵。"
+    },
+    {
+      "key": "MISSION_FINISH_UI_ADDITIONAL_REWARDS",
+      "value": "額外獎勵"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OBJECTIVES",
+      "value": "目標"
+    },
+    {
+      "key": "MISSION_FINISH_UI_DETAILS",
+      "value": "詳情"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OVERVIEW",
+      "value": "概覽"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED",
+      "value": "尚未解鎖。<br>作為{1}抵達下座頂峰<br>才能解鎖此技能：<br>{0}"
+    },
+    {
+      "key": "EXPLANATION_EVENT_GAIN_NEGATED_BY_TES",
+      "value": "由於當前技能和效果，未受到任何影響"
+    },
+    {
+      "key": "SKILL_COSTS",
+      "value": "花費："
+    },
+    {
+      "key": "SKILL_EFFECTS",
+      "value": "效果："
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION",
+      "value": "恭喜！<br>你成功解鎖了{0}的新技能：<br>{1}"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION_TITLE",
+      "value": "技能解鎖！"
+    },
+    {
+      "key": "WINDOW_BLOCKED_DURING_WALKING",
+      "value": "此窗口會在行動時鎖定。"
+    },
+    {
+      "key": "OPTION_BLOCKED_DURING_WALKING",
+      "value": "此選項會在行動時鎖定。"
+    },
+    {
+      "key": "TOGGLEHUDVISIBLE",
+      "value": "HUD開關"
+    },
+    {
+      "key": "PAUSEWALK_ACTIVATED_HOVER_HINT",
+      "value": "啟動 – 角色會在下一格子停止行動。"
+    },
+    {
+      "key": "LESS_THAN_ONE_MINUTE",
+      "value": "少於1分鐘"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_TITLE",
+      "value": "開關相機"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_DESCRIPTION",
+      "value": "相機鎖定/解除鎖定目標。"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION",
+      "value": "基本價值受到選中難度的影響"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_NORMAL",
+      "value": "基本價值受到選中難度的影響（普通）"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_HARD",
+      "value": "基本價值受到選中難度的影響（困難）"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_INSURMOUNTABLE",
+      "value": "基本價值受到選中難度的影響（噩夢）"
+    },
+    {
+      "key": "EMPTY",
+      "value": ""
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TITLE",
+      "value": "更新"
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TEXT",
+      "value": "當前遊戲是在{0}版本中創建的，與孤山難越的{1}版本無法相容。<br>如果選擇在此版本開啟新遊戲，之前的舊存檔將會被覆蓋。<br>已解鎖的難度也會丟失。"
+    },
+    {
+      "key": "FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "OPTIONS_AMBIENT",
+      "value": "環境音樂"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TITLE",
+      "value": "新遊戲"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TEXT",
+      "value": "此操作會覆蓋當前遊戲存檔。是否確定繼續？"
+    },
+    {
+      "key": "INVALID_SAVEGAME_TEXT",
+      "value": "錯誤 –  無法載入當前遊戲存檔。<br>如果選擇在此版本開啟新遊戲，所有失效存檔都將被覆蓋。<br>已解鎖的難度也會丟失。"
+    },
+    {
+      "key": "HINT_6",
+      "value": "你可以使用鍵盤快速鍵隱藏UI（預設熱鍵：H）。"
+    },
+    {
+      "key": "HINT_7",
+      "value": "你可以隨時睡覺，甚至沒有帳篷也可以。不過帳篷和洞穴可以更好地幫你抵禦寒冷。"
+    },
+    {
+      "key": "HINT_8",
+      "value": "選中一位角色時，你可以選擇1-3個技能。登上山巔後可以解鎖額外技能。"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M1SUMMIT",
+      "value": "尚未解鎖。<br>若想選擇此技能，你必須作為{0}登頂第一座大山。"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M2SUMMIT",
+      "value": "尚未解鎖。<br>若想選擇此技能，你必須作為{0}登頂第二座大山。"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_GAINED",
+      "value": "已啟動"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_LOST",
+      "value": "已失效"
+    },
+    {
+      "key": "PRODFICIENCY_CURRENT_LEVEL_TITLE",
+      "value": "當前等級："
+    },
+    {
+      "key": "PROFICIENCY_MAX_LEVEL_TITLE",
+      "value": "（你已經達到了最高級。）"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_APPENDIX",
+      "value": "至下一等級"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_GAINEDSOFAR",
+      "value": "（總經驗： {0}）"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_SUMMARY",
+      "value": "經驗來自"
+    },
+    {
+      "key": "PROFICIENCY_MISSION_REWARD_TITLE",
+      "value": "任務獎勵"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER_REWARD_TITLE",
+      "value": "角色獎勵"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_REWARDS_APPENDIX",
+      "value": "任務獎勵"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_CHARACTERREWARDS_APPENDIX",
+      "value": "角色獎勵"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FOR_TRACKABLES",
+      "value": "來自"
+    },
+    {
+      "key": "SUMMARIZE_ITEMS_HOVER_TITLE",
+      "value": "解鎖道具："
+    },
+    {
+      "key": "DEACTIVATE_TUTORIALS",
+      "value": "關閉引導"
+    },
+    {
+      "key": "FREELOOK",
+      "value": "環顧四周"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TITLE",
+      "value": "警告"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TEXT",
+      "value": "無法載入當前遊戲存檔。該存檔已被重新命名，玩家必須開啟新遊戲。請在Discord伺服器上聯繫我們的開發團隊，同時發送您的損壞文檔和日誌。"
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_TEXT",
+      "value": "無法載入遊戲進度及備份。除非儲存/載入過程被中斷或玩家修改過檔，否則此種狀況不應出現。該存檔已經被重新命名，您的遊戲進度會被暫時重置。請在Discord伺服器上聯繫我們的開發團隊，同時發送您的損壞文檔和日誌。"
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_OK_BACKUP_TEXT",
+      "value": "當前進度檔無法成功載入，且已經被重新命名。目前載入的是備份檔案。"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_OK_BACKUP_TEXT",
+      "value": "無法載入當前遊戲存檔，它已經被重新命名。備份已恢復。"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "重置"
+    },
+    {
+      "key": "UI_MISSION",
+      "value": "任務"
+    },
+    {
+      "key": "UI_UPGRADES",
+      "value": "升級"
+    },
+    {
+      "key": "UI_UPGRADES_UNASSIGNED",
+      "value": "你可以分配升級點數了！"
+    },
+    {
+      "key": "MIND_BODY_PREPARATION",
+      "value": "身心準備"
+    },
+    {
+      "key": "MOUNTAIN_KNOWLEDGE",
+      "value": "山脈知識"
+    },
+    {
+      "key": "UI_UNLOCKED_SMALL",
+      "value": "已解鎖"
+    },
+    {
+      "key": "UI_NEW_SMALL",
+      "value": "新"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_TITLE",
+      "value": "無準備開始"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_DESCRIPTION",
+      "value": "當前還有尚未使用的道具容量。<br>是否確定在庫存未滿的情況下開啟任務？"
+    },
+    {
+      "key": "UI_INVENTORYLOADOUT_TITLE",
+      "value": "攜帶道具"
+    },
+    {
+      "key": "UI_UPGRADE_COST",
+      "value": "花費："
+    },
+    {
+      "key": "UI_CHAPTER_LOCKED",
+      "value": "此章節尚未解鎖。"
+    },
+    {
+      "key": "UI_CHAPTER_NEW",
+      "value": "新！"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED_BUT_NEVER_ATTEMPTED",
+      "value": "此章節已經解鎖，但你尚未嘗試。"
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_BUT_NEVER_SUCCESSFULLY",
+      "value": "尚未完成。"
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_SUCCESSFULLY",
+      "value": "完成章節！"
+    },
+    {
+      "key": "UI_CHAPTER_BEATENBY",
+      "value": "敗於"
+    },
+    {
+      "key": "UI_CHAPTERSELECTION_LABEL",
+      "value": "章節"
+    },
+    {
+      "key": "METAGAME_PROLOGUE_TEXT",
+      "value": "RemoveThis"
+    },
+    {
+      "key": "NPC_GENERAL_DAUGHTER_NAME",
+      "value": "陌生人"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_PROFICIENCY_TITLE",
+      "value": "精通"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_PROFICIENCY",
+      "value": "進程"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_REWARDS",
+      "value": "下級獎勵"
+    },
+    {
+      "key": "UI_DIALOGUE_NEXT",
+      "value": "繼續"
+    },
+    {
+      "key": "UI_DIALOGUE_DONE",
+      "value": "完成"
+    },
+    {
+      "key": "UI_MISSION_UNLOCKED",
+      "value": "任務已解鎖"
+    },
+    {
+      "key": "UI_REGION_MISSIONS_UNLOCKED",
+      "value": "支線任務解鎖條件"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED",
+      "value": "區域已解鎖"
+    },
+    {
+      "key": "UI_ITEM_UNLOCKED",
+      "value": "道具已解鎖"
+    },
+    {
+      "key": "OPTIONS_VSYNC",
+      "value": "垂直同步數"
+    },
+    {
+      "key": "HOVER_CHARLOCKED",
+      "value": "此角色尚未解鎖。<br>完成支線任務可以解鎖。"
+    },
+    {
+      "key": "HOVER_CHARDEAD",
+      "value": "此角色因為失敗的登山活動患上了時間迴圈症。<br>可以在角色介面將其復活。"
+    },
+    {
+      "key": "HOVER_CHARAVAILABLE",
+      "value": "此角色已成功解鎖，現在可以選擇了。"
+    },
+    {
+      "key": "UNKNOWN_CHAR",
+      "value": "未知角色"
+    },
+    {
+      "key": "HOVER_CHARACTIVE",
+      "value": "當前選擇"
+    },
+    {
+      "key": "DEAD_TITLE",
+      "value": "時間迴圈症"
+    },
+    {
+      "key": "DEAD_TEXT",
+      "value": "{0}因為失敗的登山活動患上了時間迴圈症。若要同此角色一起完成更多工，你需要前往角色介面將其復活。"
+    },
+    {
+      "key": "DEAD_TEXT_DIFFICULTYHASNOREVIVES",
+      "value": "{0}由於時間迴圈症陷入了無法逆轉的虛弱狀態。<br>他們無法登上任何頂峰了...<br>現在一切希望都落在了他們的同伴身上。"
+    },
+    {
+      "key": "REVIVE_TITLE",
+      "value": "復活"
+    },
+    {
+      "key": "REVIVE_TEXT",
+      "value": "是否確認為{2}使用{0}/{1}復活點？"
+    },
+    {
+      "key": "OPTIONS_VSYNC_OFF",
+      "value": "關閉"
+    },
+    {
+      "key": "GAMEOVER_TITLE",
+      "value": "遊戲結束"
+    },
+    {
+      "key": "GAMEOVER_TEXT",
+      "value": "所有角色均已死亡！"
+    },
+    {
+      "key": "GAMEOVER_STARTOVER",
+      "value": "重新開始"
+    },
+    {
+      "key": "PAUSE_MENU_GIVEUP",
+      "value": "放棄"
+    },
+    {
+      "key": "GIVEUP_TITLE",
+      "value": "放棄"
+    },
+    {
+      "key": "GIVEUP_TEXT",
+      "value": "是否確定放棄？此操作會導致角色死亡。"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_TITLE",
+      "value": "復活點"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_DESCRIPTION",
+      "value": "用於復活患上時間迴圈症而無法開始任務的角色。"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES",
+      "value": "團隊升級"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_ACTIONREQUIRED",
+      "value": "可以分配團隊升級點了"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_NEW",
+      "value": "新升級已解鎖"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS",
+      "value": "角色"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_ACTIONREQUIRED",
+      "value": "角色可以升級了"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_NEW",
+      "value": "新角色已解鎖"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS",
+      "value": "任務"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_ACTIONREQUIRED",
+      "value": "任務選擇要求"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_NEW",
+      "value": "新任務已解鎖"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY",
+      "value": "庫存"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_ACTIONREQUIRED",
+      "value": "可添加道具"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_NEW",
+      "value": "新道具已解鎖"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY",
+      "value": "精通"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_ACTIONREQUIRED",
+      "value": "//尚未使用？"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_NEW",
+      "value": "//尚未使用？"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS",
+      "value": "資源"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_ACTIONREQUIRED",
+      "value": "行動要求"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_NEW",
+      "value": "新資源已解鎖"
+    },
+    {
+      "key": "MISSION_GOAL_TRACK",
+      "value": "找到並抵達："
+    },
+    {
+      "key": "TRACK_TILE_DEFAULT",
+      "value": "遺物"
+    },
+    {
+      "key": "MISSION_WEATHER",
+      "value": "天氣："
+    },
+    {
+      "key": "SKILL_TRACKING",
+      "value": "使用追蹤設備"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_NAME",
+      "value": "正在使用追蹤設備"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_DESCRIPTION",
+      "value": "調整相機，使用脈衝找到你的目標地"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_BUTTON",
+      "value": "切換玩家的行動速度。<br>對山上的時間或體能消耗沒有任何影響。"
+    },
+    {
+      "key": "CONDITION_IS_UNDER",
+      "value": "已結束"
+    },
+    {
+      "key": "CONDITION_IS_OVER",
+      "value": "處於"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_TITLE",
+      "value": "團隊升級"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_DESCRIPTION",
+      "value": "升級會影響所有登山者"
+    },
+    {
+      "key": "HOURS_SHORT",
+      "value": "小時"
+    },
+    {
+      "key": "SKILLDURATION_UNTIL_END_OF_MISSION",
+      "value": "啟動至任務結束"
+    },
+    {
+      "key": "SKILLDURATION_TEMPORARY",
+      "value": "限時效果 – 啟動{0}小時"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_UNDER",
+      "value": "{0}低於{1}時啟動"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_OVER",
+      "value": "{0}高於{1}時啟動"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_TITLE",
+      "value": "追蹤設備"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_DESCRIPTION",
+      "value": "某些任務需要使用追蹤設備才能找到下一個目標地。你可以在螢幕右下角的技能欄中將其開啟/關閉。<br><br>然後即可移動相機尋找目標地。目標地越靠近螢幕中心，信號就越強。<br>記住要上下查看，獲取更精准的位置。"
+    },
+    {
+      "key": "MISSION_DIFFICULTY_EXPLANATION",
+      "value": "<style=\"header\">任務難度</style><br><br>的星星數量會顯示出當前任務的難度。<br>"
+    },
+    {
+      "key": "HINT_9",
+      "value": "你可以設置相機，讓其繞著軸線旋轉，讓你能更好地查看狹窄空間的整體情況。（默認鍵位：R）"
+    },
+    {
+      "key": "HINT_10",
+      "value": "如果你陷入危急狀態，則路徑會變為紅色 —— 從那之後，每一步的風險都將由你一力承擔！"
+    },
+    {
+      "key": "HINT_11",
+      "value": "如果生命值下降到0，你的角色就會崩潰，這趟旅程也將畫上句點。"
+    },
+    {
+      "key": "HINT_12",
+      "value": "每天早晨的天氣都會發生變化。注意留心顯示的天氣狀況！"
+    },
+    {
+      "key": "HINT_13",
+      "value": "暴風雪天氣期間，行動的體能和時間消耗都會增加。"
+    },
+    {
+      "key": "HINT_14",
+      "value": "寒冷天氣會對你的體溫產生負面影響，尤其是在夜間。"
+    },
+    {
+      "key": "HINT_15",
+      "value": "附屬地形‘碎石’、‘冰川’和‘雪堆’可能會觸發危險事件。"
+    },
+    {
+      "key": "HINT_16",
+      "value": "附屬地形‘深雪’和‘冰雪迷宮’會增加某些屬性的消耗。"
+    },
+    {
+      "key": "HINT_17",
+      "value": "每一個格子包含以下3個地形種類中的任一類：岩石、雪地或冰面。每種地形都包含具有危險特質的附屬地形。"
+    },
+    {
+      "key": "HINT_18",
+      "value": "將滑鼠懸停在庫存中的道具上可以顯示其效果預覽。"
+    },
+    {
+      "key": "HINT_19",
+      "value": "尋找異常時，記得使用你的追蹤設備。（預設按鍵T）"
+    },
+    {
+      "key": "HINT_20",
+      "value": ""
+    },
+    {
+      "key": "SKIP_CUTSCENE",
+      "value": "跳過"
+    },
+    {
+      "key": "SCORE_MAINMISSIONS",
+      "value": "主線任務"
+    },
+    {
+      "key": "SCORE_SIDEMISSIONS",
+      "value": "支線任務"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ADVENTURER",
+      "value": "冒險家精通"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_SCIENTIST",
+      "value": "科學家精通"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_JOURNALIST",
+      "value": "記者精通"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ITEM",
+      "value": "道具精通"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ENVIRONMENT",
+      "value": "環境精通"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_TERRAIN",
+      "value": "地形精通"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_EVENT",
+      "value": "事件精通"
+    },
+    {
+      "key": "SCORE_DEATHS",
+      "value": "死亡懲罰"
+    },
+    {
+      "key": "RUN_WIN_TITLE",
+      "value": "完成遊戲！"
+    },
+    {
+      "key": "RUN_WIN_CONTINUE",
+      "value": "主選單"
+    },
+    {
+      "key": "RUN_WIN_SCORE",
+      "value": "得分："
+    },
+    {
+      "key": "STATVALUETYPE_CANUSETRACKING",
+      "value": "一種用於追蹤異常現象的固定設備，啟動至下一次行動"
+    },
+    {
+      "key": "TRACKING_WRONG_DIRECTION",
+      "value": "此方向無信號"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_CHARACTER",
+      "value": "角色精通"
+    },
+    {
+      "key": "INPUT_SELECT",
+      "value": "確認/選擇"
+    },
+    {
+      "key": "INPUT_CANCELPATH",
+      "value": "取消路徑"
+    },
+    {
+      "key": "INPUT_TOGGLEFREELOOK",
+      "value": "環顧四周"
+    },
+    {
+      "key": "INPUT_ROTATECAM",
+      "value": "旋轉相機"
+    },
+    {
+      "key": "INPUT_FREELOOKCAM",
+      "value": "環顧四周"
+    },
+    {
+      "key": "INPUT_STARTMOVE",
+      "value": "行動"
+    },
+    {
+      "key": "INPUT_STOPMOVE",
+      "value": "停止行動"
+    },
+    {
+      "key": "INPUT_TOGGLEINVENTORY",
+      "value": "開啟/關閉庫存"
+    },
+    {
+      "key": "INPUT_TOGGLESKILLSCREEN",
+      "value": "開啟/關閉技能概述"
+    },
+    {
+      "key": "INPUT_TOGGLEPAUSEMENU",
+      "value": "開啟/關閉暫停介面"
+    },
+    {
+      "key": "INPUT_CANCEL",
+      "value": "取消"
+    },
+    {
+      "key": "INPUT_LEVELUP",
+      "value": "確認升級"
+    },
+    {
+      "key": "INPUT_CHANGETIMELAPSE",
+      "value": "延時攝影開關"
+    },
+    {
+      "key": "INPUT_TOGGLESLEEPSCREEN",
+      "value": "開啟/關閉睡覺介面"
+    },
+    {
+      "key": "INPUT_TOGGLEHUDVISIBLE",
+      "value": "HUD開關"
+    },
+    {
+      "key": "INPUT_TAKEEVERYTHINGFROMLEFTOVER",
+      "value": "全部拿走"
+    },
+    {
+      "key": "INPUT_SHOWCURRENTMISSION",
+      "value": "顯示當前任務"
+    },
+    {
+      "key": "INPUT_LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "重置"
+    },
+    {
+      "key": "INPUT_ZOOM",
+      "value": "放大/縮小"
+    },
+    {
+      "key": "MISSIONSKILL",
+      "value": "使用追蹤設備"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL1",
+      "value": "活动技能（插槽1）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL2",
+      "value": "活动技能（插槽2）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL3",
+      "value": "活跃技能（槽3）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL4",
+      "value": "活动技能（槽4）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL5",
+      "value": "活动技能（槽5）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL6",
+      "value": "活跃技能（槽6）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL7",
+      "value": "活动技能（槽7）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL8",
+      "value": "活动技能（插槽8）"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL9",
+      "value": "活动技能（槽9）"
+    },
+    {
+      "key": "INPUT_MISSIONSKILL",
+      "value": "使用追蹤設備"
+    },
+    {
+      "key": "INPUT_ACTIONMENU",
+      "value": "打开动作菜单"
+    },
+    {
+      "key": "CONTROLSCHEME_KEYPAD",
+      "value": "鍵盤&滑鼠"
+    },
+    {
+      "key": "CONTROLSCHEME_GAMEPAD",
+      "value": "遊戲控制器"
+    },
+    {
+      "key": "INPUT_ZOOM_IN",
+      "value": "放大"
+    },
+    {
+      "key": "INPUT_ZOOM_OUT",
+      "value": "縮小"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE0",
+      "value": "UI導航模式（上）"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE1",
+      "value": "UI導航模式（左）"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE2",
+      "value": "UI導航模式（右）"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE3",
+      "value": "UI導航模式（下）"
+    },
+    {
+      "key": "INPUT_NAVIGATE",
+      "value": "導航"
+    },
+    {
+      "key": "INPUT_UP",
+      "value": "導航向上"
+    },
+    {
+      "key": "INPUT_DOWN",
+      "value": "導航向下"
+    },
+    {
+      "key": "INPUT_LEFT",
+      "value": "導航向左"
+    },
+    {
+      "key": "INPUT_RIGHT",
+      "value": "導航向右"
+    },
+    {
+      "key": "INPUT_MOVECURSOR",
+      "value": "移動六角格游標"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL",
+      "value": "滾輪"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_UP",
+      "value": "向上滾動"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_DOWN",
+      "value": "向下滾動"
+    },
+    {
+      "key": "INPUT_RIGHT_STICK_PRESS",
+      "value": "按右搖杆"
+    },
+    {
+      "key": "INPUT_LEFT_STICK_PRESS",
+      "value": "按左搖杆"
+    },
+    {
+      "key": "INPUT_RIGHTCLICK",
+      "value": "使用 /裝備 / 移動道具 / 開關檢查框"
+    },
+    {
+      "key": "INPUT_SUBMIT",
+      "value": "確認"
+    },
+    {
+      "key": "INPUT_CLICK",
+      "value": "選擇"
+    },
+    {
+      "key": "INPUT_PROMPT_ADDCHECKPOINT",
+      "value": "添加检查点"
+    },
+    {
+      "key": "INPUT_PROMPT_SKIPEVENTTEXTANIMATION",
+      "value": "跳过动画"
+    },
+    {
+      "key": "INPUT_PROMPT_CLOSE",
+      "value": "关闭"
+    },
+    {
+      "key": "INPUT_PROMPT_USEITEM",
+      "value": "使用项目"
+    },
+    {
+      "key": "INPUT_PROMPT_TAKEITEM",
+      "value": "拿"
+    },
+    {
+      "key": "INPUT_PROMPT_DROPITEM",
+      "value": "删除项目"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPITEM",
+      "value": "交换项目"
+    },
+    {
+      "key": "INPUT_PROMPT_EQUIPITEM",
+      "value": "装备项目"
+    },
+    {
+      "key": "INPUT_PROMPT_UNEQUIPITEM",
+      "value": "未能项目"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPEQUIPMENT",
+      "value": "交换设备"
+    },
+    {
+      "key": "INPUT_PROMPT_ENTERHUDMODE",
+      "value": "查看状态详细信息"
+    },
+    {
+      "key": "INPUT_PROMPT_EXITHUDMODE",
+      "value": "隐藏状态详细信息"
+    },
+    {
+      "key": "INPUT_PROMPT_NAVIGATEHUDMODE",
+      "value": "导航状态详细信息"
+    },
+    {
+      "key": "INPUT_PROMPT_CREATEPATH",
+      "value": "开始路径"
+    },
+    {
+      "key": "CONFIRM_UNLOCK",
+      "value": "解鎖"
+    },
+    {
+      "key": "CONFIRM_UNLOCK_DESCRIPTION",
+      "value": "是否確定解鎖{0}？"
+    },
+    {
+      "key": "CONFIRM_UPGRADE",
+      "value": "升級"
+    },
+    {
+      "key": "CONFIRM_UPGRADE_DESCRIPTION",
+      "value": "是否確定升級{0}？"
+    },
+    {
+      "key": "CONFIRM_RESET",
+      "value": "重置"
+    },
+    {
+      "key": "CONFIRM_RESET_DESCRIPTION",
+      "value": "是否確定花費{0}重置升級？"
+    },
+    {
+      "key": "STINGER_1_1",
+      "value": "你在一個工作站裡。一個年輕女孩正站在你面前，胳膊裡還摟著一隻泰迪熊。她張大嘴唇指向了你。不，不是你，而是裂縫另一側岩石上那個發著紅光的護符。"
+    },
+    {
+      "key": "STINGER_1_2",
+      "value": "你迅速靠向正在不斷變窄裂縫。正要抓住護符的時候，你被一股力量重新扔回了工作站。<br>頭暈目眩的你只能眼睜睜地看著裂縫永遠地閉合了。緊接著，你的視線陷入一片黑暗..."
+    },
+    {
+      "key": "STINGER_2_1",
+      "value": "你在一個工作站裡。一個年輕女孩正站在你面前，胳膊裡還摟著一隻泰迪熊。她張大嘴唇指向了你。不，不是你，而是裂縫另一側岩石上那個發著紅光的護符。"
+    },
+    {
+      "key": "STINGER_2_2",
+      "value": "你迅速靠向正在不斷變窄裂縫。正要抓住護符的時候，你被一股力量重新扔回了工作站。<br>頭暈目眩的你只能眼睜睜地看著裂縫永遠地閉合了。緊接著，你的視線陷入一片黑暗..."
+    },
+    {
+      "key": "STINGER_3_1",
+      "value": "你在一個工作站裡。一個年輕女孩正站在你面前，胳膊裡還摟著一隻泰迪熊。她張大嘴唇指向了你。不，不是你，而是裂縫另一側岩石上那個發著紅光的護符。"
+    },
+    {
+      "key": "STINGER_3_2",
+      "value": "你迅速靠向正在不斷變窄裂縫，手指剛握住石頭就被一股力量扔回了工作站。<br>一陣眩暈感向你襲來，但你還是穩住了心神。你茫然地看著懸掛在指尖的護符，它的光亮消失了。"
+    },
+    {
+      "key": "STINGER_3_3",
+      "value": "女孩謹慎地向你靠近，仔細觀察著石頭。突然，她一把奪過你手中的護符，消失在一扇沉重的鐵門背後。你試著說些什麼，試圖警告那個女孩，然後眼前陷入了一片黑暗…"
+    },
+    {
+      "key": "IGNORE_NIGHT",
+      "value": "因為睡在庇護所，無視此效果。"
+    },
+    {
+      "key": "PRIVACYPOLICY",
+      "value": "隱私政策"
+    },
+    {
+      "key": "SKILL_DRONE_NAME",
+      "value": "<style=\"supportpack\">指揮無人機</style>"
+    },
+    {
+      "key": "SKILL_DRONE_DESCRIPTION",
+      "value": "你派出無人機尋找附近的洞穴。如果找不到，它會閃爍出紅光。"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_TITLE",
+      "value": "<style=\"supportpack\">贊助者禮包啟動成功</style>"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_DESCRIPTION",
+      "value": "贊助者禮包啟動成功！<br>非常感謝您對孤山難越開發的支持。<br>開始新遊戲或繼續現有遊戲來獲取獎勵吧！"
+    },
+    {
+      "key": "SUPPORTERPACK_NOTIFICATION_DRONE_NOPOIFOUND",
+      "value": "未找到洞穴！"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED",
+      "value": "事件文本速度"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_SLOW",
+      "value": "慢速"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_NORMAL",
+      "value": "普通"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_FAST",
+      "value": "快速"
+    },
+    {
+      "key": "UNIT_METERS",
+      "value": "米"
+    },
+    {
+      "key": "UNIT_MINUTES",
+      "value": "分"
+    },
+    {
+      "key": "UNIT_HOURS",
+      "value": "時"
+    },
+    {
+      "key": "UNIT_DAYS",
+      "value": "天"
+    },
+    {
+      "key": "JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "RUSSIAN",
+      "value": "Русский"
+    },
+    {
+      "key": "CHINESESIMPLIFIED",
+      "value": "简体中文"
+    },
+    {
+      "key": "CHINESETRADITIONAL",
+      "value": "繁體中文"
+    },
+    {
+      "key": "DISCORD_JOINUS",
+      "value": "加入我們吧！"
+    },
+    {
+      "key": "LOGGING_IN_GENERIC",
+      "value": "正在登錄..."
+    },
+    {
+      "key": "LOGGING_IN_EPIC",
+      "value": "請登錄以獲取授權"
+    }
+  ]
+}

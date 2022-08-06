@@ -1,0 +1,6004 @@
+{
+  "LOCA": [
+    {
+      "key": "ITEM_TENT_BIVAK_NAME",
+      "value": "텐트"
+    },
+    {
+      "key": "ITEM_HERBS_NAME",
+      "value": "달의 약초"
+    },
+    {
+      "key": "ITEM_TORCH_NAME",
+      "value": "횃불"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES_NAME",
+      "value": "등반 장갑"
+    },
+    {
+      "key": "ITEM_OXYGENBOTTLE_MODERN_NAME",
+      "value": "산소통"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "불의 부적"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES_NAME",
+      "value": "두꺼운 부츠"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES_NAME",
+      "value": "모피 장갑"
+    },
+    {
+      "key": "ITEM_BRANDY_NAME",
+      "value": "뜨거운 차"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES_NAME",
+      "value": "눈 부츠"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "천둥의 부적"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF_NAME",
+      "value": "등산 스틱"
+    },
+    {
+      "key": "ITEM_MUSHROOMENERGY_NAME",
+      "value": "통조림"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "돌부적"
+    },
+    {
+      "key": "ITEM_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "바람의 부적"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE_NAME",
+      "value": "등반 도끼"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES_NAME",
+      "value": "크램폰"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_NAME",
+      "value": "<style=\"supportpack\">날씨 로켓</style>"
+    },
+    {
+      "key": "ITEM_WEATHER_ROCKET_DESCRIPTION",
+      "value": "현재 날씨를 \"맑음\"으로 바꿔줍니다."
+    },
+    {
+      "key": "EQUIPMENTTAG_AMULET_NAME",
+      "value": "부적"
+    },
+    {
+      "key": "EQUIPMENTTAG_GLOVES_NAME",
+      "value": "장갑"
+    },
+    {
+      "key": "EQUIPMENTTAG_SHOES_NAME",
+      "value": "부츠"
+    },
+    {
+      "key": "EQUIPMENTTAG_TOOL_NAME",
+      "value": "도구"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_NAME",
+      "value": "모피 장갑"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_FURGLOVES_DESCRIPTION",
+      "value": "이동 또는 수색 중에 체온이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_NAME",
+      "value": "대지의 시험"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_SANITY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_NAME",
+      "value": "날씨: 폭풍"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_STORMY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_NAME",
+      "value": "날씨: 추움"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_COLD_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_NAME",
+      "value": "바람의 시험"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_NAME",
+      "value": "밤"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHT_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_NAME",
+      "value": "눈 부츠"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_SNOWSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_NAME",
+      "value": "날씨: 맑음"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_WARM_DESCRIPTION",
+      "value": "좋은 날씨. 효과 없음"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_NAME",
+      "value": "등반 도끼"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_NAME",
+      "value": "크램폰"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_ICESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_NAME",
+      "value": "등산 스틱"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HIKINGSTAFF_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_NAME",
+      "value": "등반 장갑"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_CLIMBINGGLOVES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_NAME",
+      "value": "날씨: 눈"
+    },
+    {
+      "key": "TEMPEFFECT_WEATHER_SNOWY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_NAME",
+      "value": "두꺼운 부츠"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_STONESHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_NAME",
+      "value": "천둥의 시험"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_ENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_NAME",
+      "value": "접질린 발목"
+    },
+    {
+      "key": "TEMPEFFECT_SPRAINEDANKLE_DESCIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_NAME",
+      "value": "피해망상"
+    },
+    {
+      "key": "TEMPEFFECT_PARANOIA_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_NAME",
+      "value": "정상 열풍"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_RUSH_DESCRIPTION",
+      "value": "이동에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_NAME",
+      "value": "호흡이 안정해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONEBUFF_TAKEYOURTIME_DESCRIPTION",
+      "value": "죽음의 고도 효과가 감소합니다"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A1_HOVER",
+      "value": "(짧은 시간 동안 사용하는 에너지가 감소합니다)"
+    },
+    {
+      "key": "E_INT_DEATHZONEENTER1_1_A2_HOVER",
+      "value": "(긴 시간 동안 산소 손실이 감소합니다)"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_NAME",
+      "value": "벼랑 끝에서"
+    },
+    {
+      "key": "SKILLACTIVE_ON_THE_EDGE_DESCRIPTION",
+      "value": "6시간 동안 위태로운 순간이 오지 않습니다"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_NAME",
+      "value": "매의 눈"
+    },
+    {
+      "key": "SKILLACTIVE_EAGLE_EYE_DESCRIPTION",
+      "value": "다음 이동까지 카메라 확대/축소가 증가합니다"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_NAME",
+      "value": "도약"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_DESCRIPTION",
+      "value": "틈이나 타일 위를 점프합니다"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_ISBLOCKED",
+      "value": "그곳으로는 점프할 수 없습니다!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_MINDISTANCE",
+      "value": "너무 가깝습니다!"
+    },
+    {
+      "key": "SKILLTARGETED_LEAP_ERROR_HEIGHTDIFF",
+      "value": "그렇게 높이는 점프할 수 없습니다!"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_NAME",
+      "value": "외곬수"
+    },
+    {
+      "key": "SKILLACTIVE_SINGLEMINDED_DESCRIPTION",
+      "value": "부정적인 날씨와 지형 효과를 무시합니다"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_NAME",
+      "value": "바위 깨기"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION",
+      "value": "1 타일 내의 장애물을 제거합니다"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_DESCRIPTION1",
+      "value": "2 타일 내의 장애물을 제거합니다"
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_ISBLOCKED",
+      "value": "제거할 게 없습니다..."
+    },
+    {
+      "key": "SKILLTARGETED_SMASH_ERROR_HEIGHTDIFF",
+      "value": "그곳으로 갈 수 없습니다!"
+    },
+    {
+      "key": "SKILL_CIVILIZED_NAME",
+      "value": "만반의 준비"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION",
+      "value": "통조림과 산소통의 효과가 증가합니다"
+    },
+    {
+      "key": "SKILL_CIVILIZED_DESCRIPTION1",
+      "value": "통조림과 산소통의 효과가 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_CLIMBER_NAME",
+      "value": "등반가"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION",
+      "value": "가파른 지형에 사용하는 에너지가 감소합니다(2+ 고도)"
+    },
+    {
+      "key": "SKILL_CLIMBER_DESCRIPTION1",
+      "value": "가파른 지형에 사용하는 에너지가 감소합니다(2+ 고도)"
+    },
+    {
+      "key": "SKILL_DETERMINATION_NAME",
+      "value": "결의"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION",
+      "value": "깨어나면 체력이 추가됩니다"
+    },
+    {
+      "key": "SKILL_DETERMINATION_DESCRIPTION1",
+      "value": "깨어나면 더 많은 체력이 추가됩니다"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_NAME",
+      "value": "이른 숙면"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION",
+      "value": "깨어나면 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILL_EARLY SLEEPER_DESCRIPTION1",
+      "value": "깨어나면 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_NAME",
+      "value": "벼랑 끝에서"
+    },
+    {
+      "key": "SKILL_ON THE EDGE_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_NAME",
+      "value": "극복의 힘"
+    },
+    {
+      "key": "SKILLACTIVE_POWER THROUGH_DESCRIPTION",
+      "value": "50 산소를 잃고 20 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_NAME",
+      "value": "얼음 정복"
+    },
+    {
+      "key": "SKILLACTIVE_ICE MASTERY_DESCRIPTION",
+      "value": "얼음 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_ICE SPEED_NAME",
+      "value": "얼음 스피드"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION",
+      "value": "얼음 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "SKILL_ICE SPEED_DESCRIPTION1",
+      "value": "얼음 위에서 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_NAME",
+      "value": "야간 등반가"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION",
+      "value": "밤에 떨어지는 체온이 감소합니다"
+    },
+    {
+      "key": "SKILL_MOONSTRUCK_DESCRIPTION1",
+      "value": "밤에 떨어지는 체온이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_NAME",
+      "value": "별과 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION",
+      "value": "모든 야간 등반에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STARS_DESCRIPTION1",
+      "value": "모든 야간 등반에 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_RATIONALITY_NAME",
+      "value": "이성"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "SKILL_RATIONALITY_DESCRIPTION1",
+      "value": "최대 이성이 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_NAME",
+      "value": "강인한 정신력"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION",
+      "value": "이벤트에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "SKILL_ROBUST MIND_DESCRIPTION1",
+      "value": "이벤트에 잃는 이성이 크게 감소합니다"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_NAME",
+      "value": "한계 도전"
+    },
+    {
+      "key": "SKILLACTIVE_DRIVEN TO THE LIMIT_DESCRIPTION",
+      "value": "10 이성을 잃고, 20 에너지, 20 체온, 20 산소가 추가됩니다"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_NAME",
+      "value": "열정"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILL_ENTHUSIASM_DESCRIPTION1",
+      "value": "관심 지점에 도달할 때마다 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_NAME",
+      "value": "빠른 페이스"
+    },
+    {
+      "key": "SKILLACTIVE_FAST PACE_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "SKILL_QUICKNESS_NAME",
+      "value": "신속"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION",
+      "value": "이벤트에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "SKILL_QUICKNESS_DESCRIPTION1",
+      "value": "이벤트에 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_TOURIST_NAME",
+      "value": "열린 마음"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION",
+      "value": "이벤트에 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_TOURIST_DESCRIPTION1",
+      "value": "이벤트에 더 많은 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_WANDERER_NAME",
+      "value": "방랑자"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION",
+      "value": "평평한 지형에 필요한 시간이 감소합니다(0~1 고도)"
+    },
+    {
+      "key": "SKILL_WANDERER_DESCRIPTION1",
+      "value": "평평한 지형에 필요한 시간이 크게 감소합니다(0~1 고도)"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_NAME",
+      "value": "심호흡"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "SKILL_DEEP BREATHS_DESCRIPTION1",
+      "value": "최대 산소가 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_ENERGETIC_NAME",
+      "value": "왕성한 기력"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "SKILL_ENERGETIC_DESCRIPTION1",
+      "value": "최대 에너지가 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_NAME",
+      "value": "아침 일과"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION",
+      "value": "깨어나면 산소가 추가됩니다"
+    },
+    {
+      "key": "SKILL_MORNING RITUAL_DESCRIPTION1",
+      "value": "깨어나면 더 많은 산소가 추가됩니다"
+    },
+    {
+      "key": "SKILL_PURPOSE_NAME",
+      "value": "목적"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_PURPOSE_DESCRIPTION1",
+      "value": "이벤트에 잃는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_NAME",
+      "value": "눈 정복"
+    },
+    {
+      "key": "SKILLACTIVE_SNOW MASTERY_DESCRIPTION",
+      "value": "눈 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_NAME",
+      "value": "눈 스피드"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION",
+      "value": "눈 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "SKILL_SNOW SPEED_DESCRIPTION1",
+      "value": "눈 위에서 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_NAME",
+      "value": "집의 편안함"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION",
+      "value": "소모품을 사용할 때마다 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_COMFORT OF HOME_DESCRIPTION1",
+      "value": "소모품을 사용할 때마다 더 많은 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_NAME",
+      "value": "약초학"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION",
+      "value": "차와 약초의 효과가 증가합니다"
+    },
+    {
+      "key": "SKILL_HERBOLOGY_DESCRIPTION1",
+      "value": "차와 약초의 효과가 크게 증가합니다"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_NAME",
+      "value": "명상"
+    },
+    {
+      "key": "SKILLACTIVE_MEDITATION_DESCRIPTION",
+      "value": "특별한 명상 이벤트를 갖습니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_NAME",
+      "value": "추위와 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION",
+      "value": "추운 날씨에 이동할 때 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE COLD_DESCRIPTION1",
+      "value": "추운 날씨에 이동할 때 더 많은 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_NAME",
+      "value": "산과 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION",
+      "value": "얼음 위에서는 이성이, 눈 위에서는 산소가, 돌 위에서는 체온이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE MOUNTAIN_DESCRIPTION1",
+      "value": "얼음 위에서는 더 많은 이성이, 눈 위에서는 더 많은 산소가, 돌 위에서는 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_NAME",
+      "value": "폭풍과 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION",
+      "value": "폭풍이 치는 날씨에 이동하면 산소가 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONE WITH THE STORM_DESCRIPTION1",
+      "value": "폭풍이 치는 날씨에 이동하면 더 많은 산소가 추가됩니다"
+    },
+    {
+      "key": "SKILL_INNER FIRE_NAME",
+      "value": "내부의 불"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION",
+      "value": "이동할 때 시간당 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "SKILL_INNER FIRE_DESCRIPTION1",
+      "value": "이동할 때 시간당 훨씬 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_NAME",
+      "value": "돌 정복"
+    },
+    {
+      "key": "SKILLACTIVE_STONE MASTERY_DESCRIPTION",
+      "value": "돌 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_STONE SPEED_NAME",
+      "value": "돌 스피드"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION",
+      "value": "돌 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "SKILL_STONE SPEED_DESCRIPTION1",
+      "value": "돌 위에서 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_STRONG BODY_NAME",
+      "value": "강한 몸"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "SKILL_STRONG BODY_DESCRIPTION1",
+      "value": "최대 체력이 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_THICK SKIN_NAME",
+      "value": "두꺼운 피부"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION",
+      "value": "이벤트 때 잃는 체력이 감소합니다"
+    },
+    {
+      "key": "SKILL_THICK SKIN_DESCRIPTION1",
+      "value": "이벤트 때 잃는 체력이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_WARM HEART_NAME",
+      "value": "따뜻한 마음"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "SKILL_WARM HEART_DESCRIPTION1",
+      "value": "최대 체온이 크게 증가합니다"
+    },
+    {
+      "key": "SKILLTREE_ADVENTURER_NAME",
+      "value": "모험가"
+    },
+    {
+      "key": "SKILLTREE_BRILLIANCE OF ICE_NAME",
+      "value": "얼음처럼 차갑게"
+    },
+    {
+      "key": "SKILLTREE_EXPLORER_NAME",
+      "value": "탐험가"
+    },
+    {
+      "key": "SKILLTREE_PATIENCE OF SNOW_NAME",
+      "value": "눈의 심장"
+    },
+    {
+      "key": "SKILLTREE_SPIRITUAL_NAME",
+      "value": "영적인 힘"
+    },
+    {
+      "key": "SKILLTREE_STRENGTH OF STONE_NAME",
+      "value": "돌의 힘"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_NAME",
+      "value": "만반의 준비"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 1_DESCRIPTION",
+      "value": "통조림과 산소통의 효과가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_NAME",
+      "value": "만반의 준비"
+    },
+    {
+      "key": "TEMPEFFECT_CIVILIZED 2_DESCRIPTION",
+      "value": "통조림과 산소통의 효과가 크게 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_NAME",
+      "value": "등반가"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 1_DESCRIPTION",
+      "value": "가파른 지형에 사용하는 에너지가 감소합니다(2+ 고도)"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_NAME",
+      "value": "등반가"
+    },
+    {
+      "key": "TEMPEFFECT_CLIMBER 2_DESCRIPTION",
+      "value": "가파른 지형에 사용하는 에너지가 감소합니다(2+ 고도)"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_NAME",
+      "value": "결의"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 1_DESCRIPTION",
+      "value": "깨어나면 체력이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_NAME",
+      "value": "결의"
+    },
+    {
+      "key": "TEMPEFFECT_DETERMINATION 2_DESCRIPTION",
+      "value": "깨어나면 체력이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_NAME",
+      "value": "이른 숙면"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 1_DESCRIPTION",
+      "value": "깨어나면 에너지가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_NAME",
+      "value": "이른 숙면"
+    },
+    {
+      "key": "TEMPEFFECT_EARLY SLEEPER 2_DESCRIPTION",
+      "value": "깨어나면 에너지가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_NAME",
+      "value": "벼랑 끝에서"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 1_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_NAME",
+      "value": "벼랑 끝에서"
+    },
+    {
+      "key": "TEMPEFFECT_ON THE EDGE 2_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_NAME",
+      "value": "얼음 정복자"
+    },
+    {
+      "key": "TEMPEFFECT_ICE MASTER_DESCRIPTION",
+      "value": "얼음 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_NAME",
+      "value": "얼음 스피드"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 1_DESCRIPTION",
+      "value": "얼음 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_NAME",
+      "value": "얼음 스피드"
+    },
+    {
+      "key": "TEMPEFFECT_ICE SPEED 2_DESCRIPTION",
+      "value": "얼음 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_NAME",
+      "value": "달사랑"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 1_DESCRIPTION",
+      "value": "밤에 떨어지는 체온이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_NAME",
+      "value": "달사랑"
+    },
+    {
+      "key": "TEMPEFFECT_MOONSTRUCK 2_DESCRIPTION",
+      "value": "밤에 떨어지는 체온이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_NAME",
+      "value": "별과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 1_DESCRIPTION",
+      "value": "모든 야간 등반에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_NAME",
+      "value": "별과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STARS 2_DESCRIPTION",
+      "value": "모든 야간 등반에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_NAME",
+      "value": "이성"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 1_DESCRIPTION",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_NAME",
+      "value": "이성"
+    },
+    {
+      "key": "TEMPEFFECT_RATIONALITY 2_DESCRIPTION",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_NAME",
+      "value": "강인한 정신력"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 1_DESCRIPTION",
+      "value": "이벤트에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_NAME",
+      "value": "강인한 정신력"
+    },
+    {
+      "key": "TEMPEFFECT_ROBUST MIND 2_DESCRIPTION",
+      "value": "이벤트에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_NAME",
+      "value": "벼랑 끝에서"
+    },
+    {
+      "key": "TEMPEFFECT_ON_THE_EDGE_DESCRIPTION",
+      "value": "심각한 이벤트를 무시합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_NAME",
+      "value": "매의 눈"
+    },
+    {
+      "key": "TEMPEFFECT_EAGLE EYE_DESCRIPTION",
+      "value": "카메라 확대/축소가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_NAME",
+      "value": "열정"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 1_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 에너지가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_NAME",
+      "value": "열정"
+    },
+    {
+      "key": "TEMPEFFECT_ENTHUSIASM 2_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 에너지가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_NAME",
+      "value": "빠른 페이스"
+    },
+    {
+      "key": "TEMPEFFECT_FAST PACE_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_NAME",
+      "value": "신속"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 1_DESCRIPTION",
+      "value": "이벤트에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_NAME",
+      "value": "신속"
+    },
+    {
+      "key": "TEMPEFFECT_QUICKNESS 2_DESCRIPTION",
+      "value": "이벤트에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_NAME",
+      "value": "열린 마음"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 1_DESCRIPTION",
+      "value": "이벤트에 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_NAME",
+      "value": "열린 마음"
+    },
+    {
+      "key": "TEMPEFFECT_TOURIST 2_DESCRIPTION",
+      "value": "이벤트에 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_NAME",
+      "value": "방랑자"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 1_DESCRIPTION",
+      "value": "평평한 지형에 필요한 시간이 감소합니다(0~1 고도)"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_NAME",
+      "value": "방랑자"
+    },
+    {
+      "key": "TEMPEFFECT_WANDERER 2_DESCRIPTION",
+      "value": "평평한 지형에 필요한 시간이 감소합니다(0~1 고도)"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_NAME",
+      "value": "집의 편안함"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 1_DESCRIPTION",
+      "value": "소모품을 사용할 때마다 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_NAME",
+      "value": "집의 편안함"
+    },
+    {
+      "key": "TEMPEFFECT_COMFORT OF HOME 2_DESCRIPTION",
+      "value": "소모품을 사용할 때마다 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_NAME",
+      "value": "약초학"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 1_DESCRIPTION",
+      "value": "차와 약초의 효과가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_NAME",
+      "value": "약초학"
+    },
+    {
+      "key": "TEMPEFFECT_HERBOLOGY 2_DESCRIPTION",
+      "value": "차와 약초의 효과가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_NAME",
+      "value": "추위와 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 1_DESCRIPTION",
+      "value": "추운 날씨에 이동할 때 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_NAME",
+      "value": "추위와 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE COLD 2_DESCRIPTION",
+      "value": "추운 날씨에 이동할 때 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_NAME",
+      "value": "산과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 1_DESCRIPTION",
+      "value": "얼음 위에서는 이성이, 눈 위에서는 산소가, 돌 위에서는 체온이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_NAME",
+      "value": "산과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE MOUNTAIN 2_DESCRIPTION",
+      "value": "얼음 위에서는 이성이, 눈 위에서는 산소가, 돌 위에서는 체온이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_NAME",
+      "value": "폭풍과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 1_DESCRIPTION",
+      "value": "폭풍이 치는 날씨에 이동하면 산소가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_NAME",
+      "value": "폭풍과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONE WITH THE STORM 2_DESCRIPTION",
+      "value": "폭풍이 치는 날씨에 이동하면 산소가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_NAME",
+      "value": "외곬수"
+    },
+    {
+      "key": "TEMPEFFECT_ENVIRONMENTIMMUNITY_DESCRIPTION",
+      "value": "부정적인 환경과 지형 효과를 무시합니다"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_NAME",
+      "value": "심호흡"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 1_DESCRIPTION",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_NAME",
+      "value": "심호흡"
+    },
+    {
+      "key": "TEMPEFFECT_DEEP BREATHS 2_DESCRIPTION",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_NAME",
+      "value": "왕성한 기력"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 1_DESCRIPTION",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_NAME",
+      "value": "왕성한 기력"
+    },
+    {
+      "key": "TEMPEFFECT_ENERGETIC 2_DESCRIPTION",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_NAME",
+      "value": "아침 일과"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 1_DESCRIPTION",
+      "value": "깨어나면 산소가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_NAME",
+      "value": "아침 일과"
+    },
+    {
+      "key": "TEMPEFFECT_MORNING RITUAL 2_DESCRIPTION",
+      "value": "깨어나면 산소가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_NAME",
+      "value": "목적"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 1_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_NAME",
+      "value": "목적"
+    },
+    {
+      "key": "TEMPEFFECT_PURPOSE 2_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_NAME",
+      "value": "눈 정복자"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW MASTER_DESCRIPTION",
+      "value": "눈 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_NAME",
+      "value": "눈 스피드"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 1_DESCRIPTION",
+      "value": "눈 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_NAME",
+      "value": "눈 스피드"
+    },
+    {
+      "key": "TEMPEFFECT_SNOW SPEED 2_DESCRIPTION",
+      "value": "눈 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_NAME",
+      "value": "내부의 불"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 1_DESCRIPTION",
+      "value": "이동할 때 체온이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_NAME",
+      "value": "내부의 불"
+    },
+    {
+      "key": "TEMPEFFECT_INNER FIRE 2_DESCRIPTION",
+      "value": "이동할 때 체온이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_NAME",
+      "value": "돌 정복자"
+    },
+    {
+      "key": "TEMPEFFECT_STONE MASTER_DESCRIPTION",
+      "value": "돌 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_NAME",
+      "value": "돌 스피드"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 1_DESCRIPTION",
+      "value": "돌 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_NAME",
+      "value": "돌 스피드"
+    },
+    {
+      "key": "TEMPEFFECT_STONE SPEED 2_DESCRIPTION",
+      "value": "돌 위에서 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_NAME",
+      "value": "강한 몸"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 1_DESCRIPTION",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_NAME",
+      "value": "강한 몸"
+    },
+    {
+      "key": "TEMPEFFECT_STRONG BODY 2_DESCRIPTION",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_NAME",
+      "value": "두꺼운 피부"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 1_DESCRIPTION",
+      "value": "이벤트 때 잃는 체력이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_NAME",
+      "value": "두꺼운 피부"
+    },
+    {
+      "key": "TEMPEFFECT_THICK SKIN 2_DESCRIPTION",
+      "value": "이벤트 때 잃는 체력이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_NAME",
+      "value": "따뜻한 마음"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 1_DESCRIPTION",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_NAME",
+      "value": "따뜻한 마음"
+    },
+    {
+      "key": "TEMPEFFECT_WARM HEART 2_DESCRIPTION",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_NAME",
+      "value": "수면(동굴)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_CAVE_DESCRIPTION",
+      "value": "동굴에서 잠을 잡니다.<br>체온 손실이 감소하고 추가되는 에너지가 증가합니다."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_NAME",
+      "value": "수면(외부)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDENOTENT_DESCRIPTION",
+      "value": "텐트도 없이 밖에서 잠을 잡니다.<br>체온 손실이 증가하고 추가되는 에너지가 감소합니다."
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_NAME",
+      "value": "수면(텐트)"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_OUTSIDEWITHTENT_DESCRIPTION",
+      "value": "텐트에서 잠을 잡니다.<br>체온 손실이 감소하고 추가되는 에너지가 증가합니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_NAME",
+      "value": "눈보라"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_BLIZZARD_DESCRIPTION",
+      "value": "이 경로의 날씨는 무자비합니다.<br>추운 날씨의 효과가 증가합니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_NAME",
+      "value": "추운 밤"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_COLDNIGHTS_DESCRIPTION",
+      "value": "이 경로의 밤은 평소보다 더 춥습니다.<br>밤의 체온 손실이 증가합니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_NAME",
+      "value": "섬뜩한 주변 환경"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_EERIESURROUNDINGS_DESCRIPTION",
+      "value": "이 경로는 그림자와 알 수 없는 소음이 따라다닙니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_NAME",
+      "value": "험난한 지형"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_ROUGHTERRAIN_DESCRIPTION",
+      "value": "이 경로의 지형은 매우 험난합니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_NAME",
+      "value": "강력한 폭풍"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_SEVERSTORMS_DESCRIPTION",
+      "value": "이 경로에는 강력한 폭풍이 불고 있습니다.<br>폭풍의 효과가 증가합니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_NAME",
+      "value": "부족한 공기"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_THINAIR_DESCRIPTION",
+      "value": "이 경로는 호흡이 더 힘듭니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_NAME",
+      "value": "단단한 눈"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRMSNOW_DESCRIPTION",
+      "value": "이 경로의 눈 덮인 지형은 접지력이 더 좋습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_NAME",
+      "value": "안정적인 얼음"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STABLEICE_DESCRIPTION",
+      "value": "이 경로의 얼음 지형은 접지력이 더 좋습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_NAME",
+      "value": "단단한 바위"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_STURDYROCK_DESCRIPTION",
+      "value": "이 경로의 바위 지형은 접지력이 더 좋습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_NAME",
+      "value": "풍족한 공기"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_THICKAIR_DESCRIPTION",
+      "value": "이 경로의 공기는 신선하고 맑습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_NAME",
+      "value": "특이한 현상"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_UNUSUALPHENOMENA_DESCRIPTION",
+      "value": "이 경로에는 찾아야 할 것들이 많습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_NAME",
+      "value": "따뜻한 밤"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_WARMNIGHTS_DESCRIPTION",
+      "value": "이 경로의 밤은 평소보다 더 따뜻합니다."
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_NAME",
+      "value": "얼어붙은 발가락"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "발가락이 얼어붙었습니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_NAME",
+      "value": "다친 발목"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_DESCRIPTION",
+      "value": "발목을 다쳤습니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_NAME",
+      "value": "고산병"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_DESCRIPTION",
+      "value": "고산병을 앓고 있습니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_NAME",
+      "value": "악몽"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_DESCRIPTION",
+      "value": "악몽으로 고생 중입니다"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_NAME",
+      "value": "피로"
+    },
+    {
+      "key": "TEMPEFFECT_EXHAUSTED_DESCRIPTION",
+      "value": "피로에 시달리고 있습니다"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_NAME",
+      "value": "동상"
+    },
+    {
+      "key": "TEMPEFFECT_FROSTBITTEN_DESCRIPTION",
+      "value": "산의 매서운 추위로 힘들어 합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_NAME",
+      "value": "따뜻한 휴식"
+    },
+    {
+      "key": "TEMPEFFECT_SLEEP_IGNORENIGHT_DESCRIPTION",
+      "value": "추위를 피해 잠을 청합니다"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_NAME",
+      "value": "주변 환경"
+    },
+    {
+      "key": "TEC_ENVIRONMENT_DESCRIPTION",
+      "value": "산의 시간과 위치에 따라 발생하는 일시적 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC_EQUIPMENT_NAME",
+      "value": "장비"
+    },
+    {
+      "key": "TEC_EQUIPMENT_DESCRIPTION",
+      "value": "장비의 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC_SCARS_NAME",
+      "value": "흉터"
+    },
+    {
+      "key": "TEC_SCARS_DESCRIPTION",
+      "value": "이전 산에서 이어진 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC_TEMPBUFFS_NAME",
+      "value": "일시적 강화 효과"
+    },
+    {
+      "key": "TEC_TEMPBUFFS_DESCRIPTION",
+      "value": "일시적인 긍정적 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_NAME",
+      "value": "일시적 약화 효과"
+    },
+    {
+      "key": "TEC_TEMPDEBUFFS_DESCRIPTION",
+      "value": "일시적인 부정적 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC_TRAITS_NAME",
+      "value": "특성"
+    },
+    {
+      "key": "TEC_TRAITS_DESCRIPTION",
+      "value": "레벨을 올리고 받은 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_NAME",
+      "value": "깊게 쌓인 눈"
+    },
+    {
+      "key": "TEMPEFFECT_DEEPSNOW_DESCRIPTION",
+      "value": "이동에 사용하는 에너지가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_NAME",
+      "value": "빙하"
+    },
+    {
+      "key": "TEMPEFFECT_GLACIER_DESCRIPTION",
+      "value": "위험합니다 - 예측할 수 없는 일이 발생할 수 있습니다..."
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_NAME",
+      "value": "얼음 미로"
+    },
+    {
+      "key": "TEMPEFFECT_ICELABYRINTH_DESCRIPTION",
+      "value": "이동에 필요한 시간과 체온 손실이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_NAME",
+      "value": "돌무더기"
+    },
+    {
+      "key": "TEMPEFFECT_RUBBLE_DESCRIPTION",
+      "value": "위험합니다 - 예측할 수 없는 일이 발생할 수 있습니다..."
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_NAME",
+      "value": "눈 더미"
+    },
+    {
+      "key": "TEMPEFFECT_SASTRUGI_DESCRIPTION",
+      "value": "위험합니다 - 예측할 수 없는 일이 발생할 수 있습니다..."
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_NAME",
+      "value": "화산암"
+    },
+    {
+      "key": "TEMPEFFECT_VOLCANO_DESCRIPTION",
+      "value": "이동할 때 산소 손실과 체온 추가가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_NAME",
+      "value": "손 부상"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHAND_DESCRIPTION",
+      "value": "가파른 지형에 사용하는 에너지가 증가합니다 (2+ 고도)"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_NAME",
+      "value": "머리 부상"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDHEAD_DESCRIPTION",
+      "value": "획득하는 경험치가 감소합니다"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_NAME",
+      "value": "질주"
+    },
+    {
+      "key": "SKILL_HIGHSPEED_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소하고, 사용되는 에너지와 체온 추가가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_NAME",
+      "value": "질주"
+    },
+    {
+      "key": "TEMPEFFECT_HIGHSPEED_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소하고, 사용되는 에너지와 체온 추가가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_NAME",
+      "value": "윗몸 부상"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDRIBS_DESCRIPTION",
+      "value": "호흡할 때마다 아픕니다"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_NAME",
+      "value": "다리 부상"
+    },
+    {
+      "key": "TEMPEFFECT_INJUREDLEG_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_NAME",
+      "value": "설맹"
+    },
+    {
+      "key": "TEMPEFFECT_SNOWBLIND_DESCRIPTION",
+      "value": "모든 지형에 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_NAME",
+      "value": "강력한 눈보라"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_BLIZZARD2_DESCRIPTION",
+      "value": "이 경로의 날씨는 무자비합니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_NAME",
+      "value": "극심하게 추운 밤"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_COLDNIGHTS2_DESCRIPTION",
+      "value": "이 경로의 밤은 평소보다 더 춥습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_NAME",
+      "value": "매우 섬뜩한 주변 환경"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_EERIESURROUNDINGS2_DESCRIPTION",
+      "value": "이 경로는 그림자와 알 수 없는 소음이 따라다닙니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_NAME",
+      "value": "극심하게 험난한 지형"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_ROUGHTERRAIN2_DESCRIPTION",
+      "value": "극복하기 어려운 지형입니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_NAME",
+      "value": "매우 강력한 폭풍"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_SEVERESTORMS2_DESCRIPTION",
+      "value": "이 경로에는 강력한 폭풍이 불고 있습니다."
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_NAME",
+      "value": "극심하게 부족한 공기"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_THINAIR2_DESCRIPTION",
+      "value": "이 경로는 호흡이 더 힘듭니다."
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy0Factor",
+      "value": "평평한 지형에 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy1Factor",
+      "value": "등반에 사용하는 에너지 (1 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy2Factor",
+      "value": "등반에 사용하는 에너지 (2 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy3Factor",
+      "value": "등반에 사용하는 에너지 (3 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy4Factor",
+      "value": "등반에 사용하는 에너지 (4 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy5Factor",
+      "value": "등반에 사용하는 에너지 (5 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergy6Factor",
+      "value": "등반에 사용하는 에너지 (6 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergyFactorAll",
+      "value": "모든 지형에 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationEnergySumAll",
+      "value": "모든 지형에 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyStoneFactor",
+      "value": "돌 위에서 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergySnowFactor",
+      "value": "눈 위에서 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainEnergyIceFactor",
+      "value": "얼음 위에서 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime0Factor",
+      "value": "평평한 지형에 사용하는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime1Factor",
+      "value": "등반에 필요한 시간 (1 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime2Factor",
+      "value": "등반에 필요한 시간 (2 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime3Factor",
+      "value": "등반에 필요한 시간 (3 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime4Factor",
+      "value": "등반에 필요한 시간 (4 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime5Factor",
+      "value": "등반에 필요한 시간 (5 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTime6Factor",
+      "value": "등반에 필요한 시간 (6 고도 차이): {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeFactorAll",
+      "value": "모든 지형에 필요한 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_ElevationTimeSumAll",
+      "value": "모든 지형에 필요한 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeStoneFactor",
+      "value": "돌 위에서 필요한 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeSnowFactor",
+      "value": "눈 위에서 필요한 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_TerrainTimeIceFactor",
+      "value": "얼음 위에서 필요한 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingSum",
+      "value": "휴식 중 시간당 에너지 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnergyChangeRestingFactor",
+      "value": "휴식 중 시간당 에너지 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveSum",
+      "value": "이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveFactor",
+      "value": "이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneSum",
+      "value": "돌 위에서 이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainStoneFactor",
+      "value": "돌 위에서 이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowSum",
+      "value": "눈 위에서 이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainSnowFactor",
+      "value": "눈 위에서 이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceSum",
+      "value": "얼음 위에서 이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeActiveTerrainIceFactor",
+      "value": "얼음 위에서 이동 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingSum",
+      "value": "휴식/이벤트 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_SanityChangeRestingFactor",
+      "value": "휴식/이벤트 중 시간당 이성 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveSum",
+      "value": "이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveFactor",
+      "value": "이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneSum",
+      "value": "돌 위에서 이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainStoneFactor",
+      "value": "돌 위에서 이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowSum",
+      "value": "눈 위에서 이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainSnowFactor",
+      "value": "눈 위에서 이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceSum",
+      "value": "얼음 위에서 이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeActiveTerrainIceFactor",
+      "value": "얼음 위에서 이동 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingSum",
+      "value": "휴식/이벤트 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_BodyTempChangeRestingFactor",
+      "value": "휴식/이벤트 중 시간당 체온 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveSum",
+      "value": "이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveFactor",
+      "value": "이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneSum",
+      "value": "돌 위에서 이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainStoneFactor",
+      "value": "돌 위에서 이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowSum",
+      "value": "눈 위에서 이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainSnowFactor",
+      "value": "눈 위에서 이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceSum",
+      "value": "얼음 위에서 이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeActiveTerrainIceFactor",
+      "value": "얼음 위에서 이동 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingSum",
+      "value": "휴식/이벤트 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_OxygenChangeRestingFactor",
+      "value": "휴식/이벤트 중 시간당 산소 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_CameraZoomFactor",
+      "value": "최대 카메라 거리: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainSummand",
+      "value": "이벤트에 추가되는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossSummand",
+      "value": "이벤트에 잃는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyGainFactor",
+      "value": "이벤트에 추가되는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventEnergyLossFactor",
+      "value": "이벤트에 잃는 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainSummand",
+      "value": "이벤트에 추가되는 체온: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossSummand",
+      "value": "이벤트에 잃는 체온: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempGainFactor",
+      "value": "이벤트에 추가되는 체온: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventBodyTempLossFactor",
+      "value": "이벤트에 잃는 체온: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainSummand",
+      "value": "이벤트에 추가되는 산소: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossSummand",
+      "value": "이벤트에 잃는 산소: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenGainFactor",
+      "value": "이벤트에 추가되는 산소: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventOxygenLossFactor",
+      "value": "이벤트에 잃는 산소: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainSummand",
+      "value": "이벤트에 추가되는 이성: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossSummand",
+      "value": "이벤트에 잃는 이성: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityGainFactor",
+      "value": "이벤트에 추가되는 이성: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventSanityLossFactor",
+      "value": "이벤트에 잃는 이성: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainSummand",
+      "value": "이벤트에 추가되는 체력: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossSummand",
+      "value": "이벤트에 잃는 체력: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthGainFactor",
+      "value": "이벤트에 추가되는 체력: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventHealthLossFactor",
+      "value": "이벤트에 잃는 체력: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainSummand",
+      "value": "이벤트에 추가되는 경험치: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossSummand",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventExpGainFactor",
+      "value": "이벤트에 추가되는 경험치: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventExpLossFactor",
+      "value": ""
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossSummand",
+      "value": "이벤트의 시간 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EventTimeLossFactor",
+      "value": "이벤트의 시간 변화: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_NaturalConsumableFactor",
+      "value": "차와 약초의 효과: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_CulturalConsumableFactor",
+      "value": "통조림과 산소통의 효과: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxHealthFactor",
+      "value": "최대 체력: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxEnergyFactor",
+      "value": "최대 에너지: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxSanityFactor",
+      "value": "최대 이성: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxBodyTempFactor",
+      "value": "최대 체온: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_MaxOxygenFactor",
+      "value": "최대 산소: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_GlobalEventCooldownFactor",
+      "value": "모든 방해 이벤트의 대기 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_CritStatEventCooldownFactor",
+      "value": "심각한 이벤트 대기 시간: {0}"
+    },
+    {
+      "key": "STATVALUETYPE_EnvironmentalEventCooldownFactor",
+      "value": "지형 방해 이벤트의 대기 시간: {0}"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_NAME",
+      "value": "라펠"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_DESCRIPTION",
+      "value": "더 낮은 타일로 내려갑니다"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_ISBLOCKED",
+      "value": "그곳으로는 내려갈 수 없습니다!"
+    },
+    {
+      "key": "SKILLTARGETED_RAPPEL_ERROR_HEIGHTDIFF",
+      "value": "대상 타일이 현재 타일보다 낮은 곳에 있어야 합니다!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_NAME",
+      "value": "그래플"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_DESCRIPTION",
+      "value": "더 높은 타일로 빠르게 올라갑니다"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_ISBLOCKED",
+      "value": "그곳으로는 올라갈 수 없습니다!"
+    },
+    {
+      "key": "SKILLTARGETED_HOOK_ERROR_HEIGHTDIFF",
+      "value": "대상 타일이 현재 타일보다 높은 곳에 있어야 합니다!"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_F",
+      "value": "(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_M",
+      "value": "(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_SUFFIX_N",
+      "value": "(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_F",
+      "value": "고품질"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_M",
+      "value": "고품질"
+    },
+    {
+      "key": "ITEM_EQ_IMPROVED_PREFIX_N",
+      "value": "고품질"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_NAME",
+      "value": "방한 부츠"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_NAME",
+      "value": "따뜻한 모자"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_NAME",
+      "value": "보호 헬멧"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_NAME",
+      "value": "산소마스크"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_NAME",
+      "value": "헤드램프"
+    },
+    {
+      "key": "STATVALUETYPE_LightRadius",
+      "value": "빛의 반경 증가: {0}"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_NAME",
+      "value": "피켈"
+    },
+    {
+      "key": "ITEM_EQ_FLASHLIGHT_NAME",
+      "value": "손전등"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION",
+      "value": "{0} 중에만 활성화됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_WAKEUP",
+      "value": "깨어날 때마다, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_POI_ENTERED",
+      "value": "관심 지점에 도달할 때마다, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CONSUMABLE_USED",
+      "value": "소모품을 사용할 때마다, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_ENERGY",
+      "value": "{0} 에너지 추가"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_ENERGY",
+      "value": "{0} 에너지 손실"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_BODYTEMP",
+      "value": "{0} 체온 추가"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_BODYTEMP",
+      "value": "{0} 체온 손실"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_OXYGEN",
+      "value": "{0} 산소 추가"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_OXYGEN",
+      "value": "{0} 산소 손실"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_SANITY",
+      "value": "{0} 이성 추가"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_SANITY",
+      "value": "{0} 이성 손실"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_HEALTH",
+      "value": "{0} 체력 추가"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_LOSE_HEALTH",
+      "value": "{0} 체력 손실"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_EFFECT_GAIN_EXPERIENCE",
+      "value": "{0} 경험치 추가"
+    },
+    {
+      "key": "SKILL_ADRENALINE_NAME",
+      "value": "아드레날린"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION",
+      "value": "위험한 지형 이벤트로 힘들 때마다 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILL_ADRENALINE_DESCRIPTION1",
+      "value": "위험한 지형 이벤트로 힘들 때마다 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_NAME",
+      "value": "진한 피"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION",
+      "value": "죽음의 고도 효과가 약해집니다"
+    },
+    {
+      "key": "SKILL_THICK BLOOD_DESCRIPTION1",
+      "value": "죽음의 고도 효과가 더 많이 약해집니다"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_NAME",
+      "value": "추위 적응"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION",
+      "value": "추운 날씨의 효과가 약해집니다"
+    },
+    {
+      "key": "SKILL_ACCLIMATIZED_DESCRIPTION1",
+      "value": "추운 날씨의 효과가 더 많이 약해집니다"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_NAME",
+      "value": "인내"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION",
+      "value": "폭풍 날씨의 효과가 약해집니다"
+    },
+    {
+      "key": "SKILL_PERSEVERANCE_DESCRIPTION1",
+      "value": "폭풍 날씨의 효과가 더 많이 약해집니다"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_NAME",
+      "value": "불타는 야망"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION",
+      "value": "시간당 추가되는 체온이 증가합니다"
+    },
+    {
+      "key": "SKILL_BURNINGAMBITION_DESCRIPTION1",
+      "value": "시간당 추가되는 체온이 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_NAME",
+      "value": "뛰어난 폐활량"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION",
+      "value": "시간당 추가되는 산소가 증가합니다"
+    },
+    {
+      "key": "SKILL_STRONGLUNGS_DESCRIPTION1",
+      "value": "시간당 추가되는 산소가 크게 증가합니다"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_NAME",
+      "value": "가벼운 발걸음"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_GRACEFUL STEPS_DESCRIPTION1",
+      "value": "모든 지형에 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_NAME",
+      "value": "응급치료"
+    },
+    {
+      "key": "SKILLACTIVE_MEND_DESCRIPTION",
+      "value": "일정 시간이 지나면 상처가 치료됩니다"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_NAME",
+      "value": "재집중"
+    },
+    {
+      "key": "SKILLACTIVE_FINDYOURCENTER_DESCRIPTION",
+      "value": "일정 시간이 지나면 이성을 되찾습니다"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_NAME",
+      "value": "분석"
+    },
+    {
+      "key": "SKILLACTIVE_ANALYSE_DESCRIPTION",
+      "value": "일정 시간이 지나면 경험치를 받습니다"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_NAME",
+      "value": "준비운동"
+    },
+    {
+      "key": "SKILLACTIVE_WARMUP_DESCRIPTION",
+      "value": "일정 에너지를 사용해 체온을 올립니다"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_NAME",
+      "value": "호흡 훈련"
+    },
+    {
+      "key": "SKILLACTIVE_BREATHING EXCERCICES_DESCRIPTION",
+      "value": "체온을 사용해 산소를 증가시킵니다"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_NAME",
+      "value": "질주"
+    },
+    {
+      "key": "SKILLACTIVE_SPRINTNEW_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소하고, 체온이 추가로 증가합니다"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_NAME",
+      "value": "전문 등반가"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_MASTER CLIMBER_DESCRIPTION1",
+      "value": "모든 지형에 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_NAME",
+      "value": "얼음과 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION",
+      "value": "얼음 위에서 이동할 때 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONEWITHTHEICE_DESCRIPTION1",
+      "value": "얼음 위에서 이동할 때 이성이 더 많이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_NAME",
+      "value": "눈과 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION",
+      "value": "눈 위에서 이동할 때 산소가 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESNOW_DESCRIPTION1",
+      "value": "얼음 위에서 이동할 때 산소가 더 많이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_NAME",
+      "value": "돌과 함께하는 자"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION",
+      "value": "돌 위에서 이동할 때 체온이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ONEWITHTHESTONE_DESCRIPTION1",
+      "value": "돌 위에서 이동할 때 체온이 더 많이 추가됩니다"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_NAME",
+      "value": "고산 스타일"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION",
+      "value": "모든 지형에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "SKILL_ALPINE STYLE_DESCRIPTION1",
+      "value": "모든 지형에 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_NAME",
+      "value": "효율"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 감소합니다"
+    },
+    {
+      "key": "SKILL_EFFICIENCY_DESCRIPTION1",
+      "value": "이벤트에 잃는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_NAME",
+      "value": "저지 불가"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION",
+      "value": "심각한 이벤트로 힘들어할 때마다 약간의 에너지, 체온, 산소, 이성이 추가됩니다"
+    },
+    {
+      "key": "SKILL_UNSTOPPABLE_DESCRIPTION1",
+      "value": "심각한 이벤트로 힘들어할 때마다 조금 더 많은 에너지, 체온, 산소, 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_NAME",
+      "value": "질주"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINT_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소하고, 사용되는 에너지와 체온 추가가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_NAME",
+      "value": "얼어붙은 손"
+    },
+    {
+      "key": "TEMPEFFECT_CRITBODYTEMPSCAR_FROZENHANDS_DESCRIPTION",
+      "value": "손이 얼어붙었습니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_NAME",
+      "value": "근육 피로"
+    },
+    {
+      "key": "TEMPEFFECT_CRITENERGYSCAR_MUSCLEFATIGUE_DESCRIPTION",
+      "value": "움직이면 온 몸이 아픕니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_NAME",
+      "value": "계속되는 기침"
+    },
+    {
+      "key": "TEMPEFFECT_CRITOXYGENSCAR_COUGH_DESCRIPTION",
+      "value": "기침이 멈추지 않습니다"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_NAME",
+      "value": "정상 열풍"
+    },
+    {
+      "key": "TEMPEFFECT_CRITSANITYSCAR_SUMMITFEVER_DESCRIPTION",
+      "value": "어떤 대가를 치러서라도 정상에 오르는 것에 집착합니다"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_NAME",
+      "value": "의심"
+    },
+    {
+      "key": "TEMPEFFECT_DOUBT_DESCRIPTION",
+      "value": "이 모든 게 실수가 아닌지 의심하기 시작합니다"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_NAME",
+      "value": "자만심"
+    },
+    {
+      "key": "TEMPEFFECT_HUBRIS_DESCRIPTION",
+      "value": "자신을 과신하기 시작합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_NAME",
+      "value": "아드레날린"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE1_DESCRIPTION",
+      "value": "위험한 지형 이벤트로 힘들 때마다 에너지가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_NAME",
+      "value": "아드레날린"
+    },
+    {
+      "key": "TEMPEFFECT_ADRENALINE2_DESCRIPTION",
+      "value": "위험한 지형 이벤트로 힘들 때마다 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_NAME",
+      "value": "진한 피"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD1_DESCRIPTION",
+      "value": "죽음의 고도 효과가 약해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_NAME",
+      "value": "진한 피"
+    },
+    {
+      "key": "TEMPEFFECT_THICK BLOOD2_DESCRIPTION",
+      "value": "죽음의 고도 효과가 더 많이 약해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_NAME",
+      "value": "추위 적응"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED1_DESCRIPTION",
+      "value": "추운 날씨의 효과가 약해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_NAME",
+      "value": "추위 적응"
+    },
+    {
+      "key": "TEMPEFFECT_ACCLIMATIZED2_DESCRIPTION",
+      "value": "추운 날씨의 효과가 더 많이 약해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_NAME",
+      "value": "인내"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE1_DESCRIPTION",
+      "value": "폭풍 날씨의 효과가 약해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_NAME",
+      "value": "인내"
+    },
+    {
+      "key": "TEMPEFFECT_PERSEVERANCE2_DESCRIPTION",
+      "value": "폭풍 날씨의 효과가 더 많이 약해집니다"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_NAME",
+      "value": "불타는 야망"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION1_DESCRIPTION",
+      "value": "시간당 추가되는 체온이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_NAME",
+      "value": "불타는 야망"
+    },
+    {
+      "key": "TEMPEFFECT_BURNINGAMBITION2_DESCRIPTION",
+      "value": "시간당 추가되는 체온이 크게 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_NAME",
+      "value": "뛰어난 폐활량"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS1_DESCRIPTION",
+      "value": "시간당 추가되는 산소가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_NAME",
+      "value": "뛰어난 폐활량"
+    },
+    {
+      "key": "TEMPEFFECT_STRONGLUNGS2_DESCRIPTION",
+      "value": "시간당 추가되는 산소가 크게 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_NAME",
+      "value": "가벼운 발걸음"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS1_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_NAME",
+      "value": "가벼운 발걸음"
+    },
+    {
+      "key": "TEMPEFFECT_GRACEFUL STEPS2_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_NAME",
+      "value": "질주"
+    },
+    {
+      "key": "TEMPEFFECT_SPRINTNEW_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소하고, 체온이 추가로 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_NAME",
+      "value": "전문 등반가"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER1_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_NAME",
+      "value": "전문 등반가"
+    },
+    {
+      "key": "TEMPEFFECT_MASTER CLIMBER2_DESCRIPTION",
+      "value": "모든 지형에 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_NAME",
+      "value": "얼음과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE1_DESCRIPTION",
+      "value": "얼음 위에서 이동할 때 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_NAME",
+      "value": "얼음과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHEICE2_DESCRIPTION",
+      "value": "얼음 위에서 이동할 때 이성이 더 많이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_NAME",
+      "value": "눈과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW1_DESCRIPTION",
+      "value": "눈 위에서 이동할 때 산소가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_NAME",
+      "value": "눈과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESNOW2_DESCRIPTION",
+      "value": "얼음 위에서 이동할 때 산소가 더 많이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_NAME",
+      "value": "돌과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE1_DESCRIPTION",
+      "value": "돌 위에서 이동할 때 체온이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_NAME",
+      "value": "돌과 함께하는 자"
+    },
+    {
+      "key": "TEMPEFFECT_ONEWITHTHESTONE2_DESCRIPTION",
+      "value": "돌 위에서 이동할 때 체온이 더 많이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_NAME",
+      "value": "고산 스타일"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE1_DESCRIPTION",
+      "value": "모든 지형에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_NAME",
+      "value": "고산 스타일"
+    },
+    {
+      "key": "TEMPEFFECT_ALPINE STYLE2_DESCRIPTION",
+      "value": "모든 지형에 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_NAME",
+      "value": "효율"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY1_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_NAME",
+      "value": "효율"
+    },
+    {
+      "key": "TEMPEFFECT_EFFICIENCY2_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_NAME",
+      "value": "저지 불가"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE1_DESCRIPTION",
+      "value": "심각한 이벤트로 힘들어할 때마다 약간의 에너지, 체온, 산소, 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_NAME",
+      "value": "저지 불가"
+    },
+    {
+      "key": "TEMPEFFECT_UNSTOPPABLE2_DESCRIPTION",
+      "value": "심각한 이벤트로 힘들어할 때마다 조금 더 많은 에너지, 체온, 산소, 이성이 추가됩니다"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "EQUIPMENTTAG_HEAD_NAME",
+      "value": "머리"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_NAME",
+      "value": "방한 부츠(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_WARMSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_NAME",
+      "value": "보호 헬멧(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_PROTECTIVE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_NAME",
+      "value": "산소마스크(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_OXYGEN2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_NAME",
+      "value": "헤드램프(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_ILLUMINATING2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_NAME",
+      "value": "따뜻한 모자(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_HEADGEAR_WARM2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_NAME",
+      "value": "등반 도끼(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_NAME",
+      "value": "등반 장갑(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_CLIMBINGGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_NAME",
+      "value": "모피 장갑(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_FURGLOVES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_NAME",
+      "value": "등산 스틱(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_HIKINGSTAFF2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_NAME",
+      "value": "크램폰(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_ICESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_NAME",
+      "value": "눈 부츠(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_SNOWSHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_NAME",
+      "value": "두꺼운 부츠(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_STONESHOES2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_NAME",
+      "value": "피켈(고품질)"
+    },
+    {
+      "key": "ITEM_EQ_ICEAXE2_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_NAME",
+      "value": "불의 시험"
+    },
+    {
+      "key": "TEMPEFFECT_EQ_HOLYGIFT_BODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_NAME",
+      "value": "용기"
+    },
+    {
+      "key": "TEMPEFFECT_GAINXPONSUBTERRAIN1_DESCRIPTION",
+      "value": "위험한 지형 이벤트로 힘들 때마다 경험치가 추가됩니다"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_NAME",
+      "value": "용기"
+    },
+    {
+      "key": "SKILL_GAINXPONSUBTERRAIN_DESCRIPTION",
+      "value": "위험한 지형 이벤트로 힘들 때마다 경험치가 추가됩니다"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_NAME",
+      "value": "조심스러운 걸음"
+    },
+    {
+      "key": "SKILLACTIVE_CAREFULSTEPS_DESCRIPTION",
+      "value": "이동 시간이 더 걸리지만, 위험한 지형을 무시합니다"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_NAME",
+      "value": "조심스러운 걸음"
+    },
+    {
+      "key": "TEMPEFFECT_TEMPSUBTERRAINIMMUNITY_DESCRIPTION",
+      "value": "이동 시간이 더 걸리지만, 위험한 지형을 무시합니다"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_NAME",
+      "value": "올빼미형"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION",
+      "value": "밤의 이벤트로 더 많은 경험치가 추가됩니다"
+    },
+    {
+      "key": "SKILL_NIGHTEXPERIENCE_DESCRIPTION1",
+      "value": "밤의 이벤트로 더 많은 경험치가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_NAME",
+      "value": "올빼미형"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE1_DESCRIPTION",
+      "value": "밤의 이벤트로 더 많은 경험치가 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_NAME",
+      "value": "올빼미형"
+    },
+    {
+      "key": "TEMPEFFECT_NIGHTEXPERIENCE2_DESCRIPTION",
+      "value": "밤의 이벤트로 더 많은 경험치가 추가됩니다"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_NAME",
+      "value": "가파른 지형 등반가"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_DESCRIPTION",
+      "value": "가파른 지형 이동 전문화"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_NAME",
+      "value": "이벤트 전문가"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_DESCRIPTION",
+      "value": "이벤트에 더 효율적입니다"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_NAME",
+      "value": "평지 전문가"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_DESCRIPTION",
+      "value": "평평한 지형 이동 전문화"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_NAME",
+      "value": "특별한 지형 전문가"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_DESCRIPTION",
+      "value": "위험한 지형 이동 전문화"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_NAME",
+      "value": "야간 등반가"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_DESCRIPTION",
+      "value": "밤 등반 전문화"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_NAME",
+      "value": "소모품 전문가"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_DESCRIPTION",
+      "value": "소모품 사용 전문화"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_NAME",
+      "value": "일반 스킬"
+    },
+    {
+      "key": "SKILLTREE_GENERIC_DESCRIPTION",
+      "value": "다양한 상황에 도움이 됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_SUBTERRAIN_INTERRUPT",
+      "value": "위험한 지형 이벤트로 힘들 때마다, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_CRITSTAT_INTERRUPT",
+      "value": "위태로운 이벤트로 힘들 때마다, {0}"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_NAME",
+      "value": "횃불"
+    },
+    {
+      "key": "TEMPEFFECT_TORCHBUFF_DESCRIPTION",
+      "value": "빛의 반경이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_NAME",
+      "value": "램프"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF_DESCRIPTION",
+      "value": "빛의 반경이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_NAME",
+      "value": "램프"
+    },
+    {
+      "key": "TEMPEFFECT_PASSIVELIGHTBUFF2_DESCRIPTION",
+      "value": "빛의 반경이 크게 증가합니다"
+    },
+    {
+      "key": "STATVALUETYPE_LightAngleFactor",
+      "value": "{0} 빛의 반경"
+    },
+    {
+      "key": "ITEM_BANDAGE_NAME",
+      "value": "붕대"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_NAME",
+      "value": "중간 스킬"
+    },
+    {
+      "key": "SKILLTREE_GENERIC2_DESCRIPTION",
+      "value": "전문화에서 개별적으로 선택할 수 있습니다"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_NAME",
+      "value": "죽음의 고도"
+    },
+    {
+      "key": "TEMPEFFECT_DEATHZONE_DESCRIPTION",
+      "value": "지금 이곳은 죽음의 고도입니다. 이동 또는 휴식 중이거나 이벤트 상황에 산소가 손실됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_NAME",
+      "value": "양심"
+    },
+    {
+      "key": "TEMPEFFECT_GOODCONSCIENCEBUFF_DESCRIPTION",
+      "value": "자신에 대해 좋게 느낍니다"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_NAME",
+      "value": "영웅심"
+    },
+    {
+      "key": "TEMPEFFECT_HEROISMBUFF_DESCRIPTION",
+      "value": "영웅이 된 기분이 듭니다"
+    },
+    {
+      "key": "TEMPEFFECT_TRIGGER_ON_LEVELUP",
+      "value": "레벨을 올릴 때마다, {0}"
+    },
+    {
+      "key": "SKILL_REGENERATION_NAME",
+      "value": "회복"
+    },
+    {
+      "key": "SKILL_REGENERATION_DESCRIPTION",
+      "value": "소모품을 사용할 때마다, 체력이 회복됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_NAME",
+      "value": "회복"
+    },
+    {
+      "key": "TEMPEFFECT_REGENERATION_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_NAME",
+      "value": "스릴 추구자"
+    },
+    {
+      "key": "SKILL_THRILLSEEKER_DESCRIPTION",
+      "value": "죽음의 고도에 있는 동안 이성이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_NAME",
+      "value": "스릴 추구자"
+    },
+    {
+      "key": "TEMPEFFECT_THRILLSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_NAME",
+      "value": "제작자"
+    },
+    {
+      "key": "SKILLACTIVE_TINKER_DESCRIPTION",
+      "value": "독창성을 발휘하여 나만의 장비를 만드세요."
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_NAME",
+      "value": "미친 천재"
+    },
+    {
+      "key": "SKILLACTIVE_MADRUSH_DESCRIPTION",
+      "value": "이성을 사용해 원하는 임시 강화 효과를 얻으세요."
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_NAME",
+      "value": "미친 천재"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHBODYTEMP_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_NAME",
+      "value": "미친 천재"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHOXYGEN_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_NAME",
+      "value": "미친 천재"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHTIME_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_NAME",
+      "value": "미친 천재"
+    },
+    {
+      "key": "TEMPEFFECT_MADRUSHENERGY_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_NAME",
+      "value": "탐사 보도"
+    },
+    {
+      "key": "SKILL_SIGHTSEEKER_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다, 경험치를 받습니다"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_NAME",
+      "value": "탐사 보도"
+    },
+    {
+      "key": "TEMPEFFECT_SIGHTSEEKER_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_NAME",
+      "value": "지식에 대한 갈증"
+    },
+    {
+      "key": "SKILL_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": "레벨을 올릴 때마다 에너지, 체온, 산소, 이성, 체력이 추가됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_NAME",
+      "value": "지식에 대한 갈증"
+    },
+    {
+      "key": "TEMPEFFECT_THIRSTFORKNOWLEDGE_DESCRIPTION",
+      "value": ""
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_NAME",
+      "value": "녹색 플레어 건"
+    },
+    {
+      "key": "ITEM_FLARE_TRADE_DESCRIPTION",
+      "value": "상인을 부릅니다."
+    },
+    {
+      "key": "ITEM_FLARE_HELP_NAME",
+      "value": "빨간색 플레어 건"
+    },
+    {
+      "key": "ITEM_FLARE_HELP_DESCRIPTION",
+      "value": "도움을 요청합니다."
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_NAME",
+      "value": "안전 밧줄"
+    },
+    {
+      "key": "ITEM_ROPE_SAFETY_DESCRIPTION",
+      "value": "정해진 시간 동안 위험한 지형을 무시합니다."
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_NAME",
+      "value": "등반 밧줄"
+    },
+    {
+      "key": "ITEM_ROPE_CLIMBING_DESCRIPTION",
+      "value": "정해진 시간 동안 등반에 사용하는 에너지가 감소합니다."
+    },
+    {
+      "key": "ITEM_HOOKS_NAME",
+      "value": "등반 후크"
+    },
+    {
+      "key": "ITEM_HOOKS_DESCRIPTION",
+      "value": "정해진 시간 동안 등반에 사용하는 에너지가 감소합니다."
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_NAME",
+      "value": "영감"
+    },
+    {
+      "key": "SKILLACTIVE_INSPIRATION_DESCRIPTION",
+      "value": "에너지가 회복되고 현재 대기 중인 모든 스킬의 대기 시간이 감소합니다"
+    },
+    {
+      "key": "SKILLEFFECT_REDUCECOOLDOWNS",
+      "value": "진행 중인 모든 대기 시간이 {0} {1} 감소합니다."
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_TITLE",
+      "value": "지형 지식"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_TERRAINKNOWLEDGE_DESCRIPTION",
+      "value": "지형 유형을 탐색하는 데 도움을 줍니다"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "지형 지식: 얼음"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "얼음 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "지형 지식: 눈"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "눈 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "지형 지식: 돌"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "돌 위에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "지형 지식: 위험"
+    },
+    {
+      "key": "TEMPEFFECT_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "위험한 지형 때문에 발생하는 이벤트에 대한 저항력이 증가합니다"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_NAME",
+      "value": "지형 지식: 얼음"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_ICE_DESCRIPTION",
+      "value": "얼음 위에서 사용하는 에너지가 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_NAME",
+      "value": "지형 지식: 눈"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SNOW_DESCRIPTION",
+      "value": "눈 위에서 사용하는 에너지가 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_NAME",
+      "value": "지형 지식: 돌"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_STONE_DESCRIPTION",
+      "value": "돌 위에서 사용하는 에너지가 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_NAME",
+      "value": "지형 지식: 위험"
+    },
+    {
+      "key": "UPGRADE_TERRAINKNOWLEDGE_SUBTERRAIN_RESISTANCE_DESCRIPTION",
+      "value": "지형 방해 이벤트에 대한 보호 능력이 {0} 강화됩니다"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_TITLE",
+      "value": "환경 지식"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_ENVIRONMENTKNOWLEDGE_DESCRIPTION",
+      "value": "산의 위험과 대면할 때 도움이 됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_NAME",
+      "value": "추위 저항"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_COLDWEATHER_DESCRIPTION",
+      "value": "추운 날씨에 잃는 체온이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_NAME",
+      "value": "죽음의 고도 저항"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "죽음의 고도에서 잃는 산소가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_NAME",
+      "value": "밤 저항"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "밤에 떨어지는 체온이 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_NAME",
+      "value": "폭풍 저항"
+    },
+    {
+      "key": "TEMPEFFECT_MOUNTAINKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "폭풍이 칠 때 사용되는 에너지가 감소합니다"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_NAME",
+      "value": "추위 저항"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_COLD_DESCRIPTION",
+      "value": "추운 날씨에 잃는 체온이 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_NAME",
+      "value": "죽음의 고도 저항"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_DEATHZONE_DESCRIPTION",
+      "value": "죽음의 고도에서 잃는 산소가 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_NAME",
+      "value": "밤 저항"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_NIGHT_DESCRIPTION",
+      "value": "밤에 떨어지는 체온이 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_NAME",
+      "value": "폭풍 저항"
+    },
+    {
+      "key": "UPGRADE_ENVIRONMENTKNOWLEDGE_STORM_DESCRIPTION",
+      "value": "폭풍이 칠 때 사용되는 에너지가 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_TITLE",
+      "value": "용량"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_INVENTORYLOADOUT_DESCRIPTION",
+      "value": "기지에서 가져갈 수 있는 아이템의 개수를 말합니다"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_TITLE",
+      "value": "시작"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_DESCRIPTION",
+      "value": "험난해 보이는 산봉우리가 하늘 높이 우뚝 솟아 있습니다. <br>이 섬은 오랫동안 외부 세계와 단절되어 있었습니다. <br>하지만 이제 산맥을 탐험하고 지도의 빈 공간을 채워야 할 때입니다."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER0_GOAL",
+      "value": "정상까지 올라가 역사를 새롭게 쓰세요."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE",
+      "value": "방사선"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_TITLE_LOCKED",
+      "value": "알 수 없음"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION",
+      "value": "정상에 전자기 방사선을 증폭시키는 안테나가 있을 것입니다. 아뮬렛에 어떤 영향을 주는지 알아내야 합니다."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_DESCRIPTION_LOCKED",
+      "value": "정복되기를 기다리는 또 하나의 산이 기다리고 있습니다. 하지만 잠금 해제하려면 먼저 필요한 보조 미션을 완료해야 합니다."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL",
+      "value": "정상까지 아뮬렛을 가져간 후 목표까지 가세요."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER2_GOAL_LOCKED",
+      "value": "알 수 없음"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE",
+      "value": "폭발력"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_TITLE_LOCKED",
+      "value": "알 수 없음"
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION",
+      "value": "타임 루프를 파괴하려면 충전된 아뮬렛을 산에서<br>가장 높은 봉우리로 가져가야 합니다."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_DESCRIPTION_LOCKED",
+      "value": "가장 험난하고 높은 산을 올라가야 합니다. 잠금 해제하려면 모든 요구 사항을 해결하세요."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL",
+      "value": "정상까지 올라가 타임 루프에서 탈출하세요."
+    },
+    {
+      "key": "MISSIONPROFILE_CHAPTER3_GOAL_LOCKED",
+      "value": "알 수 없음"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER0_TITLE",
+      "value": "프롤로그"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER1_TITLE",
+      "value": "챕터 1"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER2_TITLE",
+      "value": "챕터 2"
+    },
+    {
+      "key": "CHAPTERPROFILE_CHAPTER3_TITLE",
+      "value": "챕터 3"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_1",
+      "value": "눈이 번쩍 뜨입니다. 여기가 어디죠? 무슨 일이 있었던 거죠? 기억해내려 애써 봅니다. 어떤 문을 통과했는데..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_2",
+      "value": "혼란스러운가요? 걱정하지 마세요. 타임 루프를 통과할 때 의식이 있으면 겪게 되는 일입니다. 분명히 방사선과 관련이 있을 거예요."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_3",
+      "value": "타임 루프? 방사선? 이 사람이 대체 무슨 말을 하는 거죠? 그리고 이 여자는 누구죠? 환각을 겪는 걸까요? 앞에 있는 탁자에 빛이 나는 녹색 아뮬렛이 있습니다. 분명히 전에 봤던 적이 있는 돌입니다. 갑자기 기억이 홍수처럼 밀려옵니다. 내가 균열에 빠질 뻔했을 때 이 말이 없는 여자가 날 구해줬습니다. 그녀는 왜 이 이야기를 미리 하지 않았을까요?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_4",
+      "value": "말했다면 날 믿었을까요? 전혀 믿지 않았겠죠? 절 따라오세요. 직접 눈으로 보고... 실제로 경험해 보는 것이 중요했어요. 얼마나 이상해 보이는지 잘 알아요. 핵심부터 이야기하면 우린 타임 루프에 있는 상태고 이 섬에 갇혔어요. 하지만 이곳에서 어떻게 탈출할 수 있을지 짐작이 가요. 일단 몇 가지 계산부터 해봐야 해요."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_5",
+      "value": "당신이 도울 수 있는 방법을 이미 생각해뒀어요. 회복이 되면 나가서 정보를 찾아오세요. 그렇게 하면 스킬이 향상되고 경험을 쌓을 수 있을 거예요. 내 아뮬렛을 가져가요. 이 아뮬렛은 타임 루프를 되돌릴 유일한 희망일 뿐 아니라 시간이 초기화되면 기지로 다시 이동시켜 주죠."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER1_SUCCESS_6",
+      "value": "가장 먼저 해야 할 일은 지역을 탐사하고 아뮬렛의 힘에 익숙해지는 거예요.<br>너무 많은 걸 부탁하는 거 저도 알아요. 하지만 다른 방법이 없네요. 절 믿으셔야 해요."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_1",
+      "value": "머리가 띵합니다. 뭔가 말해보려 하지만, 도무지 말이 나오지 않습니다. 당신은 그저 조용히 움직이지 않고 누워 있습니다. 그때 정체를 알 수 없는 낯선 여자가 걱정스러운 표정으로 당신을 살펴봅니다."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_2",
+      "value": "어떻게 안 좋은 거예요? 아... 알겠어요. 이해가 가네요. 두뇌가 처리할 수 없는 뭔가를 발견한 거예요. 그리고 타임 루프를 완전히 인식한 상태로 목숨을 잃었기 때문에... 그 대가를 치르는 거죠."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_3",
+      "value": "이런 상황에 처하게 해서 죄송해요. 이 모든 상황을 이해하는 데 몇 년이나 걸렸죠. 특히 돌의 중요성에 대해 알아내는 데 정말 오래 걸렸어요. 그게 이 감옥의 열쇠죠."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_AFTER_SUMMIT_4",
+      "value": "감옥 이야기가 나와서 말인데 돌이 충분한 방사선을 흡수할 수 있도록 더 오래 생존하고 계산에 의해 정해진 목표까지 가야 해요. 인내심을 가지세요. 다음에는 반드시 성공할 거예요."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_1",
+      "value": "난 그곳에 누워 머리가 멍한 상태로 거의 움직이거나 말을 할 수도 없습니다. 미지의 인물이 뭔가 달라 보이지만, 목소리가 이상하게 일그러져..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_FAIL_BEFORE_SUMMIT_2",
+      "value": "뭔가 잘못됐나 보죠? 그럴 수 있어요. 하지만 다시 시도하면 돼요! 아뮬렛이 방사선을 충분히 흡수해야 해요. 정상에 있는 안테나가 충분한 전자기 방사선을 받을 수 있도록 도와줄 거예요. 이 타임 루프에서 벗어날 유일한 방법이죠."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_1",
+      "value": "깨어나자마자 미지의 인물을 쳐다봅니다. 그녀의 표정만으로는 타임 루프를 되돌리려는 시도가 성공했는지 알 수 없습니다. 흥분한 난 안테나의 이니셜 등 내가 본 모든 것을 이야기해줍니다. 그게 무슨 의미인지 알고 싶어 합니다."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_2",
+      "value": "모르겠어요? 이미 그곳에 가본 적이 있는 거예요. 어쩌면 여러 번 갔을 수도 있죠. 우리도 이미 여러 번 만났어요. 밖에서도 이곳 연구 기지에서도요. 하지만 당신은 날 믿어주지 않았죠. 한 번의 타임 루프 동안 당신의 기억이 지속되게 해주는 아뮬렛을 손에 넣은 후에야 믿게 된 거예요. 당신이 의식을 되찾을 수 있게 해줬고 이제 모든 걸 기억하는 거죠."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_3",
+      "value": "의심이 날 갉아 먹습니다. 그냥 잊는 게 좋지 않을까요? 이곳에 영원히 갇혀 있다는 고통과 두려움... 이 낯선 인물이 왜 처음부터 모든 걸 말해주지 않았을까요? 아직도 숨기고 있는 게 있다면 그게 무엇일까요?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_4",
+      "value": "우리가 처한 상황이 간단하지 않다는 거 알아요. 익숙해질 시간을 주고 싶었어요. 이 모든 상황을 이해하는 데 몇 년이나 걸렸죠. 특히 돌의 중요성에 대해 알아내는 데 정말 오래 걸렸어요. 그게 이 감옥의 열쇠죠."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_5",
+      "value": "감옥? 난 침을 삼킵니다. 그럼 안테나가 있는 정상까지 올라간 게 아무 의미도 없었고 난 여전히 타임 루프에 갇혀 있는 건가요?"
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_NO_FAILED_DESCENT_6",
+      "value": "돌이 필요한 만큼 과열됐어요. 하지만 타임 루프를 끊지는 못했네요. 제게 생각할 시간 좀 주세요. 그동안 당신은 좀 더 훈련을 하는 게 좋겠어요. 아직 끝난 게 아니에요..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_1",
+      "value": "깨어나자마자 미지의 낯선이를 쳐다봅니다. 실망한 표정이네요. 실패한 걸까요? 침착하려 노력하며 돌이 어떻게 변했고 빨간색으로 빛나기 시작했다고 알려줍니다."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER2_SUCCESS_WITH_FAILED_DESCENT_2",
+      "value": "돌이 필요한 만큼 과열됐어요. 하지만 타임 루프를 끊지는 못했네요. 제게 생각할 시간 좀 주세요. 그동안 당신은 좀 더 훈련을 하는 게 좋겠어요. 아직 끝난 게 아니에요..."
+    },
+    {
+      "key": "DIALOGUE_CHAPTER3_FAIL_1",
+      "value": "조금만 더 하면 타임 루프를 불안절하게 만들 수 있어요. 혈관에 한 방울의 피라도 흐른다면 계속 시도해야 해요! 부탁해요!"
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_1",
+      "value": "하나만 더요. 돌을 가지고 있다 죽게 되면 연구 기지로 돌아오지만, 당신은... 변하게 돼요. 몸에는 아무 이상이 없지만, 정신은 혼수상태에 빠진 것처럼 흐릿하게 될 거예요. 전 이 증상을 타임 루프 멀미라고 부르죠."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_MULTIPLE_REVIVES_2",
+      "value": "치료제가 있지만, 제게 있는 물자가 무한한 게 아니에요. 전부 고갈되면 제가 해드릴 수 있는 일이 거의 없죠. 최선은 계속 살아남는 거예요."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_1",
+      "value": "하나만 더요. 돌을 가지고 있다 죽게 되면 연구 기지로 돌아오지만, 당신은... 변하게 돼요. 몸에는 아무 이상이 없지만, 정신은 혼수상태에 빠진 것처럼 흐릿하게 될 거예요. 전 이 증상을 타임 루프 멀미라고 부르죠."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_ONLY_HAD_1_REVIVE_2",
+      "value": "치료제가 있지만, 물자가 거의 바닥나고 있어요. 이 상태의 당신은 한 번만 더 치료할 수 있어요. 잊지 마세요, 한 번 남았어요."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_1",
+      "value": "하나만 더요. 돌을 가지고 있다 죽게 되면 연구 기지로 돌아오지만, 당신은... 변하게 돼요. 몸에는 아무 이상이 없지만, 정신은 혼수상태에 빠진 것처럼 흐릿하게 될 거예요. 전 이 증상을 타임 루프 멀미라고 부르죠."
+    },
+    {
+      "key": "DIALOGUE_FIRST_DEATH_REVIVE_NEVER_HAD_REVIVES_2",
+      "value": "치료제가 있지만, 물자가 완전히 바닥났어요. 위로가 되지 않겠지만, 아직 끝난 게 아니에요. 당신 중 한 명이라도 남아 있는 한 아직 우리에겐 기회가 있어요..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL1",
+      "value": "산은 정말 무자비하죠? 하지만 계속 시도하세요. 당신처럼 능력 있는 사람이 나타나길 정말 오랫동안 기다렸어요..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL2",
+      "value": "우리 둘을 이곳에서 꺼내기 위해 당신이 어떤 희생을 치르고 있는지 잘 알아요. 하지만 당신의 노력에 대한 보상이 있을 거예요. 이제 조금만 더 노력하면 이 감옥에서 탈출할 수 있어요. 포기하지 마요..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL3",
+      "value": "절대 포기하지 마세요. 알겠어요? 절대 안 돼요! 이 연구 기지에서 오랫동안 외롭게 지내며 배운 교훈이 있다면 계속 앞으로 나아가야 한다는 거예요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL4",
+      "value": "돌아왔군요! 죽었었나 봐요. 뭐, 상관없어요. 계속 다시 시도할 수 있으니까요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL5",
+      "value": "이런, 꼴이 말이 아니네요. 무슨 일이 있었나요? 말하고 싶지 않으면 하지 않아도 돼요. 조금 쉬고 나면 기분이 좋아질 거예요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL6",
+      "value": "어떻게 된 거죠? 사고가 있었나요? 얼어 죽었나요? 아니면 질식했나요? 기분이 정말 불편하겠어요. 전략을 다르게 세워 보면 도움이 될 거예요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_FAIL7",
+      "value": "산은 <i>극복할 수 없는</i> 존재로 비유하곤 하죠. 하지만 당신에게도 그럴까요?"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS1",
+      "value": "훌륭해요, 임무를 완수했네요. 정말 험난한 곳이었죠?"
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS2",
+      "value": "잘했어요. 정말 뛰어난 산악인이시네요. 계속 이렇게 좋은 성과를 내면 분명히 이 타임 루프에서 빠져나갈 수 있을 거예요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS3",
+      "value": "능력이 뛰어나시네요. 그리고 임무를 완수할 때마다 더 좋아지고 있고요. 솔직히 당신이 온 이후로 이곳에서 빠져나갈 수 있다는 자신감이 되살아나고 있어요..."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS4",
+      "value": "브라보! 등반 기술이 정말 대단하네요. 저라면 하루도 버티지 못했을 거예요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS5",
+      "value": "자연에 맞서는 당신의 용기와 그 어떤 문제에도 굴하지 않는 정신력이 정말 대단하네요. 제가 기대한 것보다 더 뛰어나요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS6",
+      "value": "이곳에서 무엇이 중요한지 잘 이해하는 것 같아요. 바로 배우려는 의지와 새롭고 예상하지 못한 상황에 적응하는 능력이요."
+    },
+    {
+      "key": "DIALOGUE_GENERIC_SUCCESS7",
+      "value": "오, 살아서 돌아오셨군요! <i>극복할 수 없는</i>이란 말의 정의를 다시 내려야겠어요."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_1",
+      "value": "제 말이 들리나요? 거기 있긴 한 거예요? 타임 루프 멀미가 사람에게 미치는 영향은 정말 파괴적이죠."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_NO_REVIVES_LEFT_2",
+      "value": "하지만 아직 한 줄기 희망이 남아 있어요. 당신 중 한 명이 살아 있는 한 타임 루프에서 빠져날 갈 수..."
+    },
+    {
+      "key": "DIALOGUE_RETREAT1",
+      "value": "계획을 세울 시간이 더 필요하다고요? 정말 현명하시네요!"
+    },
+    {
+      "key": "DIALOGUE_RETREAT2",
+      "value": "빨리도 돌아오셨네요. 무슨 일이 있었나요? 아, 아직 준비가 덜 된 것 같아요. 걱정하지 마세요."
+    },
+    {
+      "key": "DIALOGUE_RETREAT3",
+      "value": "뭔가 놓고 간 게 있나요? 왜 돌아왔죠?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_1",
+      "value": "이게 어떻게 가능하죠? 불과 몇 초 전까지만 해도 산 위에 있었는데 갑자기 이 이상한 기지로 돌아왔습니다. 미지의 낯선 여자가 마치 날 기다린 것처럼 이곳에 있습니다."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_2",
+      "value": "돌 때문에 사이렌이 울리자마자 이곳으로 돌아오게 되고 시간이 재설정되는 거예요. 원래 장소로 돌려보내는 것 같아요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_3",
+      "value": "이곳은 감마선 실험을 진행했던 연구 시설이에요. 거대한 전자기장을 만들려고 했던 것 같아요. 섬 전체가 제한 구역이었죠. 아마 이곳의 존재를 아는 사람도 거의 없을 거예요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_4",
+      "value": "하지만 문제가 발생했죠. 뭔가 고장 난 것 같아요. 방출된 전자기장 방사선이 산맥 전체에 무수히 많은 이상 현상을 일으켰고 결국 타임 루프가 일어난 것 같더군요. 시간이 정상적으로 흐르는 곳은 기지뿐이에요. 어쩌면 이상 현상이 시작된 장소가 이곳이었기 때문일 수도 있죠. 모르겠어요. 어쨌든 옆방에서 빛이 나는 돌을 발견했어요. 실험에서 남은 건 이것뿐이죠."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.1_SUCCESS_5",
+      "value": "죄송하지만, 제가 아는 건 이게 전부예요. 당신처럼 나도 이해하는 것이 많지 않아요. 하지만 제가 알아낸 게 하나 있죠. 바로 이 돌이 방사선에 반응한다는 거예요. 이게 유일한 해결 방법이에요. 그러니 이곳에서 나갈 수 있게 계속 준비해주세요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_1",
+      "value": "여전히 귀가 울리지만, 서서히 이상 현상의 부작용에 익숙해지기 시작합니다. 이번에도 미지의 낯선이가 날 기다리고 있는 것 같습니다. 연구 기지에 있던 다른 사람들은 어떻게 된 것일까요?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_2",
+      "value": "풀리지 않는 미스터리예요. 저도 답을 찾기 위해 정말 오랜 시간을 보냈죠. 그냥 사라졌어요. 모든 것을 그냥 두고 사라졌죠. 마치 허공 속으로 사라져 버린 것처럼..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_3",
+      "value": "미지의 여자가 내 시선을 피합니다. 분명히 뭔가를 숨기고 있지만, 이런 상황이라면 이 여자도 나만큼 스트레스가 심할 것입니다. 그래서 더는 이 문제로 압박하지 않기로 결정합니다. 언젠간 알게 될 것입니다."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.2_SUCCESS_4",
+      "value": "당면한 일에 집중해야 해요! 제가 시뮬레이션을 추가로 진행하는 동안 계속 외부를 살펴보세요. 오래 걸리지 않을 거예요..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_1",
+      "value": "드디어 돌아왔군요! 기다리고 있었어요. 많은 것을 배운 것 같아요. 이제 다음 단계로 넘어갈 때가..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_2",
+      "value": "이 돌은 전자기 방사선에 반응해요. 이곳에서 실험을 진행할 때 과열되어... 폭발했을 거예요. 그게 이상 현상을 일으키고 타임 루프가 시작된 원인이겠죠. 기본적으로 우리가 해야 할 일은 실험을 반복하는 거예요. 물론 그게 전부는 아니죠. 우리에게 필요한 모든 기술적 장치는 작동하지 않아요. 전혀 사용할 수 없죠. 하지만 다른 방법이 있는데..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_3",
+      "value": "다음 정상에 있는 안테나를 보셨나요? 그곳의 방사선이 더 강할 뿐 아니라 안테나가 더 강화시켜요. 돌에 충분한 방사선이 가해지면 다시 돌이 가열되어 타임 루프가 역전될 거예요. 물론... 이건 이론일 뿐이지만, 지금은 이게 우리의 유일한 희망이에요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_4",
+      "value": "망설여지는군. 내가 거절하면 어떻게 되는 걸까요? 산을 오르는 것은 공원을 걷는 것과는 다릅니다. 반면에, 미지의 안테나 같은 구조물에 관해 더 많은 것을 알아내고 싶기도 합니다. 그걸 지은 이유가 뭘까? 목적은 무엇이었을까? 낯선 여자는 마치 내 마음을 읽은 것처럼 미소를 짓습니다."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION1.3_SUCCESS_5",
+      "value": "편하게 쉬거나 계속 준비하세요. 이 일이 벅차다는 거 알아요. 하지만 당신은 할 수 있어요. 절 믿으세요!"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_1",
+      "value": "나 자신을 괴롭히는 한 가지 생각을 하며 기지에서 깨어납니다. 나도 모르게 이 타임 루프에 갇혀 섬에서 지낸 시간이 얼마나 오래된 걸까요?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_2",
+      "value": "잘 모르겠어요. 수개월? 수년? 내가 생각하는 유일한 것이 시간이기 때문에 이상하게 들릴 수 있지만, 나도 모든 감각을 잃기는 마찬가지예요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_3",
+      "value": "물어볼 질문이 더 많습니다. 이 낯선 사람은 어떻게 하다 이 기지로 들어온 걸까요? 그리고 이곳에서 실험이 있었던 건 어떻게 알고 있는 걸까요?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_4",
+      "value": "제가 이곳에 있게 된 건 우연이 아니에요. 제 아버지가 이곳의 수석 연구원이죠. 최소한 과거에는요. 사고가 났을 때 나는 의식을 잃은 것 같아요. 내가 깨어났을 때에는 나 혼자뿐이었죠. 전 어린 소녀였고, 두려웠어요. 너무 무서워 문밖으로 나갈 수가 없었죠."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_5",
+      "value": "아버지가 다시는 돌아오지 않을 거라는 걸 깨달은 후에야 난 탈출구를 찾기 시작했어요. 기지에서 나가 사람들을 만나 봤지만, 다시 만났을 때 그들은 날 기억하지 못했죠. 밖의 모든 것이 계속 반복되었지만, 여기는 아니에요. 마지 조각이 맞지 않는 퍼즐 같았죠... <br>오랜 세월이 흘렀음에도 불구하고 난 아직도 아는 게 거의 없는 것 같아요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.1_SUCCESS_6",
+      "value": "제가 당신을 속이는 건 아닌지 의심할 수 있지만, 제 의도는 절대 그런 게 아니에요. 저도 당신처럼 이곳에서 나가고 싶을 뿐이에요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_1",
+      "value": "난 눈을 뜨고 관자놀이를 문지릅니다. 다시 기지로 돌아왔네요! 그리고 낯선 사람이 이미 이곳에서 날 기다리고 있습니다. 그녀가 왜 날 선택했는지 궁금합니다. 이 산에는 나만 있는 것이 아니니까요..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_2",
+      "value": "현지인들과 소통해보려 했어요. 하지만 단순히 절 믿지 않는 것이 아니라 제게 적대적이었죠. 그들을 탓할 수는 없어요. 초대받지 않고 그들의 섬에 나타나 자기 집처럼 지낸 건 우리니까요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_3",
+      "value": "하지만 근본적인 적대감에도 불구하고 말이 통한 사람이 있었죠. 주술사였어요. 전신이 문신으로 덮여 있던 사람이었죠. 그가 날 믿어줬지만, 그의 정신이 영원히 혼란에 쌓일까 걱정했어요..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_4",
+      "value": "방식은 이래요. 밖에서 죽게 되면 시간이 재설정되죠. 경험한 모든 것들을 기억하지 못하게 돼요. 하지만 돌을 지니고 있으면 죽은 기억까지 모든 기억을 그대로 간직하죠. 돌아오면 몸은 무사하지만, 정신은... <br> 주술사는 영혼도 없는 껍데기가 되는 것이 영원히 타임 루프에 갇히게 되는 것보다 훨씬 더 두렵다고 했어요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_5",
+      "value": "누구라도 영혼도 없는 껍데기가 되고 싶지는 않을 것입니다. 절대 그렇게 될 수는 없죠! 이 낯선 여자도 봉우리에 직접 올라가려 해봤는지 궁금합니다. 아니면 항상 다른 사람에게 시킨 걸까요?"
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.2_SUCCESS_6",
+      "value": "전 산악인도 아니고 죽음의 고도에서는 한 시간도 버티지 못 할 거예요. 아무리 훈련을 해도 당신만큼 잘할 수는 없죠. 하지만 제게도 저만의 특기가 있어요. 서로가 잘하는 걸 하자고요. 그게 이곳에서 나갈 수 있는 유일한 방법이에요..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_1",
+      "value": "천천히 잠에서 깨어나자 미지의 낯선 여자가 내게 몸을 기대고 있습니다. 그녀는 눈을 반짝이며 입가에 미소를 띠고 있었죠."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_2",
+      "value": "좋은 소식이에요! 내 계산대로 방사선 수치가 높았음에도 타임 루프에 영향을 미치지 않은 이유를 알아냈어요."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_3",
+      "value": "타임 루프를 우산처럼 생각해 보세요. 보이지 않는 껍질처럼 산맥 전체에 걸쳐 있죠. 하지만 껍질은 모든 곳에 동일하게 있는 게 아니에요. 붕괴가 있었던 원래 위치에서 멀어질수록 껍질이 얇아지고 방사선이 더 쉽게 투과되는 거예요. 그게 무슨 뜻인지 고민 중이시죠? 산맥에서 가장 높은 곳으로 가야 해요..."
+    },
+    {
+      "key": "DIALOGUE_SIDEMISSION2.3_SUCCESS_4",
+      "value": "그곳에 타임 루프의 아킬레스건이 있어요. 과열된 돌을 그 약한 부위로 가져가면 껍질에 균열이 생겨 타임 루프 전체가 불안정해질 거예요. 무리한 부탁인 거 알지만, 당신이 마지막 정상까지 가줘야 해요. 이게 마지막 단계예요. 확실해요!"
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_JOURNALIST",
+      "value": "또 한 명의 아군이 있다니 정말 놀라운 일이네요. 대화를 통해 서로에 관해 알아보세요! 타임 루프에서 탈출할 수 있는 유일한 방법은 모두가 팀으로 뭉치는 것뿐이에요."
+    },
+    {
+      "key": "DIALOGUE_UNLOCK_SCIENTIST",
+      "value": "지원군을 데려오다니 정말 대단해요! 그것도 전문가이기도 하잖아요. 함께 지내다 보면 서로에 관해 많은 것을 알게 될 거예요. 진짜 팀이 되어야 해요."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_TITLE",
+      "value": "초기화 지점"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_RESETPOINTS_DESCRIPTION",
+      "value": "업그레이드 초기화에 사용합니다"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_TITLE",
+      "value": "업그레이드 지점(모험가)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_ADVENTURER_DESCRIPTION",
+      "value": "모험가의 능력 개선에 사용합니다"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_TITLE",
+      "value": "업그레이드 지점(과학자)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_SCIENTIST_DESCRIPTION",
+      "value": "과학자의 능력 개선에 사용합니다"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_TITLE",
+      "value": "업그레이드 지점(기자)"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_CHARACTERCURRENCY_JOURNALIST_DESCRIPTION",
+      "value": "기자의 능력 개선에 사용합니다"
+    },
+    {
+      "key": "START_XP_TITLE",
+      "value": "시작 경험치"
+    },
+    {
+      "key": "START_XP_DESCRIPTION",
+      "value": "미션을 시작할 때 경험치 양이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_NAME",
+      "value": "기본 능력치 업그레이드"
+    },
+    {
+      "key": "TEMPEFFECT_BASESTATBONUSES_DESCRIPTION",
+      "value": "기지의 캐릭터 업그레이드로 받는 업그레이드"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_TITLE",
+      "value": "미션 수행 중인 과학자"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_DESCRIPTION",
+      "value": "타임 루프에 갇힌 과학자가 있다고 합니다. <br>그의 전문 지식은 유용할 수 있습니다. <br>물론 합류하도록 설득한 후에 기지로 데려와야 합니다."
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOAL",
+      "value": "과학자를 찾아 기지로 데려오세요."
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT",
+      "value": "평범"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_DESCRIPTION",
+      "value": "평범한 날씨"
+    },
+    {
+      "key": "WEATHERRULE_DEFAULT_HOVER",
+      "value": "폭풍이나 추운 날씨보다 날씨가 좋을 확률이 조금 더 높습니다."
+    },
+    {
+      "key": "WEATHERRULE_STORMY",
+      "value": "폭풍"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_DESCRIPTION",
+      "value": "폭풍이 부는 날씨"
+    },
+    {
+      "key": "WEATHERRULE_STORMY_HOVER",
+      "value": "폭풍이 불 확률이 증가합니다."
+    },
+    {
+      "key": "WEATHERRULE_COLD",
+      "value": "추위"
+    },
+    {
+      "key": "WEATHERRULE_COLD_DESCRIPTION",
+      "value": "추운 날씨"
+    },
+    {
+      "key": "WEATHERRULE_COLD_HOVER",
+      "value": "날씨가 추워질 확률이 증가합니다."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_TITLE",
+      "value": "탐사 보도"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_DESCRIPTION",
+      "value": "기자가 산을 떠돌고 있다는 소문이 있습니다. 그를 찾아 그의 조사 능력을 활용하여 타임 루프에서 벗어날 방법을 찾으세요."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOAL",
+      "value": "기자를 찾아낼 단서를 찾으세요."
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_1",
+      "value": "첫 번째 단서"
+    },
+    {
+      "key": "SM_1_JOURNALISTUNLOCK_GOALTEXT_TRACKING_2",
+      "value": "두 번째 단서"
+    },
+    {
+      "key": "TARGET_TILE_EXITPOINT",
+      "value": "출구"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER",
+      "value": "캐릭터 숙련도"
+    },
+    {
+      "key": "PROFICIENCY_ITEM",
+      "value": "아이템 숙련도"
+    },
+    {
+      "key": "PROFICIENCY_ENVIRONMENT",
+      "value": "주변 환경 숙련도"
+    },
+    {
+      "key": "PROFICIENCY_TERRAIN",
+      "value": "지형 숙련도"
+    },
+    {
+      "key": "PROFICIENCY_EVENT",
+      "value": "이벤트 숙련도"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_USEDCONSUMABLES",
+      "value": "사용한 아이템"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTEQUIPMENT",
+      "value": "장비"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_KEPTCONSUMABLES",
+      "value": "사용하지 않은 소모품"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_CROSSEDSUBTERRAINS",
+      "value": "통과한 위험 지형"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_TRIGGEREDPOI",
+      "value": "경험한 이벤트"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKED",
+      "value": "걸은 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDNIGHT",
+      "value": "밤에 걸은 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDDEATHZONE",
+      "value": "죽음의 고도를 걸은 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSWALKEDBADWEATHER",
+      "value": "나쁜 날씨에 걸은 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBED",
+      "value": "등반한 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDNIGHT",
+      "value": "밤에 등반한 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDDEATHZONE",
+      "value": "죽음의 고도에서 등반한 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_HOURSCLIMBEDBADWEATHER",
+      "value": "나쁜 날씨에 등반한 시간"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_XPGAINED",
+      "value": "획득한 경험치"
+    },
+    {
+      "key": "PROFICIENCY_TRACKABLE_LEVELUPS",
+      "value": "레벨업"
+    },
+    {
+      "key": "PROFICIENCY_MODIFIER_HOVER",
+      "value": "경험치 획득 출처:"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_NAME",
+      "value": "업그레이드"
+    },
+    {
+      "key": "TEC_DRAFTEFFECTS_DESCRIPTION",
+      "value": "레벨업으로 활성화된 업그레이드"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_NAME",
+      "value": "햇살 아래 산책"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_0",
+      "value": "좋은 날씨일 때 체온이 더 많이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_SKILL_DESCRIPTION_1",
+      "value": "좋은 날씨일 때 체온이 훨씬 더 많이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_NAME",
+      "value": "햇살 아래 산책"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_1_DESCRIPTION",
+      "value": "좋은 날씨일 때 체온이 더 많이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_NAME",
+      "value": "햇살 아래 산책"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_IN_NICE_WEATHER_TE_2_DESCRIPTION",
+      "value": "좋은 날씨일 때 체온이 더 많이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_NAME",
+      "value": "강렬한 움직임"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_0",
+      "value": "이동할 때 시간당 훨씬 더 많은 체온이 추가되지만, 사용하는 에너지가 증가합니다."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_SKILL_DESCRIPTION_1",
+      "value": "이동할 때 시간당 훨씬 더 많은 체온이 추가되지만, 사용하는 에너지가 증가합니다."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_NAME",
+      "value": "강렬한 움직임"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_1_DESCRIPTION",
+      "value": "이동할 때 시간당 훨씬 더 많은 체온이 추가되지만, 사용하는 에너지가 증가합니다."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_NAME",
+      "value": "강렬한 움직임"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_INCREASE_ENERGYCOST_TE_2_DESCRIPTION",
+      "value": "이동할 때 시간당 훨씬 더 많은 체온이 추가되지만, 사용하는 에너지가 증가합니다."
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_NAME",
+      "value": "온도 유지"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "이동할 때 시간당 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "이동할 때 시간당 훨씬 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_NAME",
+      "value": "온도 유지"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "이동할 때 시간당 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_NAME",
+      "value": "온도 유지"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_INCREASE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "이동할 때 시간당 더 많은 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_NAME",
+      "value": "깊은 휴식"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_0",
+      "value": "잠을 자는 동안 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_SKILL_DESCRIPTION_1",
+      "value": "잠을 자는 동안 훨씬 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_NAME",
+      "value": "깊은 휴식"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_1_DESCRIPTION",
+      "value": "잠을 자는 동안 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_NAME",
+      "value": "깊은 휴식"
+    },
+    {
+      "key": "DRAFT_ENERGY_INCREASE_ENERGY_GAIN_RESTING_TE_2_DESCRIPTION",
+      "value": "잠을 자는 동안 더 많은 에너지가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_NAME",
+      "value": "희열"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_0",
+      "value": "죽음의 고도에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_SKILL_DESCRIPTION_1",
+      "value": "죽음의 고도에서 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_NAME",
+      "value": "희열"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_1_DESCRIPTION",
+      "value": "죽음의 고도에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_NAME",
+      "value": "희열"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_IN_DEATHZONE_TE_2_DESCRIPTION",
+      "value": "죽음의 고도에서 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_NAME",
+      "value": "힘 보존"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "이동에 사용하는 에너지가 감소되지만, 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "이동에 사용하는 에너지가 감소되지만, 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_NAME",
+      "value": "힘 보존"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "이동에 사용하는 에너지가 감소되지만, 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_NAME",
+      "value": "힘 보존"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_INCREASE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "이동에 사용하는 에너지가 감소되지만, 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_NAME",
+      "value": "심호흡"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "추가되는 산소가 증가하지만, 추가되는 체온이 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "추가되는 산소가 증가하지만, 추가되는 체온이 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_NAME",
+      "value": "심호흡"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "추가되는 산소가 증가하지만, 추가되는 체온이 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_NAME",
+      "value": "심호흡"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "추가되는 산소가 증가하지만, 추가되는 체온이 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_NAME",
+      "value": "조금만 더"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "일정 시간 동안 추가되는 산소가 크게 증가되지만, 미션이 끝날 때까지 잃게 되는 이성이 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_NAME",
+      "value": "조금만 더"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_OXYGENGAIN_1_DESCRIPTION",
+      "value": "추가되는 산소가 크게 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_NAME",
+      "value": "조금만 더"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_REDUCE_SANITY_TE_SANITYLOSS_1_DESCRIPTION",
+      "value": "미션이 끝날 때까지 잃게 되는 이성이 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_NAME",
+      "value": "호흡 조절"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "시간당 추가되는 산소가 증가합니다. 최대 산소가 증가합니다."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "시간당 추가되는 산소가 크게 증가합니다. 최대 산소가 증가합니다."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_NAME",
+      "value": "호흡 조절"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_1_DESCRIPTION",
+      "value": "시간당 추가되는 산소가 증가합니다. 최대 산소가 증가합니다."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_NAME",
+      "value": "호흡 조절"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_TE_2_DESCRIPTION",
+      "value": "시간당 추가되는 산소가 크게 증가합니다. 최대 산소가 증가합니다."
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_NAME",
+      "value": "강화"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_0",
+      "value": "위험한 지형을 무시합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_SKILL_DESCRIPTION_1",
+      "value": "위험한 지형을 무시합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_NAME",
+      "value": "강화"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_1_DESCRIPTION",
+      "value": "위험한 지형을 무시합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_NAME",
+      "value": "강화"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_IGNORE_SUBTERRAINS_TE_2_DESCRIPTION",
+      "value": "위험한 지형을 무시합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_NAME",
+      "value": "벼랑 위에서"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "가파른 지형에 사용하는 에너지가 감소하지만(2+ 고도), 이성 감소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "가파른 지형에 사용하는 에너지가 감소하지만(2+ 고도), 이성 감소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_NAME",
+      "value": "벼랑 위에서"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_1_DESCRIPTION",
+      "value": "가파른 지형에 사용하는 에너지가 감소하지만(2+ 고도), 이성 감소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_NAME",
+      "value": "벼랑 위에서"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_REDUCE_SANITY_TE_2_DESCRIPTION",
+      "value": "가파른 지형에 사용하는 에너지가 감소하지만(2+ 고도), 이성 감소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_NAME",
+      "value": "빠른 움직임"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_0",
+      "value": "이동에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_SKILL_DESCRIPTION_1",
+      "value": "이동에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_NAME",
+      "value": "빠른 움직임"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_1_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_NAME",
+      "value": "빠른 움직임"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_TIMECOST_TE_2_DESCRIPTION",
+      "value": "이동에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_NAME",
+      "value": "이제는 멈출 수 없어"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_0",
+      "value": "이동 중에 잃게 되는 이성이 크게 감소하지만, <br>휴식/이벤트 중에 이성을 추가로 잃게 됩니다"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_SKILL_DESCRIPTION_1",
+      "value": "이동 중에 잃게 되는 이성이 크게 감소하지만, <br>휴식/이벤트 중에 이성을 추가로 잃게 됩니다"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_NAME",
+      "value": "이제는 멈출 수 없어"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_1_DESCRIPTION",
+      "value": "이동 중에 잃게 되는 이성이 크게 감소하지만, <br>휴식/이벤트 중에 이성을 추가로 잃게 됩니다"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_NAME",
+      "value": "이제는 멈출 수 없어"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_MOVING_LOSE_SANITY_RESTING_TE_2_DESCRIPTION",
+      "value": "이동 중에 잃게 되는 이성이 크게 감소하지만, <br>휴식/이벤트 중에 이성을 추가로 잃게 됩니다"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_NAME",
+      "value": "명상"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_0",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_SKILL_DESCRIPTION_1",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_NAME",
+      "value": "명상"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_1_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다."
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_NAME",
+      "value": "명상"
+    },
+    {
+      "key": "DRAFT_SANITY_GAIN_SANITY_ON_POI_TE_2_DESCRIPTION",
+      "value": "관심 지점에 도달할 때마다 이성이 추가됩니다."
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_NAME",
+      "value": "구호"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_0",
+      "value": "이동 중에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_SKILL_DESCRIPTION_1",
+      "value": "이동 중에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_NAME",
+      "value": "구호"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_1_DESCRIPTION",
+      "value": "이동 중에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_NAME",
+      "value": "구호"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_TE_2_DESCRIPTION",
+      "value": "이동 중에 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_NAME",
+      "value": "별 아래에서"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_0",
+      "value": "텐트 없이 잘 때 받는 불이익이 감소합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_SKILL_DESCRIPTION_1",
+      "value": "텐트 없이 잘 때 받는 불이익이 감소합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_NAME",
+      "value": "별 아래에서"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_1_DESCRIPTION",
+      "value": "텐트 없이 잘 때 받는 불이익이 감소합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_NAME",
+      "value": "별 아래에서"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_BODYTEMP_WITHOUT_TENT_TE_2_DESCRIPTION",
+      "value": "텐트 없이 잘 때 받는 불이익이 감소합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_NAME",
+      "value": "장기적 사고"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "깨어나면 에너지가 추가되지만, <br>이동에 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "깨어나면 에너지가 추가되지만, <br>이동에 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_NAME",
+      "value": "장기적 사고"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "깨어나면 에너지가 추가되지만, <br>이동에 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_NAME",
+      "value": "장기적 사고"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_TIMECOST_GAIN_ENERGY_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "깨어나면 에너지가 추가되지만, <br>이동에 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_NAME",
+      "value": "산 탐험"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_0",
+      "value": "추가되는 경험치가 크게 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_SKILL_DESCRIPTION_1",
+      "value": "추가되는 경험치가 크게 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_NAME",
+      "value": "산 탐험"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_1_DESCRIPTION",
+      "value": "추가되는 경험치가 크게 증가합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_NAME",
+      "value": "산 탐험"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_INCREASE_XPGAIN_TE_2_DESCRIPTION",
+      "value": "추가되는 경험치가 크게 증가합니다"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_NAME",
+      "value": "온도 유지"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_DESCRIPTION",
+      "value": "체온 유지에 집중합니다."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_BODYTEMP_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_NAME",
+      "value": "힘 보존"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_DESCRIPTION",
+      "value": "에너지 회복과 에너지 사용을 줄이는 데 집중합니다."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_ENERGY_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_NAME",
+      "value": "산 탐험"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_DESCRIPTION",
+      "value": "장거리 여정과 많은 관심 지점 방문에 집중합니다."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_EXPLORE_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_NAME",
+      "value": "적응"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_DESCRIPTION",
+      "value": "산소 레벨 유지에 집중합니다."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_OXYGEN_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_NAME",
+      "value": "결단력"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_DESCRIPTION",
+      "value": "목적지로 가는 길에 집중합니다."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_PUSH_CONS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_NAME",
+      "value": "정신 집중"
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_DESCRIPTION",
+      "value": "더 오랜 이성 유지에 집중합니다."
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_PROS",
+      "value": ""
+    },
+    {
+      "key": "DRAFT_SKILLTREE_SANITY_CONS",
+      "value": ""
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_TITLE",
+      "value": "이벤트 지식"
+    },
+    {
+      "key": "UPGRADE_DIMENSION_EVENTKNOWLEDGE_DESCRIPTION",
+      "value": "이벤트를 최대한 활용할 수 있도록 도와줍니다"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "이벤트 지식: 이성"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "이벤트에 추가되는 이성이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "이벤트 지식: 경험치"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "이벤트에 추가되는 경험치가 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "이벤트 지식: 에너지"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "이벤트에 잃게 되는 에너지가 감소합니다"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "이벤트 지식: 시간"
+    },
+    {
+      "key": "TEMPEFFECT_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "이벤트에 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_NAME",
+      "value": "이벤트 지식: 이성"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_SANITYGAIN_DESCRIPTION",
+      "value": "이벤트에 추가되는 이성이 {0} 증가합니다"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_NAME",
+      "value": "이벤트 지식: 경험치"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_INCREASE_XPGAIN_DESCRIPTION",
+      "value": "이벤트에 추가되는 경험치가 {0} 증가합니다"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_NAME",
+      "value": "이벤트 지식: 에너지"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_ENERGYLOSS_DESCRIPTION",
+      "value": "이벤트에 잃는 에너지가 {0} 감소합니다"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_NAME",
+      "value": "이벤트 지식: 시간"
+    },
+    {
+      "key": "UPGRADE_EVENTKNOWLEDGE_REDUCE_TIMECOST_DESCRIPTION",
+      "value": "이벤트에 필요한 시간이 {0} 감소합니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_NAME",
+      "value": "따뜻한 생각"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_0",
+      "value": "소모품을 사용할 때마다, 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_SKILL_DESCRIPTION_1",
+      "value": "소모품을 사용할 때마다, 체온이 더 많이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_NAME",
+      "value": "따뜻한 생각"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_1_DESCRIPTION",
+      "value": "소모품을 사용할 때마다, 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_NAME",
+      "value": "따뜻한 생각"
+    },
+    {
+      "key": "DRAFT_BODYTEMP_ON_CONSUMABLE_TE_2_DESCRIPTION",
+      "value": "소모품을 사용할 때마다, 체온이 추가됩니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_NAME",
+      "value": "에너지 보존"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_0",
+      "value": "이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_SKILL_DESCRIPTION_1",
+      "value": "이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_NAME",
+      "value": "에너지 보존"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_1_DESCRIPTION",
+      "value": "이동하거나 등반할 때 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_NAME",
+      "value": "에너지 보존"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_TEMPORARY_TE_2_DESCRIPTION",
+      "value": "이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_NAME",
+      "value": "맑은 정신"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_0",
+      "value": "이성이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_SKILL_DESCRIPTION_1",
+      "value": "이성이 높은 상태인 동안 이동하거나 등반할 때 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_NAME",
+      "value": "맑은 정신"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_1_DESCRIPTION",
+      "value": "이성이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_NAME",
+      "value": "맑은 정신"
+    },
+    {
+      "key": "DRAFT_SANITY_REDUCE_ENERGYCOST_WHILE_SANITY_HIGH_TE_2_DESCRIPTION",
+      "value": "이성이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_NAME",
+      "value": "신선한 공기"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_0",
+      "value": "산소가 높은 상태에서 이동하거나 등반할 때 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_SKILL_DESCRIPTION_1",
+      "value": "산소가 높은 상태에서 이동하거나 등반할 때 필요한 시간이 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_NAME",
+      "value": "신선한 공기"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_1_DESCRIPTION",
+      "value": "산소가 높은 상태에서 이동하거나 등반할 때 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_NAME",
+      "value": "신선한 공기"
+    },
+    {
+      "key": "DRAFT_OXYGEN_REDUCE_TIMECOST_WHILE_OXYGEN_HIGH_TE_2_DESCRIPTION",
+      "value": "산소가 높은 상태에서 이동하거나 등반할 때 필요한 시간이 감소합니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_NAME",
+      "value": "천천히 신중히"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_0",
+      "value": "깨어나면 에너지, 체온, 산소가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_SKILL_DESCRIPTION_1",
+      "value": "깨어나면 더 많은 에너지, 체온, 산소가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_NAME",
+      "value": "천천히 신중히"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_1_DESCRIPTION",
+      "value": "깨어나면 에너지, 체온, 산소가 추가됩니다"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_NAME",
+      "value": "천천히 신중히"
+    },
+    {
+      "key": "DRAFT_TAKEITSLOW_GAIN_EBO_ON_WAKEUP_TE_2_DESCRIPTION",
+      "value": "깨어나면 에너지, 체온, 산소가 추가됩니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_NAME",
+      "value": "체온 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_0",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_1",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_SKILL_DESCRIPTION_2",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_NAME",
+      "value": "체온 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_1_DESCRIPTION",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_NAME",
+      "value": "체온 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_2_DESCRIPTION",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_NAME",
+      "value": "체온 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_BODYTEMP_TE_3_DESCRIPTION",
+      "value": "최대 체온이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_NAME",
+      "value": "에너지 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_0",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_1",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_SKILL_DESCRIPTION_2",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_NAME",
+      "value": "에너지 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_1_DESCRIPTION",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_NAME",
+      "value": "에너지 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_2_DESCRIPTION",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_NAME",
+      "value": "에너지 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_ENERGY_TE_3_DESCRIPTION",
+      "value": "최대 에너지가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_NAME",
+      "value": "체력 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_0",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_1",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_SKILL_DESCRIPTION_2",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_NAME",
+      "value": "체력 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_1_DESCRIPTION",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_NAME",
+      "value": "체력 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_2_DESCRIPTION",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_NAME",
+      "value": "체력 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_HEALTH_TE_3_DESCRIPTION",
+      "value": "최대 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_NAME",
+      "value": "산소 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_0",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_1",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_SKILL_DESCRIPTION_2",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_NAME",
+      "value": "산소 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_1_DESCRIPTION",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_NAME",
+      "value": "산소 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_2_DESCRIPTION",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_NAME",
+      "value": "산소 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_OXYGEN_TE_3_DESCRIPTION",
+      "value": "최대 산소가 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_NAME",
+      "value": "이성 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_0",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_1",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_SKILL_DESCRIPTION_2",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_NAME",
+      "value": "이성 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_1_DESCRIPTION",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_NAME",
+      "value": "이성 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_2_DESCRIPTION",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_NAME",
+      "value": "이성 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_SANITY_TE_3_DESCRIPTION",
+      "value": "최대 이성이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_NAME",
+      "value": "기본 능력치 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_0",
+      "value": "최대 에너지, 체온, 산소, 이성, 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_1",
+      "value": "기본 능력치 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_SKILL_DESCRIPTION_2",
+      "value": "기본 능력치 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_NAME",
+      "value": "최대 에너지, 체온, 산소, 이성, 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_1_DESCRIPTION",
+      "value": "기본 능력치 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_NAME",
+      "value": "최대 에너지, 체온, 산소, 이성, 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_2_DESCRIPTION",
+      "value": "기본 능력치 증가"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_NAME",
+      "value": "최대 에너지, 체온, 산소, 이성, 체력이 증가합니다"
+    },
+    {
+      "key": "METAGAMESKILL_BASESTAT_EVERYTHING_TE_3_DESCRIPTION",
+      "value": "기본 능력치 증가"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_NAME",
+      "value": "이상 현상"
+    },
+    {
+      "key": "TEMPEFFECT_MM_N_TEMPORALANOMALY_DESCRIPTION",
+      "value": "이동에 필요한 시간이 증가합니다"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_NAME",
+      "value": "강력한 이상 현상"
+    },
+    {
+      "key": "TEMPEFFECT_MM_NN_TEMPORALANOMALY2_DESCRIPTION",
+      "value": "이동에 필요한 시간이 크게 증가합니다"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY",
+      "value": "맑음"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_DESCRIPTION",
+      "value": "좋은 날씨"
+    },
+    {
+      "key": "WEATHERRULE_FRIENDLY_HOVER",
+      "value": "맑은 날씨일 확률이 증가합니다"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY",
+      "value": "강력한 폭풍"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_DESCRIPTION",
+      "value": "폭풍이 심한 날씨"
+    },
+    {
+      "key": "WEATHERRULE_VERYSTORMY_HOVER",
+      "value": "폭풍이 불 확률이 크게 증가합니다"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD",
+      "value": "극심한 추위"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_DESCRIPTION",
+      "value": "매우 추운 날씨"
+    },
+    {
+      "key": "WEATHERRULE_VERYCOLD_HOVER",
+      "value": "날씨가 추워질 확률이 크게 증가합니다"
+    },
+    {
+      "key": "WEATHERRULE_BAD",
+      "value": "나쁜 날씨"
+    },
+    {
+      "key": "WEATHERRULE_BAD_DESCRIPTION",
+      "value": "위험하게 나쁜 날씨"
+    },
+    {
+      "key": "WEATHERRULE_BAD_HOVER",
+      "value": "춥거나 폭풍이 불 확률이 증가합니다"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD",
+      "value": "매우 나쁜 날씨"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_DESCRIPTION",
+      "value": "극도로 나쁜 날씨"
+    },
+    {
+      "key": "WEATHERRULE_VERYBAD_HOVER",
+      "value": "춥거나 폭풍이 불 확률이 크게 증가합니다"
+    },
+    {
+      "key": "SM_1_TRACKING1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_1_TRACKING1_DESCRIPTION",
+      "value": "드넓은 산입니다."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_1_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "목표"
+    },
+    {
+      "key": "SM_1_TRACKING2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_1_TRACKING2_DESCRIPTION",
+      "value": "광활한 산의 풍경입니다."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOAL",
+      "value": "2개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_1_TRACKING2_GOALTEXT_EXITPOINT_3",
+      "value": "목표"
+    },
+    {
+      "key": "SM_1_UPDOWN1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_1_UPDOWN1_DESCRIPTION",
+      "value": "적당한 고도의 작은 산입니다."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_1_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_1_UPDOWN2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_1_UPDOWN2_DESCRIPTION",
+      "value": "적당한 고도의 일반 산입니다."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_1_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_1_UPDOWN3_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_1_UPDOWN3_DESCRIPTION",
+      "value": "비교적 경사가 완만한 산입니다."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_1_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_TRACKING1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_TRACKING1_DESCRIPTION",
+      "value": "드넓은 산입니다."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_2_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_TRACKING2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_TRACKING2_DESCRIPTION",
+      "value": "드넓은 산입니다. 이 산에는 극도로 위험한 지형이 있습니다."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_2_TRACKING2_GOALTEXT_EXITPOINT_4",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_TRACKING3_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_TRACKING3_DESCRIPTION",
+      "value": "드넓은 산입니다. 보통의 경우와 다르게 이 지역은 잠재적인 경로가 다수 존재하지만, <br>등반해야 할 곳이 많습니다."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.<br>그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_2_TRACKING3_GOALTEXT_EXITPOINT_4",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_TRACKING4_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_TRACKING4_DESCRIPTION",
+      "value": "드넓은 산입니다. 산의 일부분에만 죽음의 고도가 있지만,<br>지형이 극도로 험난합니다."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.<br>그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_2_TRACKING4_GOALTEXT_EXITPOINT_4",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_UPDOWN1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_UPDOWN1_DESCRIPTION",
+      "value": "적당한 고도의 큰 산입니다."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_2_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_UPDOWN2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_UPDOWN2_DESCRIPTION",
+      "value": "적당한 고도의 큰 산입니다.<br>보통의 경우와 다르게 이 지역은 잠재적인 경로가 다수 존재하지만, 등반해야 할 곳이 많습니다."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_2_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_UPDOWN3_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_UPDOWN3_DESCRIPTION",
+      "value": "적당한 고도의 큰 산입니다.<br>이 산에는 극도로 위험한 지형이 있습니다."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_2_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_UPDOWN4_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_UPDOWN4_DESCRIPTION",
+      "value": "가파른 원뿔 모양으로 솟아 있는 거대한 분화구입니다."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_2_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_2_UPDOWN5_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_2_UPDOWN5_DESCRIPTION",
+      "value": "극도로 가파른 작은 산입니다.<br>산의 넓은 지역이 죽음의 고도에 있습니다."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_2_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_3_TRACKING1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_3_TRACKING1_DESCRIPTION",
+      "value": "한쪽이 열려 있는 보통 높이의 분화구입니다."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.<br>그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_3_TRACKING1_GOALTEXT_EXITPOINT_4",
+      "value": "목표"
+    },
+    {
+      "key": "SM_3_TRACKING2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_3_TRACKING2_DESCRIPTION",
+      "value": "가마솥 모양의 산 풍경으로 여러 개의 봉우리가 있습니다."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOAL",
+      "value": "3개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_3_TRACKING2_GOALTEXT_EXITPOINT_5",
+      "value": "목표"
+    },
+    {
+      "key": "SM_3_UPDOWN1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_3_UPDOWN1_DESCRIPTION",
+      "value": "적당한 고도의 큰 산입니다.<br>이 산에는 극도로 위험한 지형이 있습니다."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_3_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_3_UPDOWN2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_3_UPDOWN2_DESCRIPTION",
+      "value": "적당한 고도의 큰 산입니다."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_3_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_3_UPDOWN3_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_3_UPDOWN3_DESCRIPTION",
+      "value": "가파른 큰 산입니다.<br>산의 넓은 지역이 죽음의 고도에 있지만, 지형이 험하지 않은 편입니다."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_3_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_TRACKING1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_TRACKING1_DESCRIPTION",
+      "value": "드넓은 산입니다."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOAL",
+      "value": "4개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "이상 현상 5"
+    },
+    {
+      "key": "SM_4_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_TRACKING2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_TRACKING2_DESCRIPTION",
+      "value": "광활하게 형성된 산입니다."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOAL",
+      "value": "4개의 시간적 이상 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.<br>그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "이상 현상 5"
+    },
+    {
+      "key": "SM_4_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_TRACKING3_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_TRACKING3_DESCRIPTION",
+      "value": "가파른 원뿔 모양으로 솟아 있는 거대한 분화구입니다.<br>이 산에는 극도로 위험한 지형이 있습니다."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOAL",
+      "value": "4개의 시간적 이상 현상을 찾으세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_TRACKING_5",
+      "value": "이상 현상 5"
+    },
+    {
+      "key": "SM_4_TRACKING3_GOALTEXT_EXITPOINT_6",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_TRACKING4_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_TRACKING4_DESCRIPTION",
+      "value": "가파른 원뿔 모양으로 솟아 있는 광활한 분화구입니다."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOAL",
+      "value": "4개의 시간적 이상 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.<br>그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_TRACKING_5",
+      "value": "이상 현상 5"
+    },
+    {
+      "key": "SM_4_TRACKING4_GOALTEXT_EXITPOINT_6",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_UPDOWN1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_UPDOWN1_DESCRIPTION",
+      "value": "광활한 지형을 가진 산입니다."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_4_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_UPDOWN2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_UPDOWN2_DESCRIPTION",
+      "value": "광활한 지형을 가진 산입니다.<br>산의 넓은 지역이 죽음의 고도에 있습니다."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_4_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_UPDOWN3_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_UPDOWN3_DESCRIPTION",
+      "value": "가파른 큰 산입니다.<br>산의 넓은 지역이 죽음의 고도에 있습니다."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_4_UPDOWN3_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_UPDOWN4_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_UPDOWN4_DESCRIPTION",
+      "value": "적당한 고도의 큰 산입니다."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_4_UPDOWN4_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_4_UPDOWN5_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_4_UPDOWN5_DESCRIPTION",
+      "value": "가파르게 솟은 큰 산입니다.<br>이 산에는 극도로 위험한 지형이 있습니다."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_4_UPDOWN5_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_NAME",
+      "value": "첫 번째 등정"
+    },
+    {
+      "key": "TEMPEFFECT_MM_P_FIRSTMOUNTAIN_DESCRIPTION",
+      "value": "첫 번째 등정입니다! 집중한 상태로 의욕도 넘칩니다!"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_1_SCIENTISTUNLOCK_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_1",
+      "value": "그나저나 타임 루프 멀미가 걱정되네요. 증상이 보이고 있어요. 제가 도와줄 수 있지만, 치료제가 거의 다 소진됐어요."
+    },
+    {
+      "key": "DIALOGUE_LATER_DEATH_ONE_REVIVE_LEFT_2",
+      "value": "이 상태의 당신을 한 번만 더 치료할 수 있어요. 잊지 마세요. 한 번 남았어요. 그 이후에는 평생을 영구적으로 깨어 있는 혼수상태에서 보내게 될 거예요."
+    },
+    {
+      "key": "SM_5_TRACKING1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_5_TRACKING1_DESCRIPTION",
+      "value": "광활하고 철옹성 같은 산입니다."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOAL",
+      "value": "5개의 시간적 이상 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_TRACKING_5",
+      "value": "이상 현상 5"
+    },
+    {
+      "key": "SM_5_TRACKING1_GOALTEXT_EXITPOINT_6",
+      "value": "목표"
+    },
+    {
+      "key": "SM_5_TRACKING2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_5_TRACKING2_DESCRIPTION",
+      "value": "가파르고 뾰족한 바위 봉오리가 많은 인상적인 산입니다."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOAL",
+      "value": "5개의 시간 이상적 현상을 찾으세요. 넓은 지역에 이상 현상이 산재해 있습니다.그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_1",
+      "value": "이상 현상 1"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_2",
+      "value": "이상 현상 2"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_3",
+      "value": "이상 현상 3"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_4",
+      "value": "이상 현상 4"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_TRACKING_5",
+      "value": "이상 현상 5"
+    },
+    {
+      "key": "SM_5_TRACKING2_GOALTEXT_EXITPOINT_6",
+      "value": "목표"
+    },
+    {
+      "key": "SM_5_UPDOWN1_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_5_UPDOWN1_DESCRIPTION",
+      "value": "깎아지른 듯한 바위 절벽이 있는 거대한 분화구입니다."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_5_UPDOWN1_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "SM_5_UPDOWN2_TITLE",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SM_5_UPDOWN2_DESCRIPTION",
+      "value": "극도로 험난한 지형으로 이루어진 거대하고 예측할 수 없는 산입니다."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOAL",
+      "value": "정상에 올라가세요. 그리고 목표까지 가세요."
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_PEAK_1",
+      "value": "정상"
+    },
+    {
+      "key": "SM_5_UPDOWN2_GOALTEXT_CAMP_2",
+      "value": "목표"
+    },
+    {
+      "key": "TEC_20_PERMANENT_NAME",
+      "value": "숙련도 및 스킬"
+    },
+    {
+      "key": "TEC_20_PERMANENT_DESCRIPTION",
+      "value": "기지에서 업그레이드로 활성화되는 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_NAME",
+      "value": "주변 환경 및 장비"
+    },
+    {
+      "key": "TEC_20_SITUATIONAL_DESCRIPTION",
+      "value": "현재 산, 주변 환경, 현재 활성화된 장비의 영향을 받는 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC20_TEMPORARY_NAME",
+      "value": "임시 효과"
+    },
+    {
+      "key": "TEC20_TEMPORARY_DESCRIPTION",
+      "value": "일정 시간이 지나면 만료되는 임시 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_NAME",
+      "value": "미션 완료까지"
+    },
+    {
+      "key": "TEC20_UNTILENDOFMISSION_DESCRIPTION",
+      "value": "미션이 끝나면 만료되는 효과입니다.<br>개별 효과를 보려면 클릭하세요."
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "준비된 폐"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "체온이 높을 때 추가되는 산소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "체온이 높을 때 추가되는 산소가 크게 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "준비된 폐"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "체온이 높을 때 추가되는 산소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "준비된 폐"
+    },
+    {
+      "key": "DRAFT_OXYGEN_INCREASE_OXYGEN_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "체온이 높을 때 추가되는 산소가 증가합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_NAME",
+      "value": "열정적 정신"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_0",
+      "value": "체온이 높을 때 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_SKILL_DESCRIPTION_1",
+      "value": "체온이 높을 때 잃는 이성이 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_NAME",
+      "value": "열정적 정신"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_1_DESCRIPTION",
+      "value": "체온이 높을 때 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_NAME",
+      "value": "열정적 정신"
+    },
+    {
+      "key": "DRAFT_SANITY_INCREASE_SANITY_WHILE_BODYTEMP_HIGH_TE_2_DESCRIPTION",
+      "value": "체온이 높을 때 잃는 이성이 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_NAME",
+      "value": "활기찬 발걸음"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_0",
+      "value": "체력이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_SKILL_DESCRIPTION_1",
+      "value": "체력이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_NAME",
+      "value": "활기찬 발걸음"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_1_DESCRIPTION",
+      "value": "체력이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_NAME",
+      "value": "활기찬 발걸음"
+    },
+    {
+      "key": "DRAFT_ENERGY_REDUCE_ENERGYCOST_WHILE_HEALTH_HIGH_TE_2_DESCRIPTION",
+      "value": "체력이 높은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_NAME",
+      "value": "새로운 활력"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_0",
+      "value": "체력이 낮은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_SKILL_DESCRIPTION_1",
+      "value": "체력이 낮은 상태에서 이동하거나 등반할 때 사용하는 에너지가 크게 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_NAME",
+      "value": "새로운 활력"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_1_DESCRIPTION",
+      "value": "체력이 낮은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_NAME",
+      "value": "새로운 활력"
+    },
+    {
+      "key": "DRAFT_PUSHTHROUGH_REDUCE_ENERGYCOST_WHILE_HEALTH_LOW_TE_2_DESCRIPTION",
+      "value": "체력이 낮은 상태에서 이동하거나 등반할 때 사용하는 에너지가 감소합니다"
+    }
+  ]
+}

@@ -1,0 +1,2864 @@
+{
+  "LOCA": [
+    {
+      "key": "STAT_ENERGY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_energy\">Энергия</style></style><br><br><font=\"numbers\">{0}{1}/{2}</font><br><br><style=\"description\"><style=\"energy\">Энергия</style> расходуется на подъёмах и спусках.<br>При больших перепадах высоты расходуется больше энергии.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_sanity\">Рассудок</style></style><br><br><font=\"numbers\">{0}{1}/{2}</font><br><br><style=\"description\">Вы медленно, но верно теряете <style=\"sanity\">рассудок</style> из-за эмоционального напряжения, которое сопровождает вас в горах.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_oxygen\">Кислород</style></style><br><br><font=\"numbers\">{0}{1}/{2}</font><br><br><style=\"description\"><style=\"oxygen\">Кислород</style> расходуется в зоне смерти на большой высоте.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">Тепло</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}{1}/{2}</font></style><br><style=\"description\">Вы теряете <style=\"bodytemp\">тепло</style> ночью и в холодную погоду.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_health\">Здоровье</style></style><br><br><font=\"numbers\">{0}{1}/{2}</font><br><br><style=\"description\">Если уровень <style=\"health\">здоровья</style> опустится до нулевой отметки, путешествие будет окончено!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_exp\">Очки опыта</style></style><br><style=\"numbers_stat\">Ур. <font=\"numbers\">{0}<br>{1}/{2} до следующего уровня</font></style><br><style=\"description\"><style=\"exp\">Очки опыта</style> необходимы для получения новых навыков, которые пригодятся в текущем походе.</style>"
+    },
+    {
+      "key": "HUD_HEIGHT",
+      "value": "<style=\"header\"><style=\"i_height\">Высота</style></style><br><br><font=\"numbers_m\">{0}</font> м<br><br><style=\"warning\">Зона смерти: <font=\"numbers_m\">{1}</font> м</style><br><style=\"description\">Зона смерти начинается на высоте {1} м.<br>Находясь в зоне смерти, вы будете терять <style=\"oxygen\">кислород</style>.</style>"
+    },
+    {
+      "key": "STAT_ENERGY",
+      "value": "Энергия"
+    },
+    {
+      "key": "STAT_BODYTEMP",
+      "value": "Тепло"
+    },
+    {
+      "key": "STAT_OXYGEN",
+      "value": "Кислород"
+    },
+    {
+      "key": "STAT_SANITY",
+      "value": "Рассудок"
+    },
+    {
+      "key": "STAT_HEALTH",
+      "value": "Здоровье"
+    },
+    {
+      "key": "STAT_EXP",
+      "value": "Очки опыта"
+    },
+    {
+      "key": "STAT_TIME",
+      "value": "Время"
+    },
+    {
+      "key": "STAT_PERCENT",
+      "value": "<style=\"description\"> ({0}% от максимального значения показателя)</style>"
+    },
+    {
+      "key": "ITEM_TENT",
+      "value": "В палатке спать комфортнее, чем под открытым небом."
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_INVENTORY",
+      "value": "<style=\"description\">ЛКМ: переместить.</style>"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_LOADOUT",
+      "value": "<style=\"description\">ЛКМ: переместить.</style>"
+    },
+    {
+      "key": "ITEM_EQUIPMENT",
+      "value": "<style=\"description\">Снаряжение: щёлкните левой кнопкой мыши и перетащите в ячейку снаряжения.<br>Нельзя одновременно использовать несколько предметов снаряжения одного типа.</style>"
+    },
+    {
+      "key": "ITEM_PASSIVE",
+      "value": "<style=\"description\">Пригодится в пещерах.<br>ЛКМ: переместить.</style>"
+    },
+    {
+      "key": "ITEM_GENERIC",
+      "value": "<style=\"description\">Может пригодиться.<br>ЛКМ: переместить.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_STATS_ALREADY_FILLED",
+      "value": "<style=\"description_forbidden\">Сейчас от этого не будет пользы.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_ALREADY_ACTIVE",
+      "value": "<style=\"description_forbidden\">Предмет всё ещё используется.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">Этот предмет нельзя использовать во время событий.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_LEFTOVER",
+      "value": "<style=\"description_forbidden\">Невозможно использовать, если предметы в «Найденном» можно переместить.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">Этот навык нельзя использовать во время диалогов.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">Сейчас этот предмет нельзя использовать.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">Сейчас этот навык нельзя использовать.</style>"
+    },
+    {
+      "key": "HOVER_ITEM_TEMPEFFECTS",
+      "value": ""
+    },
+    {
+      "key": "STAT_CURRENT_TIME",
+      "value": "<style=\"header\"><style=\"i_time\">Время</style></style><br><style=\"numbers_stat\"><font=\"numbers_m\">{0}<br>{1}</font></style><br><style=\"description\"><size=70%>День начинается с рассвета в <font=\"numbers_m_i\">{2}</font>.<br>Ночь начинается с заката в <font=\"numbers_m_i\">{3}</font>.</size></style>"
+    },
+    {
+      "key": "TIME_DAY",
+      "value": "День"
+    },
+    {
+      "key": "TIME_NIGHT",
+      "value": "Ночь"
+    },
+    {
+      "key": "TIME_NIGHT_CHANGE",
+      "value": "Закат"
+    },
+    {
+      "key": "TIME_DAY_CHANGE",
+      "value": "Рассвет"
+    },
+    {
+      "key": "HUD_WEATHER",
+      "value": "<style=\"header\">Погода</style><br><br>{0}<br>{1}<br><br><size=90%>{2}</size><br><br><style=\"description\">Погода меняется каждый день.<br>Она может влиять на игровой процесс.</style>"
+    },
+    {
+      "key": "TOGGLE_HUD_SIZE_OPTION",
+      "value": "Крупный интерфейс"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_KEYBOARD",
+      "value": "Панель статуса (клавиатура и мышь)"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_GAMEPAD",
+      "value": "Панель статуса (геймпад)"
+    },
+    {
+      "key": "BTN_CHANGE_CHARACTER",
+      "value": "Изменить персонажа"
+    },
+    {
+      "key": "BTN_CHANGE_LOADOUT",
+      "value": "Открыть рюкзак"
+    },
+    {
+      "key": "BTN_START_MISSION",
+      "value": "Начать задание"
+    },
+    {
+      "key": "WORLDMAP_TITLE",
+      "value": "Карта"
+    },
+    {
+      "key": "WORLDMAP_DESCRIPTION",
+      "value": "Планируйте свои походы здесь."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_TITLE",
+      "value": "Неизменная погода"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_DESCRIPTION",
+      "value": "Из-за аномалии погода здесь всегда одинакова…"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_HOVER",
+      "value": "На этой горе погода всегда одинаковая ({0}).<br>({1})"
+    },
+    {
+      "key": "CHARACTER_SCREEN_TITLE",
+      "value": "Персонажи"
+    },
+    {
+      "key": "CHARACTER_SKILL_ALREADY_UNLOCKED_HOVER",
+      "value": "{0} уже имеет этот навык"
+    },
+    {
+      "key": "CHAR_DEAD_PANEL_OVERLAY",
+      "value": "Персонаж недоступен"
+    },
+    {
+      "key": "WEATHER_CLEAR",
+      "value": "Ясно"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_CLEAR",
+      "value": "Хорошая погода"
+    },
+    {
+      "key": "WEATHER_COLD",
+      "value": "Холод"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_COLD",
+      "value": "Вы теряете больше тепла"
+    },
+    {
+      "key": "WEATHER_STORM",
+      "value": "Буря"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_STORM",
+      "value": "Вы расходуете больше энергии на подъёмах и спусках"
+    },
+    {
+      "key": "HOVER_TEMP_EFFECT",
+      "value": "<style=\"header\">{0}</style><br><br>Закончится через: <font=\"numbers_m\">{1}</font> ч.<br><br><style=\"description\">{2}</style><br><style=\"numbers_stat\">{3}</style>"
+    },
+    {
+      "key": "HOVER_TRAIT",
+      "value": "<style=\"header\">{0}</style><br><br><style=\"description\">{1}</style><br><style=\"numbers_stat\">{2}</style>"
+    },
+    {
+      "key": "BTN_WALK",
+      "value": "Идти"
+    },
+    {
+      "key": "BTN_PAUSE_WALK",
+      "value": "Остановиться"
+    },
+    {
+      "key": "BTN_INVENTORY",
+      "value": "Рюкзак"
+    },
+    {
+      "key": "TITLE_INVENTORY",
+      "value": "Рюкзак"
+    },
+    {
+      "key": "TITLE_ITEMS",
+      "value": "Рюкзак"
+    },
+    {
+      "key": "BTN_YES",
+      "value": "ДА"
+    },
+    {
+      "key": "BTN_NO",
+      "value": "НЕТ"
+    },
+    {
+      "key": "BTN_LEVELUP",
+      "value": "НОВЫЙ УРОВЕНЬ"
+    },
+    {
+      "key": "TITLE_LEVELUP",
+      "value": "НОВЫЙ УРОВЕНЬ"
+    },
+    {
+      "key": "DESCRIPTION_LEVELUP",
+      "value": "В этом путешествии вы стали сильнее.<br>Выберите талант!"
+    },
+    {
+      "key": "REMAINING_USES",
+      "value": "Осталось использований:"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM",
+      "value": "Выбросить предмет?"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM_DESCRIPTION",
+      "value": "Вы действительно хотите избавиться от этого предмета?<br><sprite=\"{0}\" name=\"{1}\"> <style=\"subtract\">{2} x1</style>"
+    },
+    {
+      "key": "MAIN_MENU_NEW_GAME",
+      "value": "Новая игра"
+    },
+    {
+      "key": "MAIN_MENU_OPTIONS",
+      "value": "Параметры"
+    },
+    {
+      "key": "MAIN_MENU_QUIT",
+      "value": "Выйти из игры"
+    },
+    {
+      "key": "MAIN_MENU_CREDITS",
+      "value": "Авторы"
+    },
+    {
+      "key": "MAIN_MENU_LANGUAGE",
+      "value": "Язык"
+    },
+    {
+      "key": "MAIN_MENU_BACK",
+      "value": "Назад"
+    },
+    {
+      "key": "MAIN_MENU_LOADING",
+      "value": "Загрузка…"
+    },
+    {
+      "key": "DAEDELIC_LEGAL_LINES",
+      "value": "© Daedalic Entertainment GmbH, 2022.<br> Логотип Daedalic является товарным знаком компании Daedalic Entertainment GmbH, Германия. Все права сохранены."
+    },
+    {
+      "key": "ENGLISH",
+      "value": "Magyar"
+    },
+    {
+      "key": "GERMAN",
+      "value": "Deutsch"
+    },
+    {
+      "key": "PAUSE_MENU_CONTINUE",
+      "value": "Продолжить"
+    },
+    {
+      "key": "PAUSE_MENU_RETRY",
+      "value": "Попробовать заново"
+    },
+    {
+      "key": "PAUSE_MENU_MAIN_MENU",
+      "value": "Вернуться в главное меню"
+    },
+    {
+      "key": "PAUSE_MENU",
+      "value": "Пауза"
+    },
+    {
+      "key": "PAUSE_MENU_HELP",
+      "value": "Справка"
+    },
+    {
+      "key": "EVENT_UNKNOWN_OUTCOME",
+      "value": "(Исход неизвестен)"
+    },
+    {
+      "key": "EVENT_END",
+      "value": "(Событие завершится)"
+    },
+    {
+      "key": "EVENT_MISSING_ITEM",
+      "value": "Требуется"
+    },
+    {
+      "key": "EVENT_STATICHOVER_ITEMS",
+      "value": "Предметы"
+    },
+    {
+      "key": "EVENT_STATICHOVER_STATUS",
+      "value": "Статус"
+    },
+    {
+      "key": "EVENT_STATICHOVER_TIME",
+      "value": "Время"
+    },
+    {
+      "key": "WEATHER_FORECAST_TOMORROW",
+      "value": "Погода завтра"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_ENTERED",
+      "value": "Вы вошли в зону смерти"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_LEFT",
+      "value": "Вы покинули зону смерти"
+    },
+    {
+      "key": "SKILLTARGETED_ERROR_RANGE",
+      "value": "Слишком далеко!"
+    },
+    {
+      "key": "MAIN_MENU_CONTINUE",
+      "value": "Продолжить"
+    },
+    {
+      "key": "BTN_OK",
+      "value": "ОК"
+    },
+    {
+      "key": "BTN_SKILLS",
+      "value": "Навыки"
+    },
+    {
+      "key": "BTN_CANCEL",
+      "value": "Отмена"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL",
+      "value": "Выбрать навык"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL_DESCRIPTION",
+      "value": "Вы хотите выбрать навык <br>«{0}»?"
+    },
+    {
+      "key": "BTN_SKILLACTIVE",
+      "value": "Можно использовать через {0}"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_TITLE",
+      "value": "Оставить предметы"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_DESCRIPTION",
+      "value": "Все предметы в «Найденном» будут навсегда потеряны. Продолжить?"
+    },
+    {
+      "key": "TITLE_LEFTOVERS",
+      "value": "Найденное"
+    },
+    {
+      "key": "CONFIRM",
+      "value": "Подтвердить"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT",
+      "value": "Верт. синхронизация*"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT_HOVER",
+      "value": "<style=header>ВЕРТИКАЛЬНАЯ СИНХРОНИЗАЦИЯ</style><br><style=description>Ограничивает количество кадров в секунду (FPS) в зависимости от частоты обновления (Гц) экрана.<br>Чем выше это значение, тем меньше кадров будет отрисовываться в секунду, тем самым улучшая производительность и снижая нагрузку на видеокарту.</style>"
+    },
+    {
+      "key": "CHOOSE",
+      "value": "Выбрать"
+    },
+    {
+      "key": "UI_CHOICE_CONSTRAINT_TITLE",
+      "value": "Выберите испытание!"
+    },
+    {
+      "key": "UI_MISSIONS_TITLE",
+      "value": "Задания"
+    },
+    {
+      "key": "UI_MISSION_SCREEN_TITLE",
+      "value": "Выбор задания"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_TITLE",
+      "value": "Бесконечная ночь"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_DESCRIPTION",
+      "value": "Эта гора находится вне времени. На ней всегда царит ночь."
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_HOVER",
+      "value": "Ночные эффекты всегда активны."
+    },
+    {
+      "key": "CONSTRAINTS",
+      "value": "Ограничения"
+    },
+    {
+      "key": "REWARDS",
+      "value": "Награды"
+    },
+    {
+      "key": "FAIL_REWARDS",
+      "value": "При провале"
+    },
+    {
+      "key": "MISSION_HOVER_ALREADY_COMPLETED",
+      "value": "Вы уже завершили это задание."
+    },
+    {
+      "key": "MISSION_HOVER_LOCKED",
+      "value": "Это дополнительное задание пока недоступно. Завершите основную главу (сложность «{0}»), чтобы открыть его."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED",
+      "value": "Этот регион пока недоступен.<br>Завершите дополнительные задания ({0}) в регионе «{1}», чтобы открыть эту главу."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED_PROGRESS",
+      "value": "Уже завершено:"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED_NEW",
+      "value": "Это задание доступно. Вы ещё не приступали к нему."
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED",
+      "value": "Это задание доступно. Вы ещё не завершили его."
+    },
+    {
+      "key": "MISSION_GOAL_REACH",
+      "value": "Достичь:"
+    },
+    {
+      "key": "MISSION_GOAL_COLLECT",
+      "value": "Собрать:"
+    },
+    {
+      "key": "MISSION_GOAL_SUMMARY",
+      "value": "Найти предметы"
+    },
+    {
+      "key": "SHOWCURRENTMISSION",
+      "value": "Открыть текущее задание"
+    },
+    {
+      "key": "MISSION_CLICK_HINT",
+      "value": "Щёлкните, чтобы увидеть текущее задание."
+    },
+    {
+      "key": "TARGET_TILE_START",
+      "value": "Пункт отправления"
+    },
+    {
+      "key": "TARGET_TILE_PEAK",
+      "value": "Вершина"
+    },
+    {
+      "key": "TARGET_TILE_CAMP",
+      "value": "Лагерь"
+    },
+    {
+      "key": "TARGET_TILE_WEATHER STATION",
+      "value": "Заброшенная метеостанция"
+    },
+    {
+      "key": "MISSION_CHARACTER_REWARD_TITLE",
+      "value": "При завершении персонажем:"
+    },
+    {
+      "key": "ALREADY_UNLOCKED",
+      "value": "Уже открыто"
+    },
+    {
+      "key": "EQUIPMENT",
+      "value": "Снаряжение"
+    },
+    {
+      "key": "LEFTOVER_WARNING",
+      "value": "Внимание!<br>В «Найденном» ещё остались предметы. Они будут утрачены."
+    },
+    {
+      "key": "DO_NOT_SHOW_AGAIN",
+      "value": "Больше не показывать"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_TITLE",
+      "value": "Использовать предмет?"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_DESCRIPTION",
+      "value": "Вы хотите использовать предмет<br><sprite=\"{0}\" name=\"{1}\"> {2}?"
+    },
+    {
+      "key": "SKILLS_TITLE",
+      "value": "Навыки"
+    },
+    {
+      "key": "LEVELUP_TITLE",
+      "value": "Новый уровень"
+    },
+    {
+      "key": "LEVELUP_DESCRIPTION",
+      "value": "Выберите следующий навык"
+    },
+    {
+      "key": "MOUNTAIN1_NAME",
+      "value": "Гора 1"
+    },
+    {
+      "key": "MOUNTAIN1_DESCRIPTION",
+      "value": "С этой горы начнётся ваше долгое и непростое путешествие.<br>Это будет настоящее испытание на прочность и проверка вашей готовности."
+    },
+    {
+      "key": "MOUNTAIN2_NAME",
+      "value": "Гора 2"
+    },
+    {
+      "key": "MOUNTAIN2_DESCRIPTION",
+      "value": "Горы становятся всё более суровыми и беспощадными.<br>Вы ведь запаслись снаряжением, подлечились и восстановили силы после первого восхождения?"
+    },
+    {
+      "key": "MOUNTAIN3_NAME",
+      "value": "Гора 3"
+    },
+    {
+      "key": "MOUNTAIN3_DESCRIPTION",
+      "value": "Последняя вершина скрыта в облаках.<br>Предыдущие восхождения были суровым испытанием, но эта гора кажется недостижимой…<br>Пути назад не будет.<br>Достигните вершины любой ценой!"
+    },
+    {
+      "key": "SCAR_DEFAULT_EXPLANATION",
+      "value": "Вы выбились из сил после долгого восхождения…"
+    },
+    {
+      "key": "CLIMB_FINISH_TITLE",
+      "value": "Лагерь"
+    },
+    {
+      "key": "CLIMB_FINISH_DAYS",
+      "value": "Дней на последней горе:"
+    },
+    {
+      "key": "BTN_CLIMB_CONTINUE",
+      "value": "Продолжить"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_TITLE",
+      "value": "Неразрывная петля времени"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_DESCRIPTION",
+      "value": "Все персонажи попали под действие болезни временной петли и впали в вечную кому. Их уже не спасти.<br>На этом история заканчивается."
+    },
+    {
+      "key": "RUN_DEATH_TITLE",
+      "value": "Смерть"
+    },
+    {
+      "key": "RUN_FINISH_TITLE",
+      "value": "Успех"
+    },
+    {
+      "key": "BTN_RUN_CONTINUE",
+      "value": "Главное меню"
+    },
+    {
+      "key": "BTN_DEATH_CONTINUE",
+      "value": "Главное меню"
+    },
+    {
+      "key": "RUN_FINISH_DAYS",
+      "value": "Дней"
+    },
+    {
+      "key": "RUN_FINISH_LEVEL",
+      "value": "Уровень:"
+    },
+    {
+      "key": "RUN_FINISH_CLIMBS",
+      "value": "Пройдено гор:"
+    },
+    {
+      "key": "RUN_FINISH_HEIGHT",
+      "value": "Максимальная высота:"
+    },
+    {
+      "key": "ROUTE1_NAME",
+      "value": "Маршрут 1"
+    },
+    {
+      "key": "ROUTE2_NAME",
+      "value": "Маршрут 2"
+    },
+    {
+      "key": "ROUTE3_NAME",
+      "value": "Маршрут 3"
+    },
+    {
+      "key": "TENT_DURABILITY",
+      "value": "Прочность палатки"
+    },
+    {
+      "key": "NO_TENT_AVAILABLE",
+      "value": "У вас нет палатки"
+    },
+    {
+      "key": "SLEEP_LOCATION_TENT",
+      "value": "Отдых"
+    },
+    {
+      "key": "SLEEP_LOCATION_REST",
+      "value": "Отдых"
+    },
+    {
+      "key": "SLEEP_LOCATION_CAVE",
+      "value": "Безопасная пещера"
+    },
+    {
+      "key": "BTN_START",
+      "value": "Начать"
+    },
+    {
+      "key": "BTN_SELECTROUTE",
+      "value": "Выбрать"
+    },
+    {
+      "key": "STATUS_SLEEPING",
+      "value": "Сон"
+    },
+    {
+      "key": "STATUS_AWAKE",
+      "value": "Бодрствование"
+    },
+    {
+      "key": "BTN_SLEEP",
+      "value": "Сон"
+    },
+    {
+      "key": "SLEEP_DURATION",
+      "value": "Длительность сна"
+    },
+    {
+      "key": "DURABILITY_CAVE",
+      "value": "Пещера <size=66%>(палатка не нужна)</size>"
+    },
+    {
+      "key": "SLEEP_WINDOW_TITLE",
+      "value": "Лечь спать"
+    },
+    {
+      "key": "SLEEP_EXECUTION_TITLE",
+      "value": "Сон…"
+    },
+    {
+      "key": "USE_TENT",
+      "value": "Использовать палатку"
+    },
+    {
+      "key": "SHORT_SLEEP",
+      "value": "Вздремнуть"
+    },
+    {
+      "key": "LONG_SLEEP",
+      "value": "Поспать подольше"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_NAME",
+      "value": "Замёрзшие ноги"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "У вас замёрзли пальцы ног"
+    },
+    {
+      "key": "CRITENERGYSCAR_NAME",
+      "value": "Травма лодыжки"
+    },
+    {
+      "key": "CRITENERGYSCAR_DESCRIPTION",
+      "value": "Вы травмировали лодыжку"
+    },
+    {
+      "key": "CRITOXYGENSCAR_NAME",
+      "value": "Высотная болезнь"
+    },
+    {
+      "key": "CRITOXYGENSCAR_DESCRIPTION",
+      "value": "Вы страдаете от высотной болезни"
+    },
+    {
+      "key": "CRITSANITYSCAR_NAME",
+      "value": "Кошмары"
+    },
+    {
+      "key": "CRITSANITYSCAR_DESCRIPTION",
+      "value": "Вас мучают кошмары"
+    },
+    {
+      "key": "EXHAUSTED_NAME",
+      "value": "Измождение"
+    },
+    {
+      "key": "EXHAUSTED_DESCRIPTION",
+      "value": "Вы выбились из сил"
+    },
+    {
+      "key": "FROSTBITTEN_NAME",
+      "value": "Обморожение"
+    },
+    {
+      "key": "FROSTBITTEN_DESCRIPTION",
+      "value": "Холодный горный воздух пробирает вас до костей"
+    },
+    {
+      "key": "ADVENTURER_NAME",
+      "value": "Путешественница"
+    },
+    {
+      "key": "ADVENTURER_INTRO",
+      "value": "Вы спускались в тёмные глубины океана в поисках затерянных сокровищ, изучали следы давно исчезнувших цивилизаций в тропических лесах и находили древние руины посреди бескрайних пустынь. Теперь вас ждёт новое испытание.<br>Одинокий остров, скрытый за пеленой тумана. Горная гряда, которой нет на картах, и её манящие вершины, устремлённые в небеса.<br>Это настоящая мечта любого путешественника и ваш шанс вписать своё имя в учебники истории."
+    },
+    {
+      "key": "SCIENTIST_NAME",
+      "value": "Учёный"
+    },
+    {
+      "key": "SCIENTIST_INTRO",
+      "value": "У вас есть революционная теория: вы полагаете, что существует некий источник электромагнитной энергии, способный обеспечить электричеством весь мир. Коллеги высмеяли вашу теорию и окрестили её научной фантастикой, но их узколобость лишь подстегнула вас продолжить поиски.<br>Узнав о загадочном острове, который будто бы возник из ниоткуда, вы понимаете, что это ваш шанс. Согласно первоначальным подсчётам, условия огромной горной гряды идеальны для мощного электромагнитного поля. Сильнее всего излучение будет на вершинах.<br>Вы отправляетесь в горы, чтобы доказать свою теорию и восстановить репутацию."
+    },
+    {
+      "key": "JOURNALIST_NAME",
+      "value": "Журналист"
+    },
+    {
+      "key": "JOURNALIST_INTRO",
+      "value": "В бесконечной погоне за правдой вы перемещаетесь из одной горячей точки в другую. Вы бесстрашны и не боитесь рассказывать нелицеприятную правду. Народ должен знать о коварных замыслах элиты. Кто, как не вы, сможет изобличить их?<br>Узнав о том, что много лет от людей скрывали целый остров, вы начинаете расследование. Захватчики, исчезнувшие таинственным образом, секретные эксперименты в горах…<br>Вам предстоит подняться на самую вершину и узнать всё самостоятельно. Если слухи окажутся правдой, этот сюжет станет самым значимым в вашей карьере, а до премии Пулитцера будет рукой подать."
+    },
+    {
+      "key": "BTN_SELECTCHARACTER",
+      "value": "Выбрать"
+    },
+    {
+      "key": "SCAR_CRITENERGY_EXPLANATION",
+      "value": "Вы с трудом держитесь на ногах…"
+    },
+    {
+      "key": "SCAR_CRITBODYTEMP_EXPLANATION",
+      "value": "Холод пробирает до костей…"
+    },
+    {
+      "key": "SCAR_CRITOXYGEN_EXPLANATION",
+      "value": "От недостатка кислорода кружится голова…"
+    },
+    {
+      "key": "SCAR_CRITSANITY_EXPLANATION",
+      "value": "У вас начинаются видения…"
+    },
+    {
+      "key": "SKILL_LEVEL_0",
+      "value": "I"
+    },
+    {
+      "key": "SKILL_LEVEL_1",
+      "value": "II"
+    },
+    {
+      "key": "SKILL_LEVEL_2",
+      "value": "III"
+    },
+    {
+      "key": "STAT_ENERGY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_energy\">Энергия</style></style><br><style=\"description\"><style=\"energy\">Энергия</style> расходуется на подъёмах и спусках.<br>При больших перепадах высоты расходуется больше энергии.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_sanity\">Рассудок</style></style><br><style=\"description\">Вы медленно, но верно теряете <style=\"sanity\">рассудок</style> из-за эмоционального напряжения,<br>которое сопровождает вас в горах.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_oxygen\">Кислород</style></style><br><style=\"description\"><style=\"oxygen\">Кислород</style> очень быстро расходуется в зоне смерти на большой высоте.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">Тепло</style></style><br><style=\"description\">Вы теряете <style=\"bodytemp\">тепло</style> ночью, а также в холодную погоду, во время снегопада и бури.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_health\">Здоровье</style></style><br><style=\"description\">Если уровень <style=\"health\">здоровья</style> опустится до нулевой отметки, путешествие будет окончено!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_exp\">Опыт</style></style><br><style=\"description\">Вы получаете <style=\"exp\">опыт</style> в ходе событий и встреч.</style>"
+    },
+    {
+      "key": "STAT_TIME_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_time\">Время</style></style><br><style=\"description\">События и процесс восхождения занимают время.<br>Ваши показатели при этом меняются соответствующим образом.</style>"
+    },
+    {
+      "key": "UNLOCKS_SKILLTREE",
+      "value": "Открывает специализацию"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_FULL",
+      "value": "Этот показатель уже на максимальном уровне"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_EMPTY",
+      "value": "Этот показатель уже на минимальном уровне"
+    },
+    {
+      "key": "CHARACTER_STAR_HOVER",
+      "value": "Вы завершили восхождение на следующих уровнях сложности:"
+    },
+    {
+      "key": "LOCKED_DIFFICULTY_EXPLANATION",
+      "value": "Чтобы открыть этот уровень сложности,<br>завершите восхождение за этого персонажа<br>на уровне <b>«{0}»</b>!"
+    },
+    {
+      "key": "SKILL_COSTS_CANNOT_AFFORD",
+      "value": "Невозможно использовать навык: {0} на низком уровне"
+    },
+    {
+      "key": "ITEM_YOU_FULFILL",
+      "value": "У вас есть:"
+    },
+    {
+      "key": "ITEM_YOU_ARE_MISSING",
+      "value": "У вас отсутствует:"
+    },
+    {
+      "key": "STAT_YOU_FULFILL",
+      "value": "У вас достаточно:"
+    },
+    {
+      "key": "STAT_YOU_ARE_MISSING",
+      "value": "У вас недостаточно:"
+    },
+    {
+      "key": "TE_YOU_FULFILL",
+      "value": "У вас есть эффект"
+    },
+    {
+      "key": "TE_YOU_ARE_MISSING",
+      "value": "У вас нет эффекта"
+    },
+    {
+      "key": "EVENT_STATICHOVER_EFFECTS",
+      "value": "Эффекты"
+    },
+    {
+      "key": "SKILL_TREE_LIST_EXPLANATION",
+      "value": "Навыки и специализации открываются с получением опыта"
+    },
+    {
+      "key": "MAX_LEVEL_DESCRIPTION",
+      "value": "Достигнут максимальный уровень"
+    },
+    {
+      "key": "CHARACTERSELECTION_ADVENTURER",
+      "value": "Вы живёте ради приключений и всегда ищете новые испытания."
+    },
+    {
+      "key": "CHARACTERSELECTION_SCIENTIST",
+      "value": "Как и любой амбициозный учёный, вы ходите по грани между гениальностью и безумием."
+    },
+    {
+      "key": "CHARACTERSELECTION_JOURNALIST",
+      "value": "Вы занимаетесь журналистскими расследованиями и путешествуете по миру, чтобы освещать громкие сенсации."
+    },
+    {
+      "key": "MOUNTAIN1_ADVENTURER_DESCRIPTION",
+      "value": "Поднимитесь на первую вершину. Испытание будет завершено, только когда благополучно доберётесь до лагеря. До этого момента вы будете во власти горы."
+    },
+    {
+      "key": "MOUNTAIN2_ADVENTURER_DESCRIPTION",
+      "value": "Вас ждёт вторая вершина. Покорите её — и докажите себе, что способны на большее!"
+    },
+    {
+      "key": "MOUNTAIN3_ADVENTURER_DESCRIPTION",
+      "value": "Если вы хотите вписать своё имя в историю, придётся подняться на третью вершину. Если вам это удастся, о вашем мастерстве будут слагать легенды!"
+    },
+    {
+      "key": "MOUNTAIN1_SCIENTIST_DESCRIPTION",
+      "value": "Поднимитесь на первую вершину и найдите доказательства, что здесь существует источник электромагнитной силы."
+    },
+    {
+      "key": "MOUNTAIN2_SCIENTIST_DESCRIPTION",
+      "value": "Показания не были особенно впечатляющими. Вам придётся забраться на вторую вершину и собрать больше данных."
+    },
+    {
+      "key": "MOUNTAIN3_SCIENTIST_DESCRIPTION",
+      "value": "Излучение становится всё сильнее. Поднимитесь на последнюю вершину и докажите миру свою правоту — и гениальность!"
+    },
+    {
+      "key": "MOUNTAIN1_JOURNALIST_DESCRIPTION",
+      "value": "Поднимитесь на первую гору и узнайте, правдивы ли слухи об экспериментах."
+    },
+    {
+      "key": "MOUNTAIN2_JOURNALIST_DESCRIPTION",
+      "value": "Похоже, вы в шаге от сенсационного открытия. Покорите вторую вершину, чтобы узнать больше."
+    },
+    {
+      "key": "MOUNTAIN3_JOURNALIST_DESCRIPTION",
+      "value": "Ещё одно восхождение впереди — и Пулитцеровская премия за журналистское расследование вам обеспечена."
+    },
+    {
+      "key": "LOCKED",
+      "value": "Ещё не открыто"
+    },
+    {
+      "key": "CLIMB_OTHER_MOUNTAINS_FIRST",
+      "value": "Сперва покорите другие горы."
+    },
+    {
+      "key": "CHOSE_MOUNTAINEER_TITLE",
+      "value": "Выберите альпиниста"
+    },
+    {
+      "key": "CHOSE_ROUTE_TITLE",
+      "value": "Выберите маршрут"
+    },
+    {
+      "key": "HINT_1",
+      "value": "Снаряжение и навыки помогут вам преодолеть маршрут."
+    },
+    {
+      "key": "HINT_2",
+      "value": "При подъёме или спуске на большую высоту вы будете терять больше энергии."
+    },
+    {
+      "key": "HINT_3",
+      "value": "Если какой-то из показателей, кроме здоровья, опустится до нуля, игра не закончится. Однако ваша жизнь будет под угрозой!"
+    },
+    {
+      "key": "HINT_4",
+      "value": "Активируемые навыки могут пригодиться в опасных ситуациях!"
+    },
+    {
+      "key": "HINT_5",
+      "value": "Погода влияет не только на ваши показатели, но и на видимость. Следите за индикатором погоды в левом нижнем углу!"
+    },
+    {
+      "key": "SCARS",
+      "value": "Недуги"
+    },
+    {
+      "key": "BTN_SORT_BY_TREE",
+      "value": "Сортировать по группе"
+    },
+    {
+      "key": "BTN_SORT_BY_DATE",
+      "value": "Сортировать по порядку"
+    },
+    {
+      "key": "NO_SKILL_UNLOCKED_YET",
+      "value": "Вы не приобрели ни одного навыка.<br>Получайте опыт, чтобы повышать уровень и выбирать новые навыки!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_LOCKED",
+      "value": "Вы не можете изменить уровень сложности во время похода!"
+    },
+    {
+      "key": "QUALITY_VERY LOW",
+      "value": "Очень низкое"
+    },
+    {
+      "key": "QUALITY_LOW",
+      "value": "Низкое"
+    },
+    {
+      "key": "QUALITY_MEDIUM",
+      "value": "Среднее"
+    },
+    {
+      "key": "QUALITY_HIGH",
+      "value": "Высокое"
+    },
+    {
+      "key": "QUALITY_VERY HIGH",
+      "value": "Очень высокое"
+    },
+    {
+      "key": "QUALITY_ULTRA",
+      "value": "Ультра"
+    },
+    {
+      "key": "OPTIONS_FPS",
+      "value": "Макс. кадров в секунду"
+    },
+    {
+      "key": "OPTIONS_BRIGHTNESS",
+      "value": "Яркость"
+    },
+    {
+      "key": "FPS_UNCAPPED",
+      "value": "без ограничений"
+    },
+    {
+      "key": "FPS_30",
+      "value": "30"
+    },
+    {
+      "key": "FPS_60",
+      "value": "60"
+    },
+    {
+      "key": "OPTIONS_DIFFICULTY",
+      "value": "Уровень сложности"
+    },
+    {
+      "key": "OPTIONS_MASTERVOLUME",
+      "value": "Общая громкость"
+    },
+    {
+      "key": "OPTIONS_BGM",
+      "value": "Музыка"
+    },
+    {
+      "key": "OPTIONS_SFX",
+      "value": "Звуки"
+    },
+    {
+      "key": "OPTIONS_FULLSCREEN",
+      "value": "Полный экран"
+    },
+    {
+      "key": "OPTIONS_RESOLUTION",
+      "value": "Разрешение"
+    },
+    {
+      "key": "OPTIONS_QUALITY",
+      "value": "Качество"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_TITLE",
+      "value": "Доступен новый уровень сложности"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_DESCRIPTION",
+      "value": "Поздравляем!<br>{0} получает доступ к уровню сложности <b>«{1}»</b>!"
+    },
+    {
+      "key": "VIP_DISCORD_TEXT",
+      "value": "VIP-статус за открытие всех уровней сложности!"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_DIFFICULTYHASNOREVIVES",
+      "value": "<style=description_forbidden>На этом уровне сложности очки пробуждения недоступны!</style>"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_SPENTALLREVIVES",
+      "value": "<style=description_forbidden>У вас не осталось очков пробуждения!</style>"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL",
+      "value": "Обычный"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_FLAVOR",
+      "value": "Сумеете добраться до вершины?"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_DESCRIPTION",
+      "value": "Низкий уровень сложности.<br>Непростые, но проходимые маршруты.<br><br><i>Рекомендуется для начинающих альпинистов.</i>"
+    },
+    {
+      "key": "DIFFICULTY_HARD",
+      "value": "Высокий"
+    },
+    {
+      "key": "DIFFICULTY_HARD_FLAVOR",
+      "value": "Серьёзное испытание"
+    },
+    {
+      "key": "DIFFICULTY_HARD_DESCRIPTION",
+      "value": "Повышенный уровень сложности.<br>Ресурсы заканчиваются быстрее,<br>а погода и природные условия более суровы.<br><br><i>Рекомендуется для опытных альпинистов.</i>"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE",
+      "value": "Insurmountable"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_FLAVOR",
+      "value": "Смерть всегда идёт по пятам"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_DESCRIPTION",
+      "value": "Наивысший уровень сложности.<br>Передвижение, подъём и спуск очень энергозатратны, а эффекты рельефа,<br>погоды и зоны смерти беспощадны.<br><br><i>Рекомендуется для бесстрашных альпинистов со стальными нервами.</i>"
+    },
+    {
+      "key": "DIFFICULTY_LOCKED_HOVER",
+      "value": ""
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_TITLE",
+      "value": "Выберите уровень сложности!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_TITLE",
+      "value": "Подтвердите уровень сложности"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_DESCRIPTION",
+      "value": "Внимание!<br>Сложность нельзя будет изменить после начала игры.<br>Вы уверены?"
+    },
+    {
+      "key": "CHANGEABLE_KEYBINDINGS",
+      "value": "(Привязку клавиш можно изменить в параметрах игры.)"
+    },
+    {
+      "key": "PAGE",
+      "value": "Страница"
+    },
+    {
+      "key": "TUTORIAL_1_TITLE",
+      "value": "Управление камерой"
+    },
+    {
+      "key": "TUTORIAL_1_DESCRIPTION",
+      "value": "Чтобы смотреть по сторонам, удерживайте клавишу <b>V*</b> и двигайте мышью.<br><br>Чтобы вращать камеру, удерживайте <b>колесо мыши*</b> и двигайте мышью.<br>Чтобы приближать или отдалять камеру, прокручивайте колесо мыши."
+    },
+    {
+      "key": "TUTORIAL_2_TITLE",
+      "value": "Передвижение"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION",
+      "value": "Чтобы завершить поход, вам нужно провести персонажа до отмеченной цели по клеткам. Время не будет идти, а показатели персонажа не будут меняться, пока вы не начнёте движение."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION1",
+      "value": "<b>Щёлкните левой кнопкой мыши*</b> по проходимой клетке, чтобы добавить точку маршрута для персонажа. Можно добавить больше точек маршрута, щёлкая по другим клеткам.<br>Ещё раз щёлкните по последней точке, чтобы персонаж начал движение."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION2",
+      "value": "<b>Нажмите правую кнопку мыши*,</b> чтобы остановить персонажа или убрать последнюю точку маршрута."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION3",
+      "value": "Чтобы персонаж пошёл или остановился, можно также воспользоваться кнопкой передвижения.<br>Кнопка ускорения позволяет персонажу перемещаться быстрее. Это косметический эффект, не влияющий на скорость изменения показателей."
+    },
+    {
+      "key": "TUTORIAL_3_TITLE",
+      "value": "Типы рельефа"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION",
+      "value": "Существует 3 типа рельефа: скалистый, снежный и ледяной. Они, в свою очередь, подразделяются на подтипы: обычный и особые. Затраты на перемещение по разным типам рельефа зависят от снаряжения и навыков персонажа. Особые подтипы рельефа могут отнимать больше энергии или вызывать опасные события."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_STONE",
+      "value": "<b>СКАЛЫ</b> — обычный рельеф без особых свойств.<br><br><b>ОСЫПЬ</b> — подтип, который может вызывать опасные события.<br><br><b>ТРАВА</b> — подтип без особых свойств."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_SNOW",
+      "value": "<b>СНЕГ</b> — обычный рельеф без особых свойств.<br><br><b>СУГРОБЫ</b> — подтип, который может вызывать опасные события.<br><br><b>ГЛУБОКИЙ СНЕГ</b> — подтип, который отнимает больше энергии."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_ICE",
+      "value": "<b>ЛЁД</b> — обычный рельеф без особых свойств.<br><br><b>ЛЕДНИК</b> — подтип, который может вызывать опасные события.<br><br><b>ЛЕДЯНОЙ ЛАБИРИНТ</b> — подтип, который отнимает больше времени и тепла."
+    },
+    {
+      "key": "TUTORIAL_4_TITLE",
+      "value": "События"
+    },
+    {
+      "key": "TUTORIAL_4_DESCRIPTION",
+      "value": "На горе случаются самые разные события.<br>Событие начнётся, когда вы войдёте в область с меткой."
+    },
+    {
+      "key": "TUTORIAL_5_TITLE",
+      "value": "Показатели"
+    },
+    {
+      "key": "TUTORIAL_6_TITLE",
+      "value": "Критическое состояние"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION1",
+      "value": "Когда показатель (кроме здоровья) достигает нуля, ваше состояние становится критическим."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION2",
+      "value": "При критическом состоянии линия маршрута становится красной."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION3",
+      "value": "Если продолжить передвижение в таком состоянии, с вами начнут происходить опасные события. Помните: если шкала здоровья опустеет, поход будет окончен!"
+    },
+    {
+      "key": "TUTORIAL_7_TITLE",
+      "value": "Повышение уровня"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION1",
+      "value": "Набрав определённое количество очков опыта, вы можете повысить уровень персонажа."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION2",
+      "value": "На каждом уровне вы можете выбрать новый навык. Некоторые навыки действуют ограниченное время или работают только при определённых условиях."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION3",
+      "value": "Cписок выбранных навыков находится в окне «Навыки» в правом верхнем углу. Активные эффекты навыков отображаются на панели «Эффекты», расположенной по центру вверху экрана."
+    },
+    {
+      "key": "TUTORIAL_8_TITLE",
+      "value": "Погода"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION",
+      "value": "Погода может меняться каждое утро. Чтобы узнать текущую погоду и прогноз на следующий день, посмотрите в левый нижний угол экрана. Существует три типа погодных условий."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_CLEAR",
+      "value": "<b>ЯСНАЯ ПОГОДА</b> — приятная погода без отрицательных эффектов. Просто наслаждайтесь восхождением."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_COLD",
+      "value": "<b>ХОЛОДНАЯ ПОГОДА</b> — вы будете терять тепло, особенно по ночам. Одевайтесь соответствующим образом."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_STORM",
+      "value": "<b>БУРЯ</b> — восхождение будет отнимать больше времени и энергии, а видимость ухудшится."
+    },
+    {
+      "key": "TUTORIAL_9_TITLE",
+      "value": "События"
+    },
+    {
+      "key": "TUTORIAL_9_DESCRIPTION",
+      "value": "В событиях вам предстоит принимать непростые решения, которые могут привести к различным исходам.<br>Если событие занимает некоторое время, уровень любого показателя (например, тепла) может измениться в зависимости от условий на горе!"
+    },
+    {
+      "key": "TUTORIAL_10_TITLE",
+      "value": "Сон"
+    },
+    {
+      "key": "TUTORIAL_10_DESCRIPTION",
+      "value": "Сон — хороший способ восстановить энергию.<br>Вы можете найти метку пещеры на карте и разбить лагерь там. Вы также можете поставить палатку, если она у вас есть (одной палатки хватит на три ночёвки). Наконец, вы можете спать без палатки — правда, это негативно скажется на ваших показателях, так что прибегайте к этому варианту только в крайних случаях."
+    },
+    {
+      "key": "SCORE_XP",
+      "value": "Очки за полученный опыт"
+    },
+    {
+      "key": "SCORE_MOUNTAINS",
+      "value": "Очки за пройденные горы"
+    },
+    {
+      "key": "SCORE_NOCRIT",
+      "value": "Бонус за поход без критических состояний"
+    },
+    {
+      "key": "SCORE_CONSUMABLES",
+      "value": "Очки за собранные предметы"
+    },
+    {
+      "key": "SCORE_EQUIPMENT",
+      "value": "Очки за собранное снаряжение"
+    },
+    {
+      "key": "SCORE_TIME",
+      "value": "Бонус за время"
+    },
+    {
+      "key": "GENERIC_KEYBINDING_HINT",
+      "value": "(Клавиша: <b>{0}</b>)"
+    },
+    {
+      "key": "TAKEEVERYTHINGFROMLEFTOVERS",
+      "value": "Взять всё"
+    },
+    {
+      "key": "LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "Сбросить"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM",
+      "value": "Предмет разблокирован.<br>Его можно взять его с собой за: {0}."
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM_UNAFFORDEABLE",
+      "value": "<color=red>Требуется хотя бы {0},<br>чтобы взять этот предмет.</color>"
+    },
+    {
+      "key": "HOVER_LOADOUT_WITHDRAWN_ITEM",
+      "value": "Этот предмет можно взять за: {0}."
+    },
+    {
+      "key": "BTN_LEAVE_EVERYTHING_TITLE",
+      "value": "Сбросить"
+    },
+    {
+      "key": "HOVER_BTN_LEAVE_EVERYTHING",
+      "value": "Убрать предметы и снаряжение из рюкзака, чтобы освободить место."
+    },
+    {
+      "key": "BTN_SHOW_MISSION_TITLE",
+      "value": "Показать задание"
+    },
+    {
+      "key": "HOVER_BTN_SHOW_MISSION",
+      "value": "Посмотреть информацию о задании,<br>которое вы выбрали."
+    },
+    {
+      "key": "BTN_TAKE_EVERYTHING_TITLE",
+      "value": "Взять всё"
+    },
+    {
+      "key": "HOVER_BTN_TAKE_EVERYTHING",
+      "value": "Переместить всё, что можно, из «Найденного» в рюкзак."
+    },
+    {
+      "key": "MISSION_GOAL_UNKNOWN",
+      "value": "Неизвестная цель"
+    },
+    {
+      "key": "MISSION_TARGET_HUD_GOALS_TITLE",
+      "value": "Цели задания:"
+    },
+    {
+      "key": "HOVER_BTN_ACTIVE_SKILL",
+      "value": "{0}<br>Щёлкните, чтобы использовать навык, или нажмите {1}"
+    },
+    {
+      "key": "HOVER_BTN_SLEEP",
+      "value": "Открыть меню сна."
+    },
+    {
+      "key": "HOVER_BTN_INVENTORY",
+      "value": "Открыть рюкзак."
+    },
+    {
+      "key": "HOVER_BTN_WALK",
+      "value": "Персонаж начнёт передвижение.<br>Он пойдёт по проложенному маршруту."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_WALK",
+      "value": "Персонаж остановится <b>на следующей клетке</b>."
+    },
+    {
+      "key": "HOVER_BTN_SPEED",
+      "value": "Ускоренное передвижение"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_TOGGLE",
+      "value": "Меняет скорость передвижения персонажа.<br>Косметический эффект, на время и расход энергии на горе."
+    },
+    {
+      "key": "HOVER_BTN_SKILLTREE",
+      "value": "Показать приобретённые навыки."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU_TITLE",
+      "value": "Пауза"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU",
+      "value": "Остановить игру и открыть меню паузы."
+    },
+    {
+      "key": "TUTORIAL_CLOSE_HINT",
+      "value": "Вы всегда можете перечитать руководство по игре в меню паузы."
+    },
+    {
+      "key": "HINT",
+      "value": "Подсказка"
+    },
+    {
+      "key": "HINT_SELECT_CONFIRM",
+      "value": "{0} или {1}: сделать выбор и подтвердить его."
+    },
+    {
+      "key": "HINT_DECLINE_CANCEL",
+      "value": "{0} или {1}: отменить выбор."
+    },
+    {
+      "key": "HINT_CAMERA",
+      "value": "{0} или {1} + перемещение мыши: вращать камеру."
+    },
+    {
+      "key": "Alpha0",
+      "value": "0"
+    },
+    {
+      "key": "Alpha1",
+      "value": "1"
+    },
+    {
+      "key": "Alpha2",
+      "value": "2"
+    },
+    {
+      "key": "Alpha3",
+      "value": "3"
+    },
+    {
+      "key": "Alpha4",
+      "value": "4"
+    },
+    {
+      "key": "Alpha5",
+      "value": "5"
+    },
+    {
+      "key": "Alpha6",
+      "value": "6"
+    },
+    {
+      "key": "Alpha7",
+      "value": "7"
+    },
+    {
+      "key": "Alpha8",
+      "value": "8"
+    },
+    {
+      "key": "Alpha9",
+      "value": "9"
+    },
+    {
+      "key": "Mouse0",
+      "value": "Левая кнопка мыши"
+    },
+    {
+      "key": "Mouse1",
+      "value": "Правая кнопка мыши"
+    },
+    {
+      "key": "Mouse2",
+      "value": "Колесо мыши"
+    },
+    {
+      "key": "Space",
+      "value": "Пробел"
+    },
+    {
+      "key": "Up Arrow",
+      "value": "Стрелка вверх"
+    },
+    {
+      "key": "Down Arrow",
+      "value": "Стрелка вниз"
+    },
+    {
+      "key": "Left Arrow",
+      "value": "Стрелка влево"
+    },
+    {
+      "key": "Right Arrow",
+      "value": "Стрелка вправо"
+    },
+    {
+      "key": "KEYBINDING_PROMPT",
+      "value": "<Нажмите любую клавишу>"
+    },
+    {
+      "key": "KEYBINDINGS_TITLE",
+      "value": "Привязка клавиш"
+    },
+    {
+      "key": "KEYBINDING_DUPLICATE_ERROR",
+      "value": "Эта клавиша уже используется!"
+    },
+    {
+      "key": "ABILITY_ACTIVE",
+      "value": "Активируемый навык"
+    },
+    {
+      "key": "ABILITY_PASSIVE",
+      "value": "Пассивный навык"
+    },
+    {
+      "key": "ABILITY_TRIGGERED",
+      "value": "Сработавший навык"
+    },
+    {
+      "key": "ABILITY_CONDITIONAL",
+      "value": "Навык с условием"
+    },
+    {
+      "key": "ABILITY_HOURS",
+      "value": "ч."
+    },
+    {
+      "key": "ABILITY_COOLDOWN",
+      "value": "Перезарядка"
+    },
+    {
+      "key": "ABILITY_DURATION",
+      "value": "Длительность"
+    },
+    {
+      "key": "ABILITY_DURATION_ACTIVE",
+      "value": "Будет действовать ещё:"
+    },
+    {
+      "key": "ABILITY_DURATION_FORXHOURS",
+      "value": "{0} ч."
+    },
+    {
+      "key": "SPECIALIZATION_TITLE",
+      "value": "Выберите свою стратегию!"
+    },
+    {
+      "key": "SELECT1",
+      "value": "Подтвердить/выбрать (1)"
+    },
+    {
+      "key": "SELECT2",
+      "value": "Подтвердить/выбрать (2)"
+    },
+    {
+      "key": "CANCELPATH1",
+      "value": "Отменить маршрут (1)"
+    },
+    {
+      "key": "CANCELPATH2",
+      "value": "Отменить маршрут (2)"
+    },
+    {
+      "key": "ROTATECAM1",
+      "value": "Вращать камеру (1)"
+    },
+    {
+      "key": "ROTATECAM2",
+      "value": "Вращать камеру (2)"
+    },
+    {
+      "key": "MOVE",
+      "value": "Идти"
+    },
+    {
+      "key": "STOPMOVE",
+      "value": "Остановиться"
+    },
+    {
+      "key": "TOGGLEINVENTORY",
+      "value": "Открыть/закрыть рюкзак"
+    },
+    {
+      "key": "TOGGLEHELPSCREEN",
+      "value": "Открыть/закрыть справку"
+    },
+    {
+      "key": "TOGGLESKILLSCREEN",
+      "value": "Открыть/закрыть навыки"
+    },
+    {
+      "key": "TOGGLEPAUSEMENU",
+      "value": "Открыть/закрыть меню паузы"
+    },
+    {
+      "key": "CANCEL",
+      "value": "Отмена"
+    },
+    {
+      "key": "LEVELUP",
+      "value": "Подтвердить повышение уровня"
+    },
+    {
+      "key": "TOGGLETIMELAPSE",
+      "value": "Вкл./откл. ускоренное передвижение"
+    },
+    {
+      "key": "TOGGLESLEEPSCREEN",
+      "value": "Открыть/закрыть меню сна"
+    },
+    {
+      "key": "RESTORE_DEFAULTS",
+      "value": "По умолчанию"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_PROS",
+      "value": "Вы можете быстро добраться до самой вершины"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_CONS",
+      "value": "Выбрав кратчайший путь, вы можете пропустить события и опыт"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_PROS",
+      "value": "Вы получаете больше выгоды от событий"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_CONS",
+      "value": "Никаких бонусов вне событий"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_PROS",
+      "value": "Вы эффективно расходуете энергию на участках с ровным рельефом и можете тщательно исследовать гору"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_CONS",
+      "value": "Длительный поход негативно влияет на рассудок"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_PROS",
+      "value": "Вы эффективно перемещаетесь по разным типам рельефа"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_CONS",
+      "value": "Все бонусы зависят от рельефа горы"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_PROS",
+      "value": "Значительные бонусы при восхождении в ночное время"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_CONS",
+      "value": "Никаких бонусов днём; ночь всё равно остаётся опасной"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_PROS",
+      "value": "Вы эффективно используете расходуемые предметы"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_CONS",
+      "value": "Для получения бонусов необходимо искать расходуемые предметы"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_TITLE",
+      "value": "Триумф!"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_DESCRIPTION",
+      "value": "Поздравляем!<br>{0} завершает восхождение на самой высокой сложности!"
+    },
+    {
+      "key": "AFFECTEDBY",
+      "value": "Под влиянием"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION4",
+      "value": "Выберите до трёх специализаций (из {0}). Новые специализации откроются на уровнях {1}, {2} и {3}."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION5",
+      "value": "От выбранных специализаций зависит, какие навыки вам доступны."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION6",
+      "value": "Некоторые навыки не связаны со специализациями и могут быть выбраны отдельно."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_TITLE",
+      "value": "Рюкзак и предметы"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION1",
+      "value": "Чтобы открыть рюкзак, щёлкните по кнопке на экране или нажмите соответствующую клавишу. Рюкзак недоступен во время передвижения.<br><br>Некоторые предметы исчезают после использования. Другие для использования необходимо поместить в ячейку снаряжения."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION2",
+      "value": "Чтобы использовать предмет, щёлкните по нему правой кнопкой мыши.<br><br>Чтобы переместить предмет в другую ячейку, зажмите левую кнопку мыши.<br><br>Найденные предметы перемещайте в рюкзак, иначе они пропадут, как только вы закроете меню рюкзака."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION3",
+      "value": "У предметов, которые можно использовать несколько раз, есть шкала.<br>Если в данный момент предмет нельзя использовать, он будет затемнён.<br><br>Чтобы увидеть информацию о предмете и его эффектах, наведите на него курсор."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION4",
+      "value": "Чтобы использовать снаряжение, перенесите его в соответствующую ячейку снаряжения. Вы в любой момент можете убрать предмет обратно в рюкзак. Пока предмет используется в качестве снаряжения, он предоставляет пассивные эффекты и бонусы."
+    },
+    {
+      "key": "PICKNEWSPECIALIZATION",
+      "value": "Новые специализации доступны на уровнях {1}, {2} и {3}."
+    },
+    {
+      "key": "GENERICSKILLINFO",
+      "value": "Этот навык не относится ни к одной специализации."
+    },
+    {
+      "key": "BASICVALUES_NAME",
+      "value": "Базовые значения"
+    },
+    {
+      "key": "CLICK_TO_PICK_A_MODIFIER",
+      "value": "Щёлкните, чтобы выбрать маршрут"
+    },
+    {
+      "key": "PICK_A_MODIFIER",
+      "value": "Выбрать маршрут"
+    },
+    {
+      "key": "MISSION_DEFAULT_MODIFIERS_TITLE",
+      "value": "Природные условия"
+    },
+    {
+      "key": "REWARD_DISPLAY_NOT_RECEIVED_HOVER",
+      "value": "Вы ещё не получили эту награду."
+    },
+    {
+      "key": "MISSION_FINISH_UI_ADDITIONAL_REWARDS",
+      "value": "Дополнительные награды"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OBJECTIVES",
+      "value": "Задачи"
+    },
+    {
+      "key": "MISSION_FINISH_UI_DETAILS",
+      "value": "Подробности"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OVERVIEW",
+      "value": "Сводка"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED",
+      "value": "Ещё не открыто.<br>Будет доступно, когда<br>{1} завершит восхождение на гору:<br>{0}"
+    },
+    {
+      "key": "EXPLANATION_EVENT_GAIN_NEGATED_BY_TES",
+      "value": "Никакого влияния из-за ваших навыков и эффектов"
+    },
+    {
+      "key": "SKILL_COSTS",
+      "value": "Стоимость:"
+    },
+    {
+      "key": "SKILL_EFFECTS",
+      "value": "Эффекты:"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION",
+      "value": "Поздравляем!<br>{0} открывает новые навыки:<br>{1}"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION_TITLE",
+      "value": "Навык открыт!"
+    },
+    {
+      "key": "WINDOW_BLOCKED_DURING_WALKING",
+      "value": "Недоступно во время движения."
+    },
+    {
+      "key": "OPTION_BLOCKED_DURING_WALKING",
+      "value": "Недоступно во время движения."
+    },
+    {
+      "key": "TOGGLEHUDVISIBLE",
+      "value": "Вкл./откл. интерфейс"
+    },
+    {
+      "key": "PAUSEWALK_ACTIVATED_HOVER_HINT",
+      "value": "Активировано: персонаж остановится на следующей клетке."
+    },
+    {
+      "key": "LESS_THAN_ONE_MINUTE",
+      "value": "менее минуты"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_TITLE",
+      "value": "Переключить режим камеры"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_DESCRIPTION",
+      "value": "Зафиксировать камеру на цели или перевести в режим свободного перемещения."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION",
+      "value": "Базовые значения зависят от выбранного уровня сложности"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_NORMAL",
+      "value": "Базовые значения зависят от выбранного уровня сложности (Обычный)"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_HARD",
+      "value": "Базовые значения зависят от выбранного уровня сложности (Высокий)"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_INSURMOUNTABLE",
+      "value": "Базовые значения зависят от выбранного уровня сложности (неприступный)"
+    },
+    {
+      "key": "EMPTY",
+      "value": ""
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TITLE",
+      "value": "Обновление"
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TEXT",
+      "value": "Восхождение было начато в версии {0} и несовместимо с версией {1}.<br>Если вы начнёте новое восхождение, предыдущее сохранение будет перезаписано.<br>Открытые уровни сложности сохранятся."
+    },
+    {
+      "key": "FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "OPTIONS_AMBIENT",
+      "value": "Атмосфера"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TITLE",
+      "value": "Новая игра"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TEXT",
+      "value": "Текущий файл сохранения будет перезаписан. Продолжить?"
+    },
+    {
+      "key": "INVALID_SAVEGAME_TEXT",
+      "value": "Ошибка: невозможно загрузить текущее сохранение.<br>Если вы начнёте новое восхождение в этой версии, недействительный файл сохранения будет перезаписан.<br>Открытые уровни сложности сохранятся."
+    },
+    {
+      "key": "HINT_6",
+      "value": "Вы можете скрыть интерфейс с помощью горячей клавиши (по умолчанию: H)"
+    },
+    {
+      "key": "HINT_7",
+      "value": "Вы можете лечь спать даже без палатки. Однако палатки и пещеры лучше защищают от холода."
+    },
+    {
+      "key": "HINT_8",
+      "value": "Выбирая персонажа, вы можете получить 1–3 навыка. Дополнительные навыки становятся доступны, когда вы добираетесь до вершины."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M1SUMMIT",
+      "value": "Недоступно.<br>{0} получит доступ к этому навыку после успешного восхождения на вершину первой горы."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M2SUMMIT",
+      "value": "Недоступно.<br>{0} получит доступ к этому навыку после успешного восхождения на вершину второй горы."
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_GAINED",
+      "value": "активно"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_LOST",
+      "value": "истекло"
+    },
+    {
+      "key": "PRODFICIENCY_CURRENT_LEVEL_TITLE",
+      "value": "Текущий уровень:"
+    },
+    {
+      "key": "PROFICIENCY_MAX_LEVEL_TITLE",
+      "value": "(Вы уже достигли максимального уровня)"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_APPENDIX",
+      "value": "до следующего уровня"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_GAINEDSOFAR",
+      "value": "(Всего очков опыта получено: {0})"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_SUMMARY",
+      "value": "получено очков опыта за"
+    },
+    {
+      "key": "PROFICIENCY_MISSION_REWARD_TITLE",
+      "value": "Награды задания"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER_REWARD_TITLE",
+      "value": "Награды персонажа"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_REWARDS_APPENDIX",
+      "value": "за награды задания"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_CHARACTERREWARDS_APPENDIX",
+      "value": "за награды персонажа"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FOR_TRACKABLES",
+      "value": "за"
+    },
+    {
+      "key": "SUMMARIZE_ITEMS_HOVER_TITLE",
+      "value": "Открытые предметы:"
+    },
+    {
+      "key": "DEACTIVATE_TUTORIALS",
+      "value": "Скрыть подсказки"
+    },
+    {
+      "key": "FREELOOK",
+      "value": "Оглядеться"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TITLE",
+      "value": "Внимание!"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TEXT",
+      "value": "Не удалось загрузить текущий файл сохранения. Он был переименован. Вам придётся начать новый поход. Вы можете отправить повреждённый файл сохранения и журнал событий разработчикам на сервере Discord."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_TEXT",
+      "value": "Не удалось загрузить прогресс и резервную копию. Возможно, был прерван процесс сохранения/загрузки или изменены файлы игры. Файл с данными был переименован, а прогресс сброшен. Отправьте повреждённый файл и журнал событий нам в Discord."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_OK_BACKUP_TEXT",
+      "value": "Не удалось загрузить ваш файл прогресса. Он был переименован. Вместо него была загружена резервная копия."
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_OK_BACKUP_TEXT",
+      "value": "Не удалось загрузить текущий файл сохранения. Он был переименован. Была загружена резервная копия."
+    },
+    {
+      "key": "UI_RESET",
+      "value": "Сбросить"
+    },
+    {
+      "key": "UI_MISSION",
+      "value": "Задания"
+    },
+    {
+      "key": "UI_UPGRADES",
+      "value": "Улучшения"
+    },
+    {
+      "key": "UI_UPGRADES_UNASSIGNED",
+      "value": "Вы можете выбрать улучшения!"
+    },
+    {
+      "key": "MIND_BODY_PREPARATION",
+      "value": "Готовность тела и разума"
+    },
+    {
+      "key": "MOUNTAIN_KNOWLEDGE",
+      "value": "Знание гор"
+    },
+    {
+      "key": "UI_UNLOCKED_SMALL",
+      "value": "Открыто"
+    },
+    {
+      "key": "UI_NEW_SMALL",
+      "value": "Новое"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_TITLE",
+      "value": "Отправиться без подготовки"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_DESCRIPTION",
+      "value": "В рюкзаке ещё есть место.<br>Вы точно хотите начать задание с незаполненным рюкзаком?"
+    },
+    {
+      "key": "UI_INVENTORYLOADOUT_TITLE",
+      "value": "Взять предметы"
+    },
+    {
+      "key": "UI_UPGRADE_COST",
+      "value": "Стоимость:"
+    },
+    {
+      "key": "UI_CHAPTER_LOCKED",
+      "value": "Эта глава пока недоступна."
+    },
+    {
+      "key": "UI_CHAPTER_NEW",
+      "value": "Новое!"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED_BUT_NEVER_ATTEMPTED",
+      "value": "Эта глава доступна, но вы ещё не играли в неё."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_BUT_NEVER_SUCCESSFULLY",
+      "value": "Ещё не пройдено."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_SUCCESSFULLY",
+      "value": "Глава пройдена!"
+    },
+    {
+      "key": "UI_CHAPTER_BEATENBY",
+      "value": "Пройдено в роли"
+    },
+    {
+      "key": "UI_CHAPTERSELECTION_LABEL",
+      "value": "Главы"
+    },
+    {
+      "key": "METAGAME_PROLOGUE_TEXT",
+      "value": "RemoveThis"
+    },
+    {
+      "key": "NPC_GENERAL_DAUGHTER_NAME",
+      "value": "Незнакомка"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_PROFICIENCY_TITLE",
+      "value": "Знания"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_PROFICIENCY",
+      "value": "Прогресс"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_REWARDS",
+      "value": "Следующая награда"
+    },
+    {
+      "key": "UI_DIALOGUE_NEXT",
+      "value": "Продолжить"
+    },
+    {
+      "key": "UI_DIALOGUE_DONE",
+      "value": "Готово"
+    },
+    {
+      "key": "UI_MISSION_UNLOCKED",
+      "value": "Задание доступно"
+    },
+    {
+      "key": "UI_REGION_MISSIONS_UNLOCKED",
+      "value": "Доступны дополнительные задания:"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED",
+      "value": "Регион доступен"
+    },
+    {
+      "key": "UI_ITEM_UNLOCKED",
+      "value": "Предмет доступен"
+    },
+    {
+      "key": "OPTIONS_VSYNC",
+      "value": "Значение верт. синхронизации"
+    },
+    {
+      "key": "HOVER_CHARLOCKED",
+      "value": "Чтобы открыть персонажа,<br>пройдите доп. задание."
+    },
+    {
+      "key": "HOVER_CHARDEAD",
+      "value": "Этот персонаж страдает от болезни временной петли из-за неудачи на горе.<br>Его можно пробудить в меню персонажей."
+    },
+    {
+      "key": "HOVER_CHARAVAILABLE",
+      "value": "Этот персонаж теперь доступен. Вы можете выбрать его."
+    },
+    {
+      "key": "UNKNOWN_CHAR",
+      "value": "Неизвестный персонаж"
+    },
+    {
+      "key": "HOVER_CHARACTIVE",
+      "value": "Текущий персонаж"
+    },
+    {
+      "key": "DEAD_TITLE",
+      "value": "Болезнь временной петли"
+    },
+    {
+      "key": "DEAD_TEXT",
+      "value": "{0} страдает от болезни временной петли из-за неудачи на горе. Чтобы играть за этого персонажа, пробудите его в меню персонажей."
+    },
+    {
+      "key": "DEAD_TEXT_DIFFICULTYHASNOREVIVES",
+      "value": "{0} впадает в кому из-за болезни временной петли.<br>Этот персонаж больше не сможет отправиться в поход…<br>Вся надежда на его товарищей."
+    },
+    {
+      "key": "REVIVE_TITLE",
+      "value": "Пробудить"
+    },
+    {
+      "key": "REVIVE_TEXT",
+      "value": "{2}: использовать очки пробуждения ({0}/{1})?"
+    },
+    {
+      "key": "OPTIONS_VSYNC_OFF",
+      "value": "Откл."
+    },
+    {
+      "key": "GAMEOVER_TITLE",
+      "value": "Игра окончена"
+    },
+    {
+      "key": "GAMEOVER_TEXT",
+      "value": "Все персонажи погибли!"
+    },
+    {
+      "key": "GAMEOVER_STARTOVER",
+      "value": "Начать заново"
+    },
+    {
+      "key": "PAUSE_MENU_GIVEUP",
+      "value": "Сдаться"
+    },
+    {
+      "key": "GIVEUP_TITLE",
+      "value": "Сдаться"
+    },
+    {
+      "key": "GIVEUP_TEXT",
+      "value": "Вы уверены, что хотите сдаться? Ваш персонаж погибнет."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_TITLE",
+      "value": "Очки пробуждения"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_DESCRIPTION",
+      "value": "Используются для пробуждения персонажей, которые не могут начать задание из-за болезни временной петли."
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES",
+      "value": "Улучшения команды"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_ACTIONREQUIRED",
+      "value": "Вам доступны очки улучшения команды"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_NEW",
+      "value": "Доступны новые улучшения"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS",
+      "value": "Персонажи"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_ACTIONREQUIRED",
+      "value": "Вы можете улучшить персонажей"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_NEW",
+      "value": "Доступен новый персонаж"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS",
+      "value": "Задания"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_ACTIONREQUIRED",
+      "value": "Выберите задание"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_NEW",
+      "value": "Доступно новое задание"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY",
+      "value": "Рюкзак"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_ACTIONREQUIRED",
+      "value": "Вы можете добавить предметы"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_NEW",
+      "value": "Доступны новые предметы"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY",
+      "value": "Знания"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_ACTIONREQUIRED",
+      "value": "//ЕЩЁ НЕ ИСПОЛЬЗОВАНО?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_NEW",
+      "value": "//ЕЩЁ НЕ ИСПОЛЬЗОВАНО?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS",
+      "value": "Ресурсы"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_ACTIONREQUIRED",
+      "value": "Необходимо действие"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_NEW",
+      "value": "Доступны новые ресурсы"
+    },
+    {
+      "key": "MISSION_GOAL_TRACK",
+      "value": "Найти и достичь:"
+    },
+    {
+      "key": "TRACK_TILE_DEFAULT",
+      "value": "Артефакт"
+    },
+    {
+      "key": "MISSION_WEATHER",
+      "value": "Погода:"
+    },
+    {
+      "key": "SKILL_TRACKING",
+      "value": "Использовать радар"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_NAME",
+      "value": "Использование радара"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_DESCRIPTION",
+      "value": "Двигайте камеру и следите за сигналами, чтобы найти цель"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_BUTTON",
+      "value": "Меняет скорость передвижения персонажа.<br>Не влияет на время и расход энергии на горе."
+    },
+    {
+      "key": "CONDITION_IS_UNDER",
+      "value": "более"
+    },
+    {
+      "key": "CONDITION_IS_OVER",
+      "value": "менее"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_TITLE",
+      "value": "Улучшения команды"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_DESCRIPTION",
+      "value": "Улучшения, которые влияют на всех альпинистов"
+    },
+    {
+      "key": "HOURS_SHORT",
+      "value": "ч."
+    },
+    {
+      "key": "SKILLDURATION_UNTIL_END_OF_MISSION",
+      "value": "Действует до конца задания"
+    },
+    {
+      "key": "SKILLDURATION_TEMPORARY",
+      "value": "Временный эффект, действует {0} ч."
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_UNDER",
+      "value": "Действует, только пока «{0}» ниже {1}"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_OVER",
+      "value": "Действует, только пока «{0}» выше {1}"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_TITLE",
+      "value": "Радар"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_DESCRIPTION",
+      "value": "Радар помогает отыскать цель. Включить/отключить его можно на панели навыков внизу справа.<br><br>Включите радар и двигайте камеру — чем ближе цель, тем сильнее будет сигнал.<br>Двигайте камеру вверх и вниз, чтобы определить точное местоположение цели."
+    },
+    {
+      "key": "MISSION_DIFFICULTY_EXPLANATION",
+      "value": "<style=\"header\">Сложность задания</style><br><br>Количество звёзд указывает на общую сложность задания.<br>"
+    },
+    {
+      "key": "HINT_9",
+      "value": "Вы можете вращать камеру вокруг оси, чтобы лучше разглядеть тесные участки горы (клавиша по умолчанию: R)."
+    },
+    {
+      "key": "HINT_10",
+      "value": "Если вы достигнете критического состояния, линия маршрута станет красной. Каждый последующий шаг будет представлять угрозу для жизни!"
+    },
+    {
+      "key": "HINT_11",
+      "value": "Если шкала здоровья опустеет, персонаж упадёт замертво и путешествие закончится."
+    },
+    {
+      "key": "HINT_12",
+      "value": "Погода может меняться каждый день. Следите за индикатором, чтобы знать, какая погода будет завтра."
+    },
+    {
+      "key": "HINT_13",
+      "value": "Во время бури вы расходуете больше энергии и тратите больше времени на действия."
+    },
+    {
+      "key": "HINT_14",
+      "value": "В холодную погоду вы быстро теряете тепло, особенно по ночам."
+    },
+    {
+      "key": "HINT_15",
+      "value": "Подтипы рельефа «Осыпь», «Ледник» и «Сугробы» могут вызывать опасные события."
+    },
+    {
+      "key": "HINT_16",
+      "value": "Подтипы рельефа «Глубокий снег» и «Ледяной лабиринт» быстрее снижают некоторые показатели."
+    },
+    {
+      "key": "HINT_17",
+      "value": "Каждая клетка относится к одному из трёх типов рельефа: скалы, снег или лёд. Каждый тип рельефа имеет подтипы с опасными свойствами."
+    },
+    {
+      "key": "HINT_18",
+      "value": "Наведите курсор на предметы в рюкзаке, чтобы увидеть их эффекты."
+    },
+    {
+      "key": "HINT_19",
+      "value": "Не забывайте пользоваться радаром для поиска аномалий (клавиша по умолчанию: T)."
+    },
+    {
+      "key": "HINT_20",
+      "value": ""
+    },
+    {
+      "key": "SKIP_CUTSCENE",
+      "value": "Пропустить"
+    },
+    {
+      "key": "SCORE_MAINMISSIONS",
+      "value": "Основные задания"
+    },
+    {
+      "key": "SCORE_SIDEMISSIONS",
+      "value": "Дополнительные задания"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ADVENTURER",
+      "value": "Знания путешественницы"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_SCIENTIST",
+      "value": "Знания учёного"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_JOURNALIST",
+      "value": "Знания журналиста"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ITEM",
+      "value": "Знание предметов"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ENVIRONMENT",
+      "value": "Знание природных условий"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_TERRAIN",
+      "value": "Знание рельефа"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_EVENT",
+      "value": "Знание событий"
+    },
+    {
+      "key": "SCORE_DEATHS",
+      "value": "Штраф за смерти"
+    },
+    {
+      "key": "RUN_WIN_TITLE",
+      "value": "Игра завершена!"
+    },
+    {
+      "key": "RUN_WIN_CONTINUE",
+      "value": "Главное меню"
+    },
+    {
+      "key": "RUN_WIN_SCORE",
+      "value": "Счёт:"
+    },
+    {
+      "key": "STATVALUETYPE_CANUSETRACKING",
+      "value": "Устройство для поиска аномалий, действует до следующего хода"
+    },
+    {
+      "key": "TRACKING_WRONG_DIRECTION",
+      "value": "В этом направлении сигналов нет"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_CHARACTER",
+      "value": "Знания персонажа"
+    },
+    {
+      "key": "INPUT_SELECT",
+      "value": "Подтвердить/выбрать"
+    },
+    {
+      "key": "INPUT_CANCELPATH",
+      "value": "Отменить маршрут"
+    },
+    {
+      "key": "INPUT_TOGGLEFREELOOK",
+      "value": "Оглядеться"
+    },
+    {
+      "key": "INPUT_ROTATECAM",
+      "value": "Вращать камеру"
+    },
+    {
+      "key": "INPUT_FREELOOKCAM",
+      "value": "Оглядеться"
+    },
+    {
+      "key": "INPUT_STARTMOVE",
+      "value": "Идти"
+    },
+    {
+      "key": "INPUT_STOPMOVE",
+      "value": "Остановиться"
+    },
+    {
+      "key": "INPUT_TOGGLEINVENTORY",
+      "value": "Открыть/закрыть рюкзак"
+    },
+    {
+      "key": "INPUT_TOGGLESKILLSCREEN",
+      "value": "Открыть/закрыть навыки"
+    },
+    {
+      "key": "INPUT_TOGGLEPAUSEMENU",
+      "value": "Открыть/закрыть меню паузы"
+    },
+    {
+      "key": "INPUT_CANCEL",
+      "value": "Отмена"
+    },
+    {
+      "key": "INPUT_LEVELUP",
+      "value": "Подтвердить повышение уровня"
+    },
+    {
+      "key": "INPUT_CHANGETIMELAPSE",
+      "value": "Вкл./откл. ускоренное передвижение"
+    },
+    {
+      "key": "INPUT_TOGGLESLEEPSCREEN",
+      "value": "Открыть/закрыть меню сна"
+    },
+    {
+      "key": "INPUT_TOGGLEHUDVISIBLE",
+      "value": "Вкл./откл. интерфейс"
+    },
+    {
+      "key": "INPUT_TAKEEVERYTHINGFROMLEFTOVER",
+      "value": "Взять всё"
+    },
+    {
+      "key": "INPUT_SHOWCURRENTMISSION",
+      "value": "Открыть текущее задание"
+    },
+    {
+      "key": "INPUT_LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "Сбросить"
+    },
+    {
+      "key": "INPUT_ZOOM",
+      "value": "Приблизить/отдалить"
+    },
+    {
+      "key": "MISSIONSKILL",
+      "value": "Устройство слежения"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL1",
+      "value": "Активный навык (слот 1)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL2",
+      "value": "Активный навык (слот 2)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL3",
+      "value": "Активный навык (слот 3)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL4",
+      "value": "Активный навык (слот 4)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL5",
+      "value": "Активный навык (слот 5)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL6",
+      "value": "Активный навык (слот 6)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL7",
+      "value": "Активный навык (слот 7)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL8",
+      "value": "Активный навык (слот 8)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL9",
+      "value": "Активный навык (слот 9)"
+    },
+    {
+      "key": "INPUT_MISSIONSKILL",
+      "value": "Устройство слежения"
+    },
+    {
+      "key": "INPUT_ACTIONMENU",
+      "value": "Откройте меню действий"
+    },
+    {
+      "key": "CONTROLSCHEME_KEYPAD",
+      "value": "Клавиатура и мышь"
+    },
+    {
+      "key": "CONTROLSCHEME_GAMEPAD",
+      "value": "Геймпад"
+    },
+    {
+      "key": "INPUT_ZOOM_IN",
+      "value": "Приблизить"
+    },
+    {
+      "key": "INPUT_ZOOM_OUT",
+      "value": "Отдалить"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE0",
+      "value": "К режиму навигации по интерфейсу (сверху)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE1",
+      "value": "К режиму навигации по интерфейсу (слева)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE2",
+      "value": "К режиму навигации по интерфейсу (справа)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE3",
+      "value": "К режиму навигации по интерфейсу (снизу)"
+    },
+    {
+      "key": "INPUT_NAVIGATE",
+      "value": "Перемещение"
+    },
+    {
+      "key": "INPUT_UP",
+      "value": "Переместиться вверх"
+    },
+    {
+      "key": "INPUT_DOWN",
+      "value": "Переместиться вниз"
+    },
+    {
+      "key": "INPUT_LEFT",
+      "value": "Переместиться влево"
+    },
+    {
+      "key": "INPUT_RIGHT",
+      "value": "Переместиться вправо"
+    },
+    {
+      "key": "INPUT_MOVECURSOR",
+      "value": "Выбрать клетку"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL",
+      "value": "Листать"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_UP",
+      "value": "Листать вверх"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_DOWN",
+      "value": "Листать вниз"
+    },
+    {
+      "key": "INPUT_RIGHT_STICK_PRESS",
+      "value": "Нажать"
+    },
+    {
+      "key": "INPUT_LEFT_STICK_PRESS",
+      "value": "Нажать"
+    },
+    {
+      "key": "INPUT_RIGHTCLICK",
+      "value": "Использовать / переместить предмет / отметить"
+    },
+    {
+      "key": "INPUT_SUBMIT",
+      "value": "Подтвердить"
+    },
+    {
+      "key": "INPUT_CLICK",
+      "value": "Выбрать"
+    },
+    {
+      "key": "INPUT_PROMPT_ADDCHECKPOINT",
+      "value": "Добавить контрольно-пропускной пункт"
+    },
+    {
+      "key": "INPUT_PROMPT_SKIPEVENTTEXTANIMATION",
+      "value": "Пропустить анимацию"
+    },
+    {
+      "key": "INPUT_PROMPT_CLOSE",
+      "value": "Закрывать"
+    },
+    {
+      "key": "INPUT_PROMPT_USEITEM",
+      "value": "Использовать товар"
+    },
+    {
+      "key": "INPUT_PROMPT_TAKEITEM",
+      "value": "Взять на себя предметом"
+    },
+    {
+      "key": "INPUT_PROMPT_DROPITEM",
+      "value": "Снижение предмета"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPITEM",
+      "value": "Обмен предмета"
+    },
+    {
+      "key": "INPUT_PROMPT_EQUIPITEM",
+      "value": "Оборудовать предметом"
+    },
+    {
+      "key": "INPUT_PROMPT_UNEQUIPITEM",
+      "value": "Unequip вещь"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPEQUIPMENT",
+      "value": "Оборудование оборудования"
+    },
+    {
+      "key": "INPUT_PROMPT_ENTERHUDMODE",
+      "value": "Просмотр подробной информации о состоянии"
+    },
+    {
+      "key": "INPUT_PROMPT_EXITHUDMODE",
+      "value": "Скрыть подробности статуса"
+    },
+    {
+      "key": "INPUT_PROMPT_NAVIGATEHUDMODE",
+      "value": "Навигация деталей статуса"
+    },
+    {
+      "key": "INPUT_PROMPT_CREATEPATH",
+      "value": "Начать путь"
+    },
+    {
+      "key": "CONFIRM_UNLOCK",
+      "value": "Открыть"
+    },
+    {
+      "key": "CONFIRM_UNLOCK_DESCRIPTION",
+      "value": "Вы хотите открыть: {0}?"
+    },
+    {
+      "key": "CONFIRM_UPGRADE",
+      "value": "Улучшить"
+    },
+    {
+      "key": "CONFIRM_UPGRADE_DESCRIPTION",
+      "value": "Вы хотите улучшить {0}?"
+    },
+    {
+      "key": "CONFIRM_RESET",
+      "value": "Сбросить"
+    },
+    {
+      "key": "CONFIRM_RESET_DESCRIPTION",
+      "value": "Вы хотите сбросить улучшения для: {0}?"
+    },
+    {
+      "key": "STINGER_1_1",
+      "value": "Вы находитесь на станции. Перед вами стоит девочка с плюшевым медвежонком в руках. Разинув рот, она показывает на вас пальцем… Нет, не на вас, а на светящийся красный амулет по ту сторону разлома."
+    },
+    {
+      "key": "STINGER_1_2",
+      "value": "Вы поспешно лезете в разлом, который сужается с каждым мгновением, но схватить амулет не успеваете — вас с силой отбрасывает обратно на станцию. <br>Вам остаётся лишь беспомощно смотреть, как разлом закрывается окончательно. Затем вы погружаетесь во тьму…"
+    },
+    {
+      "key": "STINGER_2_1",
+      "value": "Вы находитесь на станции. Перед вами стоит девочка с плюшевым медвежонком в руках. Разинув рот, она показывает на вас пальцем… Нет, не на вас, а на светящийся красный амулет по ту сторону разлома."
+    },
+    {
+      "key": "STINGER_2_2",
+      "value": "Вы поспешно лезете в разлом, который сужается с каждым мгновением, но схватить амулет не успеваете — вас с силой отбрасывает обратно на станцию. <br>Вам остаётся лишь беспомощно смотреть, как разлом закрывается окончательно. Затем вы погружаетесь во тьму…"
+    },
+    {
+      "key": "STINGER_3_1",
+      "value": "Вы находитесь на станции. Перед вами стоит девочка с плюшевым медвежонком в руках. Разинув рот, она показывает на вас пальцем… Нет, не на вас, а на светящийся красный амулет по ту сторону разлома."
+    },
+    {
+      "key": "STINGER_3_2",
+      "value": "Вы поспешно лезете в разлом, который сужается с каждым мгновением. Как только вы хватаете амулет, вас с силой отбрасывает обратно на станцию. <br>У вас кружится голова, но вы понимаете, что справились. Вы потрясённо смотрите на амулет в своей ладони. Он уже не светится."
+    },
+    {
+      "key": "STINGER_3_3",
+      "value": "Девочка осторожно подходит к вам и осматривает амулет. Вдруг она выхватывает его у вас из ладони и исчезает за массивной железной дверью. Вы хотите что-то сказать, предупредить её, но внезапно вы погружаетесь во тьму…"
+    },
+    {
+      "key": "IGNORE_NIGHT",
+      "value": "Этот эффект не действует, потому что вы спите в укрытии."
+    },
+    {
+      "key": "PRIVACYPOLICY",
+      "value": "Политика конфиденциальности"
+    },
+    {
+      "key": "SKILL_DRONE_NAME",
+      "value": "<style=\"supportpack\">Полёт дрона</style>"
+    },
+    {
+      "key": "SKILL_DRONE_DESCRIPTION",
+      "value": "Вы отправляете дрона на поиски пещер поблизости. Если он ничего не найдёт, то будет мигать красным."
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_TITLE",
+      "value": "<style=\"supportpack\">Спонсорский набор активирован</style>"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_DESCRIPTION",
+      "value": "Спонсорский набор активирован!<br>Благодарим вас, что поддержали разработку Insurmountable. <br>Начните новую игру или продолжите поход, чтобы получить свои награды!"
+    },
+    {
+      "key": "SUPPORTERPACK_NOTIFICATION_DRONE_NOPOIFOUND",
+      "value": "Пещера не найдена!"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED",
+      "value": "Скорость показа текста"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_SLOW",
+      "value": "Низкая"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_NORMAL",
+      "value": "Средняя"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_FAST",
+      "value": "Высокая"
+    },
+    {
+      "key": "UNIT_METERS",
+      "value": "м"
+    },
+    {
+      "key": "UNIT_MINUTES",
+      "value": "мин"
+    },
+    {
+      "key": "UNIT_HOURS",
+      "value": "ч"
+    },
+    {
+      "key": "UNIT_DAYS",
+      "value": "д"
+    },
+    {
+      "key": "JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "RUSSIAN",
+      "value": "Русский"
+    },
+    {
+      "key": "CHINESESIMPLIFIED",
+      "value": "简体中文"
+    },
+    {
+      "key": "CHINESETRADITIONAL",
+      "value": "繁體中文"
+    },
+    {
+      "key": "DISCORD_JOINUS",
+      "value": "Присоединяйтесь!"
+    },
+    {
+      "key": "LOGGING_IN_GENERIC",
+      "value": "Выполняется вход..."
+    },
+    {
+      "key": "LOGGING_IN_EPIC",
+      "value": "Выполните вход для проверки подлинности"
+    }
+  ]
+}

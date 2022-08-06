@@ -1,0 +1,2864 @@
+{
+  "LOCA": [
+    {
+      "key": "STAT_ENERGY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_energy\">에너지</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"energy\">에너지</style>는 등반할 때 사용합니다.<br>지형이 가파르면 더 많은 에너지를 소모합니다.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_sanity\">이성</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"sanity\">이성</style>은 등반에 따른 정신적 스트레스 때문에 느리게 하지만 꾸준히 감소합니다.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_oxygen\">산소</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"oxygen\">산소</style>는 산의 죽음의 고도에 있을 때 사용됩니다.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">체온</style></style><br><style=\"numbers_stat\"><font=\"numbers\">{0}{1} / {2}</font></style><br><style=\"description\"><style=\"bodytemp\">체온</style>은 일반적으로 밤이나 날씨가 추울 때 감소합니다.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_health\">체력</style></style><br><br><font=\"numbers\">{0}{1} / {2}</font><br><br><style=\"description\"><style=\"health\">체력</style>이 0이 되면 여정이 끝납니다!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION",
+      "value": "<style=\"header\"><style=\"i_exp\">경험치</style></style><br><style=\"numbers_stat\">레벨<font=\"numbers\">{0}<br>다음 레벨의 {1}/{2}</font></style><br><style=\"description\"><style=\"exp\">경험치</style>는 현재 미션에 도움이 되는 새로운 스킬을 활성화하는 데 필요합니다.</style>"
+    },
+    {
+      "key": "HUD_HEIGHT",
+      "value": "<style=\"header\"><style=\"i_height\">높이</style></style><br><br><font=\"numbers_m\">{0}</font>m<br><br><style=\"warning\">죽음의 고도: <font=\"numbers_m\">{1}</font>m</style><br><style=\"description\">{1}m 높이부터 죽음의 고도입니다.<br>죽음의 고도에서는 <style=\"oxygen\">산소</style>를 잃게 됩니다.</style>"
+    },
+    {
+      "key": "STAT_ENERGY",
+      "value": "에너지"
+    },
+    {
+      "key": "STAT_BODYTEMP",
+      "value": "체온"
+    },
+    {
+      "key": "STAT_OXYGEN",
+      "value": "산소"
+    },
+    {
+      "key": "STAT_SANITY",
+      "value": "이성"
+    },
+    {
+      "key": "STAT_HEALTH",
+      "value": "체력"
+    },
+    {
+      "key": "STAT_EXP",
+      "value": "경험치"
+    },
+    {
+      "key": "STAT_TIME",
+      "value": "시간"
+    },
+    {
+      "key": "STAT_PERCENT",
+      "value": "<style=\"description\"> (최대 능력치 값의 {0}%)</style>"
+    },
+    {
+      "key": "ITEM_TENT",
+      "value": "플레이어가 텐트에서 쉴 수 있게 해줍니다."
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_INVENTORY",
+      "value": "<style=\"description\">왼쪽 클릭: 이동.</style>"
+    },
+    {
+      "key": "ITEM_CONSUMABLE_USE_DESCRIPTION_LOADOUT",
+      "value": "<style=\"description\">왼쪽 클릭: 이동.</style>"
+    },
+    {
+      "key": "ITEM_EQUIPMENT",
+      "value": "<style=\"description\">장비 - 왼쪽 클릭+드래그로 장비 슬롯으로 이동하세요.<br>동시에 종류마다 한 개의 장비 아이템만 넣을 수 있습니다.</style>"
+    },
+    {
+      "key": "ITEM_PASSIVE",
+      "value": "<style=\"description\">동굴 이벤트에서 유용합니다.<br>왼쪽 클릭: 이동.</style>"
+    },
+    {
+      "key": "ITEM_GENERIC",
+      "value": "<style=\"description\">유용할 수 있습니다.<br>왼쪽 클릭: 이동.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_STATS_ALREADY_FILLED",
+      "value": "<style=\"description_forbidden\">현재 아무 효과가 없는 아이템입니다.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_ALREADY_ACTIVE",
+      "value": "<style=\"description_forbidden\">아직 활성화된 아이템입니다.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">이벤트 중에 사용할 수 없는 아이템입니다.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_IN_LEFTOVER",
+      "value": "<style=\"description_forbidden\">나머지의 아이템을 움직일 때 사용할 수 없습니다.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_IN_EVENT",
+      "value": "<style=\"description_forbidden\">이벤트 대화 중에 사용할 수 없는 스킬입니다.</style>"
+    },
+    {
+      "key": "ITEM_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">지금은 사용할 수 없는 아이템입니다.</style>"
+    },
+    {
+      "key": "SKILL_DISABLED_GENERIC",
+      "value": "<style=\"description_forbidden\">지금은 사용할 수 없는 스킬입니다.</style>"
+    },
+    {
+      "key": "HOVER_ITEM_TEMPEFFECTS",
+      "value": ""
+    },
+    {
+      "key": "STAT_CURRENT_TIME",
+      "value": "<style=\"header\"><style=\"i_time\">시간</style></style><br><style=\"numbers_stat\"><font=\"numbers_m\">{0}<br>{1}</font></style><br><style=\"description\"><size=70%>낮은 <font=\"numbers_m_i\">{2}</font>에 일출과 함께 시작됩니다.<br>밤은 <font=\"numbers_m_i\">{3}</font>에 일몰과 함께 시작됩니다..</size></style>"
+    },
+    {
+      "key": "TIME_DAY",
+      "value": "낮"
+    },
+    {
+      "key": "TIME_NIGHT",
+      "value": "밤"
+    },
+    {
+      "key": "TIME_NIGHT_CHANGE",
+      "value": "해 질 녘"
+    },
+    {
+      "key": "TIME_DAY_CHANGE",
+      "value": "동틀 녘"
+    },
+    {
+      "key": "HUD_WEATHER",
+      "value": "<style=\"header\">날씨</style><br><br>{0}<br>{1}<br><br><size=90%>{2}</size><br><br><style=\"description\">날씨는 매일 바뀝니다.<br>날씨는 게임 플레이에 영향을 줄 수 있습니다.</style>"
+    },
+    {
+      "key": "TOGGLE_HUD_SIZE_OPTION",
+      "value": "더 큰 HUD"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_KEYBOARD",
+      "value": "상태 미리보기 패널(키보드/마우스 입력)"
+    },
+    {
+      "key": "TOGGLE_PREVIEW_PANEL_GAMEPAD",
+      "value": "상태 미리보기 패널(게임 패드 입력)"
+    },
+    {
+      "key": "BTN_CHANGE_CHARACTER",
+      "value": "캐릭터 변경"
+    },
+    {
+      "key": "BTN_CHANGE_LOADOUT",
+      "value": "인벤토리 열기"
+    },
+    {
+      "key": "BTN_START_MISSION",
+      "value": "미션 시작"
+    },
+    {
+      "key": "WORLDMAP_TITLE",
+      "value": "지도"
+    },
+    {
+      "key": "WORLDMAP_DESCRIPTION",
+      "value": "이곳에서 미션의 계획을 세우세요."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_TITLE",
+      "value": "날씨만"
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_DESCRIPTION",
+      "value": "일종의 이상 현상이 이 산의 날씨에 영향을 누어 끝없는 타임 루프에 빠지게 된 것 같습니다..."
+    },
+    {
+      "key": "MISSION_CONSTRAINT_WEATHER_HOVER",
+      "value": "이 산의 날씨는 {0}만 가능합니다.<br>({1})"
+    },
+    {
+      "key": "CHARACTER_SCREEN_TITLE",
+      "value": "캐릭터"
+    },
+    {
+      "key": "CHARACTER_SKILL_ALREADY_UNLOCKED_HOVER",
+      "value": "이미 잠금 해제한 {0}의 스킬입니다"
+    },
+    {
+      "key": "CHAR_DEAD_PANEL_OVERLAY",
+      "value": "사용 준비 안 됨"
+    },
+    {
+      "key": "WEATHER_CLEAR",
+      "value": "맑음"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_CLEAR",
+      "value": "평범한 날씨"
+    },
+    {
+      "key": "WEATHER_COLD",
+      "value": "추위"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_COLD",
+      "value": "잃는 체온이 증가합니다"
+    },
+    {
+      "key": "WEATHER_STORM",
+      "value": "폭풍"
+    },
+    {
+      "key": "WEATHER_DESCRIPTION_STORM",
+      "value": "등반에 사용하는 에너지가 증가합니다"
+    },
+    {
+      "key": "HOVER_TEMP_EFFECT",
+      "value": "<style=\"header\">{0}</style><br><br>종료까지 남은 시간: <font=\"numbers_m\">{1}</font>시간<br><br><style=\"description\">{2}</style><br><style=\"numbers_stat\">{3}</style>"
+    },
+    {
+      "key": "HOVER_TRAIT",
+      "value": "<style=\"header\">{0}</style><br><br><style=\"description\">{1}</style><br><style=\"numbers_stat\">{2}</style>"
+    },
+    {
+      "key": "BTN_WALK",
+      "value": "걷기"
+    },
+    {
+      "key": "BTN_PAUSE_WALK",
+      "value": "멈춤"
+    },
+    {
+      "key": "BTN_INVENTORY",
+      "value": "인벤토리"
+    },
+    {
+      "key": "TITLE_INVENTORY",
+      "value": "인벤토리"
+    },
+    {
+      "key": "TITLE_ITEMS",
+      "value": "배낭"
+    },
+    {
+      "key": "BTN_YES",
+      "value": "네"
+    },
+    {
+      "key": "BTN_NO",
+      "value": "아니요"
+    },
+    {
+      "key": "BTN_LEVELUP",
+      "value": "레벨업"
+    },
+    {
+      "key": "TITLE_LEVELUP",
+      "value": "레벨업"
+    },
+    {
+      "key": "DESCRIPTION_LEVELUP",
+      "value": "산에서 겪은 경험이 날 더 강하게 만들어줍니다.<br>특성을 선택하세요!"
+    },
+    {
+      "key": "REMAINING_USES",
+      "value": "남은 사용:"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM",
+      "value": "아이템을 버릴까요?"
+    },
+    {
+      "key": "CONFIRM_DISCARD_ITEM_DESCRIPTION",
+      "value": "<sprite=\"{0}\" name=\"{1}\"> <style=\"subtract\">{2} x1</style>을 버립니다. 계속 진행할까요?"
+    },
+    {
+      "key": "MAIN_MENU_NEW_GAME",
+      "value": "새 게임"
+    },
+    {
+      "key": "MAIN_MENU_OPTIONS",
+      "value": "옵션"
+    },
+    {
+      "key": "MAIN_MENU_QUIT",
+      "value": "게임 종료"
+    },
+    {
+      "key": "MAIN_MENU_CREDITS",
+      "value": "제작진"
+    },
+    {
+      "key": "MAIN_MENU_LANGUAGE",
+      "value": "언어"
+    },
+    {
+      "key": "MAIN_MENU_BACK",
+      "value": "뒤로"
+    },
+    {
+      "key": "MAIN_MENU_LOADING",
+      "value": "불러오는 중..."
+    },
+    {
+      "key": "DAEDELIC_LEGAL_LINES",
+      "value": "© 2022 Daedalic Entertainment GmbH.<br> The Daedalic Logo is trademark of Daedalic Entertainment GmbH, Germany. All rights reserved."
+    },
+    {
+      "key": "ENGLISH",
+      "value": "Magyar"
+    },
+    {
+      "key": "GERMAN",
+      "value": "Deutsch"
+    },
+    {
+      "key": "PAUSE_MENU_CONTINUE",
+      "value": "계속"
+    },
+    {
+      "key": "PAUSE_MENU_RETRY",
+      "value": "다시 시도"
+    },
+    {
+      "key": "PAUSE_MENU_MAIN_MENU",
+      "value": "메인 메뉴로 돌아가기"
+    },
+    {
+      "key": "PAUSE_MENU",
+      "value": "일시 정지"
+    },
+    {
+      "key": "PAUSE_MENU_HELP",
+      "value": "도움말"
+    },
+    {
+      "key": "EVENT_UNKNOWN_OUTCOME",
+      "value": "(결과를 알 수 없습니다...)"
+    },
+    {
+      "key": "EVENT_END",
+      "value": "(이벤트가 종료됩니다)"
+    },
+    {
+      "key": "EVENT_MISSING_ITEM",
+      "value": "필수"
+    },
+    {
+      "key": "EVENT_STATICHOVER_ITEMS",
+      "value": "아이템"
+    },
+    {
+      "key": "EVENT_STATICHOVER_STATUS",
+      "value": "상태"
+    },
+    {
+      "key": "EVENT_STATICHOVER_TIME",
+      "value": "시간"
+    },
+    {
+      "key": "WEATHER_FORECAST_TOMORROW",
+      "value": "내일 날씨"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_ENTERED",
+      "value": "죽음의 고도에 들어감"
+    },
+    {
+      "key": "NOTIFICATION_DEATHZONE_LEFT",
+      "value": "죽음의 고도에서 벗어남"
+    },
+    {
+      "key": "SKILLTARGETED_ERROR_RANGE",
+      "value": "너무 멉니다!"
+    },
+    {
+      "key": "MAIN_MENU_CONTINUE",
+      "value": "계속"
+    },
+    {
+      "key": "BTN_OK",
+      "value": "확인"
+    },
+    {
+      "key": "BTN_SKILLS",
+      "value": "스킬"
+    },
+    {
+      "key": "BTN_CANCEL",
+      "value": "취소"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL",
+      "value": "스킬 선택"
+    },
+    {
+      "key": "CONFIRM_PICK_SKILL_DESCRIPTION",
+      "value": "{0}<br>을(를) 선택하시겠습니까?"
+    },
+    {
+      "key": "BTN_SKILLACTIVE",
+      "value": "{0} 후에 준비됨"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_TITLE",
+      "value": "아이템 두고 가기"
+    },
+    {
+      "key": "CONFIRM_LEFTOVERS_DESCRIPTION",
+      "value": "나머지의 모든 아이템을 영구히 잃게 됩니다. 계속 진행할까요?"
+    },
+    {
+      "key": "TITLE_LEFTOVERS",
+      "value": "나머지"
+    },
+    {
+      "key": "CONFIRM",
+      "value": "확인"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT",
+      "value": "VSync 반복*"
+    },
+    {
+      "key": "OPTIONS_VSYNCCOUNT_HOVER",
+      "value": "<style=header>VSYNC</style><br><style=description>화면의 이미지 재생률(Hz)에 따른 초당 프레임(FPS)의 수를 제한합니다.<br>값이 높을수록 초당 프레임이 낮아지며, 성능과 그래픽 카드 작업량이 더 안정됩니다.</style>"
+    },
+    {
+      "key": "CHOOSE",
+      "value": "선택"
+    },
+    {
+      "key": "UI_CHOICE_CONSTRAINT_TITLE",
+      "value": "도전을 선택하세요!"
+    },
+    {
+      "key": "UI_MISSIONS_TITLE",
+      "value": "미션"
+    },
+    {
+      "key": "UI_MISSION_SCREEN_TITLE",
+      "value": "미션 선택"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_TITLE",
+      "value": "영원한 밤"
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_DESCRIPTION",
+      "value": "이 산은 시간 속에 얼어붙어 끝없이 어두운 밤에 사로잡혀 있습니다."
+    },
+    {
+      "key": "MCONSTR_ALWAYS_NIGHT_HOVER",
+      "value": "밤 효과가 계속 적용됩니다."
+    },
+    {
+      "key": "CONSTRAINTS",
+      "value": "제약"
+    },
+    {
+      "key": "REWARDS",
+      "value": "보상"
+    },
+    {
+      "key": "FAIL_REWARDS",
+      "value": "실패 시"
+    },
+    {
+      "key": "MISSION_HOVER_ALREADY_COMPLETED",
+      "value": "이미 완료한 미션입니다."
+    },
+    {
+      "key": "MISSION_HOVER_LOCKED",
+      "value": "아직 잠금 해제되지 않은 보조 미션입니다. {0}에서 메인 챕터를 완료해 잠금 해제하세요."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED",
+      "value": "아직 잠금 해제되지 않은 지역입니다.<br>이 챕터를 플레이하려면 '{0}' 지역의 {1} 보조 미션을 완료하세요."
+    },
+    {
+      "key": "CHAPTER_HOVER_LOCKED_PROGRESS",
+      "value": "현재 완료:"
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED_NEW",
+      "value": "잠금 해제된 미션입니다. 아직 플레이하지 않았습니다."
+    },
+    {
+      "key": "MISSION_HOVER_UNLOCKED",
+      "value": "잠금 해제된 미션입니다. 아직 완료하지 못했습니다."
+    },
+    {
+      "key": "MISSION_GOAL_REACH",
+      "value": "도달하기:"
+    },
+    {
+      "key": "MISSION_GOAL_COLLECT",
+      "value": "모으기:"
+    },
+    {
+      "key": "MISSION_GOAL_SUMMARY",
+      "value": "아이템 찾기"
+    },
+    {
+      "key": "SHOWCURRENTMISSION",
+      "value": "현재 미션 표시"
+    },
+    {
+      "key": "MISSION_CLICK_HINT",
+      "value": "클릭하면 현재 미션이 표시됩니다."
+    },
+    {
+      "key": "TARGET_TILE_START",
+      "value": "시작 지점"
+    },
+    {
+      "key": "TARGET_TILE_PEAK",
+      "value": "정상"
+    },
+    {
+      "key": "TARGET_TILE_CAMP",
+      "value": "캠프"
+    },
+    {
+      "key": "TARGET_TILE_WEATHER STATION",
+      "value": "버려진 기상 관측소"
+    },
+    {
+      "key": "MISSION_CHARACTER_REWARD_TITLE",
+      "value": "다음으로 완료하면:"
+    },
+    {
+      "key": "ALREADY_UNLOCKED",
+      "value": "이미 잠금 해제됨"
+    },
+    {
+      "key": "EQUIPMENT",
+      "value": "장비"
+    },
+    {
+      "key": "LEFTOVER_WARNING",
+      "value": "경고!<br>아직 '나머지'에 아이템이 있습니다. 사라집니다."
+    },
+    {
+      "key": "DO_NOT_SHOW_AGAIN",
+      "value": "다시 보여주지 마세요"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_TITLE",
+      "value": "아이템을 사용할까요?"
+    },
+    {
+      "key": "USE_ITEM_CONFIRMATION_DESCRIPTION",
+      "value": "<sprite=\"{0}\" name=\"{1}\">{2}을(를) 사용하시겠습니까?"
+    },
+    {
+      "key": "SKILLS_TITLE",
+      "value": "스킬"
+    },
+    {
+      "key": "LEVELUP_TITLE",
+      "value": "레벨업"
+    },
+    {
+      "key": "LEVELUP_DESCRIPTION",
+      "value": "다음 스킬을 선택하세요"
+    },
+    {
+      "key": "MOUNTAIN1_NAME",
+      "value": "산 1"
+    },
+    {
+      "key": "MOUNTAIN1_DESCRIPTION",
+      "value": "이 산은 길고 힘든 등반의 시작입니다.<br>이곳에서 준비 상태와 인내심을 시험하게 될 것입니다."
+    },
+    {
+      "key": "MOUNTAIN2_NAME",
+      "value": "산 2"
+    },
+    {
+      "key": "MOUNTAIN2_DESCRIPTION",
+      "value": "산이 점점 더 험난하고 무자비해집니다.<br>첫 번째 산 이후로 장비를 더 잘 갖추고 건강하며 더 강해졌기를 바랍니다."
+    },
+    {
+      "key": "MOUNTAIN3_NAME",
+      "value": "산 3"
+    },
+    {
+      "key": "MOUNTAIN3_DESCRIPTION",
+      "value": "구름 위 높은 마지막 정상으로 웅장하며 도달 불가능해 보입니다.<br>지금까지의 산은 인내를 시험했지만, 이 산을 극복하는 건 불가능에 가까워 보입니다...<br>그리고 물러날 곳도 없습니다.<br>무슨 일이 있어도 정상에 도달해야 합니다."
+    },
+    {
+      "key": "SCAR_DEFAULT_EXPLANATION",
+      "value": "산을 오른 후 극도로 피로감을 느낍니다..."
+    },
+    {
+      "key": "CLIMB_FINISH_TITLE",
+      "value": "캠프"
+    },
+    {
+      "key": "CLIMB_FINISH_DAYS",
+      "value": "마지막 산의 날들:"
+    },
+    {
+      "key": "BTN_CLIMB_CONTINUE",
+      "value": "계속"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_TITLE",
+      "value": "타임 루프 림보"
+    },
+    {
+      "key": "RUN_FINISH_ALLCHARACTERSDEAD_NOTIFICATION_DESCRIPTION",
+      "value": "모든 캐릭터가 불길하기 그지없는 타임 루프 멀미로 힘들어하고 있으며 돌이킬 수 없는 혼수상태입니다. 더는 그들을 구할 방법이 없습니다.<br>이야기는 여기서 끝입니다."
+    },
+    {
+      "key": "RUN_DEATH_TITLE",
+      "value": "죽음"
+    },
+    {
+      "key": "RUN_FINISH_TITLE",
+      "value": "성공"
+    },
+    {
+      "key": "BTN_RUN_CONTINUE",
+      "value": "메인 메뉴"
+    },
+    {
+      "key": "BTN_DEATH_CONTINUE",
+      "value": "메인 메뉴"
+    },
+    {
+      "key": "RUN_FINISH_DAYS",
+      "value": "일"
+    },
+    {
+      "key": "RUN_FINISH_LEVEL",
+      "value": "레벨:"
+    },
+    {
+      "key": "RUN_FINISH_CLIMBS",
+      "value": "오른 산:"
+    },
+    {
+      "key": "RUN_FINISH_HEIGHT",
+      "value": "최대 높이:"
+    },
+    {
+      "key": "ROUTE1_NAME",
+      "value": "경로 1"
+    },
+    {
+      "key": "ROUTE2_NAME",
+      "value": "경로 2"
+    },
+    {
+      "key": "ROUTE3_NAME",
+      "value": "경로 3"
+    },
+    {
+      "key": "TENT_DURABILITY",
+      "value": "텐트 내구도"
+    },
+    {
+      "key": "NO_TENT_AVAILABLE",
+      "value": "인벤토리에 텐트가 없습니다"
+    },
+    {
+      "key": "SLEEP_LOCATION_TENT",
+      "value": "휴식"
+    },
+    {
+      "key": "SLEEP_LOCATION_REST",
+      "value": "휴식"
+    },
+    {
+      "key": "SLEEP_LOCATION_CAVE",
+      "value": "평화로운 동굴"
+    },
+    {
+      "key": "BTN_START",
+      "value": "시작"
+    },
+    {
+      "key": "BTN_SELECTROUTE",
+      "value": "선택"
+    },
+    {
+      "key": "STATUS_SLEEPING",
+      "value": "수면 중"
+    },
+    {
+      "key": "STATUS_AWAKE",
+      "value": "깨어남"
+    },
+    {
+      "key": "BTN_SLEEP",
+      "value": "수면"
+    },
+    {
+      "key": "SLEEP_DURATION",
+      "value": "수면 시간"
+    },
+    {
+      "key": "DURABILITY_CAVE",
+      "value": "동굴 <size=66%>(텐트가 없어도 됨)</size>"
+    },
+    {
+      "key": "SLEEP_WINDOW_TITLE",
+      "value": "잠자기"
+    },
+    {
+      "key": "SLEEP_EXECUTION_TITLE",
+      "value": "수면 중..."
+    },
+    {
+      "key": "USE_TENT",
+      "value": "텐트 사용"
+    },
+    {
+      "key": "SHORT_SLEEP",
+      "value": "잠시 수면"
+    },
+    {
+      "key": "LONG_SLEEP",
+      "value": "길게 수면"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_NAME",
+      "value": "얼어붙은 발가락"
+    },
+    {
+      "key": "CRITBODYTEMPSCAR_DESCRIPTION",
+      "value": "발가락이 얼어붙었습니다"
+    },
+    {
+      "key": "CRITENERGYSCAR_NAME",
+      "value": "다친 발목"
+    },
+    {
+      "key": "CRITENERGYSCAR_DESCRIPTION",
+      "value": "발목을 다쳤습니다"
+    },
+    {
+      "key": "CRITOXYGENSCAR_NAME",
+      "value": "고산병"
+    },
+    {
+      "key": "CRITOXYGENSCAR_DESCRIPTION",
+      "value": "고산병을 앓고 있습니다"
+    },
+    {
+      "key": "CRITSANITYSCAR_NAME",
+      "value": "악몽"
+    },
+    {
+      "key": "CRITSANITYSCAR_DESCRIPTION",
+      "value": "악몽으로 고생 중입니다"
+    },
+    {
+      "key": "EXHAUSTED_NAME",
+      "value": "피로"
+    },
+    {
+      "key": "EXHAUSTED_DESCRIPTION",
+      "value": "피로에 시달리고 있습니다"
+    },
+    {
+      "key": "FROSTBITTEN_NAME",
+      "value": "동상"
+    },
+    {
+      "key": "FROSTBITTEN_DESCRIPTION",
+      "value": "산의 매서운 추위로 힘들어 합니다"
+    },
+    {
+      "key": "ADVENTURER_NAME",
+      "value": "모험가"
+    },
+    {
+      "key": "ADVENTURER_INTRO",
+      "value": "사라진 보물을 찾기 위해 바다 깊숙한 곳까지 잠수해 들어갔으며, 울창한 열대 우림에서 오래전 멸종된 문화를 연구했으며, 끝없는 사막에서 고대 유적을 발굴했습니다. 어떤 모험도 감당할 수 있었으며 그 무엇도 날 막지 못했습니다. 그런 내 앞에 새로운 도전이 기다립니다.<br>오랫동안 안개 뒤에 숨어 있었던 외딴 섬입니다. 어떤 곳에도 기록되지 않은 산맥과 하늘을 찌를 듯 우뚝 솟은 봉우리가 자신을 정복해줄 사람을 기다리고 있습니다.<br>이것은 모험가에게 꿈이자 역사책에 이름을 올릴 기회입니다."
+    },
+    {
+      "key": "SCIENTIST_NAME",
+      "value": "과학자"
+    },
+    {
+      "key": "SCIENTIST_INTRO",
+      "value": "내게는 혁신적인 이론이 있습니다. 세계 전체에 공급할 수 있을 정도로 충분한 에너지를 생성하는 전자기 에너지의 소스가 아직 발견되지 않았다고 믿습니다. 전문가들은 나의 이론을 공상과학 소설이라고 일축하며 조롱했지만, 이들의 편협한 생각은 연구에 대한 나의 욕구를 부추길 뿐입니다.<br>갑자기 허공에서 나타난 신비한 섬에 대해 알게 된 난 이것을 기회라고 생각했습니다. 초기 계산에 따르면 거대한 산맥의 조건은 전자기의 핫스팟으로 이상적입니다. 방사선은 정상에서 가장 강력할 것입니다.<br>내 이론을 증명하고 명성을 되찾으려면 정상으로 올라가야 합니다."
+    },
+    {
+      "key": "JOURNALIST_NAME",
+      "value": "기자"
+    },
+    {
+      "key": "JOURNALIST_INTRO",
+      "value": "진실을 위한 끝없는 탐구를 위해 위험한 지역을 가리지 않고 날아다녔습니다. 어떤 분쟁 지역도 어떤 논쟁적인 이야기도 끝까지 파헤쳤죠. 보통 사람들에게 엘리트의 음흉한 책략을 계속해서 폭로해야 하며 나보다 그 역할에 적합한 사람도 없을 것입니다.<br>섬 전체가 오랜 세월 동안 대중으로부터 비밀에 싸여 있었다는 소문들 들은 난 파헤치기 시작했습니다. 갑자기 사라진 침략자와 높은 산에서 진행되는 비밀 실험?<br>산의 정상으로 올라가 직접 확인해야 합니다. 소문이 사실이라면 내 경력 사상 최고의 기사가 될 것입니다. 퓰리처상은 이제 내것입니다."
+    },
+    {
+      "key": "BTN_SELECTCHARACTER",
+      "value": "선택"
+    },
+    {
+      "key": "SCAR_CRITENERGY_EXPLANATION",
+      "value": "계속 나아가기가 어렵습니다..."
+    },
+    {
+      "key": "SCAR_CRITBODYTEMP_EXPLANATION",
+      "value": "추위가 내 몸 깊숙이 스며듭니다..."
+    },
+    {
+      "key": "SCAR_CRITOXYGEN_EXPLANATION",
+      "value": "산소가 부족해 현기증이 납니다..."
+    },
+    {
+      "key": "SCAR_CRITSANITY_EXPLANATION",
+      "value": "헛것이 보이기 시작합니다..."
+    },
+    {
+      "key": "SKILL_LEVEL_0",
+      "value": "I"
+    },
+    {
+      "key": "SKILL_LEVEL_1",
+      "value": "II"
+    },
+    {
+      "key": "SKILL_LEVEL_2",
+      "value": "III"
+    },
+    {
+      "key": "STAT_ENERGY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_energy\">에너지</style></style><br><style=\"description\"><style=\"energy\">에너지</style>는 등반할 때 사용합니다.<br>지형이 가파르면 더 많은 에너지를 소모합니다.</style>"
+    },
+    {
+      "key": "STAT_SANITY_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_sanity\">이성</style></style><br><style=\"description\"><style=\"sanity\">이성</style>은 등반에 따른 정신적 스트레스 때문에<br>느리지만, 꾸준히 감소합니다.</style>"
+    },
+    {
+      "key": "STAT_OXYGEN_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_oxygen\">산소</style></style><br><style=\"description\"><style=\"oxygen\">산소</style>는 높은 산 위의 죽음의 고도에서 특히 빠르게 사용됩니다.</style>"
+    },
+    {
+      "key": "STAT_BODYTEMP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_bodytemp\">체온</style></style><br><style=\"description\"><style=\"bodytemp\">체온</style>은 밤이나 날씨가 춥거나, 눈이 오거나, 폭풍이 불 때 사용됩니다.</style>"
+    },
+    {
+      "key": "STAT_HEALTH_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_health\">체력</style></style><br><style=\"description\"><style=\"health\">체력</style>이 0이 되면 여정이 끝납니다!</style>"
+    },
+    {
+      "key": "STAT_EXP_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_exp\">경험치</style></style><br><style=\"description\">이벤트나 조우하는 것들의 결과로 <style=\"exp\">경험치</style>를 받습니다.</style>"
+    },
+    {
+      "key": "STAT_TIME_DESCRIPTION_SIMPLE",
+      "value": "<style=\"header\"><style=\"i_time\">시간</style></style><br><style=\"description\">이벤트나 등반으로 바쁠 때는 시간이<br>흐르고 통계가 각각 업데이트됩니다.</style>"
+    },
+    {
+      "key": "UNLOCKS_SKILLTREE",
+      "value": "전문화 잠금 해제"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_FULL",
+      "value": "이미 가득 찬 능력치입니다"
+    },
+    {
+      "key": "EXPLANATION_STAT_ALREADY_EMPTY",
+      "value": "이미 빈 능력치입니다."
+    },
+    {
+      "key": "CHARACTER_STAR_HOVER",
+      "value": "다음 난이도에서 등반을 완료했습니다:"
+    },
+    {
+      "key": "LOCKED_DIFFICULTY_EXPLANATION",
+      "value": "이 난이도를 잠금 해제하려면<br><b>{0}</b> 난이도에서<br>이 캐릭터로 등반을 완료해야 합니다!"
+    },
+    {
+      "key": "SKILL_COSTS_CANNOT_AFFORD",
+      "value": "{0}이(가) 너무 낮아서 이 스킬을 사용할 수 없습니다"
+    },
+    {
+      "key": "ITEM_YOU_FULFILL",
+      "value": "소유"
+    },
+    {
+      "key": "ITEM_YOU_ARE_MISSING",
+      "value": "빠짐"
+    },
+    {
+      "key": "STAT_YOU_FULFILL",
+      "value": "충분"
+    },
+    {
+      "key": "STAT_YOU_ARE_MISSING",
+      "value": "부족"
+    },
+    {
+      "key": "TE_YOU_FULFILL",
+      "value": "가진 효과"
+    },
+    {
+      "key": "TE_YOU_ARE_MISSING",
+      "value": "빠진 효과"
+    },
+    {
+      "key": "EVENT_STATICHOVER_EFFECTS",
+      "value": "효과"
+    },
+    {
+      "key": "SKILL_TREE_LIST_EXPLANATION",
+      "value": "스킬과 전문화는 경험치로 잠금 해제합니다"
+    },
+    {
+      "key": "MAX_LEVEL_DESCRIPTION",
+      "value": "최대 레벨 달성"
+    },
+    {
+      "key": "CHARACTERSELECTION_ADVENTURER",
+      "value": "전형적인 모험가로 항상 다음 도전을 찾아다닙니다."
+    },
+    {
+      "key": "CHARACTERSELECTION_SCIENTIST",
+      "value": "야심으로 가득한 과학자로 천재와 광기 사이의 경계선에 있습니다."
+    },
+    {
+      "key": "CHARACTERSELECTION_JOURNALIST",
+      "value": "탐사 기자로 대형 스캔들 폭로를 위해 세계 곳곳을 여행합니다."
+    },
+    {
+      "key": "MOUNTAIN1_ADVENTURER_DESCRIPTION",
+      "value": "첫 번째 정상을 향해 오르세요. 하지만 베이스 캠프로 안전하게 돌아올 때까지는 산을 정복한 것이 아니니 잊지 마세요. 그때까지 당신은 산의 소유입니다."
+    },
+    {
+      "key": "MOUNTAIN2_ADVENTURER_DESCRIPTION",
+      "value": "두 번째 정상이 기다립니다. 산과 함께 내면의 자신을 정복해야 합니다."
+    },
+    {
+      "key": "MOUNTAIN3_ADVENTURER_DESCRIPTION",
+      "value": "역사책에 이름을 남기려면 세 번째 정상에 올라야 합니다. 등산 연대기에서 불후의 존재가 될 수 있을까요?"
+    },
+    {
+      "key": "MOUNTAIN1_SCIENTIST_DESCRIPTION",
+      "value": "첫 번째 정상으로 올라가 전자기력 소스의 증거를 찾으세요."
+    },
+    {
+      "key": "MOUNTAIN2_SCIENTIST_DESCRIPTION",
+      "value": "초기 판독값은 기대했던 수치에 도달하지 못했습니다. 더 많은 판독값을 얻으려면 두 번째 정상으로 올라가야 합니다."
+    },
+    {
+      "key": "MOUNTAIN3_SCIENTIST_DESCRIPTION",
+      "value": "방사선이 점점 더 강해지고 있습니다. 뛰어난 연구원이라는 걸 세상에 증명하려면 마지막 정상으로 올라가야 합니다."
+    },
+    {
+      "key": "MOUNTAIN1_JOURNALIST_DESCRIPTION",
+      "value": "첫 번째 산으로 올라가 실험에 대한 소문이 사실인지 알아보세요."
+    },
+    {
+      "key": "MOUNTAIN2_JOURNALIST_DESCRIPTION",
+      "value": "엄청난 기삿거리가 나올 것 같습니다. 두 번째 정상으로 올라가 더 자세히 알아보세요."
+    },
+    {
+      "key": "MOUNTAIN3_JOURNALIST_DESCRIPTION",
+      "value": "한 번만 더 오르면 됩니다. 탐사 부문 퓰리처상은 이제 당신의 것입니다."
+    },
+    {
+      "key": "LOCKED",
+      "value": "아직 잠금 해제되지 않음"
+    },
+    {
+      "key": "CLIMB_OTHER_MOUNTAINS_FIRST",
+      "value": "먼저 다른 산으로 올라가야 합니다."
+    },
+    {
+      "key": "CHOSE_MOUNTAINEER_TITLE",
+      "value": "산악인 선택"
+    },
+    {
+      "key": "CHOSE_ROUTE_TITLE",
+      "value": "경로 선택"
+    },
+    {
+      "key": "HINT_1",
+      "value": "장비와 스킬로 등반 경로를 최적화할 수 있습니다."
+    },
+    {
+      "key": "HINT_2",
+      "value": "보통 걸음과 비교해 높이 차이가 큰 곳을 등반할 때 훨씬 더 많은 에너지를 사용합니다."
+    },
+    {
+      "key": "HINT_3",
+      "value": "체력 이외의 능력치는 0이 되어도 즉시 게임 오버가 아닙니다. 하지만 위험한 상황에 직면하게 됩니다!"
+    },
+    {
+      "key": "HINT_4",
+      "value": "사용 스킬은 까다로운 상황에 유용할 수 있습니다!"
+    },
+    {
+      "key": "HINT_5",
+      "value": "날씨는 능력치 뿐 아니라 가시성에도 영향을 줍니다. 왼쪽 아래에 있는 날씨를 주시하세요!"
+    },
+    {
+      "key": "SCARS",
+      "value": "흉터"
+    },
+    {
+      "key": "BTN_SORT_BY_TREE",
+      "value": "그룹별로 정렬"
+    },
+    {
+      "key": "BTN_SORT_BY_DATE",
+      "value": "순서별로 정렬"
+    },
+    {
+      "key": "NO_SKILL_UNLOCKED_YET",
+      "value": "아직 잠금 해제한 스킬이 없습니다.<br>경험치를 획득해 레벨을 올리고 새로운 스킬을 선택할 수 있습니다!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_LOCKED",
+      "value": "진행 중에는 난이도를 변경할 수 없습니다!"
+    },
+    {
+      "key": "QUALITY_VERY LOW",
+      "value": "매우 낮음"
+    },
+    {
+      "key": "QUALITY_LOW",
+      "value": "낮음"
+    },
+    {
+      "key": "QUALITY_MEDIUM",
+      "value": "보통"
+    },
+    {
+      "key": "QUALITY_HIGH",
+      "value": "높음"
+    },
+    {
+      "key": "QUALITY_VERY HIGH",
+      "value": "매우 높음"
+    },
+    {
+      "key": "QUALITY_ULTRA",
+      "value": "울트라"
+    },
+    {
+      "key": "OPTIONS_FPS",
+      "value": "최대 초당 프레임"
+    },
+    {
+      "key": "OPTIONS_BRIGHTNESS",
+      "value": "밝기"
+    },
+    {
+      "key": "FPS_UNCAPPED",
+      "value": "무한"
+    },
+    {
+      "key": "FPS_30",
+      "value": "30"
+    },
+    {
+      "key": "FPS_60",
+      "value": "60"
+    },
+    {
+      "key": "OPTIONS_DIFFICULTY",
+      "value": "난이도"
+    },
+    {
+      "key": "OPTIONS_MASTERVOLUME",
+      "value": "마스터 볼륨"
+    },
+    {
+      "key": "OPTIONS_BGM",
+      "value": "음악"
+    },
+    {
+      "key": "OPTIONS_SFX",
+      "value": "사운드"
+    },
+    {
+      "key": "OPTIONS_FULLSCREEN",
+      "value": "전체 화면"
+    },
+    {
+      "key": "OPTIONS_RESOLUTION",
+      "value": "해상도"
+    },
+    {
+      "key": "OPTIONS_QUALITY",
+      "value": "품질"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_TITLE",
+      "value": "잠금 해제된 난이도"
+    },
+    {
+      "key": "UNLOCK_DIFFICULTY_DESCRIPTION",
+      "value": "축하합니다!<br>{0}의 <b>{1}</b> 난이도를 잠금 해제했습니다!"
+    },
+    {
+      "key": "VIP_DISCORD_TEXT",
+      "value": "모든 난이도 잠금 해제를 위한 VIP 지위!"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_DIFFICULTYHASNOREVIVES",
+      "value": "<style=description_forbidden>이 난이도에서는 부활 포인트가 없습니다!</style>"
+    },
+    {
+      "key": "BTN_REVIVE_HOVER_SPENTALLREVIVES",
+      "value": "<style=description_forbidden>남은 부활 포인트가 없습니다!</style>"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL",
+      "value": "보통"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_FLAVOR",
+      "value": "정상까지 갈 수 있을까요?"
+    },
+    {
+      "key": "DIFFICULTY_NORMAL_DESCRIPTION",
+      "value": "낮은 난이도입니다.<br>어렵지만, 할 만합니다.<br><br><i>초보자에게 추천합니다.</i>"
+    },
+    {
+      "key": "DIFFICULTY_HARD",
+      "value": "어려움"
+    },
+    {
+      "key": "DIFFICULTY_HARD_FLAVOR",
+      "value": "더 커진 도전"
+    },
+    {
+      "key": "DIFFICULTY_HARD_DESCRIPTION",
+      "value": "난이도가 올라갑니다.<br>자원이 더 빠르게 고갈되며<br>산의 환경과 날씨가 더 험해집니다.<br><br><i>노련한 산악인에 추천합니다.</i>"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE",
+      "value": "극복 불가"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_FLAVOR",
+      "value": "항상 나와 함께하는 죽음"
+    },
+    {
+      "key": "DIFFICULTY_INSURMOUNTABLE_DESCRIPTION",
+      "value": "극악의 난이도입니다.<br>이동과 등반에 드는 비용이 더 크며<br>산의 지형, 날씨, 죽음의 고도가 극도로 험악합니다.<br><br><i>강철의 심장을 지녔으며 두려움이라곤<br>찾아볼 수 없는 산악인에 추천합니다.</i>"
+    },
+    {
+      "key": "DIFFICULTY_LOCKED_HOVER",
+      "value": ""
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_TITLE",
+      "value": "난이도를 선택하세요!"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_TITLE",
+      "value": "난이도 확인"
+    },
+    {
+      "key": "DIFFICULTY_SELECTION_CONFIRMATION_DESCRIPTION",
+      "value": "경고!<br>진행 중에는 이 선택을 변경할 수 없습니다.<br>계속 진행할까요?"
+    },
+    {
+      "key": "CHANGEABLE_KEYBINDINGS",
+      "value": "(단축키는 옵션 화면에서 변경할 수 있습니다.)"
+    },
+    {
+      "key": "PAGE",
+      "value": "페이지"
+    },
+    {
+      "key": "TUTORIAL_1_TITLE",
+      "value": "카메라 컨트롤"
+    },
+    {
+      "key": "TUTORIAL_1_DESCRIPTION",
+      "value": "<b>V*</b> 키를 길게 누르고 마우스를 움직여 주위를 둘러볼 수 있습니다.<br><br><b>마우스 가운데 버튼*</b>을 길게 누르며 마우스를 움직여 카메라를 회전할 수 있습니다.<br>마우스 휠을 사용해 확대하거나 축소할 수 있습니다."
+    },
+    {
+      "key": "TUTORIAL_2_TITLE",
+      "value": "이동"
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION",
+      "value": "산을 성공적으로 등반하려면 캐릭터가 타일을 따라 탐색하며 표시된 목표까지 가야 합니다. 캐릭터가 움직이기 전에는 시간이 흐르지 않으며 능력치도 변경되지 않습니다."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION1",
+      "value": "유효한 타일을 <b>왼쪽 클릭*</b>하면 캐릭터가 이동하게 되는 체크포인트가 추가됩니다. 유효한 다른 타일을 클릭해 더 많은 체크포인트를 추가할 수 있습니다.<br>마지막 체크포인트를 다시 클릭하면 움직이기 시작합니다."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION2",
+      "value": "<b>오른쪽 클릭*</b>하면 캐릭터가 멈추거나 마지막 체크포인트를 제거합니다."
+    },
+    {
+      "key": "TUTORIAL_2_DESCRIPTION3",
+      "value": "또는, 이동 버튼을 눌러 캐릭터를 움직이거나 멈출 수 있습니다.<br>스피드 버튼을 사용해 캐릭터가 더 빠르게 걷도록 할 수도 있습니다. 이 효과는 게임의 능력치에 영향을 주지 않습니다."
+    },
+    {
+      "key": "TUTORIAL_3_TITLE",
+      "value": "지형 종류"
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION",
+      "value": "지형은 돌, 눈, 얼음, 이렇게 3가지 종류가 있습니다. 종류마다 기본 표준 지형과 특수 지형으로 구성되어 있습니다. 모든 종류의 지형에서 이동하는 데 드는 비용은 캐릭터의 장비와 스킬에 따라 다릅니다. 특수 지형은 추가 비용이 들거나 위험한 이벤트를 유발할 수 있습니다."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_STONE",
+      "value": "<b>돌</b> - 기본 지형 - 특별한 속성 없음<br><br><b>돌무더기</b> - 위험한 이벤트가 유발될 수 있는 하위 지형<br><br><b>잔디</b> - 하위 지형 - 특별한 속성 없음."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_SNOW",
+      "value": "<b>눈</b> - 기본 지형 - 특별한 속성 없음<br><br><b>쌓인 눈</b> - 위험한 이벤트가 발동할 수 있는 특수 지형<br><br><b>깊게 쌓인 눈</b> - 특수 지형 - 더 많은 에너지 사용."
+    },
+    {
+      "key": "TUTORIAL_3_DESCRIPTION_ICE",
+      "value": "<b>얼음</b> - 기본 지형 - 특별한 속성 없음<br><br><b>빙하 얼음</b> - 위험한 이벤트가 발동할 수 있는 특수 지형<br><br><b>역고드름</b> - 특수 지형 - 시간이 더 오래 걸리고 체온이 많이 소모됨."
+    },
+    {
+      "key": "TUTORIAL_4_TITLE",
+      "value": "이벤트"
+    },
+    {
+      "key": "TUTORIAL_4_DESCRIPTION",
+      "value": "산에서는 다양한 종류의 이벤트가 벌어질 수 있습니다.<br>이 마커가 있는 곳으로 들어가면 이벤트가 발동됩니다."
+    },
+    {
+      "key": "TUTORIAL_5_TITLE",
+      "value": "능력치"
+    },
+    {
+      "key": "TUTORIAL_6_TITLE",
+      "value": "위급한 상태"
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION1",
+      "value": "능력치(체력 제외)가 0이 되면 위급한 상태가 됩니다."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION2",
+      "value": "능력치 중 하나가 위급한 수준이 되면 경로 미리보기가 빨간색으로 변합니다."
+    },
+    {
+      "key": "TUTORIAL_6_DESCRIPTION3",
+      "value": "이 조건에서 계속 움직이면 위험한 이벤트와 마주하게 됩니다. 조심하세요. 체력이 0이 되면 게임 오버입니다!"
+    },
+    {
+      "key": "TUTORIAL_7_TITLE",
+      "value": "레벨 올리기"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION1",
+      "value": "경험치가 특정 기준치에 다다르면 캐릭터의 레벨이 올라갑니다."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION2",
+      "value": "레벨이 올라갈 때마다 스킬을 선택할 수 있습니다. 스킬에는 시간 제한이 있는 스킬이나 활성화하려면 특정 조건을 달성해야 하는 스킬도 있습니다."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION3",
+      "value": "오른쪽 위에 있는 스킬 창에서 선택한 스킬의 포괄적인 목록을 확인할 수 있습니다. 스킬의 활성 효과는 화면 위 중앙에 있는 효과 바에 표시됩니다."
+    },
+    {
+      "key": "TUTORIAL_8_TITLE",
+      "value": "날씨"
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION",
+      "value": "날씨는 아침마다 바뀔 수 있습니다. 화면 왼쪽 아래에서 현재 날씨와 다음 날의 일기예보를 볼 수 있습니다. 날씨에는 3가지 유형이 있습니다."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_CLEAR",
+      "value": "<b>맑은 날씨</b> - 캐릭터에 부정적인 영향을 주지 않는 좋은 날씨입니다. 느긋하게 등반을 즐기세요."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_COLD",
+      "value": "<b>추운 날씨</b> - 특히 밤에 체온에 부정적인 영향을 미칩니다. 따뜻한 옷을 입어보세요."
+    },
+    {
+      "key": "TUTORIAL_8_DESCRIPTION_STORM",
+      "value": "<b>폭풍이 부는 날씨</b> - 에너지와 소요되는 시간에 부정적인 영향을 주며 가시 범위가 감소합니다."
+    },
+    {
+      "key": "TUTORIAL_9_TITLE",
+      "value": "이벤트"
+    },
+    {
+      "key": "TUTORIAL_9_DESCRIPTION",
+      "value": "이벤트는 다양한 결과로 어려운 선택을 하도록 합니다.<br>주의하세요. 이벤트 중 시간이 흐르면 산의 조건에 따라 체온 같은 능력치를 얻을 수도, 잃을 수도 있습니다!"
+    },
+    {
+      "key": "TUTORIAL_10_TITLE",
+      "value": "수면"
+    },
+    {
+      "key": "TUTORIAL_10_DESCRIPTION",
+      "value": "수면은 에너지를 회복하는 좋은 방법입니다.<br>수면은 세 가지 방법으로 가능하죠. 첫째, 지도에서 동굴 기호를 찾아 야영을 할 수 있습니다. 둘째, 인벤토리의 텐트를 사용할 수 있습니다(텐트마다 최대 3번까지 사용 가능). 또한, 텐트 없이도 잘 수 있습니다. 이 경우 능력치에 부정적인 영향을 주니 최후의 수단으로만 사용해야 합니다."
+    },
+    {
+      "key": "SCORE_XP",
+      "value": "획득한 경험치에 대한 포인트"
+    },
+    {
+      "key": "SCORE_MOUNTAINS",
+      "value": "등반한 산에 대한 포인트"
+    },
+    {
+      "key": "SCORE_NOCRIT",
+      "value": "위급한 상황을 피한 것에 대한 포인트"
+    },
+    {
+      "key": "SCORE_CONSUMABLES",
+      "value": "획득한 아이템에 대한 포인트"
+    },
+    {
+      "key": "SCORE_EQUIPMENT",
+      "value": "회득한 장비에 대한 포인트"
+    },
+    {
+      "key": "SCORE_TIME",
+      "value": "시간 보너스"
+    },
+    {
+      "key": "GENERIC_KEYBINDING_HINT",
+      "value": "(단축키: <b>{0}</b>)"
+    },
+    {
+      "key": "TAKEEVERYTHINGFROMLEFTOVERS",
+      "value": "전부 받기"
+    },
+    {
+      "key": "LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "초기화"
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM",
+      "value": "잠금 해제된 아이템입니다.<br>장착하거나 {0}에 챙길 수 있습니다."
+    },
+    {
+      "key": "HOVER_LOADOUT_CHOSEABLE_ITEM_UNAFFORDEABLE",
+      "value": "<color=red>이 아이템을 챙기거나 장착하려면<br>{0} 이상 있어야 합니다.</color>"
+    },
+    {
+      "key": "HOVER_LOADOUT_WITHDRAWN_ITEM",
+      "value": "{0}에 아이템을 넣습니다."
+    },
+    {
+      "key": "BTN_LEAVE_EVERYTHING_TITLE",
+      "value": "초기화"
+    },
+    {
+      "key": "HOVER_BTN_LEAVE_EVERYTHING",
+      "value": "인벤토리에서 아이팀과 장비를 제거해 인벤토리 용량을 비워주세요."
+    },
+    {
+      "key": "BTN_SHOW_MISSION_TITLE",
+      "value": "미션 보기"
+    },
+    {
+      "key": "HOVER_BTN_SHOW_MISSION",
+      "value": "선택한 현재 미션의<br>개요를 보여줍니다."
+    },
+    {
+      "key": "BTN_TAKE_EVERYTHING_TITLE",
+      "value": "전부 받기"
+    },
+    {
+      "key": "HOVER_BTN_TAKE_EVERYTHING",
+      "value": "나머지에서 최대한 많은 물건을 인벤토리로 옮기세요."
+    },
+    {
+      "key": "MISSION_GOAL_UNKNOWN",
+      "value": "알 수 없는 목표"
+    },
+    {
+      "key": "MISSION_TARGET_HUD_GOALS_TITLE",
+      "value": "미션 목표:"
+    },
+    {
+      "key": "HOVER_BTN_ACTIVE_SKILL",
+      "value": "{0}<br>클릭해 스킬을 사용하거나 {1}을(를) 누르세요"
+    },
+    {
+      "key": "HOVER_BTN_SLEEP",
+      "value": "수면 화면이 열립니다"
+    },
+    {
+      "key": "HOVER_BTN_INVENTORY",
+      "value": "인벤토리가 열립니다."
+    },
+    {
+      "key": "HOVER_BTN_WALK",
+      "value": "플레이어가 움직이기 시작합니다 <br>선택한 길을 따라 걷습니다."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_WALK",
+      "value": "<b>다음 육각 타일에서</b> 플레이어가 멈춥니다."
+    },
+    {
+      "key": "HOVER_BTN_SPEED",
+      "value": "타임랩스"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_TOGGLE",
+      "value": "플레이어가 움직이는 속도를 토글합니다. <br>산에서 드는 시간이나 에너지에 영향을 주지 않습니다."
+    },
+    {
+      "key": "HOVER_BTN_SKILLTREE",
+      "value": "선택한 스킬을 보여줍니다."
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU_TITLE",
+      "value": "일시 정지"
+    },
+    {
+      "key": "HOVER_BTN_PAUSE_MENU",
+      "value": "게임을 일시 정지하고 옵션을 보여줍니다."
+    },
+    {
+      "key": "TUTORIAL_CLOSE_HINT",
+      "value": "일시 정지 메뉴에서 언제든 튜토리얼을 다시 열 수 있습니다."
+    },
+    {
+      "key": "HINT",
+      "value": "힌트"
+    },
+    {
+      "key": "HINT_SELECT_CONFIRM",
+      "value": "{0} 또는 {1}(으)로 선택하고 확인할 수 있습니다."
+    },
+    {
+      "key": "HINT_DECLINE_CANCEL",
+      "value": "{0} 또는 {1}(으)로 선택을 취소할 수 있습니다."
+    },
+    {
+      "key": "HINT_CAMERA",
+      "value": "{0} 또는 {1}, 마우스 움직임으로 카메라를 회전할 수 있습니다."
+    },
+    {
+      "key": "Alpha0",
+      "value": "0"
+    },
+    {
+      "key": "Alpha1",
+      "value": "1"
+    },
+    {
+      "key": "Alpha2",
+      "value": "2"
+    },
+    {
+      "key": "Alpha3",
+      "value": "3"
+    },
+    {
+      "key": "Alpha4",
+      "value": "4"
+    },
+    {
+      "key": "Alpha5",
+      "value": "5"
+    },
+    {
+      "key": "Alpha6",
+      "value": "6"
+    },
+    {
+      "key": "Alpha7",
+      "value": "7"
+    },
+    {
+      "key": "Alpha8",
+      "value": "8"
+    },
+    {
+      "key": "Alpha9",
+      "value": "9"
+    },
+    {
+      "key": "Mouse0",
+      "value": "왼쪽 마우스 버튼"
+    },
+    {
+      "key": "Mouse1",
+      "value": "오른쪽 마우스 버튼"
+    },
+    {
+      "key": "Mouse2",
+      "value": "가운데 마우스 버튼"
+    },
+    {
+      "key": "Space",
+      "value": "스페이스"
+    },
+    {
+      "key": "Up Arrow",
+      "value": "위쪽 화살표"
+    },
+    {
+      "key": "Down Arrow",
+      "value": "아래쪽 화살표"
+    },
+    {
+      "key": "Left Arrow",
+      "value": "왼쪽 화살표"
+    },
+    {
+      "key": "Right Arrow",
+      "value": "오른쪽 화살표"
+    },
+    {
+      "key": "KEYBINDING_PROMPT",
+      "value": "<Press Any Button>"
+    },
+    {
+      "key": "KEYBINDINGS_TITLE",
+      "value": "단축키"
+    },
+    {
+      "key": "KEYBINDING_DUPLICATE_ERROR",
+      "value": "이미 사용 중인 단축키입니다!"
+    },
+    {
+      "key": "ABILITY_ACTIVE",
+      "value": "사용 스킬"
+    },
+    {
+      "key": "ABILITY_PASSIVE",
+      "value": "지속 스킬"
+    },
+    {
+      "key": "ABILITY_TRIGGERED",
+      "value": "발동 스킬"
+    },
+    {
+      "key": "ABILITY_CONDITIONAL",
+      "value": "상태 스킬"
+    },
+    {
+      "key": "ABILITY_HOURS",
+      "value": "시간"
+    },
+    {
+      "key": "ABILITY_COOLDOWN",
+      "value": "대기 시간"
+    },
+    {
+      "key": "ABILITY_DURATION",
+      "value": "기간"
+    },
+    {
+      "key": "ABILITY_DURATION_ACTIVE",
+      "value": "남은 활성화 시간:"
+    },
+    {
+      "key": "ABILITY_DURATION_FORXHOURS",
+      "value": "{0} 시간"
+    },
+    {
+      "key": "SPECIALIZATION_TITLE",
+      "value": "전략을 선택하세요!"
+    },
+    {
+      "key": "SELECT1",
+      "value": "확인/선택(1)"
+    },
+    {
+      "key": "SELECT2",
+      "value": "확인/선택(2)"
+    },
+    {
+      "key": "CANCELPATH1",
+      "value": "길 취소(1)"
+    },
+    {
+      "key": "CANCELPATH2",
+      "value": "길 취소(2)"
+    },
+    {
+      "key": "ROTATECAM1",
+      "value": "카메라 회전(1)"
+    },
+    {
+      "key": "ROTATECAM2",
+      "value": "카메라 회전(2)"
+    },
+    {
+      "key": "MOVE",
+      "value": "이동"
+    },
+    {
+      "key": "STOPMOVE",
+      "value": "멈춤"
+    },
+    {
+      "key": "TOGGLEINVENTORY",
+      "value": "인벤토리 열기/닫기"
+    },
+    {
+      "key": "TOGGLEHELPSCREEN",
+      "value": "도움말 열기/닫기"
+    },
+    {
+      "key": "TOGGLESKILLSCREEN",
+      "value": "스킬 개요 열기/닫기"
+    },
+    {
+      "key": "TOGGLEPAUSEMENU",
+      "value": "일시 정지 메뉴 열기/닫기"
+    },
+    {
+      "key": "CANCEL",
+      "value": "취소"
+    },
+    {
+      "key": "LEVELUP",
+      "value": "레벨업 확인"
+    },
+    {
+      "key": "TOGGLETIMELAPSE",
+      "value": "타임랩스 토글"
+    },
+    {
+      "key": "TOGGLESLEEPSCREEN",
+      "value": "수면 화면 열기/닫기"
+    },
+    {
+      "key": "RESTORE_DEFAULTS",
+      "value": "기본값 복원"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_PROS",
+      "value": "정상으로 가는 빠른 직선 경로 등반에 뛰어납니다"
+    },
+    {
+      "key": "SKILLTREE_STEEPCLIMBER_CONS",
+      "value": "직선 경로로 가면 이벤트와 경험을 놓칠 수 있습니다"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_PROS",
+      "value": "이벤트 활용 능력이 뛰어납니다"
+    },
+    {
+      "key": "SKILLTREE_EVENTEXPERT_CONS",
+      "value": "이벤트 외 보너스가 없습니다"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_PROS",
+      "value": "평지의 에너지 효율이 좋아 산을 더 세세하게 탐험할 수 있습니다"
+    },
+    {
+      "key": "SKILLTREE_FLATCLIMBER_CONS",
+      "value": "산을 너무 오래 탐험하면 이성에 좋지 않습니다"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_PROS",
+      "value": "지형을 유리하게 활용하는 능력이 뛰어납니다"
+    },
+    {
+      "key": "SKILLTREE_TERRAINEXPERT_CONS",
+      "value": "지형에 따라 모든 보너스가 다릅니다"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_PROS",
+      "value": "밤에 등반하면 더 좋은 보너스를 줍니다"
+    },
+    {
+      "key": "SKILLTREE_NIGHTCLIMBER_CONS",
+      "value": "낮에는 보너스가 없으며 밤도 여전히 위험합니다"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_PROS",
+      "value": "소모품을 활용하는 능력이 뛰어납니다"
+    },
+    {
+      "key": "SKILLTREE_CONSUMABLEEXPERT_CONS",
+      "value": "보너스는 소모품 찾기에 따라 달라집니다"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_TITLE",
+      "value": "위대한 업적!"
+    },
+    {
+      "key": "FINISHED_HIGHEST_DIFFICULTY_DESCRIPTION",
+      "value": "축하합니다!<br> {0}(으)로 가장 높은 난이도의 등반을 완료했습니다!"
+    },
+    {
+      "key": "AFFECTEDBY",
+      "value": "다음의 영향을 받음"
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION4",
+      "value": "최대 3개의 전문화({0}개 중)를 선택하게 됩니다. 새로운 전문화는 {1}, {2}, {3}레벨에서 잠금 해제됩니다."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION5",
+      "value": "선택한 전문화에 따라 어떤 스킬을 선택할 수 있는지가 결정됩니다."
+    },
+    {
+      "key": "TUTORIAL_7_DESCRIPTION6",
+      "value": "어떤 전문화에도 속해 있지 않으면 독립적으로 선택할 수 있는 스킬도 있습니다."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_TITLE",
+      "value": "인벤토리 및 아이템"
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION1",
+      "value": "화면의 버튼이나 해당하는 단축키를 사용해 인벤토리를 이용할 수 있습니다. 인벤토리는 캐릭터가 가만히 서 있을 때만 이용할 수 있습니다.<br><br>사용하면 소모되는 아이템이 있으며 캐릭터에 장착해 장착한 동안 활성화 상태를 유지하는 아이템이 있습니다."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION2",
+      "value": "아이템을 마우스 오른쪽 클릭해 사용할 수 있습니다.<br><br>왼쪽 마우스 버튼을 길게 클릭해 아이템을 다른 슬롯으로 끌어다 놓을 수 있습니다.<br><br>아이템을 찾으면 인벤토리에 넣어야 합니다. 그렇지 않으면 인벤토리를 닫을 때 사라집니다."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION3",
+      "value": "일부 아이템은 여러 번 사용할 수 있으며 아이템의 사용 바에 표시됩니다.<br>현재 아이템을 사용할 수 없으면 어두운 색으로 표시됩니다.<br><br>아이템 위에 마우스 커서를 올리면 아이템에 관한 추가 정보를 볼 수 있습니다. 아이템 효과의 미리보기가 표시됩니다."
+    },
+    {
+      "key": "TUTORIAL_CONSUMABLES_DESCRIPTION4",
+      "value": "장비를 사용하려면 장비 섹션의 해당 슬롯으로 장비를 드래그하세요. 거기서 인벤토리로 다시 이동할 수도 있습니다. 아이템이 장착되어 있는 동안 지속 효과 및 보너스를 제공합니다."
+    },
+    {
+      "key": "PICKNEWSPECIALIZATION",
+      "value": "{1}, {2}, {3}레벨에서 새로운 전문화를 선택할 수 있습니다."
+    },
+    {
+      "key": "GENERICSKILLINFO",
+      "value": "전문화에 속해 있지 않은 스킬입니다."
+    },
+    {
+      "key": "BASICVALUES_NAME",
+      "value": "기본값"
+    },
+    {
+      "key": "CLICK_TO_PICK_A_MODIFIER",
+      "value": "클릭해 경로를 선택하세요"
+    },
+    {
+      "key": "PICK_A_MODIFIER",
+      "value": "경로를 선택하세요"
+    },
+    {
+      "key": "MISSION_DEFAULT_MODIFIERS_TITLE",
+      "value": "주변 환경"
+    },
+    {
+      "key": "REWARD_DISPLAY_NOT_RECEIVED_HOVER",
+      "value": "받지 않은 보상입니다."
+    },
+    {
+      "key": "MISSION_FINISH_UI_ADDITIONAL_REWARDS",
+      "value": "추가 보상"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OBJECTIVES",
+      "value": "목표"
+    },
+    {
+      "key": "MISSION_FINISH_UI_DETAILS",
+      "value": "세부 정보"
+    },
+    {
+      "key": "MISSION_FINISH_UI_OVERVIEW",
+      "value": "개요"
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED",
+      "value": "아직 잠금 해제되지 않았습니다.<br>{1}(으)로 다음 정상을 올라야<br>이 스킬이 잠금 해제됩니다:<br>{0}"
+    },
+    {
+      "key": "EXPLANATION_EVENT_GAIN_NEGATED_BY_TES",
+      "value": "현재 스킬과 효과 때문에 영향이 없습니다"
+    },
+    {
+      "key": "SKILL_COSTS",
+      "value": "비용:"
+    },
+    {
+      "key": "SKILL_EFFECTS",
+      "value": "효과:"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION",
+      "value": "축하합니다!<br>{0}의 새로운 스킬을 잠금 해제했습니다:<br>{1}"
+    },
+    {
+      "key": "CHARACTER_SKILLS_UNLOCKED_NOTIFICATION_TITLE",
+      "value": "스킬을 잠금 해제했습니다!"
+    },
+    {
+      "key": "WINDOW_BLOCKED_DURING_WALKING",
+      "value": "이 창은 이동 중에 잠김니다."
+    },
+    {
+      "key": "OPTION_BLOCKED_DURING_WALKING",
+      "value": "이 옵션은 이동 중에 잠깁니다."
+    },
+    {
+      "key": "TOGGLEHUDVISIBLE",
+      "value": "HUD 토글"
+    },
+    {
+      "key": "PAUSEWALK_ACTIVATED_HOVER_HINT",
+      "value": "활성화 - 캐릭터가 다음 타일에서 멈춥니다."
+    },
+    {
+      "key": "LESS_THAN_ONE_MINUTE",
+      "value": "1분 미만"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_TITLE",
+      "value": "카메라 토글"
+    },
+    {
+      "key": "TOGGLE_CAMERA_BTN_DESCRIPTION",
+      "value": "대상에 대한 카메라 고정을 켜기/끄기."
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION",
+      "value": "기본값은 선택한 난이도의 영향을 받습니다"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_NORMAL",
+      "value": "기본값은 선택한 난이도(보통)의 영향을 받습니다"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_HARD",
+      "value": "기본값은 선택한 난이도(어려움)의 영향을 받습니다"
+    },
+    {
+      "key": "BASICVALUES_DESCRIPTION_INSURMOUNTABLE",
+      "value": "기본값은 선택한 난이도(극복 불가)의 영향을 받습니다"
+    },
+    {
+      "key": "EMPTY",
+      "value": ""
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TITLE",
+      "value": "업데이트"
+    },
+    {
+      "key": "INCOMPATIBLE_SAVEGAME_TEXT",
+      "value": "현재 등반은 버전 {0}에서 생성됐으며 Insurmountable 버전 {1}과 호환되지 않습니다.<br>이 버전에서 새 등반을 시작했다면 이전 저장에 덮어씌웁니다.<br>잠금 해제한 난이도를 잃지 않습니다."
+    },
+    {
+      "key": "FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "OPTIONS_AMBIENT",
+      "value": "앰비언트"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TITLE",
+      "value": "새 게임"
+    },
+    {
+      "key": "OVERWRITE_SAVE_TEXT",
+      "value": "현재 저장 파일에 덮어씌웁니다. 계속 진행할까요?"
+    },
+    {
+      "key": "INVALID_SAVEGAME_TEXT",
+      "value": "오류 - 현재 저장 게임을 불러올 수 없습니다.<br>이 버전에서 새 등반을 시작했다면 유효하지 않은 저장에 덮어씌웁니다.<br>잠금 해제한 난이도를 잃지 않습니다."
+    },
+    {
+      "key": "HINT_6",
+      "value": "키보드 단축키(기본 단축키: H)로 UI를 숨길 수 있습니다"
+    },
+    {
+      "key": "HINT_7",
+      "value": "텐트가 없어도 언제든 잘 수 있습니다. 하지만 텐트나 동굴이 추위로부터 더 잘 보호해줍니다."
+    },
+    {
+      "key": "HINT_8",
+      "value": "캐릭터를 선택할 때 1~3개의 스킬을 선택할 수 있습니다. 산의 정상까지 올라 추가 스킬을 잠금 해제할 수 있습니다."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M1SUMMIT",
+      "value": "아직 잠금 해제되지 않았습니다.<br>이 스킬을 선택하려면 {0}(으)로 첫 번째 산의 정상에 올라가야 합니다."
+    },
+    {
+      "key": "CHARACTER_SKILL_CHOICE_LOCKED_M2SUMMIT",
+      "value": "아직 잠금 해제되지 않았습니다.<br>이 스킬을 선택하려면 {0}(으)로 두 번째 산의 정상에 올라가야 합니다."
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_GAINED",
+      "value": "활성화됨"
+    },
+    {
+      "key": "TEMPEFFECT_UPDATE_NOTIFICATION_LOST",
+      "value": "만료됨"
+    },
+    {
+      "key": "PRODFICIENCY_CURRENT_LEVEL_TITLE",
+      "value": "현재 레벨:"
+    },
+    {
+      "key": "PROFICIENCY_MAX_LEVEL_TITLE",
+      "value": "(이미 최대 레벨입니다.)"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_APPENDIX",
+      "value": "다음 레벨까지"
+    },
+    {
+      "key": "PROFICIENCY_XPBAR_HOVER_GAINEDSOFAR",
+      "value": "(획득한 총 경험치: {0})"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_SUMMARY",
+      "value": "획득한 경험치:"
+    },
+    {
+      "key": "PROFICIENCY_MISSION_REWARD_TITLE",
+      "value": "미션 보상"
+    },
+    {
+      "key": "PROFICIENCY_CHARACTER_REWARD_TITLE",
+      "value": "캐릭터 보상"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_REWARDS_APPENDIX",
+      "value": ": 미션 보상"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FROM_CHARACTERREWARDS_APPENDIX",
+      "value": ": 캐릭터 보상"
+    },
+    {
+      "key": "PROFICIENCY_GAINED_XP_FOR_TRACKABLES",
+      "value": ":"
+    },
+    {
+      "key": "SUMMARIZE_ITEMS_HOVER_TITLE",
+      "value": "잠금 해제된 아이템:"
+    },
+    {
+      "key": "DEACTIVATE_TUTORIALS",
+      "value": "튜토리얼 비활성화"
+    },
+    {
+      "key": "FREELOOK",
+      "value": "둘러보기"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TITLE",
+      "value": "경고"
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_TEXT",
+      "value": "현재 저장 파일을 불러올 수 없습니다. 이름이 변경되었으며 새 게임을 시작해야 합니다. Discord 서버에서 개발자에게 연락하여 손상된 파일과 로그를 보내주세요."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_TEXT",
+      "value": "진행 상황과 백업을 불러올 수 없습니다. 저장/불러오기 프로세스가 방해받거나 파일을 수정하지 않는 한 이런 일은 발생하지 않아야 합니다. 이름이 변경되었으며 진행 상황이 초기화됐습니다. Discord 서버에서 개발자에게 연락하여 손상된 파일과 로그를 보내주세요."
+    },
+    {
+      "key": "CORRUPT_PROGRESSION_OK_BACKUP_TEXT",
+      "value": "진행 상황 파일을 불러올 수 없으며 이름이 변경되었습니다. 지금은 백업을 불러왔습니다."
+    },
+    {
+      "key": "CORRUPT_SAVEGAME_OK_BACKUP_TEXT",
+      "value": "현재 저장 파일을 불러올 수 없습니다. 이름이 변경되었으며 백업을 복원했습니다."
+    },
+    {
+      "key": "UI_RESET",
+      "value": "초기화"
+    },
+    {
+      "key": "UI_MISSION",
+      "value": "미션"
+    },
+    {
+      "key": "UI_UPGRADES",
+      "value": "업그레이드"
+    },
+    {
+      "key": "UI_UPGRADES_UNASSIGNED",
+      "value": "업그레이드를 배정할 수 있습니다!"
+    },
+    {
+      "key": "MIND_BODY_PREPARATION",
+      "value": "정신적 그리고 육체적 대비"
+    },
+    {
+      "key": "MOUNTAIN_KNOWLEDGE",
+      "value": "산 지식"
+    },
+    {
+      "key": "UI_UNLOCKED_SMALL",
+      "value": "잠금 해제됨"
+    },
+    {
+      "key": "UI_NEW_SMALL",
+      "value": "신규"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_TITLE",
+      "value": "준비 없이 시작"
+    },
+    {
+      "key": "LOADOUT_CONFIRM_STILLFREEPOINTS_DESCRIPTION",
+      "value": "사용하지 않은 아이템이 있습니다.<br>불완전한 인벤토리로 이 미션을 시작하시겠습니까?"
+    },
+    {
+      "key": "UI_INVENTORYLOADOUT_TITLE",
+      "value": "아이템 챙기기"
+    },
+    {
+      "key": "UI_UPGRADE_COST",
+      "value": "비용:"
+    },
+    {
+      "key": "UI_CHAPTER_LOCKED",
+      "value": "잠긴 챕터입니다."
+    },
+    {
+      "key": "UI_CHAPTER_NEW",
+      "value": "신규!"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED_BUT_NEVER_ATTEMPTED",
+      "value": "잠금 해제된 챕터지만, 아직 시도하지 않았습니다."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_BUT_NEVER_SUCCESSFULLY",
+      "value": "아직 완료되지 않았습니다."
+    },
+    {
+      "key": "UI_CHAPTER_ATTEMPTED_SUCCESSFULLY",
+      "value": "챕터를 완료했습니다!"
+    },
+    {
+      "key": "UI_CHAPTER_BEATENBY",
+      "value": "죽은 원인:"
+    },
+    {
+      "key": "UI_CHAPTERSELECTION_LABEL",
+      "value": "챕터"
+    },
+    {
+      "key": "METAGAME_PROLOGUE_TEXT",
+      "value": "RemoveThis"
+    },
+    {
+      "key": "NPC_GENERAL_DAUGHTER_NAME",
+      "value": "낯선이"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_PROFICIENCY_TITLE",
+      "value": "숙련도"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_PROFICIENCY",
+      "value": "진행 상황"
+    },
+    {
+      "key": "UI_PROFICIENCYSCREEN_CATEGORY_REWARDS",
+      "value": "다음 보상"
+    },
+    {
+      "key": "UI_DIALOGUE_NEXT",
+      "value": "계속"
+    },
+    {
+      "key": "UI_DIALOGUE_DONE",
+      "value": "완료"
+    },
+    {
+      "key": "UI_MISSION_UNLOCKED",
+      "value": "미션 잠금 해제됨"
+    },
+    {
+      "key": "UI_REGION_MISSIONS_UNLOCKED",
+      "value": "보조 미션 잠금 해제됨:"
+    },
+    {
+      "key": "UI_CHAPTER_UNLOCKED",
+      "value": "지역 잠금 해제됨"
+    },
+    {
+      "key": "UI_ITEM_UNLOCKED",
+      "value": "아이템 잠금 해제됨"
+    },
+    {
+      "key": "OPTIONS_VSYNC",
+      "value": "VSync 카운트"
+    },
+    {
+      "key": "HOVER_CHARLOCKED",
+      "value": "아직 잠금 해제되지 않은 캐릭터입니다.<br>보조 미션에서 잠금 해제할 수 있습니다."
+    },
+    {
+      "key": "HOVER_CHARDEAD",
+      "value": "산에서의 실패 때문에 타임 루프 멀미로 고생 중인 캐릭터입니다.<br>캐릭터 메뉴에서 부활할 수 있습니다."
+    },
+    {
+      "key": "HOVER_CHARAVAILABLE",
+      "value": "잠금 해제되어 선택할 수 있는 캐릭터입니다."
+    },
+    {
+      "key": "UNKNOWN_CHAR",
+      "value": "알 수 없는 캐릭터"
+    },
+    {
+      "key": "HOVER_CHARACTIVE",
+      "value": "현재 선택됨"
+    },
+    {
+      "key": "DEAD_TITLE",
+      "value": "타임 루프 멀미"
+    },
+    {
+      "key": "DEAD_TEXT",
+      "value": "{0}(은)는 산에서의 실패로 인해 타임 루프 멀미로 고생 중인 캐릭터입니다. 이 캐릭터로 미션을 플레이하려면 캐릭터 메뉴에서 부활시켜야 합니다."
+    },
+    {
+      "key": "DEAD_TEXT_DIFFICULTYHASNOREVIVES",
+      "value": "{0}(은)는 타임 루프 멀미 때문에 회복이 불가능할 정도로 약화됐습니다.<br>더는 정상까지 갈 수 없습니다...<br>모든 희망은 이제 동료들에게 달렸습니다."
+    },
+    {
+      "key": "REVIVE_TITLE",
+      "value": "부활"
+    },
+    {
+      "key": "REVIVE_TEXT",
+      "value": "{2}(을)를 위해 {0}/{1} 부활 포인트를 사용하시겠습니까?"
+    },
+    {
+      "key": "OPTIONS_VSYNC_OFF",
+      "value": "끔"
+    },
+    {
+      "key": "GAMEOVER_TITLE",
+      "value": "게임 오버"
+    },
+    {
+      "key": "GAMEOVER_TEXT",
+      "value": "모든 캐릭터가 죽었습니다!"
+    },
+    {
+      "key": "GAMEOVER_STARTOVER",
+      "value": "다시 시작"
+    },
+    {
+      "key": "PAUSE_MENU_GIVEUP",
+      "value": "포기"
+    },
+    {
+      "key": "GIVEUP_TITLE",
+      "value": "포기"
+    },
+    {
+      "key": "GIVEUP_TEXT",
+      "value": "포기하시겠습니까? 캐릭터가 죽게 됩니다."
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_TITLE",
+      "value": "부활 포인트"
+    },
+    {
+      "key": "CONSUMABLE_CURRENCY_TYPE_REVIVEPOINTS_DESCRIPTION",
+      "value": "타임 루프 멀미 때문에 미션을 시작할 수 없는 캐릭터를 부활할 때 사용합니다."
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES",
+      "value": "팀 업그레이드"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_ACTIONREQUIRED",
+      "value": "팀 업그레이드 포인트를 배정할 수 있습니다"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_TEAMUPGRADES_NEW",
+      "value": "새로운 업그레이드 사용 가능"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS",
+      "value": "캐릭터"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_ACTIONREQUIRED",
+      "value": "캐릭터를 업그레이드할 수 없습니다"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_CHARACTERS_NEW",
+      "value": "새로운 캐릭터 이용 가능"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS",
+      "value": "미션"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_ACTIONREQUIRED",
+      "value": "미션 선택 필요"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_MISSIONS_NEW",
+      "value": "새로운 미션 이용 가능"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY",
+      "value": "인벤토리"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_ACTIONREQUIRED",
+      "value": "아이템을 추가할 수 있습니다"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_INVENTORY_NEW",
+      "value": "새로운 아이템 이용 가능"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY",
+      "value": "숙련도"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_ACTIONREQUIRED",
+      "value": "//아직 사용하지 않았나요?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_PROFICIENCY_NEW",
+      "value": "//아직 사용하지 않았나요?"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS",
+      "value": "자원"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_ACTIONREQUIRED",
+      "value": "조치 필요"
+    },
+    {
+      "key": "METAGAMEHUBELEMENT_STATS_NEW",
+      "value": "새로운 자원 이용 가능"
+    },
+    {
+      "key": "MISSION_GOAL_TRACK",
+      "value": "찾아서 도착:"
+    },
+    {
+      "key": "TRACK_TILE_DEFAULT",
+      "value": "유물"
+    },
+    {
+      "key": "MISSION_WEATHER",
+      "value": "날씨:"
+    },
+    {
+      "key": "SKILL_TRACKING",
+      "value": "추적 장치 사용"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_NAME",
+      "value": "추적 장치 사용 중"
+    },
+    {
+      "key": "TEMPEFFECT_TRACKING_DESCRIPTION",
+      "value": "카메라를 조정하고 핑을 사용하여 목표를 찾으세요"
+    },
+    {
+      "key": "HOVER_BTN_SPEED_BUTTON",
+      "value": "플레이어가 움직이는 속도를 토글합니다. <br>산에서 드는 시간이나 에너지에 영향을 주지 않습니다."
+    },
+    {
+      "key": "CONDITION_IS_UNDER",
+      "value": "종료"
+    },
+    {
+      "key": "CONDITION_IS_OVER",
+      "value": "진행 중"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_TITLE",
+      "value": "팀 업그레이드"
+    },
+    {
+      "key": "UI_TEAMUPGRADES_DESCRIPTION",
+      "value": "모든 산악인에 영향을 주는 업그레이드입니다"
+    },
+    {
+      "key": "HOURS_SHORT",
+      "value": "시간"
+    },
+    {
+      "key": "SKILLDURATION_UNTIL_END_OF_MISSION",
+      "value": "미션이 끝날 때까지 활성화"
+    },
+    {
+      "key": "SKILLDURATION_TEMPORARY",
+      "value": "시간 한정 영향 - {0}시간 동안 활성화"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_UNDER",
+      "value": "{0}이(가) {1} 미만일 때만 활성화됩니다"
+    },
+    {
+      "key": "TEMPEFFECT_CONDITION_BASESTAT_IS_OVER",
+      "value": "{0}이(가) {1} 초과일 때만 활성화됩니다"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_TITLE",
+      "value": "추적 장치"
+    },
+    {
+      "key": "TUTORIAL_TRACKING_DESCRIPTION",
+      "value": "일부 미션에서는 다음 목표를 찾기 위해 추적 장치를 사용해야 합니다. 화면 오른쪽 아래에 있는 스킬 바에서 활성화/비활성화할 수 있습니다.<br><br>카메라를 움직여 목표를 찾을 수 있습니다. 목표가 화면 중앙에 가까울수록 신호가 더 강해집니다.<br>잊지 말고 위나 아래도 확인해 더 정확한 위치를 알아내세요."
+    },
+    {
+      "key": "MISSION_DIFFICULTY_EXPLANATION",
+      "value": "<style=\"header\">미션 난이도</style><br><br>별의 개수로 미션의 난이도를 알 수 있습니다.<br>"
+    },
+    {
+      "key": "HINT_9",
+      "value": "카메라가 자체 축을 중심으로 회전하도록 설정해 좁은 공간을 더 잘 파악할 수 있습니다(기본 키: R)."
+    },
+    {
+      "key": "HINT_10",
+      "value": "상태가 위급해지면 경로가 빨간색으로 변합니다. 이 시점부터는 내딛는 발걸음마다 위험에 처할 수 있습니다!"
+    },
+    {
+      "key": "HINT_11",
+      "value": "체력이 0이 되면 캐릭터가 쓰러지고 여정이 끝납니다."
+    },
+    {
+      "key": "HINT_12",
+      "value": "날씨는 아침마다 바뀔 수 있습니다. 날씨 디스플레이를 주시하세요!"
+    },
+    {
+      "key": "HINT_13",
+      "value": "폭풍이 치는 날에는 더 많은 에너지를 소비하며 행동에 걸리는 시간이 늘어납니다."
+    },
+    {
+      "key": "HINT_14",
+      "value": "추운 날씨는 체온에 부정적인 영향을 주며 특히 밤에는 더 심해집니다."
+    },
+    {
+      "key": "HINT_15",
+      "value": "하위 지형인 '돌무더기', '빙하', '눈 더미'에서는 위험한 이벤트가 발동될 수 있습니다."
+    },
+    {
+      "key": "HINT_16",
+      "value": "하위 지형인 '깊게 쌓인 눈'과 '얼음 미로'에서는 능력치를 더 많이 소모합니다."
+    },
+    {
+      "key": "HINT_17",
+      "value": "타일은 바위, 눈, 얼음 이렇게 3가지 지형 중 하나로 구성되어 있습니다. 그리고 각 지형마다 위험한 특성을 가진 하위 지형이 있습니다."
+    },
+    {
+      "key": "HINT_18",
+      "value": "인벤토리에 있는 아이템 위에 마우스 커서를 올리면 효과를 미리 볼 수 있습니다."
+    },
+    {
+      "key": "HINT_19",
+      "value": "이상 현상을 찾을 때 추적 장치를 사용하세요(기본 키 T)."
+    },
+    {
+      "key": "HINT_20",
+      "value": ""
+    },
+    {
+      "key": "SKIP_CUTSCENE",
+      "value": "건너뛰기"
+    },
+    {
+      "key": "SCORE_MAINMISSIONS",
+      "value": "메인 미션"
+    },
+    {
+      "key": "SCORE_SIDEMISSIONS",
+      "value": "보조 미션"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ADVENTURER",
+      "value": "모험가 숙련도"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_SCIENTIST",
+      "value": "과학자 숙련도"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_JOURNALIST",
+      "value": "기자 숙련도"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ITEM",
+      "value": "아이템 숙련도"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_ENVIRONMENT",
+      "value": "주변 환경 숙련도"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_TERRAIN",
+      "value": "지형 숙련도"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_EVENT",
+      "value": "이벤트 숙련도"
+    },
+    {
+      "key": "SCORE_DEATHS",
+      "value": "사망 패널티"
+    },
+    {
+      "key": "RUN_WIN_TITLE",
+      "value": "게임을 완료했습니다!"
+    },
+    {
+      "key": "RUN_WIN_CONTINUE",
+      "value": "메인 메뉴"
+    },
+    {
+      "key": "RUN_WIN_SCORE",
+      "value": "스코어:"
+    },
+    {
+      "key": "STATVALUETYPE_CANUSETRACKING",
+      "value": "이상 현상을 추적하는 데 사용하는 고정 장치로 다음 이동까지 활성화를 유지합니다."
+    },
+    {
+      "key": "TRACKING_WRONG_DIRECTION",
+      "value": "이 방향에서는 신호가 잡히지 않습니다"
+    },
+    {
+      "key": "SCORE_PROFICIENCY_CHARACTER",
+      "value": "캐릭터 숙련도"
+    },
+    {
+      "key": "INPUT_SELECT",
+      "value": "확인/선택"
+    },
+    {
+      "key": "INPUT_CANCELPATH",
+      "value": "경로 취소"
+    },
+    {
+      "key": "INPUT_TOGGLEFREELOOK",
+      "value": "둘러보기"
+    },
+    {
+      "key": "INPUT_ROTATECAM",
+      "value": "카메라 회전"
+    },
+    {
+      "key": "INPUT_FREELOOKCAM",
+      "value": "둘러보기"
+    },
+    {
+      "key": "INPUT_STARTMOVE",
+      "value": "이동"
+    },
+    {
+      "key": "INPUT_STOPMOVE",
+      "value": "멈춤"
+    },
+    {
+      "key": "INPUT_TOGGLEINVENTORY",
+      "value": "인벤토리 열기/닫기"
+    },
+    {
+      "key": "INPUT_TOGGLESKILLSCREEN",
+      "value": "스킬 개요 열기/닫기"
+    },
+    {
+      "key": "INPUT_TOGGLEPAUSEMENU",
+      "value": "일시 정지 메뉴 열기/닫기"
+    },
+    {
+      "key": "INPUT_CANCEL",
+      "value": "취소"
+    },
+    {
+      "key": "INPUT_LEVELUP",
+      "value": "레벨업 확인"
+    },
+    {
+      "key": "INPUT_CHANGETIMELAPSE",
+      "value": "타임랩스 토글"
+    },
+    {
+      "key": "INPUT_TOGGLESLEEPSCREEN",
+      "value": "수면 화면 열기/닫기"
+    },
+    {
+      "key": "INPUT_TOGGLEHUDVISIBLE",
+      "value": "HUD 토글"
+    },
+    {
+      "key": "INPUT_TAKEEVERYTHINGFROMLEFTOVER",
+      "value": "전부 받기"
+    },
+    {
+      "key": "INPUT_SHOWCURRENTMISSION",
+      "value": "현재 미션 표시"
+    },
+    {
+      "key": "INPUT_LEAVEEVERYTHINGFROMLOADOUT",
+      "value": "초기화"
+    },
+    {
+      "key": "INPUT_ZOOM",
+      "value": "확대/축소"
+    },
+    {
+      "key": "MISSIONSKILL",
+      "value": "추적 장치 사용"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL1",
+      "value": "활성 스킬 (슬롯 1)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL2",
+      "value": "활성 스킬 (슬롯 2)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL3",
+      "value": "활성 스킬 (슬롯 3)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL4",
+      "value": "활성 스킬 (슬롯 4)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL5",
+      "value": "활성 스킬 (슬롯 5)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL6",
+      "value": "활성 스킬 (슬롯 6)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL7",
+      "value": "활성 스킬 (슬롯 7)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL8",
+      "value": "활성 스킬 (슬롯 8)"
+    },
+    {
+      "key": "INPUT_ACTIVESKILL9",
+      "value": "활성 스킬 (슬롯 9)"
+    },
+    {
+      "key": "INPUT_MISSIONSKILL",
+      "value": "추적 장치 사용"
+    },
+    {
+      "key": "INPUT_ACTIONMENU",
+      "value": "열린 동작 메뉴"
+    },
+    {
+      "key": "CONTROLSCHEME_KEYPAD",
+      "value": "키보드 및 마우스"
+    },
+    {
+      "key": "CONTROLSCHEME_GAMEPAD",
+      "value": "게임 패드"
+    },
+    {
+      "key": "INPUT_ZOOM_IN",
+      "value": "확대"
+    },
+    {
+      "key": "INPUT_ZOOM_OUT",
+      "value": "축소"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE0",
+      "value": "UI 탐색 모드로(위)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE1",
+      "value": "UI 탐색 모드로(왼쪽)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE2",
+      "value": "UI 탐색 모드로(오른쪽)"
+    },
+    {
+      "key": "INPUT_TOUIINPUTMODE3",
+      "value": "UI 탐색 모드로(아래)"
+    },
+    {
+      "key": "INPUT_NAVIGATE",
+      "value": "탐색"
+    },
+    {
+      "key": "INPUT_UP",
+      "value": "위로 탐색"
+    },
+    {
+      "key": "INPUT_DOWN",
+      "value": "아래로 탐색"
+    },
+    {
+      "key": "INPUT_LEFT",
+      "value": "왼쪽으로 탐색"
+    },
+    {
+      "key": "INPUT_RIGHT",
+      "value": "오른쪽으로 탐색"
+    },
+    {
+      "key": "INPUT_MOVECURSOR",
+      "value": "육각 타일 커서 이동"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL",
+      "value": "스크롤"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_UP",
+      "value": "위로 스크롤"
+    },
+    {
+      "key": "INPUT_SCROLLWHEEL_DOWN",
+      "value": "아래로 스크롤"
+    },
+    {
+      "key": "INPUT_RIGHT_STICK_PRESS",
+      "value": "누르기"
+    },
+    {
+      "key": "INPUT_LEFT_STICK_PRESS",
+      "value": "누르기"
+    },
+    {
+      "key": "INPUT_RIGHTCLICK",
+      "value": "사용 / 장착 / 아이템 이동 / 체크 상자 토글"
+    },
+    {
+      "key": "INPUT_SUBMIT",
+      "value": "확인"
+    },
+    {
+      "key": "INPUT_CLICK",
+      "value": "선택"
+    },
+    {
+      "key": "INPUT_PROMPT_ADDCHECKPOINT",
+      "value": "체크 포인트를 추가하십시오"
+    },
+    {
+      "key": "INPUT_PROMPT_SKIPEVENTTEXTANIMATION",
+      "value": "애니메이션 건너 뛰기"
+    },
+    {
+      "key": "INPUT_PROMPT_CLOSE",
+      "value": "닫다"
+    },
+    {
+      "key": "INPUT_PROMPT_USEITEM",
+      "value": "항목을 사용하십시오"
+    },
+    {
+      "key": "INPUT_PROMPT_TAKEITEM",
+      "value": "항목 가져 가라"
+    },
+    {
+      "key": "INPUT_PROMPT_DROPITEM",
+      "value": "항목 드롭"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPITEM",
+      "value": "스왑 항목"
+    },
+    {
+      "key": "INPUT_PROMPT_EQUIPITEM",
+      "value": "항목을 착용하십시오"
+    },
+    {
+      "key": "INPUT_PROMPT_UNEQUIPITEM",
+      "value": "불확실한 항목"
+    },
+    {
+      "key": "INPUT_PROMPT_SWAPEQUIPMENT",
+      "value": "스왑 장비"
+    },
+    {
+      "key": "INPUT_PROMPT_ENTERHUDMODE",
+      "value": "상태 세부 정보보기"
+    },
+    {
+      "key": "INPUT_PROMPT_EXITHUDMODE",
+      "value": "상태 세부 정보 숨기기"
+    },
+    {
+      "key": "INPUT_PROMPT_NAVIGATEHUDMODE",
+      "value": "상태 세부 정보를 탐색하십시오"
+    },
+    {
+      "key": "INPUT_PROMPT_CREATEPATH",
+      "value": "시작 경로"
+    },
+    {
+      "key": "CONFIRM_UNLOCK",
+      "value": "잠금 해제"
+    },
+    {
+      "key": "CONFIRM_UNLOCK_DESCRIPTION",
+      "value": "{0}을(를) 잠금 해제하시겠습니까?"
+    },
+    {
+      "key": "CONFIRM_UPGRADE",
+      "value": "업그레이드"
+    },
+    {
+      "key": "CONFIRM_UPGRADE_DESCRIPTION",
+      "value": "{0}을(를) 업그레이드하시겠습니까?"
+    },
+    {
+      "key": "CONFIRM_RESET",
+      "value": "초기화"
+    },
+    {
+      "key": "CONFIRM_RESET_DESCRIPTION",
+      "value": "{0}의 업그레이드를 초기화하시겠습니까?"
+    },
+    {
+      "key": "STINGER_1_1",
+      "value": "당신은 기지에 있습니다. 어린 소녀가 곰인형을 안고 앞에 서 있습니다. 그녀는 입을 벌리고 당신을 가리킵니다. 아니, 당신이 아니라 균열 반대편 바위 위에서 붉게 빛나는 아뮬렛을 가리키고 있습니다."
+    },
+    {
+      "key": "STINGER_1_2",
+      "value": "점점 좁아지는 균열을 향해 재빨리 몸을 던집니다. 아뮬렛을 잡는 순간 강제적 힘에 의해 다시 기지로 내던져집니다. <br>멍하니 균열이 닫히는 걸 지켜볼 수밖에 없습니다. 그러면서 시야가 어두워집니다..."
+    },
+    {
+      "key": "STINGER_2_1",
+      "value": "당신은 기지에 있습니다. 어린 소녀가 곰인형을 안고 앞에 서 있습니다. 그녀는 입을 벌리고 당신을 가리킵니다. 아니, 당신이 아니라 균열 반대편 바위 위에서 붉게 빛나는 아뮬렛을 가리키고 있습니다."
+    },
+    {
+      "key": "STINGER_2_2",
+      "value": "점점 좁아지는 균열을 향해 재빨리 몸을 던집니다. 아뮬렛을 잡는 순간 강제적 힘에 의해 다시 기지로 내던져집니다. <br>멍하니 균열이 닫히는 걸 지켜볼 수밖에 없습니다. 그러면서 시야가 어두워집니다..."
+    },
+    {
+      "key": "STINGER_3_1",
+      "value": "당신은 기지에 있습니다. 어린 소녀가 곰인형을 안고 앞에 서 있습니다. 그녀는 입을 벌리고 당신을 가리킵니다. 아니, 당신이 아니라 균열 반대편 바위 위에서 붉게 빛나는 아뮬렛을 가리키고 있습니다."
+    },
+    {
+      "key": "STINGER_3_2",
+      "value": "점점 좁아지는 균열을 향해 재빨리 몸을 던집니다. 손가락이 돌에 닿는 순간 강제적 힘에 의해 다시 기지로 내던져집니다. <br>어지러움을 극복하고 결국은 해냅니다. 어리둥절했지만, 손가락 사이에 아뮬렛이 걸려 있습니다. 그리고 돌의 빛이 꺼집니다."
+    },
+    {
+      "key": "STINGER_3_3",
+      "value": "소녀가 조심스럽게 다가와 돌을 살펴봅니다. 그러다 갑자기 내게서 아뮬렛을 빼앗더니 두꺼운 철문 뒤로 사라집니다. 소녀에게 경고하기 위해 뭔가를 말하려는데 시야가 어두워집니다..."
+    },
+    {
+      "key": "IGNORE_NIGHT",
+      "value": "쉼터에서 자고 있기 때문에 이 효과는 무시됩니다."
+    },
+    {
+      "key": "PRIVACYPOLICY",
+      "value": "개인정보 보호정책"
+    },
+    {
+      "key": "SKILL_DRONE_NAME",
+      "value": "<style=\"supportpack\">커맨드 드론</style>"
+    },
+    {
+      "key": "SKILL_DRONE_DESCRIPTION",
+      "value": "드론을 보내 근처의 동굴을 찾을 수 있습니다. 동굴이 없으면 빨간색으로 깜빡입니다."
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_TITLE",
+      "value": "<style=\"supportpack\">지원 팩 활성화</style>"
+    },
+    {
+      "key": "SUPPORTERPACK_SPLASHSCREEN_DESCRIPTION",
+      "value": "지원 팩이 활성화됐습니다!<br>Insurmountable 개발에 도움을 주셔서 감사합니다. <br>새 게임을 시작하거나 기존 게임을 플레이해 보상을 받으세요!"
+    },
+    {
+      "key": "SUPPORTERPACK_NOTIFICATION_DRONE_NOPOIFOUND",
+      "value": "동굴이 없습니다"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED",
+      "value": "이벤트 텍스트 속도"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_SLOW",
+      "value": "느리게"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_NORMAL",
+      "value": "보통"
+    },
+    {
+      "key": "OPTIONS_EVENTTEXTSPEED_FAST",
+      "value": "빠르게"
+    },
+    {
+      "key": "UNIT_METERS",
+      "value": "미터"
+    },
+    {
+      "key": "UNIT_MINUTES",
+      "value": "분"
+    },
+    {
+      "key": "UNIT_HOURS",
+      "value": "시간"
+    },
+    {
+      "key": "UNIT_DAYS",
+      "value": "일"
+    },
+    {
+      "key": "JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "RUSSIAN",
+      "value": "Русский"
+    },
+    {
+      "key": "CHINESESIMPLIFIED",
+      "value": "简体中文"
+    },
+    {
+      "key": "CHINESETRADITIONAL",
+      "value": "繁體中文"
+    },
+    {
+      "key": "DISCORD_JOINUS",
+      "value": "함께해요!"
+    },
+    {
+      "key": "LOGGING_IN_GENERIC",
+      "value": "로그인 중..."
+    },
+    {
+      "key": "LOGGING_IN_EPIC",
+      "value": "인증을 위해 로그인해주세요"
+    }
+  ]
+}
